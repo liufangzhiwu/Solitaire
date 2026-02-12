@@ -1,0 +1,369 @@
+{
+    "levelId": 195,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "非洲的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喀麦隆",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏丹",
+                    "icon": false
+                },
+                {
+                    "wordId": "肯雅",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼日利亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃塞俄比亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩洛哥",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞内加尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢旺达",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "形容词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "意见",
+                    "icon": false
+                },
+                {
+                    "wordId": "大小",
+                    "icon": false
+                },
+                {
+                    "wordId": "颜色",
+                    "icon": false
+                },
+                {
+                    "wordId": "年龄",
+                    "icon": false
+                },
+                {
+                    "wordId": "形状",
+                    "icon": false
+                },
+                {
+                    "wordId": "起源",
+                    "icon": false
+                },
+                {
+                    "wordId": "材料",
+                    "icon": false
+                },
+                {
+                    "wordId": "目的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滴水嘴兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "弥诺陶洛斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "哥布林",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": false
+                },
+                {
+                    "wordId": "半人马",
+                    "icon": false
+                },
+                {
+                    "wordId": "九头蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "宁芙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "成瘾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吸烟",
+                    "icon": true
+                },
+                {
+                    "wordId": "购物",
+                    "icon": true
+                },
+                {
+                    "wordId": "咖啡因",
+                    "icon": true
+                },
+                {
+                    "wordId": "赌博",
+                    "icon": true
+                },
+                {
+                    "wordId": "酒精",
+                    "icon": true
+                },
+                {
+                    "wordId": "网络",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "广告",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "传单",
+                    "icon": false
+                },
+                {
+                    "wordId": "横幅",
+                    "icon": false
+                },
+                {
+                    "wordId": "小册子",
+                    "icon": false
+                },
+                {
+                    "wordId": "海报",
+                    "icon": false
+                },
+                {
+                    "wordId": "手册",
+                    "icon": false
+                },
+                {
+                    "wordId": "手发传单",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "密码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯撒",
+                    "icon": false
+                },
+                {
+                    "wordId": "加密",
+                    "icon": false
+                },
+                {
+                    "wordId": "恩尼格玛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "容易的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "建议",
+                    "icon": false
+                },
+                {
+                    "wordId": "简单",
+                    "icon": false
+                },
+                {
+                    "wordId": "简单的",
+                    "icon": false
+                },
+                {
+                    "wordId": "琐碎的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "表情符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笑脸",
+                    "icon": true
+                },
+                {
+                    "wordId": "皱眉脸",
+                    "icon": true
+                },
+                {
+                    "wordId": "眨眼",
+                    "icon": true
+                },
+                {
+                    "wordId": "脸红",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "工作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咖啡师",
+                    "icon": false
+                },
+                {
+                    "wordId": "花商",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙医",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "母音字母",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "O",
+                    "icon": true
+                },
+                {
+                    "wordId": "A",
+                    "icon": true
+                },
+                {
+                    "wordId": "E",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "恩尼格玛",
+        "牙医",
+        "形状",
+        "非洲的",
+        "购物",
+        "海报",
+        "目的",
+        "网络",
+        "咖啡师",
+        "笑脸",
+        "眨眼",
+        "吸烟",
+        "年龄",
+        "卢旺达",
+        "材料",
+        "滴水嘴兽",
+        "E",
+        "传单",
+        "表情符号",
+        "肯雅",
+        "咖啡因",
+        "喀麦隆",
+        "横幅",
+        "摩洛哥",
+        "九头蛇",
+        "北海巨妖",
+        "琐碎的",
+        "埃塞俄比亚",
+        "A",
+        "赌博",
+        "半人马",
+        "凯撒",
+        "手发传单",
+        "简单的",
+        "容易的",
+        "脸红",
+        "成瘾",
+        "起源",
+        "意见",
+        "苏丹",
+        "简单",
+        "工作"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "宁芙",
+                "花商",
+                "小册子",
+                "密码"
+            ]
+        },
+        {
+            "cards": [
+                "广告",
+                "塞内加尔",
+                "弥诺陶洛斯",
+                "母音字母",
+                "O"
+            ]
+        },
+        {
+            "cards": [
+                "摩斯",
+                "哥布林",
+                "酒精",
+                "皱眉脸",
+                "颜色",
+                "形容词"
+            ]
+        },
+        {
+            "cards": [
+                "巨怪",
+                "手册",
+                "神话的",
+                "尼日利亚",
+                "加密",
+                "建议",
+                "大小"
+            ]
+        }
+    ]
+}

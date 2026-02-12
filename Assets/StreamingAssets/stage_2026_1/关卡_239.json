@@ -1,0 +1,217 @@
+{
+    "levelId": 239,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "碎片",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "片",
+                    "icon": false
+                },
+                {
+                    "wordId": "残渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "小块",
+                    "icon": false
+                },
+                {
+                    "wordId": "片段",
+                    "icon": false
+                },
+                {
+                    "wordId": "细条",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "迅速的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "飞快",
+                    "icon": false
+                },
+                {
+                    "wordId": "快速",
+                    "icon": false
+                },
+                {
+                    "wordId": "涡轮增压",
+                    "icon": false
+                },
+                {
+                    "wordId": "特快",
+                    "icon": false
+                },
+                {
+                    "wordId": "匆忙",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻快",
+                    "icon": false
+                },
+                {
+                    "wordId": "敏捷",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵巧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "背心",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "救生衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "羽绒背心",
+                    "icon": true
+                },
+                {
+                    "wordId": "工装背心",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "法术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魅惑",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫术",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄运",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丝带",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奖章绶带",
+                    "icon": true
+                },
+                {
+                    "wordId": "礼物盒",
+                    "icon": true
+                },
+                {
+                    "wordId": "发带",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "星际飞船",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "外星人",
+                    "icon": false
+                },
+                {
+                    "wordId": "不明飞行物",
+                    "icon": false
+                },
+                {
+                    "wordId": "外星生命",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "特快",
+        "残渣",
+        "轻快",
+        "羽绒背心",
+        "碎片",
+        "奖章绶带",
+        "厄运",
+        "迅速的",
+        "发带",
+        "片",
+        "法术",
+        "工装背心",
+        "魅惑",
+        "涡轮增压",
+        "外星生命",
+        "巫术",
+        "匆忙",
+        "细条",
+        "不明飞行物",
+        "小块",
+        "碎屑",
+        "飞快",
+        "片段",
+        "碎渣"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "丝带",
+                "外星人",
+                "灵巧"
+            ]
+        },
+        {
+            "cards": [
+                "星际飞船",
+                "救生衣",
+                "马甲",
+                "诅咒"
+            ]
+        },
+        {
+            "cards": [
+                "礼物盒",
+                "敏捷",
+                "裂片",
+                "快速",
+                "背心"
+            ]
+        }
+    ]
+}

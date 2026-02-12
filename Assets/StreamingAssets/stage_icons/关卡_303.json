@@ -1,0 +1,369 @@
+{
+    "levelId": 303,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "蜡烛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜡",
+                    "icon": false
+                },
+                {
+                    "wordId": "烛芯",
+                    "icon": false
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                },
+                {
+                    "wordId": "香味",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴蜡",
+                    "icon": false
+                },
+                {
+                    "wordId": "柱状蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "细蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶蜡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海盗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船长",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝藏",
+                    "icon": false
+                },
+                {
+                    "wordId": "船",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹦鹉",
+                    "icon": false
+                },
+                {
+                    "wordId": "海盗船",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙大帆船",
+                    "icon": false
+                },
+                {
+                    "wordId": "掠夺物",
+                    "icon": false
+                },
+                {
+                    "wordId": "大炮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谷物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "大麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "燕麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "小米",
+                    "icon": false
+                },
+                {
+                    "wordId": "大米",
+                    "icon": false
+                },
+                {
+                    "wordId": "藜麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "高粱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地图",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地图集",
+                    "icon": false
+                },
+                {
+                    "wordId": "全球定位系统",
+                    "icon": false
+                },
+                {
+                    "wordId": "图例",
+                    "icon": false
+                },
+                {
+                    "wordId": "地球仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "比例尺",
+                    "icon": false
+                },
+                {
+                    "wordId": "网格",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地震",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "颤动",
+                    "icon": false
+                },
+                {
+                    "wordId": "里氏震级",
+                    "icon": false
+                },
+                {
+                    "wordId": "地震的",
+                    "icon": false
+                },
+                {
+                    "wordId": "板块",
+                    "icon": false
+                },
+                {
+                    "wordId": "震动",
+                    "icon": false
+                },
+                {
+                    "wordId": "海啸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拱形结构",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圆顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱心石",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶壁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "度量单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米",
+                    "icon": false
+                },
+                {
+                    "wordId": "升",
+                    "icon": false
+                },
+                {
+                    "wordId": "克",
+                    "icon": false
+                },
+                {
+                    "wordId": "英寸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国家旗帜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法国国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "中国国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "印度国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴西国旗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "感官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "视觉",
+                    "icon": true
+                },
+                {
+                    "wordId": "嗅觉",
+                    "icon": true
+                },
+                {
+                    "wordId": "触觉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "光束",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镭射",
+                    "icon": false
+                },
+                {
+                    "wordId": "X射线",
+                    "icon": false
+                },
+                {
+                    "wordId": "光子",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "地球仪",
+        "大米",
+        "拱顶",
+        "米",
+        "印度国旗",
+        "地图",
+        "蜡",
+        "颤动",
+        "震动",
+        "燕麦",
+        "克",
+        "大麦",
+        "视觉",
+        "西班牙大帆船",
+        "宝藏",
+        "地图集",
+        "大炮",
+        "海啸",
+        "蜡烛",
+        "柱状蜡烛",
+        "高粱",
+        "度量单位",
+        "地震的",
+        "香味",
+        "里氏震级",
+        "地震",
+        "海盗船",
+        "图例",
+        "圆顶",
+        "光子",
+        "嗅觉",
+        "海盗",
+        "火焰",
+        "烛芯",
+        "比例尺",
+        "小麦",
+        "网格",
+        "法国国旗",
+        "细蜡烛",
+        "茶蜡",
+        "小米",
+        "黑麦"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "掠夺物",
+                "升",
+                "巴西国旗",
+                "谷物"
+            ]
+        },
+        {
+            "cards": [
+                "板块",
+                "中国国旗",
+                "国家旗帜",
+                "镭射",
+                "船长"
+            ]
+        },
+        {
+            "cards": [
+                "X射线",
+                "拱形结构",
+                "船",
+                "感官",
+                "扶壁",
+                "英寸"
+            ]
+        },
+        {
+            "cards": [
+                "滴蜡",
+                "鹦鹉",
+                "藜麦",
+                "光束",
+                "拱心石",
+                "全球定位系统",
+                "触觉"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 277,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "食卵动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狐狸",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鸦",
+                    "icon": true
+                },
+                {
+                    "wordId": "海鸥",
+                    "icon": true
+                },
+                {
+                    "wordId": "黄鼠狼",
+                    "icon": true
+                },
+                {
+                    "wordId": "浣熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "老鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "刺猬",
+                    "icon": true
+                },
+                {
+                    "wordId": "獾",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "奶油状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乳酪火锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "浓汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "慕斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "优酪乳",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式霜淇淋",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋奶冻",
+                    "icon": false
+                },
+                {
+                    "wordId": "酱汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "蘸酱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "错误",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "差错",
+                    "icon": false
+                },
+                {
+                    "wordId": "疏忽",
+                    "icon": false
+                },
+                {
+                    "wordId": "过错",
+                    "icon": false
+                },
+                {
+                    "wordId": "大错",
+                    "icon": false
+                },
+                {
+                    "wordId": "失策",
+                    "icon": false
+                },
+                {
+                    "wordId": "失态",
+                    "icon": false
+                },
+                {
+                    "wordId": "搞笑失误",
+                    "icon": false
+                },
+                {
+                    "wordId": "失误",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游泳用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泳衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "泳帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "泳镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "人字拖",
+                    "icon": true
+                },
+                {
+                    "wordId": "脚蹼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "移动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行走",
+                    "icon": false
+                },
+                {
+                    "wordId": "经过",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂流",
+                    "icon": false
+                },
+                {
+                    "wordId": "攀爬",
+                    "icon": false
+                },
+                {
+                    "wordId": "爬行",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "强壮的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "坚固",
+                    "icon": false
+                },
+                {
+                    "wordId": "强大",
+                    "icon": false
+                },
+                {
+                    "wordId": "健壮",
+                    "icon": false
+                },
+                {
+                    "wordId": "沉重",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "凤凰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "重生",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰烬",
+                    "icon": false
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                },
+                {
+                    "wordId": "生物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "摩洛哥",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马格里布",
+                    "icon": false
+                },
+                {
+                    "wordId": "非洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "古斯米",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔吉锅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骑士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚瑟",
+                    "icon": false
+                },
+                {
+                    "wordId": "兰斯洛特",
+                    "icon": false
+                },
+                {
+                    "wordId": "特里斯坦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "零",
+                    "icon": false
+                },
+                {
+                    "wordId": "一",
+                    "icon": false
+                },
+                {
+                    "wordId": "二",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "奶油状",
+        "健壮",
+        "生物",
+        "行走",
+        "一",
+        "爬行",
+        "食卵动物",
+        "特里斯坦",
+        "数字",
+        "经过",
+        "火焰",
+        "塔吉锅",
+        "漂流",
+        "慕斯",
+        "兰斯洛特",
+        "灰烬",
+        "坚固",
+        "毛巾",
+        "狐狸",
+        "刺猬",
+        "老鼠",
+        "泳镜",
+        "错误",
+        "沉重",
+        "蘸酱",
+        "移动",
+        "重生",
+        "乳酪火锅",
+        "黄鼠狼",
+        "疏忽",
+        "失误",
+        "浣熊",
+        "零",
+        "蛋奶冻",
+        "乌鸦",
+        "亚瑟",
+        "海鸥",
+        "泳衣",
+        "滑行",
+        "二",
+        "强大",
+        "优酪乳"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "非洲",
+                "浓汤",
+                "失策",
+                "獾"
+            ]
+        },
+        {
+            "cards": [
+                "酱汁",
+                "凤凰",
+                "搞笑失误",
+                "过错",
+                "攀爬"
+            ]
+        },
+        {
+            "cards": [
+                "人字拖",
+                "泳帽",
+                "摩洛哥",
+                "骑士",
+                "大错",
+                "差错"
+            ]
+        },
+        {
+            "cards": [
+                "失态",
+                "游泳用品",
+                "强壮的",
+                "意式霜淇淋",
+                "古斯米",
+                "脚蹼",
+                "马格里布"
+            ]
+        }
+    ]
+}

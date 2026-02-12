@@ -1,0 +1,369 @@
+{
+    "levelId": 109,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "恐惧症",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜘蛛",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "高度",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "血液",
+                    "icon": false
+                },
+                {
+                    "wordId": "水",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞翔",
+                    "icon": false
+                },
+                {
+                    "wordId": "细菌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诗歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "十四行诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "翻案诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "挽歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "俳句",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏头诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "打油诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "短歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "史诗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法老",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木乃伊",
+                    "icon": false
+                },
+                {
+                    "wordId": "金字塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃及",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼罗河",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝藏",
+                    "icon": false
+                },
+                {
+                    "wordId": "门卡乌拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼美斯头巾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "棉制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "T恤",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "袜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "棉签",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛仔裤",
+                    "icon": true
+                },
+                {
+                    "wordId": "棉绳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "庭院",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "藤架",
+                    "icon": true
+                },
+                {
+                    "wordId": "秋千",
+                    "icon": true
+                },
+                {
+                    "wordId": "躺椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "栅栏",
+                    "icon": true
+                },
+                {
+                    "wordId": "阳伞",
+                    "icon": true
+                },
+                {
+                    "wordId": "草坪",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "飞行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "翱翔",
+                    "icon": false
+                },
+                {
+                    "wordId": "盘旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑翔",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂浮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "煎蛋卷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸡蛋",
+                    "icon": false
+                },
+                {
+                    "wordId": "油",
+                    "icon": false
+                },
+                {
+                    "wordId": "盐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "窗帘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布帘",
+                    "icon": false
+                },
+                {
+                    "wordId": "百叶帘",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷帘",
+                    "icon": false
+                },
+                {
+                    "wordId": "门帘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "泡沫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "气泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮沫",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽泡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奖品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奖项",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖牌",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "胡夫",
+        "栅栏",
+        "漂浮",
+        "牛仔裤",
+        "尼美斯头巾",
+        "法老",
+        "奖品",
+        "袜子",
+        "草坪",
+        "毛巾",
+        "短歌",
+        "门帘",
+        "奖牌",
+        "翻案诗",
+        "躺椅",
+        "金字塔",
+        "藤架",
+        "T恤",
+        "翱翔",
+        "蛇",
+        "棉签",
+        "滑翔",
+        "奖项",
+        "飞行",
+        "高度",
+        "打油诗",
+        "血液",
+        "布帘",
+        "藏头诗",
+        "浮沫",
+        "十四行诗",
+        "恐惧症",
+        "鸡蛋",
+        "诗歌",
+        "汽泡",
+        "牛奶",
+        "蜘蛛",
+        "气泡",
+        "俳句",
+        "百叶帘",
+        "棉绳",
+        "埃及"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "奖杯",
+                "史诗",
+                "庭院",
+                "卷帘"
+            ]
+        },
+        {
+            "cards": [
+                "飞翔",
+                "木乃伊",
+                "棉制品",
+                "尼罗河",
+                "挽歌"
+            ]
+        },
+        {
+            "cards": [
+                "门卡乌拉",
+                "宝藏",
+                "细菌",
+                "窗帘",
+                "油",
+                "黑暗"
+            ]
+        },
+        {
+            "cards": [
+                "煎蛋卷",
+                "秋千",
+                "盐",
+                "盘旋",
+                "水",
+                "阳伞",
+                "泡沫"
+            ]
+        }
+    ]
+}

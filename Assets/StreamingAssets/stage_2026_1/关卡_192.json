@@ -1,0 +1,217 @@
+{
+    "levelId": 192,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "山脉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠穆朗玛峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "安第斯山脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿尔卑斯山脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄尔布鲁士山",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥林匹斯山",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚拉腊山",
+                    "icon": false
+                },
+                {
+                    "wordId": "富士山",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔戈里峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宝石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "祖母绿",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "托帕石",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白石",
+                    "icon": false
+                },
+                {
+                    "wordId": "石榴石",
+                    "icon": false
+                },
+                {
+                    "wordId": "缟玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫水晶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金",
+                    "icon": false
+                },
+                {
+                    "wordId": "银",
+                    "icon": false
+                },
+                {
+                    "wordId": "青铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "锡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国际象棋",
+                    "icon": true
+                },
+                {
+                    "wordId": "扑克",
+                    "icon": true
+                },
+                {
+                    "wordId": "围棋",
+                    "icon": true
+                },
+                {
+                    "wordId": "优诺牌",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "神话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宙斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快乐",
+                    "icon": true
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": true
+                },
+                {
+                    "wordId": "恐惧",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "缟玛瑙",
+        "围棋",
+        "石榴石",
+        "紫水晶",
+        "恐惧",
+        "锡",
+        "金",
+        "蛋白石",
+        "快乐",
+        "青铜",
+        "亚拉腊山",
+        "蓝宝石",
+        "宙斯",
+        "山脉",
+        "优诺牌",
+        "奥林匹斯山",
+        "厄尔布鲁士山",
+        "宝石",
+        "奥丁",
+        "祖母绿",
+        "国际象棋",
+        "安第斯山脉",
+        "托帕石",
+        "游戏"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "珠穆朗玛峰",
+                "愤怒",
+                "乔戈里峰"
+            ]
+        },
+        {
+            "cards": [
+                "红宝石",
+                "金属",
+                "情绪",
+                "银"
+            ]
+        },
+        {
+            "cards": [
+                "拉",
+                "富士山",
+                "阿尔卑斯山脉",
+                "扑克",
+                "神话"
+            ]
+        }
+    ]
+}

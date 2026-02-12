@@ -1,0 +1,553 @@
+{
+    "levelId": 290,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "传奇人物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚瑟王",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝奥武夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "兰斯洛特",
+                    "icon": false
+                },
+                {
+                    "wordId": "齐格鲁德",
+                    "icon": false
+                },
+                {
+                    "wordId": "帕西瓦尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗慕路斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿喀琉斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥德修斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奇观",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尼亚加拉大瀑布",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮身人面像",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉萨金字塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩艾石像",
+                    "icon": false
+                },
+                {
+                    "wordId": "佩特拉古城",
+                    "icon": false
+                },
+                {
+                    "wordId": "金字塔群",
+                    "icon": false
+                },
+                {
+                    "wordId": "万神殿",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊瓜苏瀑布",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "圣物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "裹尸布",
+                    "icon": false
+                },
+                {
+                    "wordId": "矛",
+                    "icon": false
+                },
+                {
+                    "wordId": "约柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨头",
+                    "icon": false
+                },
+                {
+                    "wordId": "头骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "神像",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣餐杯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水晶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "紫水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "祖母绿",
+                    "icon": false
+                },
+                {
+                    "wordId": "托帕石",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿柱石",
+                    "icon": false
+                },
+                {
+                    "wordId": "石榴石",
+                    "icon": false
+                },
+                {
+                    "wordId": "缟玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛瑙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "船只",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轮船",
+                    "icon": false
+                },
+                {
+                    "wordId": "护卫舰",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙大帆船",
+                    "icon": false
+                },
+                {
+                    "wordId": "小艇",
+                    "icon": false
+                },
+                {
+                    "wordId": "纵帆船",
+                    "icon": false
+                },
+                {
+                    "wordId": "驳船",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴西",
+                    "icon": false
+                },
+                {
+                    "wordId": "加拿大",
+                    "icon": false
+                },
+                {
+                    "wordId": "挪威",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨西哥",
+                    "icon": false
+                },
+                {
+                    "wordId": "法国",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑞典",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "疾病",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "发烧",
+                    "icon": false
+                },
+                {
+                    "wordId": "感冒",
+                    "icon": false
+                },
+                {
+                    "wordId": "流感",
+                    "icon": false
+                },
+                {
+                    "wordId": "疟疾",
+                    "icon": false
+                },
+                {
+                    "wordId": "霍乱",
+                    "icon": false
+                },
+                {
+                    "wordId": "天花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宠物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "兔子",
+                    "icon": true
+                },
+                {
+                    "wordId": "仓鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹦鹉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "时代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石器时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "青铜时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁器时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "中世纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "现代",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "武器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剑",
+                    "icon": false
+                },
+                {
+                    "wordId": "匕首",
+                    "icon": false
+                },
+                {
+                    "wordId": "钉头锤",
+                    "icon": false
+                },
+                {
+                    "wordId": "戟",
+                    "icon": false
+                },
+                {
+                    "wordId": "弓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星座",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白羊座",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮子座",
+                    "icon": true
+                },
+                {
+                    "wordId": "处女座",
+                    "icon": true
+                },
+                {
+                    "wordId": "天秤座",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "蛋白质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白蛋白",
+                    "icon": false
+                },
+                {
+                    "wordId": "胰岛素",
+                    "icon": false
+                },
+                {
+                    "wordId": "角蛋白",
+                    "icon": false
+                },
+                {
+                    "wordId": "胶原蛋白",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "著名战役",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑铁卢战役",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡洛登战役",
+                    "icon": false
+                },
+                {
+                    "wordId": "凡尔登战役",
+                    "icon": false
+                },
+                {
+                    "wordId": "特洛伊战争",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恐怖生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幽灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "僵尸",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸血鬼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舞蹈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "华尔滋",
+                    "icon": false
+                },
+                {
+                    "wordId": "探戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑巴",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "石器时代",
+        "小艇",
+        "骨头",
+        "贝奥武夫",
+        "白蛋白",
+        "霍乱",
+        "亚瑟王",
+        "特洛伊战争",
+        "狗",
+        "处女座",
+        "船只",
+        "圣杯",
+        "兔子",
+        "探戈",
+        "弓",
+        "墨西哥",
+        "阿喀琉斯",
+        "幽灵",
+        "矛",
+        "西班牙大帆船",
+        "星座",
+        "胶原蛋白",
+        "凡尔登战役",
+        "卡洛登战役",
+        "驳船",
+        "蓝宝石",
+        "现代",
+        "瑞典",
+        "发烧",
+        "狮身人面像",
+        "尼亚加拉大瀑布",
+        "感冒",
+        "祖母绿",
+        "罗慕路斯",
+        "剑",
+        "铁器时代",
+        "僵尸",
+        "奥德修斯",
+        "蛋白质",
+        "狮子座",
+        "钉头锤",
+        "滑铁卢战役",
+        "疾病",
+        "吉萨金字塔",
+        "巴西",
+        "戟",
+        "疟疾",
+        "流感",
+        "玛瑙",
+        "著名战役",
+        "挪威",
+        "胰岛素",
+        "传奇人物",
+        "裹尸布",
+        "金字塔群",
+        "天秤座",
+        "青铜时代",
+        "兰斯洛特",
+        "石榴石",
+        "加拿大",
+        "圣物",
+        "鹦鹉",
+        "仓鼠"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "万神殿",
+                "武器",
+                "伊瓜苏瀑布",
+                "神像",
+                "头骨"
+            ]
+        },
+        {
+            "cards": [
+                "舞蹈",
+                "约柜",
+                "桑巴",
+                "国家",
+                "护卫舰",
+                "宠物"
+            ]
+        },
+        {
+            "cards": [
+                "奇观",
+                "紫水晶",
+                "圣餐杯",
+                "轮船",
+                "绿柱石",
+                "匕首",
+                "时代"
+            ]
+        },
+        {
+            "cards": [
+                "白羊座",
+                "法国",
+                "中世纪",
+                "吸血鬼",
+                "齐格鲁德",
+                "缟玛瑙",
+                "纵帆船",
+                "角蛋白"
+            ]
+        },
+        {
+            "cards": [
+                "佩特拉古城",
+                "帕西瓦尔",
+                "恐怖生物",
+                "猫",
+                "水晶",
+                "华尔滋",
+                "天花",
+                "托帕石",
+                "摩艾石像"
+            ]
+        }
+    ]
+}

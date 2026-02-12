@@ -1,0 +1,521 @@
+{
+    "levelId": 200,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "感受",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "感激",
+                    "icon": false
+                },
+                {
+                    "wordId": "困惑",
+                    "icon": false
+                },
+                {
+                    "wordId": "无聊",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧张",
+                    "icon": false
+                },
+                {
+                    "wordId": "好奇",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦虑",
+                    "icon": false
+                },
+                {
+                    "wordId": "担心",
+                    "icon": false
+                },
+                {
+                    "wordId": "不开心",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "疾病",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麻疹",
+                    "icon": false
+                },
+                {
+                    "wordId": "霍乱",
+                    "icon": false
+                },
+                {
+                    "wordId": "腮腺炎",
+                    "icon": false
+                },
+                {
+                    "wordId": "瘟疫",
+                    "icon": false
+                },
+                {
+                    "wordId": "破伤风",
+                    "icon": false
+                },
+                {
+                    "wordId": "风疹",
+                    "icon": false
+                },
+                {
+                    "wordId": "天花",
+                    "icon": false
+                },
+                {
+                    "wordId": "疟疾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魔像",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮身人面像",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": false
+                },
+                {
+                    "wordId": "喀迈拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "水马",
+                    "icon": false
+                },
+                {
+                    "wordId": "独眼巨人",
+                    "icon": false
+                },
+                {
+                    "wordId": "双足飞龙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火山",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "岩浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山口",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山灰降落",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔岩流",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷口",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄武岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山碎屑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "合金",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黄铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "钛",
+                    "icon": false
+                },
+                {
+                    "wordId": "白镴",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢",
+                    "icon": false
+                },
+                {
+                    "wordId": "因科镍",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙乃尔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海盗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船长",
+                    "icon": false
+                },
+                {
+                    "wordId": "战利品",
+                    "icon": false
+                },
+                {
+                    "wordId": "叛变",
+                    "icon": false
+                },
+                {
+                    "wordId": "海盗船",
+                    "icon": false
+                },
+                {
+                    "wordId": "船员",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙大帆船",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "遗物",
+                    "icon": false
+                },
+                {
+                    "wordId": "古董",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪念品",
+                    "icon": false
+                },
+                {
+                    "wordId": "残余物",
+                    "icon": false
+                },
+                {
+                    "wordId": "博物馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪念物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "航海",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "系缆桩",
+                    "icon": false
+                },
+                {
+                    "wordId": "吊艇架",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "系索耳",
+                    "icon": false
+                },
+                {
+                    "wordId": "方向舵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甲虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣甲虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "象鼻虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "步甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "六月金龟",
+                    "icon": true
+                },
+                {
+                    "wordId": "步行虫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "小工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平板电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "路由器",
+                    "icon": true
+                },
+                {
+                    "wordId": "扫描器",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳机",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "化石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "菊石",
+                    "icon": false
+                },
+                {
+                    "wordId": "印痕",
+                    "icon": false
+                },
+                {
+                    "wordId": "模子",
+                    "icon": false
+                },
+                {
+                    "wordId": "铸型",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "城堡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "庄园",
+                    "icon": false
+                },
+                {
+                    "wordId": "护城河",
+                    "icon": false
+                },
+                {
+                    "wordId": "护墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "堡场",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猫科动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "美洲虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "猞猁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "战术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "侧翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏击",
+                    "icon": false
+                },
+                {
+                    "wordId": "佯攻",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "化石",
+        "玄武岩",
+        "困惑",
+        "狮身人面像",
+        "叛变",
+        "焦虑",
+        "六月金龟",
+        "钛",
+        "疟疾",
+        "甲虫",
+        "美洲虎",
+        "扫描器",
+        "船员",
+        "担心",
+        "不开心",
+        "麻疹",
+        "海盗",
+        "蒙乃尔",
+        "火山灰降落",
+        "魔像",
+        "遗物",
+        "无聊",
+        "城堡",
+        "步甲",
+        "钢",
+        "步行虫",
+        "黑豹",
+        "火山",
+        "庄园",
+        "好奇",
+        "护城河",
+        "方向舵",
+        "战术",
+        "岩浆",
+        "天花",
+        "火山渣",
+        "破伤风",
+        "独眼巨人",
+        "喷口",
+        "侧翼",
+        "耳机",
+        "印痕",
+        "火山碎屑",
+        "火山口",
+        "纪念品",
+        "菊石",
+        "伏击",
+        "堡场",
+        "纪念物",
+        "模子",
+        "紧张",
+        "古董",
+        "合金",
+        "瘟疫",
+        "西班牙大帆船",
+        "佯攻",
+        "霍乱"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "博物馆",
+                "护墙",
+                "航海",
+                "狮鹫",
+                "船长"
+            ]
+        },
+        {
+            "cards": [
+                "小工具",
+                "因科镍",
+                "水马",
+                "喀迈拉",
+                "残余物",
+                "战利品"
+            ]
+        },
+        {
+            "cards": [
+                "吊艇架",
+                "系索耳",
+                "文物",
+                "腮腺炎",
+                "感激",
+                "风疹",
+                "海盗船"
+            ]
+        },
+        {
+            "cards": [
+                "黄铜",
+                "系缆桩",
+                "白镴",
+                "神话生物",
+                "熔岩流",
+                "双足飞龙",
+                "蛇怪",
+                "感受"
+            ]
+        },
+        {
+            "cards": [
+                "铸型",
+                "猞猁",
+                "龙骨",
+                "猫科动物",
+                "疾病",
+                "平板电脑",
+                "圣甲虫",
+                "路由器",
+                "象鼻虫"
+            ]
+        }
+    ]
+}

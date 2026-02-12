@@ -1,0 +1,369 @@
+{
+    "levelId": 68,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "间谍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "特工",
+                    "icon": false
+                },
+                {
+                    "wordId": "线人",
+                    "icon": false
+                },
+                {
+                    "wordId": "卧底",
+                    "icon": false
+                },
+                {
+                    "wordId": "特务",
+                    "icon": false
+                },
+                {
+                    "wordId": "保密",
+                    "icon": false
+                },
+                {
+                    "wordId": "小工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "伪装",
+                    "icon": false
+                },
+                {
+                    "wordId": "间谍技术",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大象",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "象鼻",
+                    "icon": false
+                },
+                {
+                    "wordId": "象牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "象牙制品",
+                    "icon": false
+                },
+                {
+                    "wordId": "大耳朵",
+                    "icon": false
+                },
+                {
+                    "wordId": "哺乳动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "皱纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "庞然大物",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "桌面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "档",
+                    "icon": true
+                },
+                {
+                    "wordId": "档夹",
+                    "icon": true
+                },
+                {
+                    "wordId": "回收站",
+                    "icon": true
+                },
+                {
+                    "wordId": "任务栏",
+                    "icon": true
+                },
+                {
+                    "wordId": "小部件",
+                    "icon": true
+                },
+                {
+                    "wordId": "快捷方式",
+                    "icon": true
+                },
+                {
+                    "wordId": "图示",
+                    "icon": true
+                },
+                {
+                    "wordId": "游标",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "美味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鱼子酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "松露",
+                    "icon": false
+                },
+                {
+                    "wordId": "和牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "法式蜗牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "河豚",
+                    "icon": false
+                },
+                {
+                    "wordId": "霜淇淋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法槌",
+                    "icon": false
+                },
+                {
+                    "wordId": "诉讼",
+                    "icon": false
+                },
+                {
+                    "wordId": "法官席",
+                    "icon": false
+                },
+                {
+                    "wordId": "判决",
+                    "icon": false
+                },
+                {
+                    "wordId": "道德",
+                    "icon": false
+                },
+                {
+                    "wordId": "裁决",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "王国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "君主",
+                    "icon": false
+                },
+                {
+                    "wordId": "统治",
+                    "icon": false
+                },
+                {
+                    "wordId": "王座",
+                    "icon": false
+                },
+                {
+                    "wordId": "国度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地貌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高原",
+                    "icon": false
+                },
+                {
+                    "wordId": "山谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬崖",
+                    "icon": false
+                },
+                {
+                    "wordId": "山丘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "自由",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平等",
+                    "icon": false
+                },
+                {
+                    "wordId": "自由权",
+                    "icon": false
+                },
+                {
+                    "wordId": "权利",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "章鱼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "八爪",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸盘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "洋葱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "层",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼泪",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳞茎",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "回收站",
+        "象牙制品",
+        "山丘",
+        "大耳朵",
+        "鳞茎",
+        "悬崖",
+        "鱼子酱",
+        "小工具",
+        "墨汁",
+        "河豚",
+        "高原",
+        "档",
+        "快捷方式",
+        "君主",
+        "任务栏",
+        "章鱼",
+        "游标",
+        "层",
+        "小部件",
+        "卧底",
+        "特工",
+        "权利",
+        "地貌",
+        "八爪",
+        "松露",
+        "自由",
+        "眼泪",
+        "象鼻",
+        "判决",
+        "法式蜗牛",
+        "统治",
+        "哺乳动物",
+        "图示",
+        "和牛",
+        "洋葱",
+        "皱纹",
+        "霜淇淋",
+        "裁决",
+        "平等",
+        "雕像",
+        "法官",
+        "特务"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "保密",
+                "象牙",
+                "线人",
+                "法官席"
+            ]
+        },
+        {
+            "cards": [
+                "道德",
+                "间谍",
+                "间谍技术",
+                "桌面",
+                "国度"
+            ]
+        },
+        {
+            "cards": [
+                "山谷",
+                "王座",
+                "王国",
+                "法槌",
+                "庞然大物",
+                "大象"
+            ]
+        },
+        {
+            "cards": [
+                "档夹",
+                "自由权",
+                "美味",
+                "伪装",
+                "诉讼",
+                "吸盘",
+                "巨物"
+            ]
+        }
+    ]
+}

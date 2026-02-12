@@ -1,0 +1,553 @@
+{
+    "levelId": 141,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "酶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "淀粉酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "蔗糖酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳糖酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "麦芽糖酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "核酸酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "合成酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "氧化酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "过氧化氢酶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电池",
+                    "icon": false
+                },
+                {
+                    "wordId": "电机",
+                    "icon": false
+                },
+                {
+                    "wordId": "电流",
+                    "icon": false
+                },
+                {
+                    "wordId": "车辆",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "电荷",
+                    "icon": false
+                },
+                {
+                    "wordId": "场",
+                    "icon": false
+                },
+                {
+                    "wordId": "栅栏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "禁忌",
+                    "icon": false
+                },
+                {
+                    "wordId": "法律",
+                    "icon": false
+                },
+                {
+                    "wordId": "伦理",
+                    "icon": false
+                },
+                {
+                    "wordId": "道德",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶习",
+                    "icon": false
+                },
+                {
+                    "wordId": "犯罪",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈拉姆",
+                    "icon": false
+                },
+                {
+                    "wordId": "业",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "帽子类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双角帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "圆顶礼帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "高顶礼帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨西哥宽边帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "平顶草帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "安全帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "软呢帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "菲斯帽",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "波",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "地震波",
+                    "icon": false
+                },
+                {
+                    "wordId": "声波",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "微波",
+                    "icon": false
+                },
+                {
+                    "wordId": "表面波",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "十四行诗诗人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "济慈",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶芝",
+                    "icon": false
+                },
+                {
+                    "wordId": "但丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "彼特拉克",
+                    "icon": false
+                },
+                {
+                    "wordId": "弥尔顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "邓恩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "韩国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "韩流音乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "偶像",
+                    "icon": false
+                },
+                {
+                    "wordId": "韩剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "泡菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "首尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "韩式烤肉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "根",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "簇生根",
+                    "icon": false
+                },
+                {
+                    "wordId": "块茎",
+                    "icon": false
+                },
+                {
+                    "wordId": "根瘤",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸根",
+                    "icon": false
+                },
+                {
+                    "wordId": "球茎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "攻城武器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "加农炮",
+                    "icon": false
+                },
+                {
+                    "wordId": "投石机",
+                    "icon": false
+                },
+                {
+                    "wordId": "牵引投石机",
+                    "icon": false
+                },
+                {
+                    "wordId": "弩炮",
+                    "icon": false
+                },
+                {
+                    "wordId": "射石炮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仙女",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泰坦妮娅",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩根",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法俏佳人",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥伯龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛布",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "键盘乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "管风琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢片琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "键盘合成器",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯皮耐琴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "T恤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Polo衫",
+                    "icon": false
+                },
+                {
+                    "wordId": "V领",
+                    "icon": false
+                },
+                {
+                    "wordId": "短款",
+                    "icon": false
+                },
+                {
+                    "wordId": "宽松款",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "薪水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "付款",
+                    "icon": false
+                },
+                {
+                    "wordId": "工资",
+                    "icon": false
+                },
+                {
+                    "wordId": "薪俸",
+                    "icon": false
+                },
+                {
+                    "wordId": "收入",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "线/纹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钓线",
+                    "icon": true
+                },
+                {
+                    "wordId": "伫列",
+                    "icon": true
+                },
+                {
+                    "wordId": "皱纹",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "人属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "直立人",
+                    "icon": false
+                },
+                {
+                    "wordId": "智人",
+                    "icon": false
+                },
+                {
+                    "wordId": "能人",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "电机",
+        "声波",
+        "蔗糖酶",
+        "键盘合成器",
+        "V领",
+        "圆顶礼帽",
+        "地震波",
+        "短款",
+        "块茎",
+        "济慈",
+        "能人",
+        "皱纹",
+        "酶",
+        "根瘤",
+        "过氧化氢酶",
+        "吉他",
+        "表面波",
+        "钓线",
+        "泰坦妮娅",
+        "投石机",
+        "核酸酶",
+        "电池",
+        "加农炮",
+        "伫列",
+        "车辆",
+        "彼特拉克",
+        "泡菜",
+        "哈拉姆",
+        "吸根",
+        "双角帽",
+        "波",
+        "犯罪",
+        "根",
+        "牵引投石机",
+        "人属",
+        "氧化酶",
+        "微波",
+        "奥伯龙",
+        "电荷",
+        "罪",
+        "薪俸",
+        "弥尔顿",
+        "韩流音乐",
+        "韩剧",
+        "高顶礼帽",
+        "首尔",
+        "菲斯帽",
+        "玛布",
+        "偶像",
+        "仙女",
+        "斯皮耐琴",
+        "安全帽",
+        "帽子类型",
+        "麦芽糖酶",
+        "电流",
+        "魔法俏佳人",
+        "禁忌",
+        "法律",
+        "栅栏",
+        "摩根",
+        "淀粉酶",
+        "宽松款",
+        "合成酶"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "Polo衫",
+                "工资",
+                "软呢帽",
+                "T恤",
+                "弩炮"
+            ]
+        },
+        {
+            "cards": [
+                "线/纹",
+                "攻城武器",
+                "伦理",
+                "钢片琴",
+                "簇生根",
+                "电"
+            ]
+        },
+        {
+            "cards": [
+                "射石炮",
+                "恶习",
+                "付款",
+                "业",
+                "平顶草帽",
+                "薪水",
+                "乳糖酶"
+            ]
+        },
+        {
+            "cards": [
+                "场",
+                "收入",
+                "韩国",
+                "墨西哥宽边帽",
+                "道德",
+                "海洋",
+                "十四行诗诗人",
+                "邓恩"
+            ]
+        },
+        {
+            "cards": [
+                "键盘乐器",
+                "球茎",
+                "海浪",
+                "管风琴",
+                "智人",
+                "直立人",
+                "韩式烤肉",
+                "但丁",
+                "叶芝"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 149,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "债务",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "贷款",
+                    "icon": false
+                },
+                {
+                    "wordId": "欠款",
+                    "icon": false
+                },
+                {
+                    "wordId": "账单",
+                    "icon": false
+                },
+                {
+                    "wordId": "支付",
+                    "icon": false
+                },
+                {
+                    "wordId": "抵押贷款",
+                    "icon": false
+                },
+                {
+                    "wordId": "借贷",
+                    "icon": false
+                },
+                {
+                    "wordId": "到期",
+                    "icon": false
+                },
+                {
+                    "wordId": "负担",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "便当",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米饭",
+                    "icon": true
+                },
+                {
+                    "wordId": "面条",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "寿司",
+                    "icon": true
+                },
+                {
+                    "wordId": "筷子",
+                    "icon": true
+                },
+                {
+                    "wordId": "蔬菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "外卖",
+                    "icon": true
+                },
+                {
+                    "wordId": "芥末",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "蜂蜜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜜蜂",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂巢",
+                    "icon": false
+                },
+                {
+                    "wordId": "花蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "花粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "粘稠的",
+                    "icon": false
+                },
+                {
+                    "wordId": "金色的",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "徒步",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帐篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "指南针",
+                    "icon": true
+                },
+                {
+                    "wordId": "背包",
+                    "icon": true
+                },
+                {
+                    "wordId": "山脉",
+                    "icon": true
+                },
+                {
+                    "wordId": "徒步鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "登山杖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "打印机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纸张",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨水",
+                    "icon": false
+                },
+                {
+                    "wordId": "页面",
+                    "icon": false
+                },
+                {
+                    "wordId": "照片",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭射",
+                    "icon": false
+                },
+                {
+                    "wordId": "3D打印",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日程",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "交通",
+                    "icon": false
+                },
+                {
+                    "wordId": "课程",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间",
+                    "icon": false
+                },
+                {
+                    "wordId": "会议",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁器时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "现代",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴洛克时期",
+                    "icon": false
+                },
+                {
+                    "wordId": "中世纪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "古语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "告别",
+                    "icon": false
+                },
+                {
+                    "wordId": "汝",
+                    "icon": false
+                },
+                {
+                    "wordId": "应当",
+                    "icon": false
+                },
+                {
+                    "wordId": "从何处",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "按钮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "停止按钮",
+                    "icon": true
+                },
+                {
+                    "wordId": "播放按钮",
+                    "icon": true
+                },
+                {
+                    "wordId": "暂停按钮",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "解压玩具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "指尖陀螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "泡泡纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "捏捏乐",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "铁器时代",
+        "泡泡纸",
+        "应当",
+        "债务",
+        "寿司",
+        "到期",
+        "支付",
+        "欠款",
+        "页面",
+        "3D打印",
+        "打印机",
+        "纸张",
+        "解压玩具",
+        "指南针",
+        "米饭",
+        "面条",
+        "徒步鞋",
+        "蜂巢",
+        "会议",
+        "花蜜",
+        "按钮",
+        "墨水",
+        "山脉",
+        "交通",
+        "中世纪",
+        "蜜蜂",
+        "从何处",
+        "课程",
+        "汝",
+        "背包",
+        "时间",
+        "账单",
+        "停止按钮",
+        "外卖",
+        "捏捏乐",
+        "指尖陀螺",
+        "蜂胶",
+        "蜂蜜",
+        "现代",
+        "甜的",
+        "播放按钮",
+        "花粉"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "登山杖",
+                "日程",
+                "便当",
+                "镭射"
+            ]
+        },
+        {
+            "cards": [
+                "古语",
+                "粘稠的",
+                "芥末",
+                "抵押贷款",
+                "鱼"
+            ]
+        },
+        {
+            "cards": [
+                "负担",
+                "时代",
+                "告别",
+                "暂停按钮",
+                "贷款",
+                "蔬菜"
+            ]
+        },
+        {
+            "cards": [
+                "帐篷",
+                "徒步",
+                "金色的",
+                "巴洛克时期",
+                "筷子",
+                "照片",
+                "借贷"
+            ]
+        }
+    ]
+}

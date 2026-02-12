@@ -1,0 +1,369 @@
+{
+    "levelId": 274,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "水龙头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙头",
+                    "icon": false
+                },
+                {
+                    "wordId": "水槽",
+                    "icon": false
+                },
+                {
+                    "wordId": "浴缸",
+                    "icon": false
+                },
+                {
+                    "wordId": "阀门",
+                    "icon": false
+                },
+                {
+                    "wordId": "起泡器",
+                    "icon": false
+                },
+                {
+                    "wordId": "排水管",
+                    "icon": false
+                },
+                {
+                    "wordId": "水管",
+                    "icon": false
+                },
+                {
+                    "wordId": "管道系统",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "反应",
+                    "icon": false
+                },
+                {
+                    "wordId": "元素",
+                    "icon": false
+                },
+                {
+                    "wordId": "分子式",
+                    "icon": false
+                },
+                {
+                    "wordId": "化学键",
+                    "icon": false
+                },
+                {
+                    "wordId": "化合物",
+                    "icon": false
+                },
+                {
+                    "wordId": "溶液",
+                    "icon": false
+                },
+                {
+                    "wordId": "催化剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "溶剂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "婚姻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "配偶",
+                    "icon": false
+                },
+                {
+                    "wordId": "家庭",
+                    "icon": false
+                },
+                {
+                    "wordId": "一夫一妻制",
+                    "icon": false
+                },
+                {
+                    "wordId": "嫁妆",
+                    "icon": false
+                },
+                {
+                    "wordId": "结合",
+                    "icon": false
+                },
+                {
+                    "wordId": "结婚",
+                    "icon": false
+                },
+                {
+                    "wordId": "婚礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "誓言",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "魔法物品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞毯",
+                    "icon": true
+                },
+                {
+                    "wordId": "魔杖",
+                    "icon": true
+                },
+                {
+                    "wordId": "药水",
+                    "icon": true
+                },
+                {
+                    "wordId": "斗篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "魔法戒指",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "小饰品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "古玩",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪念品",
+                    "icon": false
+                },
+                {
+                    "wordId": "小摆件",
+                    "icon": false
+                },
+                {
+                    "wordId": "华而不实之物",
+                    "icon": false
+                },
+                {
+                    "wordId": "花哨小物",
+                    "icon": false
+                },
+                {
+                    "wordId": "信物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "青酱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "罗勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "松子",
+                    "icon": false
+                },
+                {
+                    "wordId": "大蒜",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "航标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "灯塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "浅滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "礁石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "匈牙利",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布达佩斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "古拉什",
+                    "icon": false
+                },
+                {
+                    "wordId": "托卡伊葡萄酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "多瑙河",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "无肢生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛇",
+                    "icon": true
+                },
+                {
+                    "wordId": "蠕虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝌蚪",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "被排斥者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "被遗弃者",
+                    "icon": false
+                },
+                {
+                    "wordId": "局外人",
+                    "icon": false
+                },
+                {
+                    "wordId": "流放者",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "被遗弃者",
+        "药水",
+        "水管",
+        "婚礼",
+        "催化剂",
+        "家庭",
+        "被排斥者",
+        "流放者",
+        "信号灯",
+        "分子式",
+        "信物",
+        "化学",
+        "松子",
+        "纪念品",
+        "斗篷",
+        "水龙头",
+        "管道系统",
+        "化学键",
+        "花哨小物",
+        "水槽",
+        "古拉什",
+        "配偶",
+        "飞毯",
+        "一夫一妻制",
+        "反应",
+        "起泡器",
+        "结婚",
+        "元素",
+        "魔法戒指",
+        "蛇",
+        "浅滩",
+        "大蒜",
+        "布达佩斯",
+        "无肢生物",
+        "托卡伊葡萄酒",
+        "灯塔",
+        "溶液",
+        "化合物",
+        "婚姻",
+        "多瑙河",
+        "礁石",
+        "溶剂"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "阀门",
+                "蠕虫",
+                "排水管",
+                "蝌蚪"
+            ]
+        },
+        {
+            "cards": [
+                "古玩",
+                "罗勒",
+                "魔杖",
+                "匈牙利",
+                "航标"
+            ]
+        },
+        {
+            "cards": [
+                "魔法物品",
+                "小摆件",
+                "橄榄油",
+                "华而不实之物",
+                "龙头",
+                "局外人"
+            ]
+        },
+        {
+            "cards": [
+                "青酱",
+                "嫁妆",
+                "小饰品",
+                "结合",
+                "誓言",
+                "神灯",
+                "浴缸"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 124,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "国家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "国旗",
+                    "icon": false
+                },
+                {
+                    "wordId": "身份",
+                    "icon": false
+                },
+                {
+                    "wordId": "文化",
+                    "icon": false
+                },
+                {
+                    "wordId": "遗产",
+                    "icon": false
+                },
+                {
+                    "wordId": "历史",
+                    "icon": false
+                },
+                {
+                    "wordId": "边界",
+                    "icon": false
+                },
+                {
+                    "wordId": "人民",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "援助",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帮助",
+                    "icon": false
+                },
+                {
+                    "wordId": "支援",
+                    "icon": false
+                },
+                {
+                    "wordId": "支持",
+                    "icon": false
+                },
+                {
+                    "wordId": "救援",
+                    "icon": false
+                },
+                {
+                    "wordId": "助产士",
+                    "icon": false
+                },
+                {
+                    "wordId": "外展服务",
+                    "icon": false
+                },
+                {
+                    "wordId": "受害者",
+                    "icon": false
+                },
+                {
+                    "wordId": "贫困者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大脑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神经元",
+                    "icon": false
+                },
+                {
+                    "wordId": "脑电图",
+                    "icon": false
+                },
+                {
+                    "wordId": "记忆",
+                    "icon": false
+                },
+                {
+                    "wordId": "思维",
+                    "icon": false
+                },
+                {
+                    "wordId": "意识",
+                    "icon": false
+                },
+                {
+                    "wordId": "脑机界面",
+                    "icon": false
+                },
+                {
+                    "wordId": "智商",
+                    "icon": false
+                },
+                {
+                    "wordId": "脑损伤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "指甲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手指",
+                    "icon": true
+                },
+                {
+                    "wordId": "指甲油",
+                    "icon": true
+                },
+                {
+                    "wordId": "脚趾",
+                    "icon": true
+                },
+                {
+                    "wordId": "手腕",
+                    "icon": true
+                },
+                {
+                    "wordId": "美甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "指甲锉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "事务",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "商业",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱情",
+                    "icon": false
+                },
+                {
+                    "wordId": "法律的",
+                    "icon": false
+                },
+                {
+                    "wordId": "经济的",
+                    "icon": false
+                },
+                {
+                    "wordId": "学生",
+                    "icon": false
+                },
+                {
+                    "wordId": "军事",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猫科动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "老虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮子",
+                    "icon": true
+                },
+                {
+                    "wordId": "猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "豹",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "发芽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花蕾",
+                    "icon": true
+                },
+                {
+                    "wordId": "植物",
+                    "icon": true
+                },
+                {
+                    "wordId": "花",
+                    "icon": true
+                },
+                {
+                    "wordId": "树",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "杯子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马克杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖啡",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "可可",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "框架",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "图画",
+                    "icon": true
+                },
+                {
+                    "wordId": "电影",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "野牛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛科动物",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "框架",
+        "救援",
+        "美甲",
+        "学生",
+        "记忆",
+        "受害者",
+        "支持",
+        "豹",
+        "老虎",
+        "指甲",
+        "智商",
+        "脑机界面",
+        "脚趾",
+        "电影",
+        "支援",
+        "大脑",
+        "可可",
+        "花",
+        "花蕾",
+        "指甲油",
+        "文化",
+        "发芽",
+        "狮子",
+        "经济的",
+        "思维",
+        "咖啡",
+        "军事",
+        "镜子",
+        "援助",
+        "国歌",
+        "助产士",
+        "国旗",
+        "指甲锉",
+        "树",
+        "图画",
+        "遗产",
+        "历史",
+        "植物",
+        "法律的",
+        "水牛",
+        "帮助",
+        "商业"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "杯子",
+                "手腕",
+                "茶",
+                "野牛"
+            ]
+        },
+        {
+            "cards": [
+                "爱情",
+                "事务",
+                "边界",
+                "人民",
+                "牛"
+            ]
+        },
+        {
+            "cards": [
+                "国家",
+                "猫科动物",
+                "手指",
+                "脑电图",
+                "牛科动物",
+                "猫"
+            ]
+        },
+        {
+            "cards": [
+                "马克杯",
+                "身份",
+                "外展服务",
+                "意识",
+                "脑损伤",
+                "贫困者",
+                "神经元"
+            ]
+        }
+    ]
+}

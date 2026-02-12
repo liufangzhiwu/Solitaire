@@ -1,0 +1,553 @@
+{
+    "levelId": 31,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 230,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "游泳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "湖泊",
+                    "icon": false
+                },
+                {
+                    "wordId": "池塘",
+                    "icon": false
+                },
+                {
+                    "wordId": "河流",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "大海",
+                    "icon": false
+                },
+                {
+                    "wordId": "泳池",
+                    "icon": false
+                },
+                {
+                    "wordId": "泳镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "泳帽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "氨基酸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丙氨酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "甘氨酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "亮氨酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "赖氨酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛磺酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "酪氨酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "半胱氨酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "缬氨酸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乐队",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "制作人",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓手",
+                    "icon": false
+                },
+                {
+                    "wordId": "主唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝斯手",
+                    "icon": false
+                },
+                {
+                    "wordId": "作曲人",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢琴家",
+                    "icon": false
+                },
+                {
+                    "wordId": "唱片",
+                    "icon": false
+                },
+                {
+                    "wordId": "专辑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "刀剑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "唐刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "细剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "弯刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "法尔卡塔剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "军刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "克莱莫剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "短弯刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "弯形剑",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宗教场所",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "清真寺",
+                    "icon": false
+                },
+                {
+                    "wordId": "寺庙",
+                    "icon": false
+                },
+                {
+                    "wordId": "教堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "修道院",
+                    "icon": false
+                },
+                {
+                    "wordId": "小教堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "神社",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "偶像剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流星花园",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶作剧之吻",
+                    "icon": false
+                },
+                {
+                    "wordId": "王子变青蛙",
+                    "icon": false
+                },
+                {
+                    "wordId": "痞子英雄",
+                    "icon": false
+                },
+                {
+                    "wordId": "薰衣草",
+                    "icon": false
+                },
+                {
+                    "wordId": "不良笑花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "果香",
+                    "icon": false
+                },
+                {
+                    "wordId": "麝香",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄荷香",
+                    "icon": false
+                },
+                {
+                    "wordId": "柑橘香",
+                    "icon": false
+                },
+                {
+                    "wordId": "木香",
+                    "icon": false
+                },
+                {
+                    "wordId": "树脂香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "无骨动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "藤壶",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜘蛛",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱿鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "海星",
+                    "icon": true
+                },
+                {
+                    "wordId": "蠕虫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "咖啡馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咖啡师",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜单",
+                    "icon": false
+                },
+                {
+                    "wordId": "糕点",
+                    "icon": false
+                },
+                {
+                    "wordId": "餐食",
+                    "icon": false
+                },
+                {
+                    "wordId": "饮品",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "传说",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寓言",
+                    "icon": false
+                },
+                {
+                    "wordId": "传奇",
+                    "icon": false
+                },
+                {
+                    "wordId": "故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "史诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "神话",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "暂停",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "停止",
+                    "icon": false
+                },
+                {
+                    "wordId": "休息",
+                    "icon": false
+                },
+                {
+                    "wordId": "中断",
+                    "icon": false
+                },
+                {
+                    "wordId": "中止",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鼠标操作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拖动",
+                    "icon": false
+                },
+                {
+                    "wordId": "放置",
+                    "icon": false
+                },
+                {
+                    "wordId": "滚动",
+                    "icon": false
+                },
+                {
+                    "wordId": "点击",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "木乃伊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "埃及",
+                    "icon": false
+                },
+                {
+                    "wordId": "金字塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "陵墓",
+                    "icon": false
+                },
+                {
+                    "wordId": "法老",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "著名建筑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人民大会堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "滕王阁",
+                    "icon": false
+                },
+                {
+                    "wordId": "广州塔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "博士学位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "学位",
+                    "icon": false
+                },
+                {
+                    "wordId": "论文",
+                    "icon": false
+                },
+                {
+                    "wordId": "研究",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "修道院",
+        "泳帽",
+        "神话",
+        "赖氨酸",
+        "菜单",
+        "蜘蛛",
+        "果香",
+        "餐食",
+        "糕点",
+        "弯形剑",
+        "放置",
+        "泳镜",
+        "传说",
+        "恶作剧之吻",
+        "河流",
+        "中止",
+        "鼓手",
+        "法尔卡塔剑",
+        "中断",
+        "麝香",
+        "咖啡馆",
+        "埃及",
+        "小教堂",
+        "暂停",
+        "池塘",
+        "树脂香",
+        "金字塔",
+        "宗教场所",
+        "研究",
+        "学位",
+        "氨基酸",
+        "牛磺酸",
+        "乐队",
+        "制作人",
+        "流星花园",
+        "不良笑花",
+        "人民大会堂",
+        "停止",
+        "泳池",
+        "甘氨酸",
+        "鱿鱼",
+        "陵墓",
+        "专辑",
+        "柑橘香",
+        "军刀",
+        "点击",
+        "唱片",
+        "弯刀",
+        "木香",
+        "广州塔",
+        "寓言",
+        "痞子英雄",
+        "神社",
+        "海洋",
+        "蠕虫",
+        "藤壶",
+        "史诗",
+        "咖啡师",
+        "薰衣草",
+        "刀剑",
+        "寺庙",
+        "缬氨酸",
+        "薄荷香"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "博士学位",
+                "气味",
+                "清真寺",
+                "唐刀",
+                "克莱莫剑"
+            ]
+        },
+        {
+            "cards": [
+                "休息",
+                "木乃伊",
+                "教堂",
+                "无骨动物",
+                "半胱氨酸",
+                "滚动"
+            ]
+        },
+        {
+            "cards": [
+                "短弯刀",
+                "鼠标操作",
+                "作曲人",
+                "饮品",
+                "滕王阁",
+                "钢琴家",
+                "湖泊"
+            ]
+        },
+        {
+            "cards": [
+                "故事",
+                "王子变青蛙",
+                "主唱",
+                "丙氨酸",
+                "游泳",
+                "著名建筑",
+                "贝斯手",
+                "法老"
+            ]
+        },
+        {
+            "cards": [
+                "论文",
+                "大海",
+                "细剑",
+                "亮氨酸",
+                "拖动",
+                "酪氨酸",
+                "偶像剧",
+                "传奇",
+                "海星"
+            ]
+        }
+    ]
+}

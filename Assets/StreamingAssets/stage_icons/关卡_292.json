@@ -1,0 +1,217 @@
+{
+    "levelId": 292,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "矿物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石英",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白石",
+                    "icon": false
+                },
+                {
+                    "wordId": "长石",
+                    "icon": false
+                },
+                {
+                    "wordId": "方解石",
+                    "icon": false
+                },
+                {
+                    "wordId": "方铅矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "铝土矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "钛铁矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "石榴石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牙形石",
+                    "icon": false
+                },
+                {
+                    "wordId": "菊石",
+                    "icon": false
+                },
+                {
+                    "wordId": "海百合",
+                    "icon": false
+                },
+                {
+                    "wordId": "介形虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹦鹉螺",
+                    "icon": false
+                },
+                {
+                    "wordId": "石燕",
+                    "icon": false
+                },
+                {
+                    "wordId": "海胆",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔藓虫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斯芬克斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "九头蛇",
+                    "icon": true
+                },
+                {
+                    "wordId": "独角兽",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "服装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "衬衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "裤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛衣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "复活节",
+                    "icon": false
+                },
+                {
+                    "wordId": "排灯节",
+                    "icon": false
+                },
+                {
+                    "wordId": "逾越节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "月份",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "一月",
+                    "icon": false
+                },
+                {
+                    "wordId": "十月",
+                    "icon": false
+                },
+                {
+                    "wordId": "二月",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "钛铁矿",
+        "衬衫",
+        "石英",
+        "九头蛇",
+        "月份",
+        "方解石",
+        "毛衣",
+        "介形虫",
+        "牙形石",
+        "化石",
+        "石榴石",
+        "斯芬克斯",
+        "铝土矿",
+        "夹克",
+        "节日",
+        "十月",
+        "海胆",
+        "复活节",
+        "独角兽",
+        "方铅矿",
+        "排灯节",
+        "一月",
+        "蛋白石",
+        "苔藓虫"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "菊石",
+                "石燕",
+                "狮鹫"
+            ]
+        },
+        {
+            "cards": [
+                "逾越节",
+                "裤子",
+                "服装",
+                "长石"
+            ]
+        },
+        {
+            "cards": [
+                "神话生物",
+                "鹦鹉螺",
+                "二月",
+                "海百合",
+                "矿物"
+            ]
+        }
+    ]
+}

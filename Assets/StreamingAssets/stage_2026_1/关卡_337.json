@@ -1,0 +1,369 @@
+{
+    "levelId": 337,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "数独",
+                    "icon": false
+                },
+                {
+                    "wordId": "数谜",
+                    "icon": false
+                },
+                {
+                    "wordId": "七巧板",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔方",
+                    "icon": false
+                },
+                {
+                    "wordId": "字谜游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "字母游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "餐具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "叉子",
+                    "icon": false
+                },
+                {
+                    "wordId": "勺子",
+                    "icon": false
+                },
+                {
+                    "wordId": "刀子",
+                    "icon": false
+                },
+                {
+                    "wordId": "长柄勺",
+                    "icon": false
+                },
+                {
+                    "wordId": "叉勺",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹子",
+                    "icon": false
+                },
+                {
+                    "wordId": "砍刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "切肉刀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "波浪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "涟漪",
+                    "icon": false
+                },
+                {
+                    "wordId": "涌浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "白浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "海啸",
+                    "icon": false
+                },
+                {
+                    "wordId": "暗流",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "齿轮相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "齿牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "链轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "小齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "棘轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "锥齿轮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "尺寸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小",
+                    "icon": false
+                },
+                {
+                    "wordId": "中",
+                    "icon": false
+                },
+                {
+                    "wordId": "大",
+                    "icon": false
+                },
+                {
+                    "wordId": "微小",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨大",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨型",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谷物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "大米",
+                    "icon": false
+                },
+                {
+                    "wordId": "燕麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "大麦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "农民",
+                    "icon": true
+                },
+                {
+                    "wordId": "面包师",
+                    "icon": true
+                },
+                {
+                    "wordId": "裁缝",
+                    "icon": true
+                },
+                {
+                    "wordId": "水手",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "浮标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柱形浮标",
+                    "icon": true
+                },
+                {
+                    "wordId": "系泊浮标",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯浮标",
+                    "icon": true
+                },
+                {
+                    "wordId": "信号浮标",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地层",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "地幔",
+                    "icon": false
+                },
+                {
+                    "wordId": "地核",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "按键",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Alt键",
+                    "icon": false
+                },
+                {
+                    "wordId": "Ctrl键",
+                    "icon": false
+                },
+                {
+                    "wordId": "Shift键",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "切肉刀",
+        "灯浮标",
+        "字谜游戏",
+        "魔方",
+        "地核",
+        "餐具",
+        "大麦",
+        "尺寸",
+        "职业",
+        "水手",
+        "锥齿轮",
+        "叉勺",
+        "面包师",
+        "叉子",
+        "齿牙",
+        "谜题",
+        "燕麦",
+        "暗流",
+        "棘轮",
+        "刀子",
+        "柱形浮标",
+        "Ctrl键",
+        "微小",
+        "地幔",
+        "小",
+        "字母游戏",
+        "农民",
+        "巨型",
+        "拼图",
+        "数独",
+        "潮汐",
+        "信号浮标",
+        "链轮",
+        "白浪",
+        "齿轮",
+        "小麦",
+        "砍刀",
+        "涌浪",
+        "谜语",
+        "系泊浮标",
+        "数谜",
+        "谷物"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "巨浪",
+                "碎浪",
+                "勺子",
+                "波浪"
+            ]
+        },
+        {
+            "cards": [
+                "齿轮相关",
+                "小齿轮",
+                "地层",
+                "地壳",
+                "Alt键"
+            ]
+        },
+        {
+            "cards": [
+                "七巧板",
+                "巨大",
+                "浮标",
+                "按键",
+                "Shift键",
+                "涟漪"
+            ]
+        },
+        {
+            "cards": [
+                "海啸",
+                "长柄勺",
+                "夹子",
+                "中",
+                "裁缝",
+                "大米",
+                "大"
+            ]
+        }
+    ]
+}

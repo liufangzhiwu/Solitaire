@@ -1,0 +1,369 @@
+{
+    "levelId": 103,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "牛奶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奶瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "利乐包",
+                    "icon": true
+                },
+                {
+                    "wordId": "玻璃杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "杯子",
+                    "icon": true
+                },
+                {
+                    "wordId": "椰奶",
+                    "icon": true
+                },
+                {
+                    "wordId": "豆奶",
+                    "icon": true
+                },
+                {
+                    "wordId": "燕麦奶",
+                    "icon": true
+                },
+                {
+                    "wordId": "杏仁奶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "戏剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                },
+                {
+                    "wordId": "演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "演出",
+                    "icon": false
+                },
+                {
+                    "wordId": "首映",
+                    "icon": false
+                },
+                {
+                    "wordId": "转折",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪辑",
+                    "icon": false
+                },
+                {
+                    "wordId": "系列剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "对话",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "道路",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铺面",
+                    "icon": false
+                },
+                {
+                    "wordId": "沥青",
+                    "icon": false
+                },
+                {
+                    "wordId": "路缘",
+                    "icon": false
+                },
+                {
+                    "wordId": "人行道",
+                    "icon": false
+                },
+                {
+                    "wordId": "计程车",
+                    "icon": false
+                },
+                {
+                    "wordId": "路线",
+                    "icon": false
+                },
+                {
+                    "wordId": "私人车道",
+                    "icon": false
+                },
+                {
+                    "wordId": "里程",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "通话",
+                    "icon": false
+                },
+                {
+                    "wordId": "聊天",
+                    "icon": false
+                },
+                {
+                    "wordId": "短信",
+                    "icon": false
+                },
+                {
+                    "wordId": "资讯",
+                    "icon": false
+                },
+                {
+                    "wordId": "搜索",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "原子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "质子",
+                    "icon": false
+                },
+                {
+                    "wordId": "中子",
+                    "icon": false
+                },
+                {
+                    "wordId": "分子",
+                    "icon": false
+                },
+                {
+                    "wordId": "原子核",
+                    "icon": false
+                },
+                {
+                    "wordId": "同位素",
+                    "icon": false
+                },
+                {
+                    "wordId": "粒子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "病毒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "接触",
+                    "icon": false
+                },
+                {
+                    "wordId": "抗体",
+                    "icon": false
+                },
+                {
+                    "wordId": "实验服",
+                    "icon": false
+                },
+                {
+                    "wordId": "检测",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "帝国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "征服",
+                    "icon": false
+                },
+                {
+                    "wordId": "军团",
+                    "icon": false
+                },
+                {
+                    "wordId": "朝代",
+                    "icon": false
+                },
+                {
+                    "wordId": "王座",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "考试",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笔记",
+                    "icon": true
+                },
+                {
+                    "wordId": "毕业证书",
+                    "icon": true
+                },
+                {
+                    "wordId": "计算器",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑板",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "烘焙师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玛芬蛋糕",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸杯蛋糕",
+                    "icon": false
+                },
+                {
+                    "wordId": "布朗尼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棒球",
+                    "icon": true
+                },
+                {
+                    "wordId": "篮球",
+                    "icon": true
+                },
+                {
+                    "wordId": "高尔夫球",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "聊天",
+        "舞台",
+        "抗体",
+        "中子",
+        "帝国",
+        "计程车",
+        "人行道",
+        "毕业证书",
+        "粒子",
+        "私人车道",
+        "豆奶",
+        "短信",
+        "实验服",
+        "奶瓶",
+        "沥青",
+        "同位素",
+        "滑动",
+        "演出",
+        "质子",
+        "征服",
+        "牛奶",
+        "系列剧",
+        "分子",
+        "玛芬蛋糕",
+        "杯子",
+        "黑板",
+        "原子核",
+        "演员",
+        "计算器",
+        "铺面",
+        "剪辑",
+        "考试",
+        "朝代",
+        "燕麦奶",
+        "搜索",
+        "病毒",
+        "道路",
+        "资讯",
+        "笔记",
+        "首映",
+        "椰奶",
+        "利乐包"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "路缘",
+                "棒球",
+                "对话",
+                "烘焙师"
+            ]
+        },
+        {
+            "cards": [
+                "戏剧",
+                "王座",
+                "里程",
+                "篮球",
+                "高尔夫球"
+            ]
+        },
+        {
+            "cards": [
+                "接触",
+                "通话",
+                "杏仁奶",
+                "布朗尼",
+                "纸杯蛋糕",
+                "军团"
+            ]
+        },
+        {
+            "cards": [
+                "检测",
+                "原子",
+                "转折",
+                "路线",
+                "球",
+                "玻璃杯",
+                "手机"
+            ]
+        }
+    ]
+}

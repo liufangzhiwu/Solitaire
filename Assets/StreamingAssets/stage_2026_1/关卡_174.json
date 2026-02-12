@@ -1,0 +1,369 @@
+{
+    "levelId": 174,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "交通工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小型货车",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉普车",
+                    "icon": false
+                },
+                {
+                    "wordId": "手推车",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞艇",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛格威",
+                    "icon": false
+                },
+                {
+                    "wordId": "帆船",
+                    "icon": false
+                },
+                {
+                    "wordId": "人力车",
+                    "icon": false
+                },
+                {
+                    "wordId": "划艇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙漠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恩内迪沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "克孜勒库姆沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "内盖夫沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔伯纳斯沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢特沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "索诺兰沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔尔沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "帕纳明特沙漠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "啮齿动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刺豚鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "老鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "囊地鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "花栗鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "田鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "麝鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "水豚",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "树木",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橡树",
+                    "icon": false
+                },
+                {
+                    "wordId": "枫树",
+                    "icon": false
+                },
+                {
+                    "wordId": "杨树",
+                    "icon": false
+                },
+                {
+                    "wordId": "红杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "柳树",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡桃树",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镍",
+                    "icon": false
+                },
+                {
+                    "wordId": "银",
+                    "icon": false
+                },
+                {
+                    "wordId": "金",
+                    "icon": false
+                },
+                {
+                    "wordId": "铂",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "汞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸟类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猎隼",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹈鹕",
+                    "icon": true
+                },
+                {
+                    "wordId": "反嘴鹬",
+                    "icon": true
+                },
+                {
+                    "wordId": "雀",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螽斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "象鼻虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚱蜢",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜉蝣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "真菌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马勃菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "平菇",
+                    "icon": false
+                },
+                {
+                    "wordId": "金针菇",
+                    "icon": false
+                },
+                {
+                    "wordId": "香菇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地质构造",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地堑",
+                    "icon": false
+                },
+                {
+                    "wordId": "向斜",
+                    "icon": false
+                },
+                {
+                    "wordId": "褶皱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丁香",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏红花",
+                    "icon": false
+                },
+                {
+                    "wordId": "红椒粉",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "红椒粉",
+        "反嘴鹬",
+        "昆虫",
+        "划艇",
+        "马勃菌",
+        "人力车",
+        "鹈鹕",
+        "赛格威",
+        "雀",
+        "沙鼠",
+        "螽斯",
+        "褶皱",
+        "橡树",
+        "蜉蝣",
+        "铂",
+        "猎隼",
+        "向斜",
+        "铁",
+        "花栗鼠",
+        "啮齿动物",
+        "麝鼠",
+        "刺豚鼠",
+        "平菇",
+        "象鼻虫",
+        "地堑",
+        "丁香",
+        "内盖夫沙漠",
+        "金",
+        "囊地鼠",
+        "汞",
+        "田鼠",
+        "胡桃树",
+        "镍",
+        "香料",
+        "蚱蜢",
+        "索诺兰沙漠",
+        "红杉",
+        "银",
+        "金针菇",
+        "树木",
+        "手推车",
+        "地质构造"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "柳树",
+                "枫树",
+                "小型货车",
+                "杨树"
+            ]
+        },
+        {
+            "cards": [
+                "真菌",
+                "帕纳明特沙漠",
+                "恩内迪沙漠",
+                "克孜勒库姆沙漠",
+                "飞艇"
+            ]
+        },
+        {
+            "cards": [
+                "交通工具",
+                "香菇",
+                "藏红花",
+                "吉普车",
+                "塔尔沙漠",
+                "老鼠"
+            ]
+        },
+        {
+            "cards": [
+                "沙漠",
+                "水豚",
+                "金属",
+                "鸟类",
+                "塔伯纳斯沙漠",
+                "帆船",
+                "卢特沙漠"
+            ]
+        }
+    ]
+}

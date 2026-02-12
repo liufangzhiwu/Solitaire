@@ -1,0 +1,369 @@
+{
+    "levelId": 173,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "亲属关系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丈夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "妻子",
+                    "icon": false
+                },
+                {
+                    "wordId": "侄女",
+                    "icon": false
+                },
+                {
+                    "wordId": "兄弟姐妹",
+                    "icon": false
+                },
+                {
+                    "wordId": "侄子",
+                    "icon": false
+                },
+                {
+                    "wordId": "叔叔",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿姨",
+                    "icon": false
+                },
+                {
+                    "wordId": "堂表亲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "自行车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双人自行车",
+                    "icon": false
+                },
+                {
+                    "wordId": "小轮车",
+                    "icon": false
+                },
+                {
+                    "wordId": "公路自行车",
+                    "icon": false
+                },
+                {
+                    "wordId": "三轮车",
+                    "icon": false
+                },
+                {
+                    "wordId": "折叠自行车",
+                    "icon": false
+                },
+                {
+                    "wordId": "速降自行车",
+                    "icon": false
+                },
+                {
+                    "wordId": "健身自行车",
+                    "icon": false
+                },
+                {
+                    "wordId": "电动自行车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "物品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "物质",
+                    "icon": false
+                },
+                {
+                    "wordId": "材料",
+                    "icon": false
+                },
+                {
+                    "wordId": "补给品",
+                    "icon": false
+                },
+                {
+                    "wordId": "填充物",
+                    "icon": false
+                },
+                {
+                    "wordId": "主题",
+                    "icon": false
+                },
+                {
+                    "wordId": "事物",
+                    "icon": false
+                },
+                {
+                    "wordId": "持有物",
+                    "icon": false
+                },
+                {
+                    "wordId": "无意义的东西",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "能刺伤人的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大黄蜂",
+                    "icon": false
+                },
+                {
+                    "wordId": "海胆",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄貂鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "荨麻",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝎子",
+                    "icon": false
+                },
+                {
+                    "wordId": "刺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "两足动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸵鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "企鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "霸王龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "跳鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "袋鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "人类",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "羊毛制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "围巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "无檐便帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "连指手套",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "嫉妒的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羡慕的",
+                    "icon": false
+                },
+                {
+                    "wordId": "垂涎的",
+                    "icon": false
+                },
+                {
+                    "wordId": "贪婪的",
+                    "icon": false
+                },
+                {
+                    "wordId": "怀恨的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骆驼科",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羊驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "骆驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "原驼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墨丘利",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "神祇",
+                    "icon": false
+                },
+                {
+                    "wordId": "金属",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罗马",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "首都",
+                    "icon": false
+                },
+                {
+                    "wordId": "意大利",
+                    "icon": false
+                },
+                {
+                    "wordId": "梵蒂冈",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "金属",
+        "首都",
+        "填充物",
+        "鸵鸟",
+        "无意义的东西",
+        "公路自行车",
+        "黄貂鱼",
+        "折叠自行车",
+        "跳鼠",
+        "企鹅",
+        "美洲驼",
+        "物质",
+        "自行车",
+        "毛衣",
+        "羡慕的",
+        "霸王龙",
+        "主题",
+        "围巾",
+        "怀恨的",
+        "侄子",
+        "意大利",
+        "羊毛制品",
+        "刺",
+        "贪婪的",
+        "袋鼠",
+        "嫉妒的",
+        "物品",
+        "蝎子",
+        "连指手套",
+        "行星",
+        "梵蒂冈",
+        "垂涎的",
+        "墨丘利",
+        "健身自行车",
+        "补给品",
+        "妻子",
+        "速降自行车",
+        "三轮车",
+        "持有物",
+        "电动自行车",
+        "堂表亲",
+        "叔叔"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "双人自行车",
+                "罗马",
+                "亲属关系",
+                "骆驼科"
+            ]
+        },
+        {
+            "cards": [
+                "材料",
+                "兄弟姐妹",
+                "人类",
+                "能刺伤人的",
+                "阿姨"
+            ]
+        },
+        {
+            "cards": [
+                "丈夫",
+                "原驼",
+                "羊驼",
+                "大黄蜂",
+                "小轮车",
+                "海胆"
+            ]
+        },
+        {
+            "cards": [
+                "骆驼",
+                "侄女",
+                "事物",
+                "两足动物",
+                "无檐便帽",
+                "荨麻",
+                "神祇"
+            ]
+        }
+    ]
+}

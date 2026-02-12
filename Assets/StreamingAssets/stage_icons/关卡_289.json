@@ -1,0 +1,553 @@
+{
+    "levelId": 289,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "尾码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "动作",
+                    "icon": false
+                },
+                {
+                    "wordId": "学科",
+                    "icon": false
+                },
+                {
+                    "wordId": "观察仪器",
+                    "icon": false
+                },
+                {
+                    "wordId": "测量仪器",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱好者",
+                    "icon": false
+                },
+                {
+                    "wordId": "记录工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "统治体制",
+                    "icon": false
+                },
+                {
+                    "wordId": "名称",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "岩石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玄武岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑曜石",
+                    "icon": false
+                },
+                {
+                    "wordId": "白云岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "白垩",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "板岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "大理石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骑士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣殿骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "侍从",
+                    "icon": false
+                },
+                {
+                    "wordId": "枪骑兵",
+                    "icon": false
+                },
+                {
+                    "wordId": "武士",
+                    "icon": false
+                },
+                {
+                    "wordId": "维京人",
+                    "icon": false
+                },
+                {
+                    "wordId": "马穆鲁克",
+                    "icon": false
+                },
+                {
+                    "wordId": "骠骑兵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "贵族头衔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "公爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "伯爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "男爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "王子",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙皇",
+                    "icon": false
+                },
+                {
+                    "wordId": "可汗",
+                    "icon": false
+                },
+                {
+                    "wordId": "酋长",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃米尔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乳酪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "切达干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "高达干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "布里干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "菲达干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "里科塔干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯蒂尔顿干酪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肉毒毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓖麻毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "石房蛤毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "河豚毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "相思豆毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "芋螺毒素",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "喜悦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "高兴",
+                    "icon": false
+                },
+                {
+                    "wordId": "愉快",
+                    "icon": false
+                },
+                {
+                    "wordId": "兴高采烈",
+                    "icon": false
+                },
+                {
+                    "wordId": "幸福",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂喜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恐惧症",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幽闭恐惧",
+                    "icon": true
+                },
+                {
+                    "wordId": "高空恐惧",
+                    "icon": true
+                },
+                {
+                    "wordId": "广场恐惧",
+                    "icon": true
+                },
+                {
+                    "wordId": "血液恐惧",
+                    "icon": true
+                },
+                {
+                    "wordId": "陌生恐惧",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "弄臣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愚者",
+                    "icon": true
+                },
+                {
+                    "wordId": "默剧演员",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑稽角色",
+                    "icon": true
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": true
+                },
+                {
+                    "wordId": "小丑脸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地质年代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三叠纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "侏罗纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "二叠纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥盆纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "寒武纪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "艺术形式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拼贴画",
+                    "icon": true
+                },
+                {
+                    "wordId": "木偶戏",
+                    "icon": true
+                },
+                {
+                    "wordId": "马赛克",
+                    "icon": true
+                },
+                {
+                    "wordId": "刺绣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "著名雕像",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩艾石像",
+                    "icon": false
+                },
+                {
+                    "wordId": "维纳斯雕像",
+                    "icon": false
+                },
+                {
+                    "wordId": "大卫雕像",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗得斯巨像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "过敏原",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麸质",
+                    "icon": false
+                },
+                {
+                    "wordId": "花粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "花生",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳胶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骨骼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "股骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "胫骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "肱骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "栅栏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尖桩栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "木栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "围栏",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大理石",
+        "里科塔干酪",
+        "板岩",
+        "记录工具",
+        "王子",
+        "幸福",
+        "观察仪器",
+        "维纳斯雕像",
+        "测量仪器",
+        "花生",
+        "刺绣",
+        "三叠纪",
+        "骨骼",
+        "拼贴画",
+        "肱骨",
+        "高空恐惧",
+        "地质年代",
+        "尖桩栅栏",
+        "河豚毒素",
+        "血液恐惧",
+        "统治体制",
+        "滑稽角色",
+        "马穆鲁克",
+        "贵族头衔",
+        "高兴",
+        "玄武岩",
+        "愉快",
+        "爱好者",
+        "罗得斯巨像",
+        "麸质",
+        "小丑",
+        "武士",
+        "艺术形式",
+        "乳胶",
+        "围栏",
+        "圣殿骑士",
+        "摩艾石像",
+        "过敏原",
+        "名称",
+        "伯爵",
+        "黑曜石",
+        "枪骑兵",
+        "布里干酪",
+        "股骨",
+        "动作",
+        "狂喜",
+        "广场恐惧",
+        "幽闭恐惧",
+        "男爵",
+        "著名雕像",
+        "岩石",
+        "二叠纪",
+        "马赛克",
+        "侍从",
+        "高达干酪",
+        "维京人",
+        "木栅栏",
+        "相思豆毒素",
+        "大卫雕像",
+        "骠骑兵",
+        "泥盆纪",
+        "学科",
+        "默剧演员"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "胫骨",
+                "小丑脸",
+                "兴高采烈",
+                "恐惧症",
+                "弄臣"
+            ]
+        },
+        {
+            "cards": [
+                "乳酪",
+                "栅栏",
+                "菲达干酪",
+                "毒素",
+                "侏罗纪",
+                "沙皇"
+            ]
+        },
+        {
+            "cards": [
+                "寒武纪",
+                "陌生恐惧",
+                "叶岩",
+                "芋螺毒素",
+                "花岗岩",
+                "埃米尔",
+                "石房蛤毒素"
+            ]
+        },
+        {
+            "cards": [
+                "木偶戏",
+                "肉毒毒素",
+                "喜悦",
+                "骑士",
+                "斯蒂尔顿干酪",
+                "愚者",
+                "花粉",
+                "尾码"
+            ]
+        },
+        {
+            "cards": [
+                "切达干酪",
+                "白垩",
+                "酋长",
+                "圣骑士",
+                "蓖麻毒素",
+                "公爵",
+                "白云岩",
+                "快乐",
+                "可汗"
+            ]
+        }
+    ]
+}

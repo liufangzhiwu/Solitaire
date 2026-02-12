@@ -1,0 +1,369 @@
+{
+    "levelId": 335,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "博物馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卢浮宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌菲兹美术馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "普拉多博物馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥赛博物馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰特美术馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "维多利亚和阿尔伯特博物馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "盖蒂博物馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓬皮杜中心",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "小提琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "长笛",
+                    "icon": false
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "小号",
+                    "icon": false
+                },
+                {
+                    "wordId": "单簧管",
+                    "icon": false
+                },
+                {
+                    "wordId": "双簧管",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖琴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "度量单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "码",
+                    "icon": false
+                },
+                {
+                    "wordId": "英寸",
+                    "icon": false
+                },
+                {
+                    "wordId": "英尺",
+                    "icon": false
+                },
+                {
+                    "wordId": "英里",
+                    "icon": false
+                },
+                {
+                    "wordId": "英寻",
+                    "icon": false
+                },
+                {
+                    "wordId": "里格",
+                    "icon": false
+                },
+                {
+                    "wordId": "米",
+                    "icon": false
+                },
+                {
+                    "wordId": "腕尺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "桥梁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伦敦桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "里亚托桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "布鲁克林桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "金门大桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "加拉塔桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "悉尼海港大桥",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "合金",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "青铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "镍",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "锡",
+                    "icon": false
+                },
+                {
+                    "wordId": "白镴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "数学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "加",
+                    "icon": true
+                },
+                {
+                    "wordId": "减",
+                    "icon": true
+                },
+                {
+                    "wordId": "乘",
+                    "icon": true
+                },
+                {
+                    "wordId": "除",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "金融",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "资产",
+                    "icon": false
+                },
+                {
+                    "wordId": "股票",
+                    "icon": false
+                },
+                {
+                    "wordId": "债券",
+                    "icon": false
+                },
+                {
+                    "wordId": "收益率",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黄色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柠檬黄",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳黄",
+                    "icon": false
+                },
+                {
+                    "wordId": "金丝雀黄",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏红花黄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "尺寸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小",
+                    "icon": false
+                },
+                {
+                    "wordId": "中",
+                    "icon": false
+                },
+                {
+                    "wordId": "大",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "物质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "固体",
+                    "icon": false
+                },
+                {
+                    "wordId": "液体",
+                    "icon": false
+                },
+                {
+                    "wordId": "等离子体",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "吉他",
+        "铜",
+        "卢浮宫",
+        "液体",
+        "英寻",
+        "小提琴",
+        "钢",
+        "长笛",
+        "固体",
+        "加",
+        "度量单位",
+        "英寸",
+        "数学",
+        "双簧管",
+        "布鲁克林桥",
+        "债券",
+        "中",
+        "股票",
+        "蓬皮杜中心",
+        "藏红花黄",
+        "乌菲兹美术馆",
+        "大提琴",
+        "里格",
+        "镍",
+        "腕尺",
+        "锡",
+        "乘",
+        "乐器",
+        "收益率",
+        "金门大桥",
+        "盖蒂博物馆",
+        "加拉塔桥",
+        "减",
+        "桥梁",
+        "小号",
+        "资产",
+        "米",
+        "伦敦桥",
+        "金融",
+        "里亚托桥",
+        "除",
+        "英里"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "等离子体",
+                "小",
+                "太阳黄",
+                "大"
+            ]
+        },
+        {
+            "cards": [
+                "博物馆",
+                "竖琴",
+                "柠檬黄",
+                "维多利亚和阿尔伯特博物馆",
+                "泰特美术馆"
+            ]
+        },
+        {
+            "cards": [
+                "黄色",
+                "码",
+                "白镴",
+                "普拉多博物馆",
+                "尺寸",
+                "单簧管"
+            ]
+        },
+        {
+            "cards": [
+                "悉尼海港大桥",
+                "合金",
+                "奥赛博物馆",
+                "物质",
+                "青铜",
+                "英尺",
+                "金丝雀黄"
+            ]
+        }
+    ]
+}

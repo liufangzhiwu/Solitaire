@@ -1,0 +1,553 @@
+{
+    "levelId": 235,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "愉悦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "欣喜",
+                    "icon": false
+                },
+                {
+                    "wordId": "兴奋",
+                    "icon": false
+                },
+                {
+                    "wordId": "幸福",
+                    "icon": false
+                },
+                {
+                    "wordId": "享受",
+                    "icon": false
+                },
+                {
+                    "wordId": "品味",
+                    "icon": false
+                },
+                {
+                    "wordId": "渴望",
+                    "icon": false
+                },
+                {
+                    "wordId": "回味",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "控制",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "权力",
+                    "icon": false
+                },
+                {
+                    "wordId": "统治",
+                    "icon": false
+                },
+                {
+                    "wordId": "执政",
+                    "icon": false
+                },
+                {
+                    "wordId": "指挥",
+                    "icon": false
+                },
+                {
+                    "wordId": "管理",
+                    "icon": false
+                },
+                {
+                    "wordId": "指导",
+                    "icon": false
+                },
+                {
+                    "wordId": "治理",
+                    "icon": false
+                },
+                {
+                    "wordId": "老板",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饮食方式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生食",
+                    "icon": false
+                },
+                {
+                    "wordId": "低碳水",
+                    "icon": false
+                },
+                {
+                    "wordId": "无糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "纯素食",
+                    "icon": false
+                },
+                {
+                    "wordId": "原始饮食",
+                    "icon": false
+                },
+                {
+                    "wordId": "生酮饮食",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂食",
+                    "icon": false
+                },
+                {
+                    "wordId": "均衡饮食",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "汽油",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "液体",
+                    "icon": false
+                },
+                {
+                    "wordId": "发动机",
+                    "icon": false
+                },
+                {
+                    "wordId": "燃料",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛烷值",
+                    "icon": false
+                },
+                {
+                    "wordId": "石油",
+                    "icon": false
+                },
+                {
+                    "wordId": "罐",
+                    "icon": false
+                },
+                {
+                    "wordId": "油泵",
+                    "icon": false
+                },
+                {
+                    "wordId": "车辆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "活化石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "银杏",
+                    "icon": true
+                },
+                {
+                    "wordId": "苏铁",
+                    "icon": true
+                },
+                {
+                    "wordId": "蕨类",
+                    "icon": true
+                },
+                {
+                    "wordId": "针鼹",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲟鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "长吻鳄",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "智能设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "智能手表",
+                    "icon": true
+                },
+                {
+                    "wordId": "智能手机",
+                    "icon": true
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": true
+                },
+                {
+                    "wordId": "智能锁",
+                    "icon": true
+                },
+                {
+                    "wordId": "智能照明",
+                    "icon": true
+                },
+                {
+                    "wordId": "智能门铃",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "回应",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "回答",
+                    "icon": false
+                },
+                {
+                    "wordId": "回馈",
+                    "icon": false
+                },
+                {
+                    "wordId": "回复",
+                    "icon": false
+                },
+                {
+                    "wordId": "机敏回答",
+                    "icon": false
+                },
+                {
+                    "wordId": "反驳",
+                    "icon": false
+                },
+                {
+                    "wordId": "调查",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烟雾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烟",
+                    "icon": false
+                },
+                {
+                    "wordId": "气体",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸汽",
+                    "icon": false
+                },
+                {
+                    "wordId": "废气",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸入",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "人造的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "假牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "假发",
+                    "icon": false
+                },
+                {
+                    "wordId": "人造珍珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "假指甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "人造钻石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "保修",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "维修",
+                    "icon": false
+                },
+                {
+                    "wordId": "过期",
+                    "icon": false
+                },
+                {
+                    "wordId": "更换",
+                    "icon": false
+                },
+                {
+                    "wordId": "索赔",
+                    "icon": false
+                },
+                {
+                    "wordId": "政策",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "标记",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书签",
+                    "icon": false
+                },
+                {
+                    "wordId": "记号笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "地标",
+                    "icon": false
+                },
+                {
+                    "wordId": "标志",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神圣的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "安息日",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣经",
+                    "icon": false
+                },
+                {
+                    "wordId": "祝福",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔草",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "秘鲁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "的的喀喀湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "印加文明",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸橘汁腌鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "纳斯卡线条",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谜语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "隐秘的",
+                    "icon": false
+                },
+                {
+                    "wordId": "急转弯",
+                    "icon": false
+                },
+                {
+                    "wordId": "难题",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "V形的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "V领",
+                    "icon": false
+                },
+                {
+                    "wordId": "V形下巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "V形身材",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "魔草",
+        "扬声器",
+        "权力",
+        "记号笔",
+        "液体",
+        "酸橘汁腌鱼",
+        "执政",
+        "汽油",
+        "假牙",
+        "V领",
+        "调查",
+        "低碳水",
+        "政策",
+        "杂食",
+        "反驳",
+        "指导",
+        "愉悦",
+        "索赔",
+        "V形身材",
+        "神圣的",
+        "辛烷值",
+        "印加文明",
+        "过期",
+        "幸福",
+        "智能手表",
+        "人造珍珠",
+        "智能手机",
+        "纳斯卡线条",
+        "苏铁",
+        "书签",
+        "活化石",
+        "生食",
+        "人造的",
+        "V形下巴",
+        "安息日",
+        "燃料",
+        "假发",
+        "隐秘的",
+        "生酮饮食",
+        "回复",
+        "无糖",
+        "更换",
+        "智能锁",
+        "机敏回答",
+        "急转弯",
+        "秘鲁",
+        "欣喜",
+        "均衡饮食",
+        "治理",
+        "罐",
+        "蕨类",
+        "难题",
+        "智能设备",
+        "银杏",
+        "油泵",
+        "圣经",
+        "针鼹",
+        "享受",
+        "长吻鳄",
+        "兴奋",
+        "祝福",
+        "统治",
+        "的的喀喀湖"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "保修",
+                "蒸汽",
+                "控制",
+                "鲟鱼",
+                "气体"
+            ]
+        },
+        {
+            "cards": [
+                "管理",
+                "回馈",
+                "饮食方式",
+                "谜语",
+                "快乐",
+                "石油"
+            ]
+        },
+        {
+            "cards": [
+                "渴望",
+                "烟",
+                "标记",
+                "回应",
+                "智能门铃",
+                "标志",
+                "品味"
+            ]
+        },
+        {
+            "cards": [
+                "回味",
+                "发动机",
+                "假指甲",
+                "指挥",
+                "废气",
+                "维修",
+                "纯素食",
+                "吸入"
+            ]
+        },
+        {
+            "cards": [
+                "地标",
+                "回答",
+                "原始饮食",
+                "智能照明",
+                "车辆",
+                "V形的",
+                "人造钻石",
+                "老板",
+                "烟雾"
+            ]
+        }
+    ]
+}

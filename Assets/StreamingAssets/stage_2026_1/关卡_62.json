@@ -1,0 +1,217 @@
+{
+    "levelId": 62,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "马拉松",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跑步者",
+                    "icon": false
+                },
+                {
+                    "wordId": "完赛者",
+                    "icon": false
+                },
+                {
+                    "wordId": "运动员",
+                    "icon": false
+                },
+                {
+                    "wordId": "超级马拉松",
+                    "icon": false
+                },
+                {
+                    "wordId": "距离",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖牌得主",
+                    "icon": false
+                },
+                {
+                    "wordId": "比赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "半程",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "萨拉米",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肥美",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟熏味",
+                    "icon": false
+                },
+                {
+                    "wordId": "腌制",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛辣",
+                    "icon": false
+                },
+                {
+                    "wordId": "浓烈",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡椒味",
+                    "icon": false
+                },
+                {
+                    "wordId": "咸味",
+                    "icon": false
+                },
+                {
+                    "wordId": "可口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "疼痛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "躯体性",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢性",
+                    "icon": false
+                },
+                {
+                    "wordId": "急性",
+                    "icon": false
+                },
+                {
+                    "wordId": "钝痛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙漠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿洲",
+                    "icon": true
+                },
+                {
+                    "wordId": "仙人掌",
+                    "icon": true
+                },
+                {
+                    "wordId": "海市蜃楼",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙丘",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "蝎子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毒刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒液",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛛形纲动物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "混凝土",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "搅拌",
+                    "icon": false
+                },
+                {
+                    "wordId": "抹子",
+                    "icon": false
+                },
+                {
+                    "wordId": "刮杠",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "超级马拉松",
+        "半程",
+        "距离",
+        "搅拌",
+        "混凝土",
+        "辛辣",
+        "刮杠",
+        "蛛形纲动物",
+        "浓烈",
+        "腌制",
+        "萨拉米",
+        "海市蜃楼",
+        "胡椒味",
+        "沙丘",
+        "绿洲",
+        "毒刺",
+        "钝痛",
+        "烟熏味",
+        "毒液",
+        "仙人掌",
+        "跑步者",
+        "完赛者",
+        "沙漠",
+        "抹子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "马拉松",
+                "急性",
+                "慢性"
+            ]
+        },
+        {
+            "cards": [
+                "躯体性",
+                "疼痛",
+                "肥美",
+                "咸味"
+            ]
+        },
+        {
+            "cards": [
+                "运动员",
+                "奖牌得主",
+                "蝎子",
+                "可口",
+                "比赛"
+            ]
+        }
+    ]
+}

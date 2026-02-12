@@ -1,0 +1,217 @@
+{
+    "levelId": 107,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "妙语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戏谑",
+                    "icon": false
+                },
+                {
+                    "wordId": "机敏应答",
+                    "icon": false
+                },
+                {
+                    "wordId": "俏皮话",
+                    "icon": false
+                },
+                {
+                    "wordId": "笑话",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽默",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐趣",
+                    "icon": false
+                },
+                {
+                    "wordId": "双关语",
+                    "icon": false
+                },
+                {
+                    "wordId": "文字游戏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "塑胶制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吸管",
+                    "icon": true
+                },
+                {
+                    "wordId": "午餐盒",
+                    "icon": true
+                },
+                {
+                    "wordId": "水桶",
+                    "icon": true
+                },
+                {
+                    "wordId": "板条箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞盘",
+                    "icon": true
+                },
+                {
+                    "wordId": "袋子",
+                    "icon": true
+                },
+                {
+                    "wordId": "簸箕",
+                    "icon": true
+                },
+                {
+                    "wordId": "按钮",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "紫色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "茄子",
+                    "icon": true
+                },
+                {
+                    "wordId": "紫罗兰",
+                    "icon": true
+                },
+                {
+                    "wordId": "李子",
+                    "icon": true
+                },
+                {
+                    "wordId": "薰衣草",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "周末",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旅行",
+                    "icon": false
+                },
+                {
+                    "wordId": "野餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "电影院",
+                    "icon": false
+                },
+                {
+                    "wordId": "派对",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "君主",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙赫",
+                    "icon": false
+                },
+                {
+                    "wordId": "皇帝",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉贾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "书写",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "潦草书写",
+                    "icon": false
+                },
+                {
+                    "wordId": "抄写",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂鸦",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "薰衣草",
+        "袋子",
+        "幽默",
+        "妙语",
+        "沙赫",
+        "君主",
+        "簸箕",
+        "紫罗兰",
+        "吸管",
+        "文字游戏",
+        "午餐盒",
+        "乐趣",
+        "抄写",
+        "皇帝",
+        "潦草书写",
+        "茄子",
+        "笑话",
+        "俏皮话",
+        "塑胶制品",
+        "派对",
+        "拉贾",
+        "板条箱",
+        "涂鸦",
+        "双关语"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "电影院",
+                "按钮",
+                "飞盘"
+            ]
+        },
+        {
+            "cards": [
+                "水桶",
+                "戏谑",
+                "紫色",
+                "周末"
+            ]
+        },
+        {
+            "cards": [
+                "野餐",
+                "机敏应答",
+                "李子",
+                "书写",
+                "旅行"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 222,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "传奇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "国王",
+                    "icon": true
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": true
+                },
+                {
+                    "wordId": "巫师",
+                    "icon": true
+                },
+                {
+                    "wordId": "骑士",
+                    "icon": true
+                },
+                {
+                    "wordId": "圣杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "森林",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "薄的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狭窄的",
+                    "icon": false
+                },
+                {
+                    "wordId": "细的",
+                    "icon": false
+                },
+                {
+                    "wordId": "苗条的",
+                    "icon": false
+                },
+                {
+                    "wordId": "精瘦的",
+                    "icon": false
+                },
+                {
+                    "wordId": "纤细的",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮包骨的",
+                    "icon": false
+                },
+                {
+                    "wordId": "憔悴的",
+                    "icon": false
+                },
+                {
+                    "wordId": "微小的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "药剂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "他汀类药物",
+                    "icon": false
+                },
+                {
+                    "wordId": "抗酸药",
+                    "icon": false
+                },
+                {
+                    "wordId": "利尿剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "镇静剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸入器",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "疫苗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电路",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电阻器",
+                    "icon": false
+                },
+                {
+                    "wordId": "电感器",
+                    "icon": false
+                },
+                {
+                    "wordId": "二极管",
+                    "icon": false
+                },
+                {
+                    "wordId": "电线",
+                    "icon": false
+                },
+                {
+                    "wordId": "电池",
+                    "icon": false
+                },
+                {
+                    "wordId": "开关",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "联合国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "和平",
+                    "icon": false
+                },
+                {
+                    "wordId": "大会",
+                    "icon": false
+                },
+                {
+                    "wordId": "理事会",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全",
+                    "icon": false
+                },
+                {
+                    "wordId": "国家",
+                    "icon": false
+                },
+                {
+                    "wordId": "机构",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "特征",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "特质",
+                    "icon": false
+                },
+                {
+                    "wordId": "品质",
+                    "icon": false
+                },
+                {
+                    "wordId": "属性",
+                    "icon": false
+                },
+                {
+                    "wordId": "方面",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "家居服",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "睡衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "拖鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "浴袍",
+                    "icon": true
+                },
+                {
+                    "wordId": "连体睡衣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "微生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "细菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "原生生物",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿米巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "古菌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卷状物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卫生纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "油酥面团",
+                    "icon": true
+                },
+                {
+                    "wordId": "胶卷",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "楼梯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "台阶",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶手",
+                    "icon": false
+                },
+                {
+                    "wordId": "楼梯间",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "细的",
+        "胶卷",
+        "睡衣",
+        "特质",
+        "安全",
+        "镇静剂",
+        "国王",
+        "机构",
+        "喷雾",
+        "开关",
+        "特征",
+        "方面",
+        "皮包骨的",
+        "原生生物",
+        "微小的",
+        "国家",
+        "利尿剂",
+        "圣杯",
+        "电路",
+        "古菌",
+        "楼梯间",
+        "理事会",
+        "连体睡衣",
+        "骑士",
+        "楼梯",
+        "憔悴的",
+        "疫苗",
+        "森林",
+        "巫师",
+        "油酥面团",
+        "狭窄的",
+        "纤细的",
+        "他汀类药物",
+        "卫生纸",
+        "卷状物",
+        "电感器",
+        "抗酸药",
+        "传奇",
+        "吸入器",
+        "眼药水",
+        "城堡",
+        "电阻器"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "精瘦的",
+                "剑",
+                "联合国",
+                "药剂"
+            ]
+        },
+        {
+            "cards": [
+                "属性",
+                "二极管",
+                "电池",
+                "浴袍",
+                "阿米巴"
+            ]
+        },
+        {
+            "cards": [
+                "家居服",
+                "薄的",
+                "苗条的",
+                "拖鞋",
+                "电线",
+                "台阶"
+            ]
+        },
+        {
+            "cards": [
+                "品质",
+                "细菌",
+                "扶手",
+                "和平",
+                "大会",
+                "龙",
+                "微生物"
+            ]
+        }
+    ]
+}

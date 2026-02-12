@@ -1,0 +1,369 @@
+{
+    "levelId": 154,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "宾客",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主人",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒店",
+                    "icon": false
+                },
+                {
+                    "wordId": "欢迎",
+                    "icon": false
+                },
+                {
+                    "wordId": "问候",
+                    "icon": false
+                },
+                {
+                    "wordId": "派对",
+                    "icon": false
+                },
+                {
+                    "wordId": "访客",
+                    "icon": false
+                },
+                {
+                    "wordId": "活动",
+                    "icon": false
+                },
+                {
+                    "wordId": "邀请",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "和弦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "和声",
+                    "icon": false
+                },
+                {
+                    "wordId": "音符",
+                    "icon": false
+                },
+                {
+                    "wordId": "音阶",
+                    "icon": false
+                },
+                {
+                    "wordId": "八度",
+                    "icon": false
+                },
+                {
+                    "wordId": "音程",
+                    "icon": false
+                },
+                {
+                    "wordId": "大调",
+                    "icon": false
+                },
+                {
+                    "wordId": "小调",
+                    "icon": false
+                },
+                {
+                    "wordId": "弹奏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "安全气囊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "碰撞",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全",
+                    "icon": false
+                },
+                {
+                    "wordId": "充气",
+                    "icon": false
+                },
+                {
+                    "wordId": "感测器",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽车",
+                    "icon": false
+                },
+                {
+                    "wordId": "预防",
+                    "icon": false
+                },
+                {
+                    "wordId": "撞击",
+                    "icon": false
+                },
+                {
+                    "wordId": "事故",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙漠商队",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行李",
+                    "icon": true
+                },
+                {
+                    "wordId": "骆驼",
+                    "icon": true
+                },
+                {
+                    "wordId": "鞍具",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙丘",
+                    "icon": true
+                },
+                {
+                    "wordId": "棕榈树",
+                    "icon": true
+                },
+                {
+                    "wordId": "脚印",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "环",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "光环",
+                    "icon": false
+                },
+                {
+                    "wordId": "拳击",
+                    "icon": false
+                },
+                {
+                    "wordId": "手镯",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "月虹",
+                    "icon": false
+                },
+                {
+                    "wordId": "箍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面纱",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼吸管",
+                    "icon": false
+                },
+                {
+                    "wordId": "忍者",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂欢节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钥匙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "房门",
+                    "icon": true
+                },
+                {
+                    "wordId": "邮箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "车门",
+                    "icon": true
+                },
+                {
+                    "wordId": "行李锁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "密封",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "信封",
+                    "icon": false
+                },
+                {
+                    "wordId": "合同",
+                    "icon": false
+                },
+                {
+                    "wordId": "法令",
+                    "icon": false
+                },
+                {
+                    "wordId": "遗嘱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信仰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神圣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "念珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿门",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "插座",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "插头",
+                    "icon": false
+                },
+                {
+                    "wordId": "充电",
+                    "icon": false
+                },
+                {
+                    "wordId": "电压",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "八度",
+        "密封",
+        "阿门",
+        "访客",
+        "和弦",
+        "狂欢节",
+        "邀请",
+        "大调",
+        "圆圈",
+        "感测器",
+        "预防",
+        "月虹",
+        "房门",
+        "碰撞",
+        "派对",
+        "充电",
+        "主人",
+        "拳击",
+        "充气",
+        "弹奏",
+        "沙丘",
+        "棕榈树",
+        "撞击",
+        "事故",
+        "行李锁",
+        "酒店",
+        "问候",
+        "手镯",
+        "车门",
+        "合同",
+        "安全",
+        "忍者",
+        "钥匙",
+        "音阶",
+        "电压",
+        "邮箱",
+        "沙漠商队",
+        "小调",
+        "鞍具",
+        "环",
+        "光环",
+        "骆驼"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "念珠",
+                "神圣的",
+                "和声",
+                "面具"
+            ]
+        },
+        {
+            "cards": [
+                "宾客",
+                "行李",
+                "箍",
+                "信封",
+                "遗嘱"
+            ]
+        },
+        {
+            "cards": [
+                "汽车",
+                "音程",
+                "法令",
+                "脚印",
+                "欢迎",
+                "音符"
+            ]
+        },
+        {
+            "cards": [
+                "安全气囊",
+                "信仰",
+                "插头",
+                "呼吸管",
+                "插座",
+                "活动",
+                "面纱"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "levelId": 102,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "女性相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "项链",
+                    "icon": true
+                },
+                {
+                    "wordId": "连衣裙",
+                    "icon": true
+                },
+                {
+                    "wordId": "高跟鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "口红",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳环",
+                    "icon": true
+                },
+                {
+                    "wordId": "手提包",
+                    "icon": true
+                },
+                {
+                    "wordId": "指甲油",
+                    "icon": true
+                },
+                {
+                    "wordId": "香水",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "工作者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "职业",
+                    "icon": false
+                },
+                {
+                    "wordId": "车间",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮班",
+                    "icon": false
+                },
+                {
+                    "wordId": "职员",
+                    "icon": false
+                },
+                {
+                    "wordId": "农民",
+                    "icon": false
+                },
+                {
+                    "wordId": "工匠",
+                    "icon": false
+                },
+                {
+                    "wordId": "办公室",
+                    "icon": false
+                },
+                {
+                    "wordId": "任务",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "学生",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笔记本",
+                    "icon": false
+                },
+                {
+                    "wordId": "铅笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "教科书",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙漠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙丘",
+                    "icon": true
+                },
+                {
+                    "wordId": "仙人掌",
+                    "icon": true
+                },
+                {
+                    "wordId": "绿洲",
+                    "icon": true
+                },
+                {
+                    "wordId": "骆驼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "狼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "灰色的",
+                    "icon": false
+                },
+                {
+                    "wordId": "无情的",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛茸茸的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "橘色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橙汁",
+                    "icon": true
+                },
+                {
+                    "wordId": "南瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "办公室",
+        "职员",
+        "毛茸茸的",
+        "铅笔",
+        "轮班",
+        "手提包",
+        "橘色",
+        "钢笔",
+        "农民",
+        "橙汁",
+        "高跟鞋",
+        "南瓜",
+        "工匠",
+        "车间",
+        "沙漠",
+        "无情的",
+        "香水",
+        "灰色的",
+        "骆驼",
+        "女性相关",
+        "职业",
+        "任务",
+        "沙丘",
+        "仙人掌"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "口红",
+                "学生",
+                "工作者"
+            ]
+        },
+        {
+            "cards": [
+                "绿洲",
+                "连衣裙",
+                "狼",
+                "笔记本"
+            ]
+        },
+        {
+            "cards": [
+                "耳环",
+                "火焰",
+                "项链",
+                "指甲油",
+                "教科书"
+            ]
+        }
+    ]
+}

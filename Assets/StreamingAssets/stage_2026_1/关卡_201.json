@@ -1,0 +1,217 @@
+{
+    "levelId": 201,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "极地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "北极熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰屋",
+                    "icon": true
+                },
+                {
+                    "wordId": "因纽特人",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": true
+                },
+                {
+                    "wordId": "极光",
+                    "icon": true
+                },
+                {
+                    "wordId": "光晕",
+                    "icon": true
+                },
+                {
+                    "wordId": "南极",
+                    "icon": true
+                },
+                {
+                    "wordId": "企鹅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "女服务员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "围裙",
+                    "icon": true
+                },
+                {
+                    "wordId": "姓名牌",
+                    "icon": true
+                },
+                {
+                    "wordId": "抹布",
+                    "icon": true
+                },
+                {
+                    "wordId": "点单本",
+                    "icon": true
+                },
+                {
+                    "wordId": "托盘",
+                    "icon": true
+                },
+                {
+                    "wordId": "餐盘",
+                    "icon": true
+                },
+                {
+                    "wordId": "餐桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "小费",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "旅行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巡航",
+                    "icon": false
+                },
+                {
+                    "wordId": "徒步旅行",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅程",
+                    "icon": false
+                },
+                {
+                    "wordId": "航行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "虚拟现实",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "控制杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "头戴设备",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜片",
+                    "icon": false
+                },
+                {
+                    "wordId": "感测器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饰面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "油漆",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰泥",
+                    "icon": false
+                },
+                {
+                    "wordId": "石膏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "称谓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "先生",
+                    "icon": false
+                },
+                {
+                    "wordId": "女士",
+                    "icon": false
+                },
+                {
+                    "wordId": "夫人",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "夫人",
+        "因纽特人",
+        "北极熊",
+        "控制杆",
+        "石膏",
+        "小费",
+        "头戴设备",
+        "巡航",
+        "围裙",
+        "光晕",
+        "餐桌",
+        "感测器",
+        "称谓",
+        "南极",
+        "镜片",
+        "女服务员",
+        "先生",
+        "旅程",
+        "女士",
+        "姓名牌",
+        "冰川",
+        "饰面",
+        "灰泥",
+        "油漆"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "航行",
+                "虚拟现实",
+                "极光"
+            ]
+        },
+        {
+            "cards": [
+                "徒步旅行",
+                "餐盘",
+                "极地",
+                "冰屋"
+            ]
+        },
+        {
+            "cards": [
+                "企鹅",
+                "点单本",
+                "托盘",
+                "旅行",
+                "抹布"
+            ]
+        }
+    ]
+}

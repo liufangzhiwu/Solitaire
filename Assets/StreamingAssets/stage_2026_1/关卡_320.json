@@ -1,0 +1,369 @@
+{
+    "levelId": 320,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "一",
+                    "icon": true
+                },
+                {
+                    "wordId": "二",
+                    "icon": true
+                },
+                {
+                    "wordId": "三",
+                    "icon": true
+                },
+                {
+                    "wordId": "四",
+                    "icon": true
+                },
+                {
+                    "wordId": "五",
+                    "icon": true
+                },
+                {
+                    "wordId": "六",
+                    "icon": true
+                },
+                {
+                    "wordId": "七",
+                    "icon": true
+                },
+                {
+                    "wordId": "八",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "原子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氦",
+                    "icon": false
+                },
+                {
+                    "wordId": "锂",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳",
+                    "icon": false
+                },
+                {
+                    "wordId": "氖",
+                    "icon": false
+                },
+                {
+                    "wordId": "氧",
+                    "icon": false
+                },
+                {
+                    "wordId": "硫",
+                    "icon": false
+                },
+                {
+                    "wordId": "氩",
+                    "icon": false
+                },
+                {
+                    "wordId": "硼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "正义",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "禁忌",
+                    "icon": false
+                },
+                {
+                    "wordId": "法律",
+                    "icon": false
+                },
+                {
+                    "wordId": "伦理",
+                    "icon": false
+                },
+                {
+                    "wordId": "道德",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶习",
+                    "icon": false
+                },
+                {
+                    "wordId": "犯罪",
+                    "icon": false
+                },
+                {
+                    "wordId": "法外之徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "法官",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时辰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄昏",
+                    "icon": false
+                },
+                {
+                    "wordId": "正午",
+                    "icon": false
+                },
+                {
+                    "wordId": "早晨",
+                    "icon": false
+                },
+                {
+                    "wordId": "傍晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "午夜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "复活节",
+                    "icon": false
+                },
+                {
+                    "wordId": "斋月",
+                    "icon": false
+                },
+                {
+                    "wordId": "排灯节",
+                    "icon": false
+                },
+                {
+                    "wordId": "光明节",
+                    "icon": false
+                },
+                {
+                    "wordId": "宽扎节",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡里节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "角度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锐角",
+                    "icon": false
+                },
+                {
+                    "wordId": "钝角",
+                    "icon": false
+                },
+                {
+                    "wordId": "直角",
+                    "icon": false
+                },
+                {
+                    "wordId": "斜角",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烘焙原料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "香草",
+                    "icon": true
+                },
+                {
+                    "wordId": "可可粉",
+                    "icon": true
+                },
+                {
+                    "wordId": "黄油",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡蛋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "人声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "女高音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米",
+                    "icon": false
+                },
+                {
+                    "wordId": "升",
+                    "icon": false
+                },
+                {
+                    "wordId": "克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星期一",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期五",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期日",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "法外之徒",
+        "四",
+        "节日",
+        "二",
+        "早晨",
+        "女高音",
+        "碳",
+        "锐角",
+        "禁忌",
+        "斋月",
+        "星期一",
+        "星期日",
+        "克",
+        "升",
+        "斜角",
+        "烘焙原料",
+        "复活节",
+        "氧",
+        "鸡蛋",
+        "直角",
+        "法官",
+        "排灯节",
+        "八",
+        "犯罪",
+        "黄油",
+        "男高音",
+        "胡里节",
+        "正义",
+        "可可粉",
+        "星期五",
+        "钝角",
+        "午夜",
+        "黄昏",
+        "米",
+        "香草",
+        "原子",
+        "黎明",
+        "数字",
+        "一",
+        "氦",
+        "六",
+        "硼"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "道德",
+                "女低音",
+                "伦理",
+                "星期"
+            ]
+        },
+        {
+            "cards": [
+                "人声",
+                "氩",
+                "时辰",
+                "男低音",
+                "光明节"
+            ]
+        },
+        {
+            "cards": [
+                "五",
+                "单位",
+                "恶习",
+                "傍晚",
+                "角度",
+                "法律"
+            ]
+        },
+        {
+            "cards": [
+                "正午",
+                "七",
+                "硫",
+                "宽扎节",
+                "锂",
+                "氖",
+                "三"
+            ]
+        }
+    ]
+}

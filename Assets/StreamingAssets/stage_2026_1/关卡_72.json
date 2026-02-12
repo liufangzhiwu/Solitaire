@@ -1,0 +1,217 @@
+{
+    "levelId": 72,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "杂货店",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "货架通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "零售",
+                    "icon": false
+                },
+                {
+                    "wordId": "饮料",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳制品",
+                    "icon": false
+                },
+                {
+                    "wordId": "水果",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉类",
+                    "icon": false
+                },
+                {
+                    "wordId": "收银员",
+                    "icon": false
+                },
+                {
+                    "wordId": "收据",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纹身",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "墨水",
+                    "icon": false
+                },
+                {
+                    "wordId": "针",
+                    "icon": false
+                },
+                {
+                    "wordId": "椅子",
+                    "icon": false
+                },
+                {
+                    "wordId": "艺术家",
+                    "icon": false
+                },
+                {
+                    "wordId": "疼痛",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮肤",
+                    "icon": false
+                },
+                {
+                    "wordId": "图案",
+                    "icon": false
+                },
+                {
+                    "wordId": "设计",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜘蛛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛛网",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛛形纲动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒液",
+                    "icon": false
+                },
+                {
+                    "wordId": "卵囊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颈饰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "围巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "领带",
+                    "icon": true
+                },
+                {
+                    "wordId": "领结",
+                    "icon": true
+                },
+                {
+                    "wordId": "项圈",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "新闻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "文章",
+                    "icon": false
+                },
+                {
+                    "wordId": "新闻界",
+                    "icon": false
+                },
+                {
+                    "wordId": "突发新闻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "香水",
+                    "icon": false
+                },
+                {
+                    "wordId": "精华",
+                    "icon": false
+                },
+                {
+                    "wordId": "芳香",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "领带",
+        "项圈",
+        "文章",
+        "突发新闻",
+        "水果",
+        "收据",
+        "蛛形纲动物",
+        "新闻界",
+        "精华",
+        "货架通道",
+        "杂货店",
+        "图案",
+        "椅子",
+        "疼痛",
+        "艺术家",
+        "收银员",
+        "饮料",
+        "针",
+        "气味",
+        "零售",
+        "芳香",
+        "香水",
+        "围巾",
+        "纹身"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "墨水",
+                "蛛网",
+                "新闻"
+            ]
+        },
+        {
+            "cards": [
+                "颈饰",
+                "毒液",
+                "领结",
+                "蜘蛛"
+            ]
+        },
+        {
+            "cards": [
+                "肉类",
+                "皮肤",
+                "乳制品",
+                "设计",
+                "卵囊"
+            ]
+        }
+    ]
+}

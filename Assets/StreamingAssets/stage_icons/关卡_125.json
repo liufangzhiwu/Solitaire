@@ -1,0 +1,369 @@
+{
+    "levelId": 125,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "小径",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "徒步",
+                    "icon": false
+                },
+                {
+                    "wordId": "游客",
+                    "icon": false
+                },
+                {
+                    "wordId": "森林",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "露营地",
+                    "icon": false
+                },
+                {
+                    "wordId": "自行车",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "陆路",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "食堂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "用餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "学校",
+                    "icon": false
+                },
+                {
+                    "wordId": "午餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "食物",
+                    "icon": false
+                },
+                {
+                    "wordId": "饮料",
+                    "icon": false
+                },
+                {
+                    "wordId": "孩子",
+                    "icon": false
+                },
+                {
+                    "wordId": "零食",
+                    "icon": false
+                },
+                {
+                    "wordId": "校园",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "收获",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "收割",
+                    "icon": false
+                },
+                {
+                    "wordId": "庄稼",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷物",
+                    "icon": false
+                },
+                {
+                    "wordId": "田地",
+                    "icon": false
+                },
+                {
+                    "wordId": "拖拉机",
+                    "icon": false
+                },
+                {
+                    "wordId": "联合收割机",
+                    "icon": false
+                },
+                {
+                    "wordId": "犁",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷仓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "搅拌器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混合",
+                    "icon": false
+                },
+                {
+                    "wordId": "揉捏",
+                    "icon": false
+                },
+                {
+                    "wordId": "搅拌",
+                    "icon": false
+                },
+                {
+                    "wordId": "搅打",
+                    "icon": false
+                },
+                {
+                    "wordId": "烹饪",
+                    "icon": false
+                },
+                {
+                    "wordId": "烘焙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "味道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咸的",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸涩的",
+                    "icon": false
+                },
+                {
+                    "wordId": "有风味的",
+                    "icon": false
+                },
+                {
+                    "wordId": "可口的",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉味的",
+                    "icon": false
+                },
+                {
+                    "wordId": "苦的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "野生",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "生命",
+                    "icon": false
+                },
+                {
+                    "wordId": "野兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "栖息地",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纹理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纱线",
+                    "icon": false
+                },
+                {
+                    "wordId": "组织",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "绒毛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日落",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阳光",
+                    "icon": true
+                },
+                {
+                    "wordId": "天空",
+                    "icon": true
+                },
+                {
+                    "wordId": "海滩",
+                    "icon": true
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "运送",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "递送",
+                    "icon": false
+                },
+                {
+                    "wordId": "运输",
+                    "icon": false
+                },
+                {
+                    "wordId": "货运",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梳子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头发",
+                    "icon": true
+                },
+                {
+                    "wordId": "刷子",
+                    "icon": true
+                },
+                {
+                    "wordId": "梳理",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "搅拌",
+        "烹饪",
+        "咸的",
+        "食堂",
+        "运输",
+        "货运",
+        "食物",
+        "海滩",
+        "徒步",
+        "小径",
+        "收获",
+        "犁",
+        "栖息地",
+        "森林",
+        "天空",
+        "混合",
+        "运送",
+        "饮料",
+        "零食",
+        "毛孔",
+        "动物",
+        "纱线",
+        "野兽",
+        "烘焙",
+        "陆路",
+        "梳理",
+        "味道",
+        "午餐",
+        "用餐",
+        "有风味的",
+        "田地",
+        "组织",
+        "苦的",
+        "揉捏",
+        "搅打",
+        "露营地",
+        "头发",
+        "谷仓",
+        "生命",
+        "拖拉机",
+        "刷子",
+        "阳光"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "可口的",
+                "学校",
+                "校园",
+                "搅拌器"
+            ]
+        },
+        {
+            "cards": [
+                "收割",
+                "梳子",
+                "轨道",
+                "孩子",
+                "海洋"
+            ]
+        },
+        {
+            "cards": [
+                "联合收割机",
+                "野生",
+                "肉味的",
+                "日落",
+                "庄稼",
+                "滑雪"
+            ]
+        },
+        {
+            "cards": [
+                "谷物",
+                "纹理",
+                "游客",
+                "酸涩的",
+                "自行车",
+                "绒毛",
+                "递送"
+            ]
+        }
+    ]
+}

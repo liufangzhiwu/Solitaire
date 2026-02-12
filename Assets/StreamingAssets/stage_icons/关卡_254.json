@@ -1,0 +1,553 @@
+{
+    "levelId": 254,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "上司",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "董事",
+                    "icon": false
+                },
+                {
+                    "wordId": "掌权者",
+                    "icon": false
+                },
+                {
+                    "wordId": "将军",
+                    "icon": false
+                },
+                {
+                    "wordId": "首领",
+                    "icon": false
+                },
+                {
+                    "wordId": "领导",
+                    "icon": false
+                },
+                {
+                    "wordId": "管理",
+                    "icon": false
+                },
+                {
+                    "wordId": "控制",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "回答",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "反驳",
+                    "icon": false
+                },
+                {
+                    "wordId": "是的",
+                    "icon": false
+                },
+                {
+                    "wordId": "敲门",
+                    "icon": false
+                },
+                {
+                    "wordId": "耸肩",
+                    "icon": false
+                },
+                {
+                    "wordId": "回应",
+                    "icon": false
+                },
+                {
+                    "wordId": "反应",
+                    "icon": false
+                },
+                {
+                    "wordId": "答复",
+                    "icon": false
+                },
+                {
+                    "wordId": "解决方案",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "作家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梅尔维尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥斯汀",
+                    "icon": false
+                },
+                {
+                    "wordId": "托尔斯泰",
+                    "icon": false
+                },
+                {
+                    "wordId": "狄更斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡夫卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "契诃夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞林格",
+                    "icon": false
+                },
+                {
+                    "wordId": "福克纳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爬行动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜥蜴",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯门鳄",
+                    "icon": false
+                },
+                {
+                    "wordId": "龟",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬣蜥",
+                    "icon": false
+                },
+                {
+                    "wordId": "石龙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝰蛇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱琴海",
+                    "icon": false
+                },
+                {
+                    "wordId": "波罗的海",
+                    "icon": false
+                },
+                {
+                    "wordId": "里海",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚得里亚海",
+                    "icon": false
+                },
+                {
+                    "wordId": "红海",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑海",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灯笼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜡烛",
+                    "icon": true
+                },
+                {
+                    "wordId": "油灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "火炬",
+                    "icon": true
+                },
+                {
+                    "wordId": "信标",
+                    "icon": true
+                },
+                {
+                    "wordId": "头灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "手电筒",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "吉他",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "原声吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "电吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "12弦吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "拱面吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝斯吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "尤克里里",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "海盗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝藏",
+                    "icon": true
+                },
+                {
+                    "wordId": "大炮",
+                    "icon": true
+                },
+                {
+                    "wordId": "眼罩",
+                    "icon": true
+                },
+                {
+                    "wordId": "木腿",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "复活节",
+                    "icon": false
+                },
+                {
+                    "wordId": "耶诞节",
+                    "icon": false
+                },
+                {
+                    "wordId": "光明节",
+                    "icon": false
+                },
+                {
+                    "wordId": "斋月",
+                    "icon": false
+                },
+                {
+                    "wordId": "新年",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "音乐类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爵士乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝调",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "探戈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "树木",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橡树",
+                    "icon": false
+                },
+                {
+                    "wordId": "松树",
+                    "icon": false
+                },
+                {
+                    "wordId": "桦树",
+                    "icon": false
+                },
+                {
+                    "wordId": "榆树",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "坐骑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马",
+                    "icon": false
+                },
+                {
+                    "wordId": "羊驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "骆驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "驴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "棍状物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "指挥棒",
+                    "icon": false
+                },
+                {
+                    "wordId": "权杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "杆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "货币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "美元",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧元",
+                    "icon": false
+                },
+                {
+                    "wordId": "日元",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "炼金术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "万能药",
+                    "icon": false
+                },
+                {
+                    "wordId": "坩埚",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "药水",
+        "爬行动物",
+        "眼罩",
+        "蝰蛇",
+        "控制",
+        "海盗",
+        "管理",
+        "炼金术",
+        "权杖",
+        "蜥蜴",
+        "回答",
+        "福克纳",
+        "贝斯吉他",
+        "羊驼",
+        "里海",
+        "桦树",
+        "信标",
+        "反驳",
+        "灯笼",
+        "耸肩",
+        "石龙子",
+        "杆",
+        "斋月",
+        "头儿",
+        "狄更斯",
+        "拱面吉他",
+        "美元",
+        "爱琴海",
+        "壁虎",
+        "魔杖",
+        "敲门",
+        "棍状物",
+        "首领",
+        "卡夫卡",
+        "塞林格",
+        "梅尔维尔",
+        "黑海",
+        "尤克里里",
+        "亚得里亚海",
+        "龟",
+        "榆树",
+        "新年",
+        "欧元",
+        "领导",
+        "红海",
+        "凯门鳄",
+        "原声吉他",
+        "作家",
+        "歌剧",
+        "托尔斯泰",
+        "蜡烛",
+        "蓝调",
+        "万能药",
+        "鹦鹉",
+        "手电筒",
+        "12弦吉他",
+        "是的",
+        "探戈",
+        "解决方案",
+        "大炮",
+        "松树",
+        "契诃夫",
+        "光明节"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "鬣蜥",
+                "宝藏",
+                "吉他",
+                "油灯",
+                "木腿"
+            ]
+        },
+        {
+            "cards": [
+                "音乐类型",
+                "日元",
+                "复活节",
+                "奥斯汀",
+                "指挥棒",
+                "答复"
+            ]
+        },
+        {
+            "cards": [
+                "坩埚",
+                "骆驼",
+                "树木",
+                "波罗的海",
+                "回应",
+                "节日",
+                "耶诞节"
+            ]
+        },
+        {
+            "cards": [
+                "头灯",
+                "驴",
+                "爵士乐",
+                "将军",
+                "货币",
+                "橡树",
+                "电吉他",
+                "火炬"
+            ]
+        },
+        {
+            "cards": [
+                "海洋",
+                "掌权者",
+                "桑巴",
+                "董事",
+                "马",
+                "上司",
+                "坐骑",
+                "蛇",
+                "反应"
+            ]
+        }
+    ]
+}

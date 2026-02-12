@@ -1,0 +1,369 @@
+{
+    "levelId": 129,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "植物学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "种子",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶柄",
+                    "icon": false
+                },
+                {
+                    "wordId": "根",
+                    "icon": false
+                },
+                {
+                    "wordId": "雄蕊",
+                    "icon": false
+                },
+                {
+                    "wordId": "花蕾",
+                    "icon": false
+                },
+                {
+                    "wordId": "心皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "花瓣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "住宅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宅邸",
+                    "icon": false
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": false
+                },
+                {
+                    "wordId": "宫殿",
+                    "icon": false
+                },
+                {
+                    "wordId": "山间小屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "平房",
+                    "icon": false
+                },
+                {
+                    "wordId": "村舍",
+                    "icon": false
+                },
+                {
+                    "wordId": "复式住宅",
+                    "icon": false
+                },
+                {
+                    "wordId": "小屋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "腿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大腿",
+                    "icon": false
+                },
+                {
+                    "wordId": "膝盖",
+                    "icon": false
+                },
+                {
+                    "wordId": "小腿",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚踝",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚",
+                    "icon": false
+                },
+                {
+                    "wordId": "胫骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚跟",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚趾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "西班牙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马德里",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗拉明戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙海鲜饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "午睡",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔帕斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞维利亚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行李",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手提箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "背包",
+                    "icon": true
+                },
+                {
+                    "wordId": "旅行箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "西装袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "手提袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "手袋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "风暴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷",
+                    "icon": false
+                },
+                {
+                    "wordId": "风",
+                    "icon": false
+                },
+                {
+                    "wordId": "云",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "命运",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "厄运",
+                    "icon": false
+                },
+                {
+                    "wordId": "天命",
+                    "icon": false
+                },
+                {
+                    "wordId": "业力",
+                    "icon": false
+                },
+                {
+                    "wordId": "运气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜥蜴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "壁虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "变色龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "科莫多龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "鬣蜥",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "摇滚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "硬摇滚",
+                    "icon": false
+                },
+                {
+                    "wordId": "独立摇滚",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇滚乐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "查找",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "发现",
+                    "icon": false
+                },
+                {
+                    "wordId": "注意到",
+                    "icon": false
+                },
+                {
+                    "wordId": "探测到",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "摇滚",
+        "种子",
+        "宫殿",
+        "小屋",
+        "厄运",
+        "探测到",
+        "腿",
+        "心皮",
+        "午睡",
+        "大腿",
+        "塞维利亚",
+        "马德里",
+        "变色龙",
+        "业力",
+        "运气",
+        "鬣蜥",
+        "塔帕斯",
+        "发现",
+        "手袋",
+        "脚踝",
+        "叶柄",
+        "平房",
+        "复式住宅",
+        "胫骨",
+        "云",
+        "雄蕊",
+        "刺",
+        "天命",
+        "行李",
+        "膝盖",
+        "雷",
+        "住宅",
+        "雨",
+        "脚跟",
+        "村舍",
+        "查找",
+        "科莫多龙",
+        "弗拉明戈",
+        "注意到",
+        "花瓣",
+        "手提袋",
+        "壁虎"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "西装袋",
+                "根",
+                "蜥蜴",
+                "风"
+            ]
+        },
+        {
+            "cards": [
+                "山间小屋",
+                "小腿",
+                "摇滚乐",
+                "脚趾",
+                "西班牙海鲜饭"
+            ]
+        },
+        {
+            "cards": [
+                "植物学",
+                "旅行箱",
+                "独立摇滚",
+                "硬摇滚",
+                "花蕾",
+                "手提箱"
+            ]
+        },
+        {
+            "cards": [
+                "宅邸",
+                "背包",
+                "脚",
+                "西班牙",
+                "命运",
+                "城堡",
+                "风暴"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 95,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "豆类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小扁豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "花生",
+                    "icon": true
+                },
+                {
+                    "wordId": "大豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "羽扇豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "三叶草",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹰嘴豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "瓜尔豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "苜蓿",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "瑕疵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缺陷",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛病",
+                    "icon": false
+                },
+                {
+                    "wordId": "损伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂痕",
+                    "icon": false
+                },
+                {
+                    "wordId": "污点",
+                    "icon": false
+                },
+                {
+                    "wordId": "缺点",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "纰漏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花香调",
+                    "icon": false
+                },
+                {
+                    "wordId": "木质调",
+                    "icon": false
+                },
+                {
+                    "wordId": "清新调",
+                    "icon": false
+                },
+                {
+                    "wordId": "柑橘调",
+                    "icon": false
+                },
+                {
+                    "wordId": "琥珀调",
+                    "icon": false
+                },
+                {
+                    "wordId": "西普调",
+                    "icon": false
+                },
+                {
+                    "wordId": "东方调",
+                    "icon": false
+                },
+                {
+                    "wordId": "麝香调",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酒店",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女服务员",
+                    "icon": false
+                },
+                {
+                    "wordId": "房间",
+                    "icon": false
+                },
+                {
+                    "wordId": "床",
+                    "icon": false
+                },
+                {
+                    "wordId": "行李员",
+                    "icon": false
+                },
+                {
+                    "wordId": "房卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "入住",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "身体接触",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轻拍",
+                    "icon": false
+                },
+                {
+                    "wordId": "拥抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "触摸",
+                    "icon": false
+                },
+                {
+                    "wordId": "搜身",
+                    "icon": false
+                },
+                {
+                    "wordId": "推搡",
+                    "icon": false
+                },
+                {
+                    "wordId": "掌掴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "织物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛仔布",
+                    "icon": false
+                },
+                {
+                    "wordId": "花呢",
+                    "icon": false
+                },
+                {
+                    "wordId": "格子呢",
+                    "icon": false
+                },
+                {
+                    "wordId": "缎子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "3D形状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "立方体",
+                    "icon": true
+                },
+                {
+                    "wordId": "球体",
+                    "icon": true
+                },
+                {
+                    "wordId": "圆锥体",
+                    "icon": true
+                },
+                {
+                    "wordId": "环面",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "交通工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火车",
+                    "icon": true
+                },
+                {
+                    "wordId": "船",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴士",
+                    "icon": true
+                },
+                {
+                    "wordId": "汽车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "姓名",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "名",
+                    "icon": false
+                },
+                {
+                    "wordId": "姓",
+                    "icon": false
+                },
+                {
+                    "wordId": "中间名",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "治疗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "医院",
+                    "icon": false
+                },
+                {
+                    "wordId": "药物",
+                    "icon": false
+                },
+                {
+                    "wordId": "医生",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "环面",
+        "纰漏",
+        "身体接触",
+        "酒店",
+        "清新调",
+        "圆锥体",
+        "漏洞",
+        "房卡",
+        "立方体",
+        "姓",
+        "床",
+        "拥抱",
+        "毛病",
+        "污点",
+        "名",
+        "格子呢",
+        "房间",
+        "搜身",
+        "药物",
+        "推搡",
+        "损伤",
+        "治疗",
+        "巴士",
+        "触摸",
+        "轻拍",
+        "中间名",
+        "裂痕",
+        "麝香调",
+        "缺陷",
+        "小扁豆",
+        "三叶草",
+        "西普调",
+        "木质调",
+        "大豆",
+        "花生",
+        "瓜尔豆",
+        "香水",
+        "火车",
+        "船",
+        "行李员",
+        "琥珀调",
+        "织物"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "柑橘调",
+                "汽车",
+                "缎子",
+                "花香调"
+            ]
+        },
+        {
+            "cards": [
+                "羽扇豆",
+                "入住",
+                "牛仔布",
+                "豆类",
+                "女服务员"
+            ]
+        },
+        {
+            "cards": [
+                "瑕疵",
+                "苜蓿",
+                "鹰嘴豆",
+                "花呢",
+                "球体",
+                "医院"
+            ]
+        },
+        {
+            "cards": [
+                "交通工具",
+                "东方调",
+                "掌掴",
+                "3D形状",
+                "缺点",
+                "姓名",
+                "医生"
+            ]
+        }
+    ]
+}

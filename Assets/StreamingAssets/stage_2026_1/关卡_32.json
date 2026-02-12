@@ -1,0 +1,217 @@
+{
+    "levelId": 32,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "小吃",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "披萨",
+                    "icon": true
+                },
+                {
+                    "wordId": "塔可",
+                    "icon": true
+                },
+                {
+                    "wordId": "薯条",
+                    "icon": true
+                },
+                {
+                    "wordId": "汉堡",
+                    "icon": true
+                },
+                {
+                    "wordId": "烤肉串",
+                    "icon": true
+                },
+                {
+                    "wordId": "三明治",
+                    "icon": true
+                },
+                {
+                    "wordId": "卷饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "热狗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "路标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "让行",
+                    "icon": false
+                },
+                {
+                    "wordId": "距离",
+                    "icon": false
+                },
+                {
+                    "wordId": "路线",
+                    "icon": false
+                },
+                {
+                    "wordId": "小路",
+                    "icon": false
+                },
+                {
+                    "wordId": "路径",
+                    "icon": false
+                },
+                {
+                    "wordId": "箭头",
+                    "icon": false
+                },
+                {
+                    "wordId": "禁止进入",
+                    "icon": false
+                },
+                {
+                    "wordId": "车道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "月相",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "新月",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛾眉月",
+                    "icon": false
+                },
+                {
+                    "wordId": "满月",
+                    "icon": false
+                },
+                {
+                    "wordId": "凸月",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "秋季",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "落叶",
+                    "icon": false
+                },
+                {
+                    "wordId": "南瓜",
+                    "icon": false
+                },
+                {
+                    "wordId": "橡果",
+                    "icon": false
+                },
+                {
+                    "wordId": "金黄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "OK手势",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "同意",
+                    "icon": false
+                },
+                {
+                    "wordId": "好的",
+                    "icon": false
+                },
+                {
+                    "wordId": "是的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "风扇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吹风",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋转",
+                    "icon": false
+                },
+                {
+                    "wordId": "转动",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "小路",
+        "卷饼",
+        "车道",
+        "满月",
+        "月相",
+        "蛾眉月",
+        "三明治",
+        "小吃",
+        "好的",
+        "橡果",
+        "金黄",
+        "让行",
+        "箭头",
+        "禁止进入",
+        "是的",
+        "距离",
+        "OK手势",
+        "热狗",
+        "烤肉串",
+        "凸月",
+        "同意",
+        "落叶",
+        "薯条",
+        "路径"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "新月",
+                "秋季",
+                "汉堡"
+            ]
+        },
+        {
+            "cards": [
+                "吹风",
+                "风扇",
+                "南瓜",
+                "转动"
+            ]
+        },
+        {
+            "cards": [
+                "披萨",
+                "路标",
+                "塔可",
+                "路线",
+                "旋转"
+            ]
+        }
+    ]
+}

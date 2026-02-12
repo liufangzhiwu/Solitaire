@@ -1,0 +1,217 @@
+{
+    "levelId": 355,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "椅子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摇椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "办公椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "餐椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "折叠椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "躺椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "豆袋椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "安乐椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "翼背椅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "植物学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "种子",
+                    "icon": false
+                },
+                {
+                    "wordId": "雌蕊",
+                    "icon": false
+                },
+                {
+                    "wordId": "雄蕊",
+                    "icon": false
+                },
+                {
+                    "wordId": "花瓣",
+                    "icon": false
+                },
+                {
+                    "wordId": "花粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "萼片",
+                    "icon": false
+                },
+                {
+                    "wordId": "花蕾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "八卦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谣言",
+                    "icon": false
+                },
+                {
+                    "wordId": "丑闻",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳语",
+                    "icon": false
+                },
+                {
+                    "wordId": "闲话",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骨头",
+                    "icon": false
+                },
+                {
+                    "wordId": "琥珀",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙齿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "木工",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斧头",
+                    "icon": true
+                },
+                {
+                    "wordId": "链锯",
+                    "icon": true
+                },
+                {
+                    "wordId": "镰刀",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "漫画",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日本漫画",
+                    "icon": false
+                },
+                {
+                    "wordId": "漫威",
+                    "icon": false
+                },
+                {
+                    "wordId": "DC漫画",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "镰刀",
+        "刺",
+        "骨头",
+        "翼背椅",
+        "漫画",
+        "花粉",
+        "日本漫画",
+        "豆袋椅",
+        "DC漫画",
+        "琥珀",
+        "谣言",
+        "萼片",
+        "八卦",
+        "花瓣",
+        "化石",
+        "躺椅",
+        "雌蕊",
+        "耳语",
+        "链锯",
+        "丑闻",
+        "花蕾",
+        "办公椅",
+        "摇椅",
+        "折叠椅"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "牙齿",
+                "餐椅",
+                "贝壳"
+            ]
+        },
+        {
+            "cards": [
+                "漫威",
+                "安乐椅",
+                "雄蕊",
+                "闲话"
+            ]
+        },
+        {
+            "cards": [
+                "种子",
+                "木工",
+                "植物学",
+                "椅子",
+                "斧头"
+            ]
+        }
+    ]
+}

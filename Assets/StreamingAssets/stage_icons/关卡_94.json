@@ -1,0 +1,369 @@
+{
+    "levelId": 94,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "毛绒材质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泡沫",
+                    "icon": true
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": true
+                },
+                {
+                    "wordId": "云朵",
+                    "icon": true
+                },
+                {
+                    "wordId": "棉花",
+                    "icon": true
+                },
+                {
+                    "wordId": "雪",
+                    "icon": true
+                },
+                {
+                    "wordId": "皮毛",
+                    "icon": true
+                },
+                {
+                    "wordId": "绒球",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊驼毛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "财产",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "房子",
+                    "icon": true
+                },
+                {
+                    "wordId": "金钱",
+                    "icon": true
+                },
+                {
+                    "wordId": "公寓",
+                    "icon": true
+                },
+                {
+                    "wordId": "股票",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝石",
+                    "icon": true
+                },
+                {
+                    "wordId": "加密货币",
+                    "icon": true
+                },
+                {
+                    "wordId": "游艇",
+                    "icon": true
+                },
+                {
+                    "wordId": "土地",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "声响",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘶嘶声",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘘声",
+                    "icon": false
+                },
+                {
+                    "wordId": "喇叭声",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗡嗡声",
+                    "icon": false
+                },
+                {
+                    "wordId": "哭喊声",
+                    "icon": false
+                },
+                {
+                    "wordId": "叮当声",
+                    "icon": false
+                },
+                {
+                    "wordId": "滋滋声",
+                    "icon": false
+                },
+                {
+                    "wordId": "劈啪声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "足球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盘带",
+                    "icon": false
+                },
+                {
+                    "wordId": "点球",
+                    "icon": false
+                },
+                {
+                    "wordId": "红牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "进球",
+                    "icon": false
+                },
+                {
+                    "wordId": "扑救",
+                    "icon": false
+                },
+                {
+                    "wordId": "横梁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高原",
+                    "icon": false
+                },
+                {
+                    "wordId": "盆地",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脊",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰裂隙",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": false
+                },
+                {
+                    "wordId": "山峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瓜类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西葫芦",
+                    "icon": true
+                },
+                {
+                    "wordId": "茄子",
+                    "icon": true
+                },
+                {
+                    "wordId": "南瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "笋瓜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "蛋糕",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奶油",
+                    "icon": false
+                },
+                {
+                    "wordId": "海绵",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖霜",
+                    "icon": false
+                },
+                {
+                    "wordId": "烘焙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "味大的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大蒜",
+                    "icon": false
+                },
+                {
+                    "wordId": "醋",
+                    "icon": false
+                },
+                {
+                    "wordId": "氨水",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭鼬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "制造",
+                    "icon": false
+                },
+                {
+                    "wordId": "加工",
+                    "icon": false
+                },
+                {
+                    "wordId": "机械",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "量词首码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兆",
+                    "icon": false
+                },
+                {
+                    "wordId": "纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "十",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "笋瓜",
+        "西葫芦",
+        "游艇",
+        "房子",
+        "公寓",
+        "土地",
+        "泡沫",
+        "嘶嘶声",
+        "茄子",
+        "金钱",
+        "雪",
+        "喇叭声",
+        "棉花",
+        "量词首码",
+        "云朵",
+        "横梁",
+        "山脊",
+        "纳",
+        "羊驼毛",
+        "烘焙",
+        "盘带",
+        "醋",
+        "财产",
+        "氨水",
+        "宝石",
+        "羽毛",
+        "瓜类",
+        "冰川",
+        "加密货币",
+        "海绵",
+        "山峰",
+        "奶油",
+        "叮当声",
+        "皮毛",
+        "糖霜",
+        "南瓜",
+        "味大的",
+        "嘘声",
+        "进球",
+        "足球",
+        "嗡嗡声",
+        "制造"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "扑救",
+                "臭鼬",
+                "盆地",
+                "加工"
+            ]
+        },
+        {
+            "cards": [
+                "工业",
+                "绒球",
+                "机械",
+                "红牌",
+                "地理"
+            ]
+        },
+        {
+            "cards": [
+                "兆",
+                "滋滋声",
+                "大蒜",
+                "点球",
+                "高原",
+                "哭喊声"
+            ]
+        },
+        {
+            "cards": [
+                "毛绒材质",
+                "蛋糕",
+                "劈啪声",
+                "十",
+                "股票",
+                "冰裂隙",
+                "声响"
+            ]
+        }
+    ]
+}

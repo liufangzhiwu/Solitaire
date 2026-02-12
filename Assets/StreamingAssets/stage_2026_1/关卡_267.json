@@ -1,0 +1,217 @@
+{
+    "levelId": 267,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "节庆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘉年华",
+                    "icon": false
+                },
+                {
+                    "wordId": "游行",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟花",
+                    "icon": false
+                },
+                {
+                    "wordId": "气氛",
+                    "icon": false
+                },
+                {
+                    "wordId": "场合",
+                    "icon": false
+                },
+                {
+                    "wordId": "装扮",
+                    "icon": false
+                },
+                {
+                    "wordId": "节日",
+                    "icon": false
+                },
+                {
+                    "wordId": "时节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "服装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西装外套",
+                    "icon": true
+                },
+                {
+                    "wordId": "束腰外衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "斗篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "裤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "大衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "连帽衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "开衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "背心",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拼图",
+                    "icon": true
+                },
+                {
+                    "wordId": "猜词游戏",
+                    "icon": true
+                },
+                {
+                    "wordId": "数独",
+                    "icon": true
+                },
+                {
+                    "wordId": "跳棋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "海滩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "岸边",
+                    "icon": false
+                },
+                {
+                    "wordId": "海岸",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙滩躺椅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "厨房",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "炉灶",
+                    "icon": false
+                },
+                {
+                    "wordId": "锅铲",
+                    "icon": false
+                },
+                {
+                    "wordId": "滤网",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "办公室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钉书机",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔记本",
+                    "icon": false
+                },
+                {
+                    "wordId": "打印机",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "钉书机",
+        "束腰外衣",
+        "气氛",
+        "海滩",
+        "游戏",
+        "潮汐",
+        "炉灶",
+        "岸边",
+        "厨房",
+        "跳棋",
+        "节日",
+        "斗篷",
+        "装扮",
+        "场合",
+        "拼图",
+        "时节",
+        "大衣",
+        "西装外套",
+        "沙滩躺椅",
+        "嘉年华",
+        "锅铲",
+        "猜词游戏",
+        "笔记本",
+        "连帽衫"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "办公室",
+                "背心",
+                "打印机"
+            ]
+        },
+        {
+            "cards": [
+                "裤子",
+                "滤网",
+                "节庆",
+                "服装"
+            ]
+        },
+        {
+            "cards": [
+                "开衫",
+                "数独",
+                "海岸",
+                "游行",
+                "烟花"
+            ]
+        }
+    ]
+}

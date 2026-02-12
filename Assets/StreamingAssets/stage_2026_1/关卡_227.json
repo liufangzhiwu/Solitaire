@@ -1,0 +1,369 @@
+{
+    "levelId": 227,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "访客",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "客人",
+                    "icon": false
+                },
+                {
+                    "wordId": "游客",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "陌生人",
+                    "icon": false
+                },
+                {
+                    "wordId": "观察者",
+                    "icon": false
+                },
+                {
+                    "wordId": "参会者",
+                    "icon": false
+                },
+                {
+                    "wordId": "受邀者",
+                    "icon": false
+                },
+                {
+                    "wordId": "旁观者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "色调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赭石",
+                    "icon": false
+                },
+                {
+                    "wordId": "碧绿",
+                    "icon": false
+                },
+                {
+                    "wordId": "品红",
+                    "icon": false
+                },
+                {
+                    "wordId": "栗色",
+                    "icon": false
+                },
+                {
+                    "wordId": "靛蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "钴蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "棕土",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛萨拉红",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "忧虑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "怀疑",
+                    "icon": false
+                },
+                {
+                    "wordId": "担忧",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻烦",
+                    "icon": false
+                },
+                {
+                    "wordId": "不安",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧张",
+                    "icon": false
+                },
+                {
+                    "wordId": "颤抖",
+                    "icon": false
+                },
+                {
+                    "wordId": "失眠",
+                    "icon": false
+                },
+                {
+                    "wordId": "叹息",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "凉鞋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拖鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "穆勒鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "木底鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "搭扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "足弓",
+                    "icon": false
+                },
+                {
+                    "wordId": "外底",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "惊喜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "礼物盒",
+                    "icon": true
+                },
+                {
+                    "wordId": "派对表情",
+                    "icon": true
+                },
+                {
+                    "wordId": "五彩纸屑",
+                    "icon": true
+                },
+                {
+                    "wordId": "气球",
+                    "icon": true
+                },
+                {
+                    "wordId": "生日蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟花",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "橄榄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橄榄枝",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄树",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄油",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄园",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "米色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拿铁",
+                    "icon": true
+                },
+                {
+                    "wordId": "风衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙子",
+                    "icon": true
+                },
+                {
+                    "wordId": "骆驼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "盖子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "封口",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞子",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶部",
+                    "icon": false
+                },
+                {
+                    "wordId": "密封",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "英国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "君主制",
+                    "icon": false
+                },
+                {
+                    "wordId": "福尔摩斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "大本钟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "迅捷之物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猎豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "猎鹰",
+                    "icon": true
+                },
+                {
+                    "wordId": "摩托车",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "不安",
+        "紧张",
+        "密封",
+        "橄榄油",
+        "靛蓝",
+        "外底",
+        "猎鹰",
+        "君主制",
+        "栗色",
+        "橄榄枝",
+        "足弓",
+        "拖鞋",
+        "忧虑",
+        "担忧",
+        "英国",
+        "钴蓝",
+        "搭扣",
+        "摩托车",
+        "观察者",
+        "赭石",
+        "品红",
+        "旁观者",
+        "顶部",
+        "大本钟",
+        "风衣",
+        "烟花",
+        "橄榄园",
+        "猎豹",
+        "游客",
+        "颤抖",
+        "橄榄树",
+        "木底鞋",
+        "碧绿",
+        "封口",
+        "派对表情",
+        "沙子",
+        "旅行者",
+        "色调",
+        "橄榄",
+        "礼物盒",
+        "迅捷之物",
+        "塞子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "穆勒鞋",
+                "参会者",
+                "生日蛋糕",
+                "访客"
+            ]
+        },
+        {
+            "cards": [
+                "福尔摩斯",
+                "玛萨拉红",
+                "凉鞋",
+                "米色",
+                "怀疑"
+            ]
+        },
+        {
+            "cards": [
+                "气球",
+                "叹息",
+                "棕土",
+                "惊喜",
+                "骆驼",
+                "客人"
+            ]
+        },
+        {
+            "cards": [
+                "麻烦",
+                "受邀者",
+                "盖子",
+                "五彩纸屑",
+                "陌生人",
+                "失眠",
+                "拿铁"
+            ]
+        }
+    ]
+}

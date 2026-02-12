@@ -1,0 +1,369 @@
+{
+    "levelId": 199,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "城镇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "村庄",
+                    "icon": true
+                },
+                {
+                    "wordId": "银行",
+                    "icon": true
+                },
+                {
+                    "wordId": "工厂",
+                    "icon": true
+                },
+                {
+                    "wordId": "药房",
+                    "icon": true
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": true
+                },
+                {
+                    "wordId": "酒店",
+                    "icon": true
+                },
+                {
+                    "wordId": "教堂",
+                    "icon": true
+                },
+                {
+                    "wordId": "博物馆",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "能力",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "创造",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪避",
+                    "icon": false
+                },
+                {
+                    "wordId": "思考",
+                    "icon": false
+                },
+                {
+                    "wordId": "记忆",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕捉",
+                    "icon": false
+                },
+                {
+                    "wordId": "跟随",
+                    "icon": false
+                },
+                {
+                    "wordId": "推动",
+                    "icon": false
+                },
+                {
+                    "wordId": "探索",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嫉妒",
+                    "icon": false
+                },
+                {
+                    "wordId": "压力大",
+                    "icon": false
+                },
+                {
+                    "wordId": "恼怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "兴奋",
+                    "icon": false
+                },
+                {
+                    "wordId": "觉得有趣",
+                    "icon": false
+                },
+                {
+                    "wordId": "满意",
+                    "icon": false
+                },
+                {
+                    "wordId": "自豪",
+                    "icon": false
+                },
+                {
+                    "wordId": "孤独",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "措辞",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "表达方式",
+                    "icon": false
+                },
+                {
+                    "wordId": "清晰",
+                    "icon": false
+                },
+                {
+                    "wordId": "明确",
+                    "icon": false
+                },
+                {
+                    "wordId": "用词",
+                    "icon": false
+                },
+                {
+                    "wordId": "口音",
+                    "icon": false
+                },
+                {
+                    "wordId": "流利",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "首都",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "坎帕拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝尔格莱德",
+                    "icon": false
+                },
+                {
+                    "wordId": "里加",
+                    "icon": false
+                },
+                {
+                    "wordId": "布达佩斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "索非亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "都柏林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "深奥的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教义",
+                    "icon": false
+                },
+                {
+                    "wordId": "神秘的",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄学",
+                    "icon": false
+                },
+                {
+                    "wordId": "教派",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "光学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弯月面",
+                    "icon": false
+                },
+                {
+                    "wordId": "孔径",
+                    "icon": false
+                },
+                {
+                    "wordId": "菲涅耳",
+                    "icon": false
+                },
+                {
+                    "wordId": "屈光度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "剧院",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尾声",
+                    "icon": false
+                },
+                {
+                    "wordId": "木偶戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "背景幕",
+                    "icon": false
+                },
+                {
+                    "wordId": "序幕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肉豆蔻",
+                    "icon": false
+                },
+                {
+                    "wordId": "八角",
+                    "icon": false
+                },
+                {
+                    "wordId": "多香果",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "交通工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轨道车",
+                    "icon": true
+                },
+                {
+                    "wordId": "有轨电车",
+                    "icon": true
+                },
+                {
+                    "wordId": "齐柏林飞艇",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "满意",
+        "能力",
+        "里加",
+        "银行",
+        "教义",
+        "捕捉",
+        "药房",
+        "兴奋",
+        "香料",
+        "口音",
+        "八角",
+        "肉豆蔻",
+        "思考",
+        "创造",
+        "神秘的",
+        "有轨电车",
+        "背景幕",
+        "推动",
+        "村庄",
+        "布达佩斯",
+        "流利",
+        "城堡",
+        "剧院",
+        "序幕",
+        "自豪",
+        "觉得有趣",
+        "压力大",
+        "弯月面",
+        "教堂",
+        "首都",
+        "玄学",
+        "索非亚",
+        "恼怒",
+        "博物馆",
+        "都柏林",
+        "轨道车",
+        "表达方式",
+        "孤独",
+        "菲涅耳",
+        "明确",
+        "齐柏林飞艇",
+        "城镇"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "光学",
+                "孔径",
+                "跟随",
+                "多香果"
+            ]
+        },
+        {
+            "cards": [
+                "记忆",
+                "尾声",
+                "嫉妒",
+                "闪避",
+                "教派"
+            ]
+        },
+        {
+            "cards": [
+                "坎帕拉",
+                "清晰",
+                "交通工具",
+                "措辞",
+                "工厂",
+                "木偶戏"
+            ]
+        },
+        {
+            "cards": [
+                "屈光度",
+                "探索",
+                "贝尔格莱德",
+                "用词",
+                "情绪",
+                "酒店",
+                "深奥的"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,443 @@
+{
+    "levelId": 6,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 165,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "树木",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雪松",
+                    "icon": false
+                },
+                {
+                    "wordId": "榆树",
+                    "icon": false
+                },
+                {
+                    "wordId": "猴面包树",
+                    "icon": false
+                },
+                {
+                    "wordId": "橡树",
+                    "icon": false
+                },
+                {
+                    "wordId": "云杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "枫树",
+                    "icon": false
+                },
+                {
+                    "wordId": "松树",
+                    "icon": false
+                },
+                {
+                    "wordId": "红杉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "飞行员",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮递员",
+                    "icon": false
+                },
+                {
+                    "wordId": "医生",
+                    "icon": false
+                },
+                {
+                    "wordId": "焊工",
+                    "icon": false
+                },
+                {
+                    "wordId": "工程师",
+                    "icon": false
+                },
+                {
+                    "wordId": "水管工",
+                    "icon": false
+                },
+                {
+                    "wordId": "演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "护士",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爬行动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜥蜴",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": true
+                },
+                {
+                    "wordId": "短吻鳄",
+                    "icon": true
+                },
+                {
+                    "wordId": "壁虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "变色龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "鬣蜥",
+                    "icon": true
+                },
+                {
+                    "wordId": "龟",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "曲棍球",
+                    "icon": true
+                },
+                {
+                    "wordId": "足球",
+                    "icon": true
+                },
+                {
+                    "wordId": "拳击",
+                    "icon": true
+                },
+                {
+                    "wordId": "网球",
+                    "icon": true
+                },
+                {
+                    "wordId": "高尔夫",
+                    "icon": true
+                },
+                {
+                    "wordId": "橄榄球",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰壶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "恐怖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "僵尸",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸血鬼",
+                    "icon": false
+                },
+                {
+                    "wordId": "怪物",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐惧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鞋子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凉鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪地靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "拖鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "木底鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐福鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "运动鞋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "家俱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "桌子",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "椅子",
+                    "icon": true
+                },
+                {
+                    "wordId": "书桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "床",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "手指",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拇指",
+                    "icon": false
+                },
+                {
+                    "wordId": "食指",
+                    "icon": false
+                },
+                {
+                    "wordId": "中指",
+                    "icon": false
+                },
+                {
+                    "wordId": "无名指",
+                    "icon": false
+                },
+                {
+                    "wordId": "小指",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "驾驶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽车",
+                    "icon": false
+                },
+                {
+                    "wordId": "道路",
+                    "icon": false
+                },
+                {
+                    "wordId": "标志",
+                    "icon": false
+                },
+                {
+                    "wordId": "交通",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烘焙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "酵母",
+                    "icon": false
+                },
+                {
+                    "wordId": "面粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸡蛋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "馆藏文物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "翠玉白菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛公鼎",
+                    "icon": false
+                },
+                {
+                    "wordId": "早春图",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "匍匐",
+                    "icon": false
+                },
+                {
+                    "wordId": "奔跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳跃",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "吸血鬼",
+        "桌子",
+        "早春图",
+        "橡树",
+        "网球",
+        "毛公鼎",
+        "猴面包树",
+        "无名指",
+        "交通",
+        "恐怖",
+        "枫树",
+        "爬行动物",
+        "道路",
+        "鞋子",
+        "凉鞋",
+        "蜥蜴",
+        "工程师",
+        "鬣蜥",
+        "跳跃",
+        "小指",
+        "标志",
+        "云杉",
+        "乐福鞋",
+        "奔跑",
+        "橄榄球",
+        "鸡蛋",
+        "雪松",
+        "书桌",
+        "拳击",
+        "邮递员",
+        "树木",
+        "焊工",
+        "壁虎",
+        "水管工",
+        "床",
+        "中指",
+        "匍匐",
+        "变色龙",
+        "职业",
+        "演员",
+        "拇指",
+        "榆树",
+        "红杉",
+        "恐惧",
+        "牛奶",
+        "怪物",
+        "龟",
+        "馆藏文物",
+        "护士",
+        "面粉",
+        "松树",
+        "椅子",
+        "运动鞋",
+        "医生",
+        "食指",
+        "翠玉白菜"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "拖鞋",
+                "雪地靴",
+                "运动",
+                "烘焙"
+            ]
+        },
+        {
+            "cards": [
+                "动作",
+                "幽灵",
+                "汽车",
+                "家俱",
+                "木底鞋"
+            ]
+        },
+        {
+            "cards": [
+                "曲棍球",
+                "手指",
+                "驾驶",
+                "沙发",
+                "诅咒",
+                "足球"
+            ]
+        },
+        {
+            "cards": [
+                "冰壶",
+                "蛇",
+                "酵母",
+                "高尔夫",
+                "短吻鳄",
+                "僵尸",
+                "飞行员"
+            ]
+        }
+    ]
+}

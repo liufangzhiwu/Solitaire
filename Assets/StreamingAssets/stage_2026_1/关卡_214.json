@@ -1,0 +1,369 @@
+{
+    "levelId": 214,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "拿铁咖啡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咖啡豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "奶瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "方糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "拉花",
+                    "icon": true
+                },
+                {
+                    "wordId": "咖啡机",
+                    "icon": true
+                },
+                {
+                    "wordId": "水壶",
+                    "icon": true
+                },
+                {
+                    "wordId": "外带杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "糖勺",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "喜剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喜剧演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "笑话",
+                    "icon": false
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": false
+                },
+                {
+                    "wordId": "弄臣",
+                    "icon": false
+                },
+                {
+                    "wordId": "讽刺作家",
+                    "icon": false
+                },
+                {
+                    "wordId": "单口喜剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "模仿者",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽默家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蓝调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "萨克斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "悲伤的",
+                    "icon": false
+                },
+                {
+                    "wordId": "人声",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "连复段",
+                    "icon": false
+                },
+                {
+                    "wordId": "曼陀林",
+                    "icon": false
+                },
+                {
+                    "wordId": "作词人",
+                    "icon": false
+                },
+                {
+                    "wordId": "B.B.King",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烧烤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烤制的",
+                    "icon": false
+                },
+                {
+                    "wordId": "酥脆的",
+                    "icon": false
+                },
+                {
+                    "wordId": "加热的",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧焦的",
+                    "icon": false
+                },
+                {
+                    "wordId": "多汁的",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧糊的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "贷款",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "还款",
+                    "icon": false
+                },
+                {
+                    "wordId": "抵押贷款",
+                    "icon": false
+                },
+                {
+                    "wordId": "资本",
+                    "icon": false
+                },
+                {
+                    "wordId": "预付款",
+                    "icon": false
+                },
+                {
+                    "wordId": "债券",
+                    "icon": false
+                },
+                {
+                    "wordId": "基金",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卡车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "座位",
+                    "icon": true
+                },
+                {
+                    "wordId": "高速公路",
+                    "icon": true
+                },
+                {
+                    "wordId": "卡车车轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "消防车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "击剑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剑",
+                    "icon": false
+                },
+                {
+                    "wordId": "花剑",
+                    "icon": false
+                },
+                {
+                    "wordId": "重剑",
+                    "icon": false
+                },
+                {
+                    "wordId": "佩剑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "寺庙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神社",
+                    "icon": false
+                },
+                {
+                    "wordId": "神像",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "祭司",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "实验室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "样本",
+                    "icon": false
+                },
+                {
+                    "wordId": "移液器",
+                    "icon": false
+                },
+                {
+                    "wordId": "护目镜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "民间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "农民",
+                    "icon": false
+                },
+                {
+                    "wordId": "传说",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧羊人",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "加热的",
+        "花剑",
+        "祭司",
+        "重剑",
+        "连复段",
+        "还款",
+        "方糖",
+        "外带杯",
+        "人声",
+        "传说",
+        "烤制的",
+        "护目镜",
+        "卡车车轮",
+        "消防车",
+        "债券",
+        "悲伤的",
+        "拉花",
+        "基金",
+        "萨克斯",
+        "农民",
+        "高速公路",
+        "寺庙",
+        "小丑",
+        "民间",
+        "实验室",
+        "水壶",
+        "神社",
+        "模仿者",
+        "资本",
+        "样本",
+        "多汁的",
+        "移液器",
+        "喜剧",
+        "吉他",
+        "佩剑",
+        "B.B.King",
+        "作词人",
+        "击剑",
+        "单口喜剧",
+        "咖啡机",
+        "座位",
+        "笑话"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "讽刺作家",
+                "弄臣",
+                "幽默家",
+                "咖啡豆"
+            ]
+        },
+        {
+            "cards": [
+                "贷款",
+                "奶瓶",
+                "神像",
+                "烧烤",
+                "圆顶"
+            ]
+        },
+        {
+            "cards": [
+                "牧羊人",
+                "烧糊的",
+                "酥脆的",
+                "抵押贷款",
+                "预付款",
+                "拿铁咖啡"
+            ]
+        },
+        {
+            "cards": [
+                "蓝调",
+                "曼陀林",
+                "喜剧演员",
+                "剑",
+                "卡车",
+                "烧焦的",
+                "糖勺"
+            ]
+        }
+    ]
+}

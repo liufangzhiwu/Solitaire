@@ -1,0 +1,369 @@
+{
+    "levelId": 168,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "宝石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "托帕石",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白石",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖晶石",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "赤铁矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "石榴石",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄石",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛瑙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有翼物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "天使",
+                    "icon": true
+                },
+                {
+                    "wordId": "仙子",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞机",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝴蝶",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝙蝠",
+                    "icon": true
+                },
+                {
+                    "wordId": "翼龙",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "字母系统",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉丁字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "西里尔字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "如尼字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "盲文",
+                    "icon": false
+                },
+                {
+                    "wordId": "希伯来字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉伯字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "字母",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诗人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "济慈",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪莱",
+                    "icon": false
+                },
+                {
+                    "wordId": "拜伦",
+                    "icon": false
+                },
+                {
+                    "wordId": "但丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "弥尔顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "艾略特",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "表情图示",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "微笑",
+                    "icon": true
+                },
+                {
+                    "wordId": "哭脸",
+                    "icon": true
+                },
+                {
+                    "wordId": "热恋",
+                    "icon": true
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": true
+                },
+                {
+                    "wordId": "震惊",
+                    "icon": true
+                },
+                {
+                    "wordId": "悲伤",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "走廊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "入口",
+                    "icon": false
+                },
+                {
+                    "wordId": "门口",
+                    "icon": false
+                },
+                {
+                    "wordId": "门厅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "忽视",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "抛弃",
+                    "icon": false
+                },
+                {
+                    "wordId": "不理",
+                    "icon": false
+                },
+                {
+                    "wordId": "遗弃",
+                    "icon": false
+                },
+                {
+                    "wordId": "疏忽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "偏绿的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蕨类",
+                    "icon": false
+                },
+                {
+                    "wordId": "青瓷",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄荷",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔藓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "希望",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愿望",
+                    "icon": false
+                },
+                {
+                    "wordId": "渴望",
+                    "icon": false
+                },
+                {
+                    "wordId": "期望",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "胡萝卜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橙色",
+                    "icon": false
+                },
+                {
+                    "wordId": "根茎",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡萝卜素",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "走廊",
+        "西里尔字母",
+        "遗弃",
+        "有翼物",
+        "紫水晶",
+        "拉丁字母",
+        "蝴蝶",
+        "济慈",
+        "天鹅",
+        "飞机",
+        "蕨类",
+        "苔藓",
+        "希伯来字母",
+        "天使",
+        "诗人",
+        "门口",
+        "疏忽",
+        "但丁",
+        "薄荷",
+        "愿望",
+        "震惊",
+        "青瓷",
+        "根茎",
+        "弥尔顿",
+        "仙子",
+        "橙色",
+        "赤铁矿",
+        "尖晶石",
+        "热恋",
+        "字母系统",
+        "石榴石",
+        "胡萝卜",
+        "门厅",
+        "阿拉伯字母",
+        "字母",
+        "橄榄石",
+        "期望",
+        "微笑",
+        "龙",
+        "通道",
+        "希腊字母",
+        "艾略特"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "拜伦",
+                "托帕石",
+                "蛋白石",
+                "翼龙"
+            ]
+        },
+        {
+            "cards": [
+                "抛弃",
+                "胡萝卜素",
+                "希望",
+                "表情图示",
+                "入口"
+            ]
+        },
+        {
+            "cards": [
+                "愤怒",
+                "如尼字母",
+                "玛瑙",
+                "盲文",
+                "悲伤",
+                "雪莱"
+            ]
+        },
+        {
+            "cards": [
+                "偏绿的",
+                "忽视",
+                "不理",
+                "蝙蝠",
+                "哭脸",
+                "宝石",
+                "渴望"
+            ]
+        }
+    ]
+}

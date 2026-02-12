@@ -1,0 +1,217 @@
+{
+    "levelId": 12,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "学校",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "课程",
+                    "icon": false
+                },
+                {
+                    "wordId": "学生",
+                    "icon": false
+                },
+                {
+                    "wordId": "老师",
+                    "icon": false
+                },
+                {
+                    "wordId": "课桌",
+                    "icon": false
+                },
+                {
+                    "wordId": "考试",
+                    "icon": false
+                },
+                {
+                    "wordId": "作业",
+                    "icon": false
+                },
+                {
+                    "wordId": "学习",
+                    "icon": false
+                },
+                {
+                    "wordId": "成绩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巧巴达",
+                    "icon": true
+                },
+                {
+                    "wordId": "法棍",
+                    "icon": true
+                },
+                {
+                    "wordId": "佛卡夏",
+                    "icon": true
+                },
+                {
+                    "wordId": "皮塔饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "Challah面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨西哥薄饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "布里欧修",
+                    "icon": true
+                },
+                {
+                    "wordId": "Arepa饼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "形状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圆形",
+                    "icon": true
+                },
+                {
+                    "wordId": "正方形",
+                    "icon": true
+                },
+                {
+                    "wordId": "椭圆形",
+                    "icon": true
+                },
+                {
+                    "wordId": "八边形",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "单词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "辞汇",
+                    "icon": false
+                },
+                {
+                    "wordId": "词义",
+                    "icon": false
+                },
+                {
+                    "wordId": "词组",
+                    "icon": false
+                },
+                {
+                    "wordId": "词缀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "健身器材",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哑铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "跑步机",
+                    "icon": false
+                },
+                {
+                    "wordId": "划船机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大脑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脑回",
+                    "icon": false
+                },
+                {
+                    "wordId": "大脑皮层",
+                    "icon": false
+                },
+                {
+                    "wordId": "脑叶",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "佛卡夏",
+        "课程",
+        "课桌",
+        "辞汇",
+        "词缀",
+        "椭圆形",
+        "成绩",
+        "学生",
+        "Challah面包",
+        "正方形",
+        "老师",
+        "脑回",
+        "面包",
+        "词组",
+        "学校",
+        "法棍",
+        "大脑皮层",
+        "布里欧修",
+        "形状",
+        "词义",
+        "作业",
+        "八边形",
+        "考试",
+        "圆形"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "Arepa饼",
+                "划船机",
+                "健身器材"
+            ]
+        },
+        {
+            "cards": [
+                "单词",
+                "哑铃",
+                "跑步机",
+                "墨西哥薄饼"
+            ]
+        },
+        {
+            "cards": [
+                "学习",
+                "脑叶",
+                "大脑",
+                "皮塔饼",
+                "巧巴达"
+            ]
+        }
+    ]
+}

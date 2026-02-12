@@ -1,0 +1,217 @@
+{
+    "levelId": 77,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "奇幻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魔法",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙火",
+                    "icon": true
+                },
+                {
+                    "wordId": "剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "精灵",
+                    "icon": true
+                },
+                {
+                    "wordId": "巨魔",
+                    "icon": true
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": true
+                },
+                {
+                    "wordId": "神谕",
+                    "icon": true
+                },
+                {
+                    "wordId": "野兽",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "战士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "战斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "荣耀",
+                    "icon": false
+                },
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "矛",
+                    "icon": false
+                },
+                {
+                    "wordId": "长矛",
+                    "icon": false
+                },
+                {
+                    "wordId": "骑手",
+                    "icon": false
+                },
+                {
+                    "wordId": "弓",
+                    "icon": false
+                },
+                {
+                    "wordId": "刀刃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "森林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "根",
+                    "icon": false
+                },
+                {
+                    "wordId": "野生",
+                    "icon": false
+                },
+                {
+                    "wordId": "深邃",
+                    "icon": false
+                },
+                {
+                    "wordId": "茂密",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿物",
+                    "icon": false
+                },
+                {
+                    "wordId": "结晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "咸味",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黎明",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "开始",
+                    "icon": false
+                },
+                {
+                    "wordId": "升起",
+                    "icon": false
+                },
+                {
+                    "wordId": "新的一天",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "画布",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "线条",
+                    "icon": true
+                },
+                {
+                    "wordId": "形状",
+                    "icon": true
+                },
+                {
+                    "wordId": "颜色",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "长矛",
+        "根",
+        "深邃",
+        "黎明",
+        "海洋",
+        "结晶",
+        "刀刃",
+        "神谕",
+        "弓",
+        "画布",
+        "盐",
+        "剑",
+        "城堡",
+        "线条",
+        "咸味",
+        "开始",
+        "新的一天",
+        "头盔",
+        "矛",
+        "龙火",
+        "升起",
+        "战斗",
+        "荣耀",
+        "茂密"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "颜色",
+                "奇幻",
+                "矿物"
+            ]
+        },
+        {
+            "cards": [
+                "野兽",
+                "野生",
+                "形状",
+                "巨魔"
+            ]
+        },
+        {
+            "cards": [
+                "战士",
+                "精灵",
+                "魔法",
+                "森林",
+                "骑手"
+            ]
+        }
+    ]
+}

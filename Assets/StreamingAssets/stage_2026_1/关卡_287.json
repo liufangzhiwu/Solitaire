@@ -1,0 +1,369 @@
+{
+    "levelId": 287,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "怪物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哥布林",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸血鬼",
+                    "icon": false
+                },
+                {
+                    "wordId": "僵尸",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "食人魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "骷髅",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶魔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "药水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "治疗药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "法力药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "耐力药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "解毒剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵药",
+                    "icon": false
+                },
+                {
+                    "wordId": "力量药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "咒符药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒药",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "派系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行会",
+                    "icon": false
+                },
+                {
+                    "wordId": "氏族",
+                    "icon": false
+                },
+                {
+                    "wordId": "教团",
+                    "icon": false
+                },
+                {
+                    "wordId": "教派",
+                    "icon": false
+                },
+                {
+                    "wordId": "部落",
+                    "icon": false
+                },
+                {
+                    "wordId": "家族",
+                    "icon": false
+                },
+                {
+                    "wordId": "圈子",
+                    "icon": false
+                },
+                {
+                    "wordId": "秘密集团",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生长",
+                    "icon": false
+                },
+                {
+                    "wordId": "奔跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "抓取",
+                    "icon": false
+                },
+                {
+                    "wordId": "吞咽",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "到达",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "如尼文",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔符",
+                    "icon": false
+                },
+                {
+                    "wordId": "标记",
+                    "icon": false
+                },
+                {
+                    "wordId": "印章",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽记",
+                    "icon": false
+                },
+                {
+                    "wordId": "象征",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "城市",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雅典",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯巴达",
+                    "icon": false
+                },
+                {
+                    "wordId": "底比斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "科林斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "隧道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖井",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩洞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盔甲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盾牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "护胫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "独眼巨人",
+                    "icon": true
+                },
+                {
+                    "wordId": "凤凰",
+                    "icon": true
+                },
+                {
+                    "wordId": "九头蛇",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "陷阱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陷坑",
+                    "icon": false
+                },
+                {
+                    "wordId": "绊线",
+                    "icon": false
+                },
+                {
+                    "wordId": "套索",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "绊线",
+        "斯巴达",
+        "奔跑",
+        "恶魔",
+        "盔甲",
+        "食人魔",
+        "魔符",
+        "九头蛇",
+        "神话生物",
+        "教派",
+        "骷髅",
+        "独眼巨人",
+        "法力药水",
+        "氏族",
+        "耐力药水",
+        "吸血鬼",
+        "象征",
+        "洗牌",
+        "雅典",
+        "盾牌",
+        "生长",
+        "标记",
+        "凤凰",
+        "秘密集团",
+        "印章",
+        "圈子",
+        "头盔",
+        "隧道",
+        "岩洞",
+        "陷阱",
+        "家族",
+        "毒药",
+        "如尼文",
+        "套索",
+        "药水",
+        "教团",
+        "到达",
+        "解毒剂",
+        "咒符药水",
+        "洞穴",
+        "徽记",
+        "幽灵"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "底比斯",
+                "抓取",
+                "科林斯",
+                "派系"
+            ]
+        },
+        {
+            "cards": [
+                "城市",
+                "哥布林",
+                "僵尸",
+                "巨怪",
+                "部落"
+            ]
+        },
+        {
+            "cards": [
+                "竖井",
+                "通道",
+                "治疗药水",
+                "胸甲",
+                "动作",
+                "陷坑"
+            ]
+        },
+        {
+            "cards": [
+                "护胫",
+                "怪物",
+                "符号",
+                "灵药",
+                "力量药水",
+                "吞咽",
+                "行会"
+            ]
+        }
+    ]
+}

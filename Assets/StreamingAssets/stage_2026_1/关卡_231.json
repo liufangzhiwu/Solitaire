@@ -1,0 +1,217 @@
+{
+    "levelId": 231,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "矿工",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "矿车",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄金",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤炭",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "镐",
+                    "icon": false
+                },
+                {
+                    "wordId": "隧道",
+                    "icon": false
+                },
+                {
+                    "wordId": "炸药",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿山",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罪犯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "强盗",
+                    "icon": false
+                },
+                {
+                    "wordId": "纵火犯",
+                    "icon": false
+                },
+                {
+                    "wordId": "法外之徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "重罪犯",
+                    "icon": false
+                },
+                {
+                    "wordId": "囚犯",
+                    "icon": false
+                },
+                {
+                    "wordId": "窃贼",
+                    "icon": false
+                },
+                {
+                    "wordId": "土匪",
+                    "icon": false
+                },
+                {
+                    "wordId": "无赖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "GPS",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "定位",
+                    "icon": true
+                },
+                {
+                    "wordId": "导航",
+                    "icon": true
+                },
+                {
+                    "wordId": "卫星",
+                    "icon": true
+                },
+                {
+                    "wordId": "路线",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "寄生生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "植物",
+                    "icon": true
+                },
+                {
+                    "wordId": "昆虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "真菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "霉菌",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "储蓄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "收入",
+                    "icon": false
+                },
+                {
+                    "wordId": "基金",
+                    "icon": false
+                },
+                {
+                    "wordId": "债券",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "公共关系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "品牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "炒作",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗡嗡声",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "植物",
+        "囚犯",
+        "GPS",
+        "强盗",
+        "罪犯",
+        "矿山",
+        "窃贼",
+        "公共关系",
+        "重罪犯",
+        "卫星",
+        "法外之徒",
+        "路线",
+        "炒作",
+        "霉菌",
+        "嗡嗡声",
+        "导航",
+        "债券",
+        "收入",
+        "安全帽",
+        "煤炭",
+        "土匪",
+        "真菌",
+        "定位",
+        "品牌"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "储蓄",
+                "矿车",
+                "昆虫"
+            ]
+        },
+        {
+            "cards": [
+                "基金",
+                "纵火犯",
+                "隧道",
+                "镐"
+            ]
+        },
+        {
+            "cards": [
+                "无赖",
+                "黄金",
+                "寄生生物",
+                "炸药",
+                "矿工"
+            ]
+        }
+    ]
+}

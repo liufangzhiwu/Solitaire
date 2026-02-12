@@ -1,0 +1,553 @@
+{
+    "levelId": 101,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "学校相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教室",
+                    "icon": true
+                },
+                {
+                    "wordId": "实验室",
+                    "icon": true
+                },
+                {
+                    "wordId": "储物柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "教科书",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑板",
+                    "icon": true
+                },
+                {
+                    "wordId": "马克笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "计算器",
+                    "icon": true
+                },
+                {
+                    "wordId": "校舍",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "演员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主角",
+                    "icon": false
+                },
+                {
+                    "wordId": "特技替身",
+                    "icon": false
+                },
+                {
+                    "wordId": "名声",
+                    "icon": false
+                },
+                {
+                    "wordId": "表演",
+                    "icon": false
+                },
+                {
+                    "wordId": "演出",
+                    "icon": false
+                },
+                {
+                    "wordId": "扮演",
+                    "icon": false
+                },
+                {
+                    "wordId": "假装",
+                    "icon": false
+                },
+                {
+                    "wordId": "排练",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "网",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "球拍",
+                    "icon": false
+                },
+                {
+                    "wordId": "笼子",
+                    "icon": false
+                },
+                {
+                    "wordId": "陷阱",
+                    "icon": false
+                },
+                {
+                    "wordId": "发网",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛛网",
+                    "icon": false
+                },
+                {
+                    "wordId": "拖网",
+                    "icon": false
+                },
+                {
+                    "wordId": "网眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "游戏围栏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "护肤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洁面乳",
+                    "icon": false
+                },
+                {
+                    "wordId": "爽肤水",
+                    "icon": false
+                },
+                {
+                    "wordId": "精华液",
+                    "icon": false
+                },
+                {
+                    "wordId": "质地",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "视黄醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "肽",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑕疵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "价格",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "降价的",
+                    "icon": false
+                },
+                {
+                    "wordId": "虚高的",
+                    "icon": false
+                },
+                {
+                    "wordId": "公平的",
+                    "icon": false
+                },
+                {
+                    "wordId": "抬高的",
+                    "icon": false
+                },
+                {
+                    "wordId": "最终的",
+                    "icon": false
+                },
+                {
+                    "wordId": "固定的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "充电器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电动汽车",
+                    "icon": true
+                },
+                {
+                    "wordId": "智能手表",
+                    "icon": true
+                },
+                {
+                    "wordId": "笔记本电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "数码相机",
+                    "icon": true
+                },
+                {
+                    "wordId": "充电宝",
+                    "icon": true
+                },
+                {
+                    "wordId": "电动牙刷",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "色素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑色素",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡萝卜素",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜菜根",
+                    "icon": false
+                },
+                {
+                    "wordId": "姜黄",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏红花",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "应用程序",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "下载",
+                    "icon": false
+                },
+                {
+                    "wordId": "备份",
+                    "icon": false
+                },
+                {
+                    "wordId": "更新",
+                    "icon": false
+                },
+                {
+                    "wordId": "验证",
+                    "icon": false
+                },
+                {
+                    "wordId": "同步",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "邮轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珊瑚",
+                    "icon": false
+                },
+                {
+                    "wordId": "热带地区",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": false
+                },
+                {
+                    "wordId": "港口",
+                    "icon": false
+                },
+                {
+                    "wordId": "海岸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "抗议",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "静坐",
+                    "icon": false
+                },
+                {
+                    "wordId": "口号",
+                    "icon": false
+                },
+                {
+                    "wordId": "人群",
+                    "icon": false
+                },
+                {
+                    "wordId": "自由",
+                    "icon": false
+                },
+                {
+                    "wordId": "动荡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "主题乐园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "六福村",
+                    "icon": false
+                },
+                {
+                    "wordId": "剑湖山",
+                    "icon": false
+                },
+                {
+                    "wordId": "九族文化村",
+                    "icon": false
+                },
+                {
+                    "wordId": "小人国",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "服装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "默剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "维京人",
+                    "icon": false
+                },
+                {
+                    "wordId": "角色扮演",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸血鬼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "匹配",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打火机",
+                    "icon": true
+                },
+                {
+                    "wordId": "火花",
+                    "icon": true
+                },
+                {
+                    "wordId": "比分",
+                    "icon": true
+                },
+                {
+                    "wordId": "婚礼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "尖锐物品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "美工刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "针尖",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜刀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "广告",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "看板",
+                    "icon": true
+                },
+                {
+                    "wordId": "报纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "电视萤幕",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "学校相关",
+        "邮轮",
+        "假装",
+        "更新",
+        "瑕疵",
+        "表演",
+        "球拍",
+        "储物柜",
+        "角色扮演",
+        "色素",
+        "虚高的",
+        "针尖",
+        "口号",
+        "数码相机",
+        "美工刀",
+        "笔记本电脑",
+        "比分",
+        "网眼",
+        "名声",
+        "智能手表",
+        "姜黄",
+        "网",
+        "电视萤幕",
+        "备份",
+        "抬高的",
+        "排练",
+        "港口",
+        "电动牙刷",
+        "打火机",
+        "游戏围栏",
+        "实验室",
+        "肽",
+        "电动汽车",
+        "剑湖山",
+        "匹配",
+        "拖网",
+        "黑板",
+        "主角",
+        "固定的",
+        "教室",
+        "视黄醇",
+        "校舍",
+        "小人国",
+        "价格",
+        "验证",
+        "蛛网",
+        "九族文化村",
+        "笼子",
+        "火花",
+        "菜刀",
+        "动荡",
+        "公平的",
+        "广告",
+        "冰川",
+        "默剧",
+        "精华液",
+        "六福村",
+        "热带地区",
+        "下载",
+        "发网",
+        "静坐",
+        "海岸",
+        "甜菜根"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "维京人",
+                "爽肤水",
+                "人群",
+                "看板",
+                "自由"
+            ]
+        },
+        {
+            "cards": [
+                "演员",
+                "黑色素",
+                "毛孔",
+                "马克笔",
+                "教科书",
+                "充电宝"
+            ]
+        },
+        {
+            "cards": [
+                "赭石",
+                "陷阱",
+                "护肤",
+                "服装",
+                "演出",
+                "胡萝卜素",
+                "特技替身"
+            ]
+        },
+        {
+            "cards": [
+                "同步",
+                "藏红花",
+                "尖锐物品",
+                "吸血鬼",
+                "婚礼",
+                "报纸",
+                "抗议",
+                "应用程序"
+            ]
+        },
+        {
+            "cards": [
+                "洁面乳",
+                "珊瑚",
+                "主题乐园",
+                "降价的",
+                "充电器",
+                "扮演",
+                "质地",
+                "最终的",
+                "计算器"
+            ]
+        }
+    ]
+}

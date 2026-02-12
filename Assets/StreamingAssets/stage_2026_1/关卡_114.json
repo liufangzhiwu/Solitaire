@@ -1,0 +1,369 @@
+{
+    "levelId": 114,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "刷子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "腮红刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "发刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "平刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓶刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "扇刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "线刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "泡沫刷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图像",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "标签",
+                    "icon": false
+                },
+                {
+                    "wordId": "复制",
+                    "icon": false
+                },
+                {
+                    "wordId": "视觉的",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜子",
+                    "icon": false
+                },
+                {
+                    "wordId": "内容",
+                    "icon": false
+                },
+                {
+                    "wordId": "图案",
+                    "icon": false
+                },
+                {
+                    "wordId": "图片",
+                    "icon": false
+                },
+                {
+                    "wordId": "数字的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "概念",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "想法",
+                    "icon": false
+                },
+                {
+                    "wordId": "精神的",
+                    "icon": false
+                },
+                {
+                    "wordId": "理论",
+                    "icon": false
+                },
+                {
+                    "wordId": "思想",
+                    "icon": false
+                },
+                {
+                    "wordId": "信念",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽象的",
+                    "icon": false
+                },
+                {
+                    "wordId": "方法",
+                    "icon": false
+                },
+                {
+                    "wordId": "意义",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "古代文明",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玛雅",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿兹特克",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥尔梅克",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴比伦",
+                    "icon": false
+                },
+                {
+                    "wordId": "印加",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚述",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "态度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钦佩",
+                    "icon": false
+                },
+                {
+                    "wordId": "尊重",
+                    "icon": false
+                },
+                {
+                    "wordId": "崇拜",
+                    "icon": false
+                },
+                {
+                    "wordId": "憎恶",
+                    "icon": false
+                },
+                {
+                    "wordId": "积极的",
+                    "icon": false
+                },
+                {
+                    "wordId": "消极的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "学校",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "老师",
+                    "icon": true
+                },
+                {
+                    "wordId": "学生",
+                    "icon": true
+                },
+                {
+                    "wordId": "课桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "测验",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "规则",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "允许",
+                    "icon": false
+                },
+                {
+                    "wordId": "遵守",
+                    "icon": false
+                },
+                {
+                    "wordId": "遵从",
+                    "icon": false
+                },
+                {
+                    "wordId": "服从",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "正义女神",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法庭",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "真理",
+                    "icon": false
+                },
+                {
+                    "wordId": "天平",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "出口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "房门",
+                    "icon": true
+                },
+                {
+                    "wordId": "大门",
+                    "icon": true
+                },
+                {
+                    "wordId": "传送门",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "政治",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "权力",
+                    "icon": false
+                },
+                {
+                    "wordId": "选举",
+                    "icon": false
+                },
+                {
+                    "wordId": "社会",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "扇刷",
+        "真理",
+        "平刷",
+        "想法",
+        "数字的",
+        "积极的",
+        "法庭",
+        "憎恶",
+        "牙刷",
+        "泡沫刷",
+        "抽象的",
+        "古代文明",
+        "选举",
+        "传送门",
+        "房门",
+        "刷子",
+        "学校",
+        "发刷",
+        "遵从",
+        "崇拜",
+        "视觉的",
+        "权力",
+        "社会",
+        "概念",
+        "精神的",
+        "印加",
+        "内容",
+        "天平",
+        "出口",
+        "玛雅",
+        "标签",
+        "阿兹特克",
+        "亚述",
+        "钦佩",
+        "瓶刷",
+        "图片",
+        "理论",
+        "复制",
+        "蒙眼",
+        "奥尔梅克",
+        "消极的",
+        "课桌"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "信念",
+                "线刷",
+                "大门",
+                "态度"
+            ]
+        },
+        {
+            "cards": [
+                "服从",
+                "图案",
+                "思想",
+                "镜子",
+                "规则"
+            ]
+        },
+        {
+            "cards": [
+                "老师",
+                "意义",
+                "巴比伦",
+                "腮红刷",
+                "图像",
+                "方法"
+            ]
+        },
+        {
+            "cards": [
+                "学生",
+                "尊重",
+                "政治",
+                "允许",
+                "测验",
+                "正义女神",
+                "遵守"
+            ]
+        }
+    ]
+}

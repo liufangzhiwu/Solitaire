@@ -1,0 +1,369 @@
+{
+    "levelId": 153,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "航空旅行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "飞行员耳机",
+                    "icon": true
+                },
+                {
+                    "wordId": "螺旋桨",
+                    "icon": true
+                },
+                {
+                    "wordId": "安全带",
+                    "icon": true
+                },
+                {
+                    "wordId": "指南针",
+                    "icon": true
+                },
+                {
+                    "wordId": "地图",
+                    "icon": true
+                },
+                {
+                    "wordId": "免税店",
+                    "icon": true
+                },
+                {
+                    "wordId": "护照",
+                    "icon": true
+                },
+                {
+                    "wordId": "U型枕",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "诗歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伊利亚特",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗篇",
+                    "icon": false
+                },
+                {
+                    "wordId": "赞美诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "吟游诗人",
+                    "icon": false
+                },
+                {
+                    "wordId": "十四行诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "俳句",
+                    "icon": false
+                },
+                {
+                    "wordId": "叙述者",
+                    "icon": false
+                },
+                {
+                    "wordId": "读者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生长",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "植物",
+                    "icon": false
+                },
+                {
+                    "wordId": "树木",
+                    "icon": false
+                },
+                {
+                    "wordId": "细胞",
+                    "icon": false
+                },
+                {
+                    "wordId": "利润",
+                    "icon": false
+                },
+                {
+                    "wordId": "销售",
+                    "icon": false
+                },
+                {
+                    "wordId": "藤蔓",
+                    "icon": false
+                },
+                {
+                    "wordId": "指甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "经济",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "垃圾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "废品",
+                    "icon": false
+                },
+                {
+                    "wordId": "废物",
+                    "icon": false
+                },
+                {
+                    "wordId": "废弃物",
+                    "icon": false
+                },
+                {
+                    "wordId": "无用物",
+                    "icon": false
+                },
+                {
+                    "wordId": "残渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "破烂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "循环",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "腰带",
+                    "icon": false
+                },
+                {
+                    "wordId": "链条",
+                    "icon": false
+                },
+                {
+                    "wordId": "季节",
+                    "icon": false
+                },
+                {
+                    "wordId": "习惯",
+                    "icon": false
+                },
+                {
+                    "wordId": "发圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "钥匙环",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "开花",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花朵",
+                    "icon": false
+                },
+                {
+                    "wordId": "花蕾",
+                    "icon": false
+                },
+                {
+                    "wordId": "花园",
+                    "icon": false
+                },
+                {
+                    "wordId": "花瓣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "薄雾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "露水",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿度",
+                    "icon": false
+                },
+                {
+                    "wordId": "水分",
+                    "icon": false
+                },
+                {
+                    "wordId": "模糊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灰烬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火山",
+                    "icon": true
+                },
+                {
+                    "wordId": "烤架",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟囱",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟灰缸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "旋转",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙卷风",
+                    "icon": false
+                },
+                {
+                    "wordId": "气旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "转子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "轨道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天王星",
+                    "icon": false
+                },
+                {
+                    "wordId": "土星",
+                    "icon": false
+                },
+                {
+                    "wordId": "冥王星",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "指甲",
+        "气旋",
+        "转子",
+        "薄雾",
+        "天王星",
+        "安全带",
+        "垃圾",
+        "经济",
+        "开花",
+        "腰带",
+        "废弃物",
+        "指南针",
+        "露水",
+        "破烂",
+        "烟灰缸",
+        "生长",
+        "链条",
+        "水分",
+        "伊利亚特",
+        "废物",
+        "树木",
+        "龙卷风",
+        "模糊",
+        "植物",
+        "花园",
+        "花瓣",
+        "季节",
+        "地图",
+        "烤架",
+        "冥王星",
+        "航空旅行",
+        "飞行员耳机",
+        "免税店",
+        "护照",
+        "销售",
+        "细胞",
+        "花朵",
+        "习惯",
+        "残渣",
+        "湿度",
+        "火山",
+        "利润"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "螺旋桨",
+                "叙述者",
+                "土星",
+                "诗歌"
+            ]
+        },
+        {
+            "cards": [
+                "轨道",
+                "烟囱",
+                "无用物",
+                "废品",
+                "U型枕"
+            ]
+        },
+        {
+            "cards": [
+                "藤蔓",
+                "十四行诗",
+                "读者",
+                "花蕾",
+                "赞美诗",
+                "灰烬"
+            ]
+        },
+        {
+            "cards": [
+                "诗篇",
+                "旋转",
+                "钥匙环",
+                "俳句",
+                "吟游诗人",
+                "发圈",
+                "循环"
+            ]
+        }
+    ]
+}

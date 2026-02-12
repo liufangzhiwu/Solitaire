@@ -1,0 +1,302 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Data;
+using System.Globalization;
+using System.Linq;
+using System.Threading.Tasks;
+using DG.Tweening;
+using Middleware;
+using UnityEngine;
+//using UnityEngine.Purchasing;
+using UnityEngine.UI;
+
+public class AdsDiscountScreen : UIWindow
+{
+    [SerializeField] private Button closeBtn; // 关闭按钮
+    [SerializeField] private Text title; // 音效文本显示
+    [SerializeField] private Text timeText; // 语言选择文本显示
+    [SerializeField] private Text priceText; // 价格
+    [SerializeField] private Text discountText; // 折扣前价格
+    [SerializeField] private Transform parent;
+    [SerializeField] private GiftItem giftItempPefab;
+    [SerializeField] private GameObject discountObj; 
+    [SerializeField] private GameObject circle; 
+    [SerializeField] private Button ClaimBtn;
+    private ObjectPool objectPool; // 对象池实例
+    private ShopDataItem currentShopItem;
+    private ShopLimitData shopLimitData;
+    private List<GiftItem> GiftItems=new List<GiftItem>();
+
+    protected void Start()
+    {
+        
+        if (giftItempPefab == null)
+        {
+            giftItempPefab = AdvancedBundleLoader.SharedInstance.LoadGameObject("commonitem", "DiscountItem").GetComponent<GiftItem>();
+        }
+        objectPool = new ObjectPool(giftItempPefab.gameObject, ObjectPool.CreatePoolContainer(transform, "GiftItemPool"));
+        
+    }
+    
+    protected override void InitializeUIComponents()
+    {
+        closeBtn.AddClickAction(OnCloseBtn); // 绑定关闭按钮事件
+        ClaimBtn.AddClickAction(OnBuyButtonClicked);
+    }
+
+    protected override void OnEnable()
+    {
+        base.OnEnable();
+        currentShopItem = ShopManager.shopManager.curshopAdsItem;
+        shopLimitData=GameDataManager.Instance.UserData.limitShopItems.Find(item => item.id == currentShopItem.id);
+        
+        InitUI();
+        EventDispatcher.Instance.TriggerUpdateLayerCoin(true,false);
+        
+        InitGiftItems();
+        
+        StartCoroutine(UpdateTime());
+        AudioManager.Instance.PlaySoundEffect("ShowUI");
+    }
+
+    private void InitUI()
+    {
+        if (currentShopItem == null) return;
+
+        title.text = MultilingualManager.Instance?.GetString(currentShopItem.name) ?? currentShopItem.name;
+
+        bool hasDiscount = !string.IsNullOrEmpty(currentShopItem.discount);
+        discountObj.SetActive(hasDiscount);
+        discountText.gameObject.SetActive(hasDiscount);
+
+        // 调整价格文本位置
+        priceText.GetComponent<RectTransform>().anchoredPosition =
+            hasDiscount ? new Vector2(93, 0) : Vector2.zero;
+
+        InitPriceText(hasDiscount);
+    }
+
+    private void InitPriceText(bool needDiscount)
+    {
+        if (currentShopItem == null)
+        {
+            Debug.LogWarning("当前商店项为空");
+            ShowLoadingState(true);
+            return;
+        }
+
+        Debug.Log($"礼包弹窗界面获取商品内购名称: {currentShopItem.GetProduceName()}");
+        try
+        {
+
+#if UNITY_IOS
+            var product = ShopManager.shopManager?.GetProduct(currentShopItem.GetProduceName());
+            if (product == null || product.metadata == null)
+            {
+                Debug.LogWarning($"无法获取商品信息: {currentShopItem.GetProduceName()}");
+                ShowLoadingState(true);
+                return;
+            }
+
+            decimal price = product.metadata.localizedPrice;
+            string currencyCode = product.metadata.isoCurrencyCode;
+
+            Debug.Log($"商品价格: {price} ({currencyCode})");
+
+            // 获取合适的文化信息
+            CultureInfo culture = UIUtilities.GetCultureForCurrency(currencyCode);
+#else
+            float price = currentShopItem.price;
+            // 获取合适的文化信息
+            CultureInfo culture = UIUtilities.GetCultureForCurrency("");
+#endif
+            
+            
+            // 格式化价格
+            priceText.text = UIUtilities.FormatCurrency(price,culture );
+
+            // 处理折扣
+            if (needDiscount)
+            {
+                if (float.TryParse(currentShopItem.discount.TrimEnd('%'), out float discountPercent))
+                {
+                    decimal discountRate = (decimal)(discountPercent / 100f);
+                    decimal originalPrice = (decimal) price / discountRate;
+                    discountText.text = UIUtilities.FormatCurrency(originalPrice, culture);
+                    discountObj.GetComponentInChildren<Text>().text = $"{currentShopItem.discount}{MultilingualManager.Instance.GetString("ShopDiscount")}";
+                   
+                }
+                else
+                {
+                    Debug.LogWarning($"折扣格式无效: {currentShopItem.discount}");
+                    discountText.text = "N/A";
+                }
+            }
+
+            ShowLoadingState(false);
+        }
+        catch (Exception ex)
+        {
+            Debug.LogError($"初始化价格文本时出错: {ex.Message}");
+            ShowLoadingState(true);
+        }
+    }
+
+    private void ShowLoadingState(bool isLoading)
+    {
+        circle.gameObject.SetActive(isLoading);
+        priceText.gameObject.SetActive(!isLoading);
+       
+        if (!string.IsNullOrEmpty(currentShopItem.discount))
+        {
+            discountText.gameObject.SetActive(!isLoading);
+        }
+    }
+
+    private string Gettime()
+    {
+        DateTime endtime = DateTime.Parse(shopLimitData.endtime);
+        TimeSpan timeSpan = endtime.Subtract(DateTime.Now);
+      
+        if (timeSpan.TotalMinutes > 0)
+        {
+            timeText.text = UIUtilities.FormatTimeRemaining(timeSpan);
+        }
+
+        // 输出倒计时
+        return timeSpan.TotalMinutes.ToString();
+    }
+
+    private IEnumerator UpdateTime()
+    {
+        yield return new WaitForSeconds(0.2f);
+        string time = Gettime();
+        while (true)
+        {
+            time = Gettime();
+            if (string.IsNullOrEmpty(time))
+            {
+                shopLimitData.isopen = false;
+                shopLimitData.endtime=null;
+                OnCloseBtn();
+                break; // 如果时间为空，退出循环
+            }
+          
+            yield return new WaitForSeconds(1); // 等待 60 秒
+        }
+    }
+
+    private async void InitGiftItems()
+    {
+        await Task.Delay(10);
+        
+        for (int i = 0; i < currentShopItem.productContent.Count; i++)
+        {
+            List<string> itemdata=currentShopItem.productContent[i];
+            if (GiftItems.Count > i)
+            {
+                GiftItem giftItem =GiftItems[i];
+                giftItem.SetShopData(itemdata, currentShopItem.id, currentShopItem.pointDes);
+            }
+            else
+            {
+                GiftItem giftItem = objectPool.GetObject<GiftItem>(parent);
+                giftItem.SetShopData(itemdata, currentShopItem.id, currentShopItem.pointDes);
+                GiftItems.Add(giftItem);
+            }
+        }
+    }
+    
+    private void OnBuyButtonClicked()
+    {
+        //todo 打开loading界面
+        Game.Shop.Purchase(currentShopItem.GetProduceName(), OnPurchaseSuccess, OnPurchaseFailed);
+        // 处理购买逻辑
+        Debug.Log($"Buying: {currentShopItem.name}, Price: {currentShopItem.GetProduceName()}");
+        //FirebaseManager.Instance.PayStart(currentShopItem.GetProduceName(),area,GameDataManager.MainInstance.UserData.CurrentStage);
+    }
+    
+     private void OnPurchaseSuccess(ProductItem item)
+    {
+        //todo 关闭loading界面
+        Debug.Log("购买成功: " + item.ProductId);
+        var items = new List<AnalyticMgr.Item>();
+        if (currentShopItem.GetProduceName() == item.ProductId)
+        {
+            foreach (var dataitem in currentShopItem.productContent)
+            {
+                int count = int.Parse(dataitem[1]);
+                int type = int.Parse(dataitem[0]);
+                items.Add(new AnalyticMgr.Item { item_name = type.ToString(), quantity = count });
+                switch (type)
+                {
+                    case (int)LimitRewordType.Coins:
+                        GameDataManager.Instance.UserData.Gold += count;
+                        EventDispatcher.Instance.TriggerChangeGoldUI(count,true);
+                        break;
+                    case (int)LimitRewordType.Butterfly:
+                        GameDataManager.Instance.UserData.toolInfo[103].count += count;
+                        break;
+                    case (int)LimitRewordType.Tipstool:
+                        GameDataManager.Instance.UserData.toolInfo[102].count += count;
+                        break;
+                    case (int)LimitRewordType.Resettool:
+                        GameDataManager.Instance.UserData.toolInfo[101].count += count;
+                        break;
+                    case (int)LimitRewordType.RemoveAds:
+                    case (int)LimitRewordType.Remove7DayAds:
+                        ShopLimitData shopLimitData= GameDataManager.Instance.UserData.limitShopItems.Find(item =>item.id == currentShopItem.id);
+                        if (shopLimitData != null)
+                        {
+                            shopLimitData.isoverdate = false;
+                            shopLimitData.isget = true;
+                            shopLimitData.gettime=DateTime.Now.ToString();
+                            shopLimitData.adstype = type;
+                        }
+                        Game.Ads.HideBanner();
+                        break;
+                }
+            }
+        }
+        ShopManager.shopManager.paysuccess = true;
+        if (GameDataManager.Instance.UserData.TotalPayTimes == 0)
+            GameDataManager.Instance.UserData.firstPayTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+        GameDataManager.Instance.UserData.lastPayTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+        GameDataManager.Instance.UserData.TotalPayTimes++;
+        GameDataManager.Instance.UserData.TotalRevenue += item.LocalizedPrice;
+        DailyTaskManager.Instance.UpdateTaskProgress(TaskEvent.NeedShopBuy,1);
+        
+        AnalyticMgr.Purchase(currentShopItem.GetProduceName(), item.IsoCurrencyCode, item.LocalizedPrice, items);
+    }
+
+    private void OnPurchaseFailed(string error)
+    {
+        Debug.Log("购买失败: " + error);
+        AnalyticMgr.PurchaseFailed(currentShopItem.GetProduceName(),error);
+    }
+
+   
+    private void OnCloseBtn()
+    {
+        base.Close(); // 隐藏面板
+    }
+    
+    public override void OnHideAnimationEnd()
+    {
+        base.OnHideAnimationEnd();
+    }
+
+    protected override void OnDisable()
+    {
+        base.OnDisable();
+        ClaimBtn.interactable = true;
+        closeBtn.interactable = true;
+        if(SystemManager.Instance.IsPanelTypeShowing())
+            EventDispatcher.Instance.TriggerUpdateLayerCoin(true,true);
+        else
+        {
+            EventDispatcher.Instance.TriggerUpdateLayerCoin(false,true);
+        }
+    }
+}

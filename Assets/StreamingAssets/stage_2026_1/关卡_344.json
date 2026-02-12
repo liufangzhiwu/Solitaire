@@ -1,0 +1,369 @@
+{
+    "levelId": 344,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "颜料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丙烯",
+                    "icon": false
+                },
+                {
+                    "wordId": "水粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓷漆",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿壁画",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷漆",
+                    "icon": false
+                },
+                {
+                    "wordId": "清漆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "构造",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "板块",
+                    "icon": false
+                },
+                {
+                    "wordId": "断层",
+                    "icon": false
+                },
+                {
+                    "wordId": "地震",
+                    "icon": false
+                },
+                {
+                    "wordId": "应力",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "隆起",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪切",
+                    "icon": false
+                },
+                {
+                    "wordId": "板片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "树叶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "枫树",
+                    "icon": false
+                },
+                {
+                    "wordId": "橡树",
+                    "icon": false
+                },
+                {
+                    "wordId": "桦树",
+                    "icon": false
+                },
+                {
+                    "wordId": "榆树",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪松",
+                    "icon": false
+                },
+                {
+                    "wordId": "杨树",
+                    "icon": false
+                },
+                {
+                    "wordId": "云杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "柳树",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "红色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "罂粟红",
+                    "icon": false
+                },
+                {
+                    "wordId": "番茄红",
+                    "icon": false
+                },
+                {
+                    "wordId": "樱桃红",
+                    "icon": false
+                },
+                {
+                    "wordId": "红宝石红",
+                    "icon": false
+                },
+                {
+                    "wordId": "石榴红",
+                    "icon": false
+                },
+                {
+                    "wordId": "口红红",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "光源",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "霓虹灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭射",
+                    "icon": false
+                },
+                {
+                    "wordId": "卤素灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "北极光",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳光线",
+                    "icon": false
+                },
+                {
+                    "wordId": "信标",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "数独",
+                    "icon": true
+                },
+                {
+                    "wordId": "肯肯",
+                    "icon": true
+                },
+                {
+                    "wordId": "数谜",
+                    "icon": true
+                },
+                {
+                    "wordId": "数织",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手机",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔记本电脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "手表",
+                    "icon": false
+                },
+                {
+                    "wordId": "相机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "提醒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电子邮件",
+                    "icon": false
+                },
+                {
+                    "wordId": "短信",
+                    "icon": false
+                },
+                {
+                    "wordId": "推送",
+                    "icon": false
+                },
+                {
+                    "wordId": "通知",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地图",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "道路地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "路线图",
+                    "icon": false
+                },
+                {
+                    "wordId": "地图集",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "垃圾桶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "垃圾",
+                    "icon": true
+                },
+                {
+                    "wordId": "可回收",
+                    "icon": true
+                },
+                {
+                    "wordId": "堆肥",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "粉彩",
+        "推送",
+        "光源",
+        "柳树",
+        "提醒",
+        "红宝石红",
+        "肯肯",
+        "枫树",
+        "地图集",
+        "手机",
+        "堆肥",
+        "数谜",
+        "卤素灯",
+        "清漆",
+        "笔记本电脑",
+        "颜料",
+        "数织",
+        "隆起",
+        "电子邮件",
+        "喷漆",
+        "瓷漆",
+        "石榴红",
+        "太阳光线",
+        "可回收",
+        "水粉",
+        "板块",
+        "剪切",
+        "路线图",
+        "桦树",
+        "橡树",
+        "杨树",
+        "蛋彩",
+        "镭射",
+        "地震",
+        "口红红",
+        "榆树",
+        "垃圾",
+        "霓虹灯",
+        "谜题",
+        "地图",
+        "板片",
+        "罂粟红"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "雪松",
+                "应力",
+                "云杉",
+                "岩浆"
+            ]
+        },
+        {
+            "cards": [
+                "信标",
+                "北极光",
+                "湿壁画",
+                "断层",
+                "番茄红"
+            ]
+        },
+        {
+            "cards": [
+                "树叶",
+                "垃圾桶",
+                "构造",
+                "通知",
+                "樱桃红",
+                "红色"
+            ]
+        },
+        {
+            "cards": [
+                "短信",
+                "手表",
+                "数独",
+                "设备",
+                "道路地图",
+                "丙烯",
+                "相机"
+            ]
+        }
+    ]
+}

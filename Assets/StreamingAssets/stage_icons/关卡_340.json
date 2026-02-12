@@ -1,0 +1,369 @@
+{
+    "levelId": 340,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "玩具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "娃娃",
+                    "icon": false
+                },
+                {
+                    "wordId": "风筝",
+                    "icon": false
+                },
+                {
+                    "wordId": "球",
+                    "icon": false
+                },
+                {
+                    "wordId": "游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "火车",
+                    "icon": false
+                },
+                {
+                    "wordId": "机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "溜溜球",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳跃",
+                    "icon": true
+                },
+                {
+                    "wordId": "奔跑",
+                    "icon": true
+                },
+                {
+                    "wordId": "行走",
+                    "icon": true
+                },
+                {
+                    "wordId": "游泳",
+                    "icon": true
+                },
+                {
+                    "wordId": "攀爬",
+                    "icon": true
+                },
+                {
+                    "wordId": "潜水",
+                    "icon": true
+                },
+                {
+                    "wordId": "爬行",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞行",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "村舍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "壁炉",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟囱",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜子",
+                    "icon": false
+                },
+                {
+                    "wordId": "碗柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "花瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "椅子",
+                    "icon": false
+                },
+                {
+                    "wordId": "桌子",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗户",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "太空",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "航天飞机玤",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "真空",
+                    "icon": false
+                },
+                {
+                    "wordId": "流星",
+                    "icon": false
+                },
+                {
+                    "wordId": "日食",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乳胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "氦气",
+                    "icon": false
+                },
+                {
+                    "wordId": "充气",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂浮",
+                    "icon": false
+                },
+                {
+                    "wordId": "打结",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝带",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鼓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "低音鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "踩镲",
+                    "icon": true
+                },
+                {
+                    "wordId": "通通鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "邦戈鼓",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "池塘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水",
+                    "icon": true
+                },
+                {
+                    "wordId": "百合",
+                    "icon": true
+                },
+                {
+                    "wordId": "芦苇",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "邮票",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "复古邮票",
+                    "icon": false
+                },
+                {
+                    "wordId": "航空邮件",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮资",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪念邮票",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "照片",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "JPEG格式",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜头",
+                    "icon": false
+                },
+                {
+                    "wordId": "像素",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "数学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "代数",
+                    "icon": false
+                },
+                {
+                    "wordId": "数字",
+                    "icon": false
+                },
+                {
+                    "wordId": "向量",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "芦苇",
+        "纪念邮票",
+        "村舍",
+        "玩具",
+        "壁炉",
+        "溜溜球",
+        "球",
+        "行走",
+        "椅子",
+        "跳跃",
+        "攀爬",
+        "打结",
+        "潜水",
+        "桌子",
+        "百合",
+        "像素",
+        "丝带",
+        "充气",
+        "航空邮件",
+        "日食",
+        "乳胶",
+        "氦气",
+        "动作",
+        "低音鼓",
+        "真空",
+        "代数",
+        "邮票",
+        "向量",
+        "照片",
+        "复古邮票",
+        "窗户",
+        "飞行",
+        "机器人",
+        "邮资",
+        "爬行",
+        "流星",
+        "风筝",
+        "漂浮",
+        "碗柜",
+        "踩镲",
+        "通通鼓",
+        "镜子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "奔跑",
+                "娃娃",
+                "气球",
+                "彗星"
+            ]
+        },
+        {
+            "cards": [
+                "数字",
+                "航天飞机玤",
+                "JPEG格式",
+                "镜头",
+                "游戏"
+            ]
+        },
+        {
+            "cards": [
+                "烟囱",
+                "鱼",
+                "鼓",
+                "轨道",
+                "邦戈鼓",
+                "游泳"
+            ]
+        },
+        {
+            "cards": [
+                "水",
+                "太空",
+                "拼图",
+                "池塘",
+                "花瓶",
+                "数学",
+                "火车"
+            ]
+        }
+    ]
+}

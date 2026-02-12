@@ -1,0 +1,521 @@
+{
+    "levelId": 372,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "条纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "人字形",
+                    "icon": true
+                },
+                {
+                    "wordId": "菱形纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "佩斯利纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "格子纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "棋盘格",
+                    "icon": true
+                },
+                {
+                    "wordId": "方格纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "波浪纹",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "收获",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "作物",
+                    "icon": false
+                },
+                {
+                    "wordId": "犁具",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷仓",
+                    "icon": false
+                },
+                {
+                    "wordId": "筒仓",
+                    "icon": false
+                },
+                {
+                    "wordId": "镰刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "干草棚",
+                    "icon": false
+                },
+                {
+                    "wordId": "粮仓",
+                    "icon": false
+                },
+                {
+                    "wordId": "犁沟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "航行者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "探测器",
+                    "icon": false
+                },
+                {
+                    "wordId": "航天飞机玤",
+                    "icon": false
+                },
+                {
+                    "wordId": "太空舱",
+                    "icon": false
+                },
+                {
+                    "wordId": "模组",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞船",
+                    "icon": false
+                },
+                {
+                    "wordId": "星舰",
+                    "icon": false
+                },
+                {
+                    "wordId": "探险者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墨迹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "污迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "斑渍",
+                    "icon": false
+                },
+                {
+                    "wordId": "泼溅",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷点",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴落",
+                    "icon": false
+                },
+                {
+                    "wordId": "液滴",
+                    "icon": false
+                },
+                {
+                    "wordId": "条痕",
+                    "icon": false
+                },
+                {
+                    "wordId": "污渍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "服务器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缓存",
+                    "icon": false
+                },
+                {
+                    "wordId": "守护进程",
+                    "icon": false
+                },
+                {
+                    "wordId": "内核",
+                    "icon": false
+                },
+                {
+                    "wordId": "进程",
+                    "icon": false
+                },
+                {
+                    "wordId": "线程",
+                    "icon": false
+                },
+                {
+                    "wordId": "缓冲区",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "间歇泉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蒸汽",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷涌",
+                    "icon": false
+                },
+                {
+                    "wordId": "水池",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷口",
+                    "icon": false
+                },
+                {
+                    "wordId": "水柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "热量",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "徽章",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "别针",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖章",
+                    "icon": false
+                },
+                {
+                    "wordId": "纹章",
+                    "icon": false
+                },
+                {
+                    "wordId": "标识",
+                    "icon": false
+                },
+                {
+                    "wordId": "玫瑰徽",
+                    "icon": false
+                },
+                {
+                    "wordId": "标志",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "涟漪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "波浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾流",
+                    "icon": false
+                },
+                {
+                    "wordId": "涌浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "波谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "回浪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "炽天使",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天使",
+                    "icon": false
+                },
+                {
+                    "wordId": "小天使",
+                    "icon": false
+                },
+                {
+                    "wordId": "光环",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "神圣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "收藏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宝箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "藏匿物",
+                    "icon": true
+                },
+                {
+                    "wordId": "保险箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "手提箱",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "寂静",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘘声",
+                    "icon": false
+                },
+                {
+                    "wordId": "安静",
+                    "icon": false
+                },
+                {
+                    "wordId": "静音",
+                    "icon": false
+                },
+                {
+                    "wordId": "静止",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奏鸣曲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快板",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔板",
+                    "icon": false
+                },
+                {
+                    "wordId": "急板",
+                    "icon": false
+                },
+                {
+                    "wordId": "广板",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "太阳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日光",
+                    "icon": false
+                },
+                {
+                    "wordId": "电池板",
+                    "icon": false
+                },
+                {
+                    "wordId": "辐射",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "故障",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "程式错误",
+                    "icon": false
+                },
+                {
+                    "wordId": "延迟",
+                    "icon": false
+                },
+                {
+                    "wordId": "崩溃",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "安静",
+        "喷涌",
+        "神圣",
+        "水池",
+        "快板",
+        "日光",
+        "宝箱",
+        "液滴",
+        "佩斯利纹",
+        "热量",
+        "粮仓",
+        "作物",
+        "污迹",
+        "广板",
+        "犁沟",
+        "徽章",
+        "服务器",
+        "回浪",
+        "别针",
+        "火箭",
+        "墨迹",
+        "静音",
+        "蒸汽",
+        "延迟",
+        "条痕",
+        "菱形纹",
+        "模组",
+        "间歇泉",
+        "探测器",
+        "标志",
+        "航行者",
+        "斑渍",
+        "波谷",
+        "缓存",
+        "污渍",
+        "纹章",
+        "辐射",
+        "方格纹",
+        "波浪纹",
+        "光环",
+        "崩溃",
+        "炽天使",
+        "星舰",
+        "喷口",
+        "航天飞机玤",
+        "静止",
+        "保险箱",
+        "滴落",
+        "小天使",
+        "收获",
+        "人字形",
+        "涌浪",
+        "程式错误",
+        "谷仓",
+        "格子纹",
+        "线程",
+        "棋盘格"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "涟漪",
+                "波浪",
+                "奖章",
+                "泼溅",
+                "翅膀"
+            ]
+        },
+        {
+            "cards": [
+                "尾流",
+                "奏鸣曲",
+                "进程",
+                "筒仓",
+                "内核",
+                "柔板"
+            ]
+        },
+        {
+            "cards": [
+                "镰刀",
+                "故障",
+                "手提箱",
+                "标识",
+                "缓冲区",
+                "藏匿物",
+                "图案"
+            ]
+        },
+        {
+            "cards": [
+                "天使",
+                "干草棚",
+                "条纹",
+                "探险者",
+                "电池板",
+                "太阳",
+                "玫瑰徽",
+                "急板"
+            ]
+        },
+        {
+            "cards": [
+                "太空舱",
+                "喷点",
+                "寂静",
+                "收藏",
+                "飞船",
+                "犁具",
+                "守护进程",
+                "水柱",
+                "嘘声"
+            ]
+        }
+    ]
+}

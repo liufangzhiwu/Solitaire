@@ -1,0 +1,369 @@
+{
+    "levelId": 297,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "电影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西部片",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧情片",
+                    "icon": false
+                },
+                {
+                    "wordId": "预告片",
+                    "icon": false
+                },
+                {
+                    "wordId": "银幕",
+                    "icon": false
+                },
+                {
+                    "wordId": "演职员表",
+                    "icon": false
+                },
+                {
+                    "wordId": "正片",
+                    "icon": false
+                },
+                {
+                    "wordId": "导演",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜剧片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "马戏团",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帐篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": true
+                },
+                {
+                    "wordId": "杂耍演员",
+                    "icon": true
+                },
+                {
+                    "wordId": "杂技演员",
+                    "icon": true
+                },
+                {
+                    "wordId": "高空秋千",
+                    "icon": true
+                },
+                {
+                    "wordId": "高跷",
+                    "icon": true
+                },
+                {
+                    "wordId": "表演场",
+                    "icon": true
+                },
+                {
+                    "wordId": "魔术师",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "航海",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船锚",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "六分仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "方向舵",
+                    "icon": false
+                },
+                {
+                    "wordId": "船体",
+                    "icon": false
+                },
+                {
+                    "wordId": "桅杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "船首",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幻景",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "光晕",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻影",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "全息影像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "漩涡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旋转",
+                    "icon": false
+                },
+                {
+                    "wordId": "涡流",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "环流",
+                    "icon": false
+                },
+                {
+                    "wordId": "气旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙卷风",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丛林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "藤蔓",
+                    "icon": true
+                },
+                {
+                    "wordId": "百香果",
+                    "icon": true
+                },
+                {
+                    "wordId": "美洲虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "猴子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "齿轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "齿牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "链轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "车轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "小齿轮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锻造",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁砧",
+                    "icon": true
+                },
+                {
+                    "wordId": "锤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "锻造钳",
+                    "icon": true
+                },
+                {
+                    "wordId": "熔炉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "大陆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "非洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧洲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钓鱼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钓竿",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼钩",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼饵",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "船首",
+        "西部片",
+        "链轮",
+        "预告片",
+        "鱼钩",
+        "龙骨",
+        "杂技演员",
+        "罗盘",
+        "百香果",
+        "航海",
+        "导演",
+        "大陆",
+        "高空秋千",
+        "螺旋",
+        "齿轮",
+        "漩涡",
+        "喜剧片",
+        "高跷",
+        "龙卷风",
+        "方向舵",
+        "气旋",
+        "光晕",
+        "猴子",
+        "帐篷",
+        "铁砧",
+        "环流",
+        "剧情片",
+        "美洲虎",
+        "绿洲",
+        "正片",
+        "藤蔓",
+        "杂耍演员",
+        "熔炉",
+        "小丑",
+        "全息影像",
+        "小齿轮",
+        "演职员表",
+        "桅杆",
+        "马戏团",
+        "欧洲",
+        "魔术师",
+        "车轴"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "电影",
+                "锻造钳",
+                "丛林",
+                "钓鱼"
+            ]
+        },
+        {
+            "cards": [
+                "船体",
+                "齿牙",
+                "鱼饵",
+                "钓竿",
+                "幽灵"
+            ]
+        },
+        {
+            "cards": [
+                "银幕",
+                "六分仪",
+                "幻景",
+                "非洲",
+                "旋转",
+                "闪烁"
+            ]
+        },
+        {
+            "cards": [
+                "亚洲",
+                "表演场",
+                "锤子",
+                "船锚",
+                "幻影",
+                "锻造",
+                "涡流"
+            ]
+        }
+    ]
+}

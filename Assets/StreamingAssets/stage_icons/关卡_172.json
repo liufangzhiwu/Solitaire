@@ -1,0 +1,369 @@
+{
+    "levelId": 172,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 170,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "谜团",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谜题",
+                    "icon": false
+                },
+                {
+                    "wordId": "秘密",
+                    "icon": false
+                },
+                {
+                    "wordId": "线索",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜语",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬疑案",
+                    "icon": false
+                },
+                {
+                    "wordId": "转折",
+                    "icon": false
+                },
+                {
+                    "wordId": "难解的",
+                    "icon": false
+                },
+                {
+                    "wordId": "晦涩的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "天气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风暴",
+                    "icon": false
+                },
+                {
+                    "wordId": "飑",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷",
+                    "icon": false
+                },
+                {
+                    "wordId": "气旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛毛雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "季风",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "炼金术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长生不老药",
+                    "icon": false
+                },
+                {
+                    "wordId": "硫磺",
+                    "icon": false
+                },
+                {
+                    "wordId": "水银",
+                    "icon": false
+                },
+                {
+                    "wordId": "矾",
+                    "icon": false
+                },
+                {
+                    "wordId": "秘术的",
+                    "icon": false
+                },
+                {
+                    "wordId": "煆烧",
+                    "icon": false
+                },
+                {
+                    "wordId": "以太",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿佐特",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "民间传说",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地精",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "小精灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "传说",
+                    "icon": false
+                },
+                {
+                    "wordId": "女巫",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "握寿司",
+                    "icon": true
+                },
+                {
+                    "wordId": "香料",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨西哥薄饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "饺子",
+                    "icon": true
+                },
+                {
+                    "wordId": "千层面",
+                    "icon": true
+                },
+                {
+                    "wordId": "糕点",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "岛屿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔希提岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "帕劳",
+                    "icon": false
+                },
+                {
+                    "wordId": "科西嘉岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "复活节岛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盔甲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "胫甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁手套",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "音乐体裁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "夜曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "奏鸣曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "练习曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "前奏曲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "艺术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马赛克",
+                    "icon": true
+                },
+                {
+                    "wordId": "画笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "调色板",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "文字系统",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉丁文",
+                    "icon": false
+                },
+                {
+                    "wordId": "西里尔文",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉伯文",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "拉丁文",
+        "握寿司",
+        "女巫",
+        "季风",
+        "文字系统",
+        "香料",
+        "巨魔",
+        "塔希提岛",
+        "飑",
+        "阿佐特",
+        "西里尔文",
+        "长生不老药",
+        "悬疑案",
+        "秘密",
+        "龙",
+        "胫甲",
+        "线索",
+        "煆烧",
+        "地精",
+        "风暴",
+        "前奏曲",
+        "转折",
+        "谜语",
+        "阿拉伯文",
+        "谜团",
+        "天气",
+        "谜题",
+        "科西嘉岛",
+        "胸甲",
+        "雷",
+        "传说",
+        "千层面",
+        "秘术的",
+        "艺术",
+        "民间传说",
+        "调色板",
+        "帕劳",
+        "糕点",
+        "头盔",
+        "复活节岛",
+        "练习曲",
+        "毛毛雨"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "墨西哥薄饼",
+                "美食",
+                "马赛克",
+                "水银"
+            ]
+        },
+        {
+            "cards": [
+                "硫磺",
+                "难解的",
+                "盔甲",
+                "夜曲",
+                "矾"
+            ]
+        },
+        {
+            "cards": [
+                "气旋",
+                "音乐体裁",
+                "奏鸣曲",
+                "晦涩的",
+                "以太",
+                "炼金术"
+            ]
+        },
+        {
+            "cards": [
+                "饺子",
+                "画笔",
+                "小精灵",
+                "岛屿",
+                "暴风雪",
+                "暴风雨",
+                "铁手套"
+            ]
+        }
+    ]
+}

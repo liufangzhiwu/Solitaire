@@ -1,0 +1,369 @@
+{
+    "levelId": 307,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "毛绒材质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羽绒",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊毛",
+                    "icon": true
+                },
+                {
+                    "wordId": "云朵",
+                    "icon": true
+                },
+                {
+                    "wordId": "棉花",
+                    "icon": true
+                },
+                {
+                    "wordId": "绒布",
+                    "icon": true
+                },
+                {
+                    "wordId": "簇绒毛",
+                    "icon": true
+                },
+                {
+                    "wordId": "绒球",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊驼毛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "餐具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "叉子",
+                    "icon": false
+                },
+                {
+                    "wordId": "勺子",
+                    "icon": false
+                },
+                {
+                    "wordId": "刀子",
+                    "icon": false
+                },
+                {
+                    "wordId": "盘子",
+                    "icon": false
+                },
+                {
+                    "wordId": "碗",
+                    "icon": false
+                },
+                {
+                    "wordId": "长柄勺",
+                    "icon": false
+                },
+                {
+                    "wordId": "铲子",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶匙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼镜蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "曼巴蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "环蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "太攀蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝰蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝮蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝎子",
+                    "icon": false
+                },
+                {
+                    "wordId": "角蝰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气味剂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麝香",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭鼬",
+                    "icon": false
+                },
+                {
+                    "wordId": "氨",
+                    "icon": false
+                },
+                {
+                    "wordId": "樟脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "硫",
+                    "icon": false
+                },
+                {
+                    "wordId": "熏香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "液体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水",
+                    "icon": false
+                },
+                {
+                    "wordId": "油",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "血液",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "甘油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "两栖动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蟾蜍",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝾螈",
+                    "icon": false
+                },
+                {
+                    "wordId": "美西螈",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛蛙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卤素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氟",
+                    "icon": false
+                },
+                {
+                    "wordId": "氯",
+                    "icon": false
+                },
+                {
+                    "wordId": "溴",
+                    "icon": false
+                },
+                {
+                    "wordId": "碘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "症状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "发烧",
+                    "icon": false
+                },
+                {
+                    "wordId": "咳嗽",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮疹",
+                    "icon": false
+                },
+                {
+                    "wordId": "瘙痒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "三位一体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣父",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣子",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣灵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "韵律",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "时间",
+                    "icon": false
+                },
+                {
+                    "wordId": "默剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "石灰",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "碘",
+        "蝰蛇",
+        "氨",
+        "盘子",
+        "羊驼毛",
+        "羽绒",
+        "血液",
+        "溴",
+        "樟脑",
+        "两栖动物",
+        "时间",
+        "牛蛙",
+        "圣父",
+        "叉子",
+        "石灰",
+        "美西螈",
+        "曼巴蛇",
+        "云朵",
+        "蝎子",
+        "太攀蛇",
+        "蝾螈",
+        "圣灵",
+        "角蝰",
+        "碗",
+        "韵律",
+        "油",
+        "氟",
+        "默剧",
+        "症状",
+        "圣子",
+        "气味剂",
+        "氯",
+        "餐具",
+        "熏香",
+        "环蛇",
+        "勺子",
+        "臭鼬",
+        "糖浆",
+        "绒球",
+        "茶匙",
+        "硫",
+        "发烧"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "绒布",
+                "刀子",
+                "水",
+                "牛奶"
+            ]
+        },
+        {
+            "cards": [
+                "蟾蜍",
+                "麝香",
+                "皮疹",
+                "蝮蛇",
+                "羊毛"
+            ]
+        },
+        {
+            "cards": [
+                "瘙痒",
+                "液体",
+                "铲子",
+                "咳嗽",
+                "长柄勺",
+                "卤素"
+            ]
+        },
+        {
+            "cards": [
+                "毒物",
+                "三位一体",
+                "棉花",
+                "眼镜蛇",
+                "毛绒材质",
+                "簇绒毛",
+                "甘油"
+            ]
+        }
+    ]
+}

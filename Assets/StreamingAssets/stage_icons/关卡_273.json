@@ -1,0 +1,553 @@
+{
+    "levelId": 273,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "矿物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石英",
+                    "icon": false
+                },
+                {
+                    "wordId": "长石",
+                    "icon": false
+                },
+                {
+                    "wordId": "石榴石",
+                    "icon": false
+                },
+                {
+                    "wordId": "铝土矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄石",
+                    "icon": false
+                },
+                {
+                    "wordId": "刚玉",
+                    "icon": false
+                },
+                {
+                    "wordId": "白云石",
+                    "icon": false
+                },
+                {
+                    "wordId": "托帕石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "武器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "矛",
+                    "icon": true
+                },
+                {
+                    "wordId": "匕首",
+                    "icon": true
+                },
+                {
+                    "wordId": "钉头锤",
+                    "icon": true
+                },
+                {
+                    "wordId": "弓",
+                    "icon": true
+                },
+                {
+                    "wordId": "斧",
+                    "icon": true
+                },
+                {
+                    "wordId": "戟",
+                    "icon": true
+                },
+                {
+                    "wordId": "弩",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "洞穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洞室",
+                    "icon": false
+                },
+                {
+                    "wordId": "隧道",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "穹窿",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖井",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "大厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂缝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话之地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冥界",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿斯加德",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥林匹斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "英灵殿",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿瓦隆",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄金国",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚特兰蒂斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "涅槃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "医生",
+                    "icon": false
+                },
+                {
+                    "wordId": "教师",
+                    "icon": false
+                },
+                {
+                    "wordId": "水管工",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙医",
+                    "icon": false
+                },
+                {
+                    "wordId": "银行家",
+                    "icon": false
+                },
+                {
+                    "wordId": "律师",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "岛屿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴厘岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "西西里岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "斐济",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨摩亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "马耳他",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞浦路斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉丁文",
+                    "icon": false
+                },
+                {
+                    "wordId": "西里尔文",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉伯文",
+                    "icon": false
+                },
+                {
+                    "wordId": "如尼文",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊文",
+                    "icon": false
+                },
+                {
+                    "wordId": "希伯来文",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生物群落",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苔原",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "森林",
+                    "icon": false
+                },
+                {
+                    "wordId": "稀树草原",
+                    "icon": false
+                },
+                {
+                    "wordId": "沼泽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大洲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "欧洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "非洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "大洋洲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鱼类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三文鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳟鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳕鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "孔雀鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "马林鱼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "流星雨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英仙座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮子座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎户座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "双子座流星雨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "形状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圆形",
+                    "icon": true
+                },
+                {
+                    "wordId": "正方形",
+                    "icon": true
+                },
+                {
+                    "wordId": "三角形",
+                    "icon": true
+                },
+                {
+                    "wordId": "六边形",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "卫星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木卫一",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫二",
+                    "icon": false
+                },
+                {
+                    "wordId": "土卫六",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫三",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "湖泊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "的的喀喀湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝加尔湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "维多利亚湖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国旗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "美国国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "英国国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "日本国旗",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "斧",
+        "亚洲",
+        "牙医",
+        "剑",
+        "三角形",
+        "托帕石",
+        "鳕鱼",
+        "英仙座流星雨",
+        "鱼类",
+        "长石",
+        "弓",
+        "黄金国",
+        "戟",
+        "医生",
+        "日本国旗",
+        "竖井",
+        "湖泊",
+        "狮子座流星雨",
+        "土卫六",
+        "石榴石",
+        "巴厘岛",
+        "沙漠",
+        "水管工",
+        "马耳他",
+        "生物群落",
+        "阿斯加德",
+        "美国国旗",
+        "英国国旗",
+        "矿物",
+        "冥界",
+        "森林",
+        "欧洲",
+        "苔原",
+        "沼泽",
+        "正方形",
+        "木卫三",
+        "大洋洲",
+        "弩",
+        "白云石",
+        "六边形",
+        "刚玉",
+        "希腊文",
+        "裂缝",
+        "马林鱼",
+        "岩洞",
+        "木卫二",
+        "塞浦路斯",
+        "洞穴",
+        "斐济",
+        "希伯来文",
+        "双子座流星雨",
+        "铝土矿",
+        "通道",
+        "贝加尔湖",
+        "阿拉伯文",
+        "钉头锤",
+        "三文鱼",
+        "稀树草原",
+        "教师",
+        "孔雀鱼",
+        "神话之地",
+        "的的喀喀湖",
+        "大洲"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "岛屿",
+                "美洲",
+                "大厅",
+                "流星雨",
+                "猎户座流星雨"
+            ]
+        },
+        {
+            "cards": [
+                "西西里岛",
+                "石英",
+                "涅槃",
+                "西里尔文",
+                "非洲",
+                "穹窿"
+            ]
+        },
+        {
+            "cards": [
+                "维多利亚湖",
+                "匕首",
+                "职业",
+                "律师",
+                "橄榄石",
+                "圆形",
+                "形状"
+            ]
+        },
+        {
+            "cards": [
+                "木卫一",
+                "鳟鱼",
+                "矛",
+                "如尼文",
+                "国旗",
+                "隧道",
+                "亚特兰蒂斯",
+                "卫星"
+            ]
+        },
+        {
+            "cards": [
+                "文字",
+                "拉丁文",
+                "萨摩亚",
+                "英灵殿",
+                "奥林匹斯",
+                "武器",
+                "洞室",
+                "阿瓦隆",
+                "银行家"
+            ]
+        }
+    ]
+}

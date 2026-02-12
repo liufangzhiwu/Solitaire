@@ -1,0 +1,369 @@
+{
+    "levelId": 261,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "化学元素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氢",
+                    "icon": false
+                },
+                {
+                    "wordId": "氦",
+                    "icon": false
+                },
+                {
+                    "wordId": "锂",
+                    "icon": false
+                },
+                {
+                    "wordId": "氟",
+                    "icon": false
+                },
+                {
+                    "wordId": "硼",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳",
+                    "icon": false
+                },
+                {
+                    "wordId": "氮",
+                    "icon": false
+                },
+                {
+                    "wordId": "氧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电子设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "调制解调器",
+                    "icon": false
+                },
+                {
+                    "wordId": "路由器",
+                    "icon": false
+                },
+                {
+                    "wordId": "无人机",
+                    "icon": false
+                },
+                {
+                    "wordId": "感测器",
+                    "icon": false
+                },
+                {
+                    "wordId": "小工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "平板电脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "相机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鞋类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "运动鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "乐福鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "凉鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛津鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "莫卡辛鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "拖鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "木屐",
+                    "icon": true
+                },
+                {
+                    "wordId": "靴子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "烈酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苦艾酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙舌兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏特加",
+                    "icon": false
+                },
+                {
+                    "wordId": "白兰地",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪利酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "清酒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "歌剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卡门",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮士德",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿依达",
+                    "icon": false
+                },
+                {
+                    "wordId": "托斯卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶花女",
+                    "icon": false
+                },
+                {
+                    "wordId": "图兰朵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星座",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白羊座",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮子座",
+                    "icon": true
+                },
+                {
+                    "wordId": "处女座",
+                    "icon": true
+                },
+                {
+                    "wordId": "天蝎座",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宇宙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "类星体",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉冲星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绳结",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布林结",
+                    "icon": true
+                },
+                {
+                    "wordId": "普鲁士结",
+                    "icon": true
+                },
+                {
+                    "wordId": "卡里克结",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊角结",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "和弦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大三和弦",
+                    "icon": false
+                },
+                {
+                    "wordId": "小三和弦",
+                    "icon": false
+                },
+                {
+                    "wordId": "增三和弦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "方言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泰恩赛德方言",
+                    "icon": false
+                },
+                {
+                    "wordId": "伦敦方言",
+                    "icon": false
+                },
+                {
+                    "wordId": "利物浦方言",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "小工具",
+        "泰恩赛德方言",
+        "白羊座",
+        "拖鞋",
+        "靴子",
+        "龙舌兰",
+        "路由器",
+        "处女座",
+        "浮士德",
+        "增三和弦",
+        "碳",
+        "伦敦方言",
+        "星系",
+        "机器人",
+        "氢",
+        "布林结",
+        "卡门",
+        "苦艾酒",
+        "小三和弦",
+        "大三和弦",
+        "调制解调器",
+        "鞋类",
+        "羊角结",
+        "星座",
+        "莫卡辛鞋",
+        "脉冲星",
+        "卡里克结",
+        "烈酒",
+        "星云",
+        "硼",
+        "绳结",
+        "狮子座",
+        "利物浦方言",
+        "方言",
+        "无人机",
+        "氟",
+        "茶花女",
+        "图兰朵",
+        "雪利酒",
+        "感测器",
+        "木屐",
+        "清酒"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "氮",
+                "宇宙",
+                "电子设备",
+                "歌剧"
+            ]
+        },
+        {
+            "cards": [
+                "氦",
+                "相机",
+                "白兰地",
+                "天蝎座",
+                "类星体"
+            ]
+        },
+        {
+            "cards": [
+                "阿依达",
+                "氧",
+                "乐福鞋",
+                "运动鞋",
+                "化学元素",
+                "凉鞋"
+            ]
+        },
+        {
+            "cards": [
+                "普鲁士结",
+                "锂",
+                "和弦",
+                "托斯卡",
+                "平板电脑",
+                "牛津鞋",
+                "伏特加"
+            ]
+        }
+    ]
+}

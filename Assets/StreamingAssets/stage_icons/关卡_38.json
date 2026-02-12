@@ -1,0 +1,369 @@
+{
+    "levelId": 38,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "K歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "KTV",
+                    "icon": false
+                },
+                {
+                    "wordId": "包厢",
+                    "icon": false
+                },
+                {
+                    "wordId": "点歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "音响",
+                    "icon": false
+                },
+                {
+                    "wordId": "评分",
+                    "icon": false
+                },
+                {
+                    "wordId": "合唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "伴奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "麦霸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粘性物质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胶水",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦油",
+                    "icon": false
+                },
+                {
+                    "wordId": "树液",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜡",
+                    "icon": false
+                },
+                {
+                    "wordId": "粘合剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥",
+                    "icon": false
+                },
+                {
+                    "wordId": "树脂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "ABCC式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生机勃勃",
+                    "icon": false
+                },
+                {
+                    "wordId": "文质彬彬",
+                    "icon": false
+                },
+                {
+                    "wordId": "想入非非",
+                    "icon": false
+                },
+                {
+                    "wordId": "饥肠辘辘",
+                    "icon": false
+                },
+                {
+                    "wordId": "白发苍苍",
+                    "icon": false
+                },
+                {
+                    "wordId": "小心翼翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜气洋洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "众目睽睽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机器人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "无人机",
+                    "icon": false
+                },
+                {
+                    "wordId": "扫地机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "纳米机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "半机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "仿生人",
+                    "icon": false
+                },
+                {
+                    "wordId": "机器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "多边形",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "六边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "七边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "五边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "十边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "三角形",
+                    "icon": true
+                },
+                {
+                    "wordId": "八边形",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "界面类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "USB",
+                    "icon": false
+                },
+                {
+                    "wordId": "HDMI",
+                    "icon": false
+                },
+                {
+                    "wordId": "Type-C",
+                    "icon": false
+                },
+                {
+                    "wordId": "VGA",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鞋跟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "细高跟",
+                    "icon": false
+                },
+                {
+                    "wordId": "防水台",
+                    "icon": false
+                },
+                {
+                    "wordId": "马蹄跟",
+                    "icon": false
+                },
+                {
+                    "wordId": "坡跟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "吊床",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "放松",
+                    "icon": false
+                },
+                {
+                    "wordId": "休息",
+                    "icon": false
+                },
+                {
+                    "wordId": "小憩",
+                    "icon": false
+                },
+                {
+                    "wordId": "睡觉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "希腊字母",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Σ",
+                    "icon": false
+                },
+                {
+                    "wordId": "Δ",
+                    "icon": false
+                },
+                {
+                    "wordId": "Κ",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动力学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "运动",
+                    "icon": false
+                },
+                {
+                    "wordId": "惯性",
+                    "icon": false
+                },
+                {
+                    "wordId": "速度",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "白发苍苍",
+        "评分",
+        "包厢",
+        "Type-C",
+        "Κ",
+        "多边形",
+        "胶水",
+        "动力学",
+        "细高跟",
+        "粘合剂",
+        "七边形",
+        "树液",
+        "ABCC式",
+        "Δ",
+        "伴奏",
+        "饥肠辘辘",
+        "马蹄跟",
+        "HDMI",
+        "想入非非",
+        "仿生人",
+        "界面类型",
+        "合唱",
+        "惯性",
+        "麦霸",
+        "文质彬彬",
+        "糖蜜",
+        "USB",
+        "生机勃勃",
+        "放松",
+        "点歌",
+        "机器",
+        "速度",
+        "喜气洋洋",
+        "树脂",
+        "纳米机器人",
+        "吊床",
+        "众目睽睽",
+        "半机器人",
+        "焦油",
+        "小心翼翼",
+        "运动",
+        "睡觉"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "希腊字母",
+                "Σ",
+                "K歌",
+                "三角形"
+            ]
+        },
+        {
+            "cards": [
+                "音响",
+                "五边形",
+                "VGA",
+                "休息",
+                "蜡"
+            ]
+        },
+        {
+            "cards": [
+                "扫地机器人",
+                "泥",
+                "八边形",
+                "防水台",
+                "KTV",
+                "机器人"
+            ]
+        },
+        {
+            "cards": [
+                "十边形",
+                "粘性物质",
+                "小憩",
+                "无人机",
+                "坡跟",
+                "六边形",
+                "鞋跟"
+            ]
+        }
+    ]
+}

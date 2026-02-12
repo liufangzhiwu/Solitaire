@@ -1,0 +1,217 @@
+{
+    "levelId": 184,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "烘焙食品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面包",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪电泡芙",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝果",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜甜圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛芬",
+                    "icon": false
+                },
+                {
+                    "wordId": "椒盐卷饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": false
+                },
+                {
+                    "wordId": "司康饼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爬行动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜥蜴",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "龟",
+                    "icon": false
+                },
+                {
+                    "wordId": "石龙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯门鳄",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬣蜥",
+                    "icon": false
+                },
+                {
+                    "wordId": "蟒蛇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "湖泊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日内瓦湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "太浩湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "科莫湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "维多利亚湖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国际象棋",
+                    "icon": true
+                },
+                {
+                    "wordId": "扑克",
+                    "icon": true
+                },
+                {
+                    "wordId": "多米诺骨牌",
+                    "icon": true
+                },
+                {
+                    "wordId": "麻将",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "汤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "味噌汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "浓汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "番茄汤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "语言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英语",
+                    "icon": true
+                },
+                {
+                    "wordId": "西班牙语",
+                    "icon": true
+                },
+                {
+                    "wordId": "俄语",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "味噌汤",
+        "壁虎",
+        "俄语",
+        "石龙子",
+        "西班牙语",
+        "国际象棋",
+        "语言",
+        "闪电泡芙",
+        "英语",
+        "玛芬",
+        "司康饼",
+        "日内瓦湖",
+        "浓汤",
+        "维多利亚湖",
+        "湖泊",
+        "蜥蜴",
+        "番茄汤",
+        "游戏",
+        "鬣蜥",
+        "面包",
+        "龟",
+        "扑克",
+        "饼干",
+        "凯门鳄"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "蛇",
+                "爬行动物",
+                "太浩湖"
+            ]
+        },
+        {
+            "cards": [
+                "麻将",
+                "贝果",
+                "甜甜圈",
+                "汤"
+            ]
+        },
+        {
+            "cards": [
+                "科莫湖",
+                "多米诺骨牌",
+                "烘焙食品",
+                "椒盐卷饼",
+                "蟒蛇"
+            ]
+        }
+    ]
+}

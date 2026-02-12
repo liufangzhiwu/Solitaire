@@ -1,0 +1,369 @@
+{
+    "levelId": 63,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "圣诞老人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "礼物",
+                    "icon": true
+                },
+                {
+                    "wordId": "雪橇",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟囱",
+                    "icon": true
+                },
+                {
+                    "wordId": "精灵",
+                    "icon": true
+                },
+                {
+                    "wordId": "克劳斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "驯鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "长袜",
+                    "icon": true
+                },
+                {
+                    "wordId": "胡子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "错误",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "疏忽",
+                    "icon": false
+                },
+                {
+                    "wordId": "报错",
+                    "icon": false
+                },
+                {
+                    "wordId": "过失",
+                    "icon": false
+                },
+                {
+                    "wordId": "失败",
+                    "icon": false
+                },
+                {
+                    "wordId": "大错",
+                    "icon": false
+                },
+                {
+                    "wordId": "失策",
+                    "icon": false
+                },
+                {
+                    "wordId": "缺陷",
+                    "icon": false
+                },
+                {
+                    "wordId": "谬误",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "核果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杏",
+                    "icon": true
+                },
+                {
+                    "wordId": "桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "李子",
+                    "icon": true
+                },
+                {
+                    "wordId": "樱桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "芒果",
+                    "icon": true
+                },
+                {
+                    "wordId": "枇杷",
+                    "icon": true
+                },
+                {
+                    "wordId": "橄榄",
+                    "icon": true
+                },
+                {
+                    "wordId": "荔枝",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "安全帽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "建筑工人",
+                    "icon": false
+                },
+                {
+                    "wordId": "屋顶工",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿工",
+                    "icon": false
+                },
+                {
+                    "wordId": "劳工",
+                    "icon": false
+                },
+                {
+                    "wordId": "工头",
+                    "icon": false
+                },
+                {
+                    "wordId": "机械师",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "杂志",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "封面",
+                    "icon": false
+                },
+                {
+                    "wordId": "读者",
+                    "icon": false
+                },
+                {
+                    "wordId": "周刊",
+                    "icon": false
+                },
+                {
+                    "wordId": "编辑",
+                    "icon": false
+                },
+                {
+                    "wordId": "文章",
+                    "icon": false
+                },
+                {
+                    "wordId": "月刊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冲突",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "争吵",
+                    "icon": false
+                },
+                {
+                    "wordId": "斗争",
+                    "icon": false
+                },
+                {
+                    "wordId": "不和",
+                    "icon": false
+                },
+                {
+                    "wordId": "世仇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "婴儿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "婴儿床",
+                    "icon": false
+                },
+                {
+                    "wordId": "安抚奶嘴",
+                    "icon": false
+                },
+                {
+                    "wordId": "婴儿期",
+                    "icon": false
+                },
+                {
+                    "wordId": "奶瓶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海事",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船舶",
+                    "icon": false
+                },
+                {
+                    "wordId": "海港",
+                    "icon": false
+                },
+                {
+                    "wordId": "水手",
+                    "icon": false
+                },
+                {
+                    "wordId": "造船厂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "喜悦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "欢喜",
+                    "icon": false
+                },
+                {
+                    "wordId": "兴高采烈",
+                    "icon": false
+                },
+                {
+                    "wordId": "高兴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奖牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "银牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜牌",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "枇杷",
+        "斗争",
+        "造船厂",
+        "过失",
+        "芒果",
+        "婴儿",
+        "大错",
+        "杏",
+        "烟囱",
+        "杂志",
+        "海事",
+        "婴儿期",
+        "文章",
+        "桃",
+        "月刊",
+        "金牌",
+        "李子",
+        "谬误",
+        "工头",
+        "水手",
+        "世仇",
+        "克劳斯",
+        "周刊",
+        "高兴",
+        "礼物",
+        "机械师",
+        "精灵",
+        "劳工",
+        "雪橇",
+        "封面",
+        "樱桃",
+        "长袜",
+        "编辑",
+        "铜牌",
+        "失败",
+        "安抚奶嘴",
+        "安全帽",
+        "矿工",
+        "失策",
+        "奖牌",
+        "欢喜",
+        "橄榄"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "读者",
+                "银牌",
+                "胡子",
+                "驯鹿"
+            ]
+        },
+        {
+            "cards": [
+                "屋顶工",
+                "兴高采烈",
+                "争吵",
+                "荔枝",
+                "疏忽"
+            ]
+        },
+        {
+            "cards": [
+                "海港",
+                "错误",
+                "船舶",
+                "喜悦",
+                "不和",
+                "圣诞老人"
+            ]
+        },
+        {
+            "cards": [
+                "建筑工人",
+                "冲突",
+                "核果",
+                "缺陷",
+                "奶瓶",
+                "婴儿床",
+                "报错"
+            ]
+        }
+    ]
+}

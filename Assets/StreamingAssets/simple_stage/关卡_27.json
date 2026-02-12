@@ -1,0 +1,217 @@
+{
+    "levelId": 27,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "烧烤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猪肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉串",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸡肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛排",
+                    "icon": false
+                },
+                {
+                    "wordId": "肋排",
+                    "icon": false
+                },
+                {
+                    "wordId": "腌料",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤架",
+                    "icon": false
+                },
+                {
+                    "wordId": "木炭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档格式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "TXT",
+                    "icon": false
+                },
+                {
+                    "wordId": "PDF",
+                    "icon": false
+                },
+                {
+                    "wordId": "CSV",
+                    "icon": false
+                },
+                {
+                    "wordId": "HTML",
+                    "icon": false
+                },
+                {
+                    "wordId": "JPEG",
+                    "icon": false
+                },
+                {
+                    "wordId": "PNG",
+                    "icon": false
+                },
+                {
+                    "wordId": "GIF",
+                    "icon": false
+                },
+                {
+                    "wordId": "DOCX",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "座位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椅子",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": true
+                },
+                {
+                    "wordId": "凳子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "损伤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扭伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨折",
+                    "icon": false
+                },
+                {
+                    "wordId": "瘀伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "伤口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "魔法师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "术士",
+                    "icon": false
+                },
+                {
+                    "wordId": "神仙",
+                    "icon": false
+                },
+                {
+                    "wordId": "女巫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "流感",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头痛",
+                    "icon": false
+                },
+                {
+                    "wordId": "药片",
+                    "icon": false
+                },
+                {
+                    "wordId": "咳嗽",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "烤架",
+        "肋排",
+        "药片",
+        "骨折",
+        "烧烤",
+        "GIF",
+        "头痛",
+        "HTML",
+        "椅子",
+        "PDF",
+        "DOCX",
+        "牛排",
+        "术士",
+        "沙发",
+        "伤口",
+        "CSV",
+        "肉串",
+        "神仙",
+        "女巫",
+        "PNG",
+        "流感",
+        "瘀伤",
+        "长凳",
+        "座位"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "TXT",
+                "档格式",
+                "猪肉"
+            ]
+        },
+        {
+            "cards": [
+                "腌料",
+                "扭伤",
+                "凳子",
+                "咳嗽"
+            ]
+        },
+        {
+            "cards": [
+                "鸡肉",
+                "JPEG",
+                "损伤",
+                "木炭",
+                "魔法师"
+            ]
+        }
+    ]
+}

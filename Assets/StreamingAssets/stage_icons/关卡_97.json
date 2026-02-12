@@ -1,0 +1,217 @@
+{
+    "levelId": 97,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "糕点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闪电泡芙",
+                    "icon": true
+                },
+                {
+                    "wordId": "馅饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "布里欧修",
+                    "icon": true
+                },
+                {
+                    "wordId": "挞",
+                    "icon": true
+                },
+                {
+                    "wordId": "司康饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "果馅卷",
+                    "icon": true
+                },
+                {
+                    "wordId": "布朗尼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "鸽子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白色",
+                    "icon": false
+                },
+                {
+                    "wordId": "送信",
+                    "icon": false
+                },
+                {
+                    "wordId": "和平",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "信鸽",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "归巢",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸽笼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "篝火",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                },
+                {
+                    "wordId": "柴火",
+                    "icon": false
+                },
+                {
+                    "wordId": "营地",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟雾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大本钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮身人面像",
+                    "icon": true
+                },
+                {
+                    "wordId": "罗马斗兽场",
+                    "icon": true
+                },
+                {
+                    "wordId": "金字塔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "甜甜圈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "松软",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "酥脆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "犯罪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "员警",
+                    "icon": false
+                },
+                {
+                    "wordId": "调查",
+                    "icon": false
+                },
+                {
+                    "wordId": "不在场证明",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "和平",
+        "调查",
+        "羽毛",
+        "营地",
+        "不在场证明",
+        "罗马斗兽场",
+        "翅膀",
+        "司康饼",
+        "果馅卷",
+        "归巢",
+        "鸽笼",
+        "火焰",
+        "信鸽",
+        "柴火",
+        "大本钟",
+        "酥脆",
+        "送信",
+        "地标",
+        "白色",
+        "糕点",
+        "烟雾",
+        "挞",
+        "松软",
+        "篝火"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "布朗尼",
+                "员警",
+                "布里欧修"
+            ]
+        },
+        {
+            "cards": [
+                "金字塔",
+                "犯罪",
+                "糖衣",
+                "馅饼"
+            ]
+        },
+        {
+            "cards": [
+                "甜甜圈",
+                "狮身人面像",
+                "鸽子",
+                "闪电泡芙",
+                "蛋糕"
+            ]
+        }
+    ]
+}

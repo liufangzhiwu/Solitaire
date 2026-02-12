@@ -1,0 +1,369 @@
+{
+    "levelId": 332,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "美德",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尊严",
+                    "icon": false
+                },
+                {
+                    "wordId": "仁慈",
+                    "icon": false
+                },
+                {
+                    "wordId": "善良",
+                    "icon": false
+                },
+                {
+                    "wordId": "耐心",
+                    "icon": false
+                },
+                {
+                    "wordId": "谦逊",
+                    "icon": false
+                },
+                {
+                    "wordId": "贞洁",
+                    "icon": false
+                },
+                {
+                    "wordId": "公正",
+                    "icon": false
+                },
+                {
+                    "wordId": "忠诚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "包袋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手提袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮差包",
+                    "icon": false
+                },
+                {
+                    "wordId": "双肩包",
+                    "icon": false
+                },
+                {
+                    "wordId": "手拿包",
+                    "icon": false
+                },
+                {
+                    "wordId": "帆布背包",
+                    "icon": false
+                },
+                {
+                    "wordId": "单肩包",
+                    "icon": false
+                },
+                {
+                    "wordId": "背包",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "实验室器皿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "坩埚",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴定管",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "小瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "研钵",
+                    "icon": false
+                },
+                {
+                    "wordId": "钳子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "质数",
+                    "icon": false
+                },
+                {
+                    "wordId": "偶数",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇数",
+                    "icon": false
+                },
+                {
+                    "wordId": "整数",
+                    "icon": false
+                },
+                {
+                    "wordId": "有理数",
+                    "icon": false
+                },
+                {
+                    "wordId": "复数",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "感测器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雷达",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭射雷达",
+                    "icon": false
+                },
+                {
+                    "wordId": "声纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "磁力感测器",
+                    "icon": false
+                },
+                {
+                    "wordId": "红外感测器",
+                    "icon": false
+                },
+                {
+                    "wordId": "光学感测器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海盗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弯刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "护卫舰",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝藏",
+                    "icon": true
+                },
+                {
+                    "wordId": "单筒望远镜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吟诵",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "誓言",
+                    "icon": false
+                },
+                {
+                    "wordId": "誓约",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "回声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混响",
+                    "icon": false
+                },
+                {
+                    "wordId": "回响",
+                    "icon": false
+                },
+                {
+                    "wordId": "重复",
+                    "icon": false
+                },
+                {
+                    "wordId": "反射",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "壁画",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "湿壁画",
+                    "icon": false
+                },
+                {
+                    "wordId": "范本画",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂鸦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "渴望",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "向往",
+                    "icon": false
+                },
+                {
+                    "wordId": "思念",
+                    "icon": false
+                },
+                {
+                    "wordId": "渴求",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "研钵",
+        "坩埚",
+        "背包",
+        "滴定管",
+        "仁慈",
+        "烧瓶",
+        "声纳",
+        "思念",
+        "有理数",
+        "磁力感测器",
+        "单肩包",
+        "护卫舰",
+        "奇数",
+        "回响",
+        "帆布背包",
+        "美德",
+        "耐心",
+        "漏斗",
+        "重复",
+        "向往",
+        "混响",
+        "包袋",
+        "善良",
+        "手提袋",
+        "双肩包",
+        "小瓶",
+        "回声",
+        "复数",
+        "誓言",
+        "质数",
+        "忠诚",
+        "烧杯",
+        "渴望",
+        "感测器",
+        "礼仪",
+        "光学感测器",
+        "弯刀",
+        "红外感测器",
+        "渴求",
+        "钳子",
+        "公正",
+        "宝藏"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "偶数",
+                "邮差包",
+                "吟诵",
+                "壁画"
+            ]
+        },
+        {
+            "cards": [
+                "湿壁画",
+                "贞洁",
+                "雷达",
+                "手拿包",
+                "旅行袋"
+            ]
+        },
+        {
+            "cards": [
+                "海盗",
+                "反射",
+                "誓约",
+                "仪式",
+                "范本画",
+                "镭射雷达"
+            ]
+        },
+        {
+            "cards": [
+                "数字",
+                "谦逊",
+                "单筒望远镜",
+                "涂鸦",
+                "尊严",
+                "整数",
+                "实验室器皿"
+            ]
+        }
+    ]
+}

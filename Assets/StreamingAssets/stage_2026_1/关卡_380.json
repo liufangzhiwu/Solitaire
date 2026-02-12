@@ -1,0 +1,369 @@
+{
+    "levelId": 380,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "窗帘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "垂帘",
+                    "icon": false
+                },
+                {
+                    "wordId": "帷幔",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄纱",
+                    "icon": false
+                },
+                {
+                    "wordId": "褶裥",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "穿杆式",
+                    "icon": false
+                },
+                {
+                    "wordId": "波幔",
+                    "icon": false
+                },
+                {
+                    "wordId": "后背带式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锁具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "挂锁",
+                    "icon": false
+                },
+                {
+                    "wordId": "死栓",
+                    "icon": false
+                },
+                {
+                    "wordId": "插芯锁",
+                    "icon": false
+                },
+                {
+                    "wordId": "弹子",
+                    "icon": false
+                },
+                {
+                    "wordId": "门栓",
+                    "icon": false
+                },
+                {
+                    "wordId": "杠杆锁",
+                    "icon": false
+                },
+                {
+                    "wordId": "锁芯",
+                    "icon": false
+                },
+                {
+                    "wordId": "搭扣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "管道设施",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水槽",
+                    "icon": true
+                },
+                {
+                    "wordId": "马桶",
+                    "icon": true
+                },
+                {
+                    "wordId": "坐浴盆",
+                    "icon": true
+                },
+                {
+                    "wordId": "小便池",
+                    "icon": true
+                },
+                {
+                    "wordId": "浴缸",
+                    "icon": true
+                },
+                {
+                    "wordId": "淋浴间",
+                    "icon": true
+                },
+                {
+                    "wordId": "水龙头",
+                    "icon": true
+                },
+                {
+                    "wordId": "虹吸管",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "盾牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小圆盾",
+                    "icon": true
+                },
+                {
+                    "wordId": "巨盾",
+                    "icon": true
+                },
+                {
+                    "wordId": "阿斯庇斯盾",
+                    "icon": true
+                },
+                {
+                    "wordId": "轻木盾",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸢形盾",
+                    "icon": true
+                },
+                {
+                    "wordId": "风筝盾",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "天花板",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "湿壁画",
+                    "icon": false
+                },
+                {
+                    "wordId": "藻井",
+                    "icon": false
+                },
+                {
+                    "wordId": "吊顶空间",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱腹",
+                    "icon": false
+                },
+                {
+                    "wordId": "主梁",
+                    "icon": false
+                },
+                {
+                    "wordId": "搁栅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地板",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拼花地板",
+                    "icon": false
+                },
+                {
+                    "wordId": "甲板",
+                    "icon": false
+                },
+                {
+                    "wordId": "油毡",
+                    "icon": false
+                },
+                {
+                    "wordId": "水磨石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "密封材料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玛蹄脂",
+                    "icon": false
+                },
+                {
+                    "wordId": "环氧树脂",
+                    "icon": false
+                },
+                {
+                    "wordId": "沥青",
+                    "icon": false
+                },
+                {
+                    "wordId": "硅酮胶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肢体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "腿",
+                    "icon": false
+                },
+                {
+                    "wordId": "爪",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "利爪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "栏杆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扶手",
+                    "icon": false
+                },
+                {
+                    "wordId": "楼梯扶手",
+                    "icon": false
+                },
+                {
+                    "wordId": "栏杆柱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "溪流",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小溪",
+                    "icon": false
+                },
+                {
+                    "wordId": "河流",
+                    "icon": false
+                },
+                {
+                    "wordId": "细流",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "垂帘",
+        "密封材料",
+        "河流",
+        "湿壁画",
+        "栏杆柱",
+        "杠杆锁",
+        "扶手",
+        "环氧树脂",
+        "褶裥",
+        "波幔",
+        "死栓",
+        "水磨石",
+        "天花板",
+        "小溪",
+        "搁栅",
+        "锁芯",
+        "插芯锁",
+        "盾牌",
+        "沥青",
+        "藻井",
+        "坐浴盆",
+        "拱腹",
+        "栏杆",
+        "浴缸",
+        "楼梯扶手",
+        "细流",
+        "马桶",
+        "水龙头",
+        "主梁",
+        "窗帘",
+        "后背带式",
+        "穿杆式",
+        "巨盾",
+        "搭扣",
+        "风筝盾",
+        "翅膀",
+        "挂锁",
+        "水槽",
+        "小便池",
+        "拼花地板",
+        "弹子",
+        "吊顶空间"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "肢体",
+                "溪流",
+                "油毡",
+                "鸢形盾"
+            ]
+        },
+        {
+            "cards": [
+                "门栓",
+                "管道设施",
+                "扣眼",
+                "轻木盾",
+                "薄纱"
+            ]
+        },
+        {
+            "cards": [
+                "小圆盾",
+                "利爪",
+                "爪",
+                "阿斯庇斯盾",
+                "虹吸管",
+                "帷幔"
+            ]
+        },
+        {
+            "cards": [
+                "锁具",
+                "地板",
+                "淋浴间",
+                "玛蹄脂",
+                "甲板",
+                "腿",
+                "硅酮胶"
+            ]
+        }
+    ]
+}

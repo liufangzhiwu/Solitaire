@@ -1,0 +1,369 @@
+{
+    "levelId": 321,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "乳酪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "切达干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "里科塔干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "布里干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃丹干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "提尔西特干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "高达干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "格鲁耶尔干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "帕尔玛干酪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舞蹈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "华尔滋",
+                    "icon": false
+                },
+                {
+                    "wordId": "探戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛仔舞",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗拉门戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "波尔卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨尔萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇摆舞",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛祖卡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诗歌类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "十四行诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "俳句",
+                    "icon": false
+                },
+                {
+                    "wordId": "打油诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "颂诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "六节诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "回旋诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "三行诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "对句",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "迷宫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树篱迷宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "地下墓穴迷宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "网格迷宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷宫通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "活板门迷宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "陷阱迷宫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纸牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红心",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "梅花",
+                    "icon": true
+                },
+                {
+                    "wordId": "方块",
+                    "icon": true
+                },
+                {
+                    "wordId": "杰克",
+                    "icon": true
+                },
+                {
+                    "wordId": "王牌",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "绳结",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "单套结",
+                    "icon": false
+                },
+                {
+                    "wordId": "外婆结",
+                    "icon": false
+                },
+                {
+                    "wordId": "戈尔迪乌姆结",
+                    "icon": false
+                },
+                {
+                    "wordId": "反手结",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿努比斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "雅典娜",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "波塞冬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉丁文",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉伯文",
+                    "icon": false
+                },
+                {
+                    "wordId": "希伯来文",
+                    "icon": false
+                },
+                {
+                    "wordId": "如尼文",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "侮辱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恶棍",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌合之众",
+                    "icon": false
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "威尼斯面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "防毒面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "外科口罩",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "格鲁耶尔干酪",
+        "反手结",
+        "侮辱",
+        "诗歌类型",
+        "神话",
+        "树篱迷宫",
+        "高达干酪",
+        "打油诗",
+        "外科口罩",
+        "威尼斯面具",
+        "摇摆舞",
+        "雅典娜",
+        "牛仔舞",
+        "恶棍",
+        "地下墓穴迷宫",
+        "戈尔迪乌姆结",
+        "迷宫通道",
+        "切达干酪",
+        "单套结",
+        "弗拉门戈",
+        "面具",
+        "小丑",
+        "梅花",
+        "拉丁文",
+        "赫拉",
+        "提尔西特干酪",
+        "迷宫",
+        "布里干酪",
+        "探戈",
+        "萨尔萨",
+        "里科塔干酪",
+        "波塞冬",
+        "黑桃",
+        "三行诗",
+        "波尔卡",
+        "埃丹干酪",
+        "六节诗",
+        "俳句",
+        "如尼文",
+        "方块",
+        "陷阱迷宫",
+        "帕尔玛干酪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "活板门迷宫",
+                "防毒面具",
+                "绳结",
+                "王牌"
+            ]
+        },
+        {
+            "cards": [
+                "乌合之众",
+                "外婆结",
+                "杰克",
+                "纸牌",
+                "舞蹈"
+            ]
+        },
+        {
+            "cards": [
+                "颂诗",
+                "文字",
+                "华尔滋",
+                "玛祖卡",
+                "乳酪",
+                "回旋诗"
+            ]
+        },
+        {
+            "cards": [
+                "网格迷宫",
+                "对句",
+                "希伯来文",
+                "阿努比斯",
+                "阿拉伯文",
+                "红心",
+                "十四行诗"
+            ]
+        }
+    ]
+}

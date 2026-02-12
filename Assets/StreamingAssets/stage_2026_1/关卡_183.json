@@ -1,0 +1,369 @@
+{
+    "levelId": 183,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "山峰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠穆朗玛峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "马卡鲁峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚拉腊山",
+                    "icon": false
+                },
+                {
+                    "wordId": "德纳里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔戈里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "卓奥友峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄尔布鲁士峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "文森峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水生生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海马",
+                    "icon": true
+                },
+                {
+                    "wordId": "水母",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱿鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹦鹉螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "海象",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙虾",
+                    "icon": true
+                },
+                {
+                    "wordId": "黄貂鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "海星",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "诡计",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幻觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "欺诈",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶作剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "花招",
+                    "icon": false
+                },
+                {
+                    "wordId": "计谋",
+                    "icon": false
+                },
+                {
+                    "wordId": "诈骗",
+                    "icon": false
+                },
+                {
+                    "wordId": "骗局",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "扣具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "紧固件",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹子",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣环",
+                    "icon": false
+                },
+                {
+                    "wordId": "按扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣针",
+                    "icon": false
+                },
+                {
+                    "wordId": "搭扣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "剃须",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "直式剃刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "安全剃须刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "剃须刷",
+                    "icon": true
+                },
+                {
+                    "wordId": "剃须刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "胡须",
+                    "icon": true
+                },
+                {
+                    "wordId": "小胡子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "苹果酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苹果",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒精",
+                    "icon": false
+                },
+                {
+                    "wordId": "酵母",
+                    "icon": false
+                },
+                {
+                    "wordId": "饮料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "呼吸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "通气",
+                    "icon": false
+                },
+                {
+                    "wordId": "打鼾",
+                    "icon": false
+                },
+                {
+                    "wordId": "喘气",
+                    "icon": false
+                },
+                {
+                    "wordId": "喘息",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巫师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甘道夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑞达加斯特",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨鲁曼",
+                    "icon": false
+                },
+                {
+                    "wordId": "贾方",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "平滑的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平坦的",
+                    "icon": false
+                },
+                {
+                    "wordId": "平的",
+                    "icon": false
+                },
+                {
+                    "wordId": "光滑的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "品味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "味道",
+                    "icon": false
+                },
+                {
+                    "wordId": "风味",
+                    "icon": false
+                },
+                {
+                    "wordId": "独特味道",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "海马",
+        "酒精",
+        "扣针",
+        "剃须刷",
+        "胡须",
+        "海星",
+        "恶作剧",
+        "直式剃刀",
+        "小胡子",
+        "品味",
+        "马卡鲁峰",
+        "水母",
+        "夹子",
+        "亚拉腊山",
+        "按扣",
+        "厄尔布鲁士峰",
+        "酵母",
+        "喘气",
+        "计谋",
+        "剃须刀",
+        "德纳里峰",
+        "扣环",
+        "贾方",
+        "珠穆朗玛峰",
+        "味道",
+        "饮料",
+        "剃须",
+        "卓奥友峰",
+        "花招",
+        "平滑的",
+        "黄貂鱼",
+        "甘道夫",
+        "欺诈",
+        "苹果",
+        "巫师",
+        "文森峰",
+        "诡计",
+        "萨鲁曼",
+        "紧固件",
+        "通气",
+        "光滑的",
+        "乔戈里峰"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "平坦的",
+                "龙虾",
+                "鹦鹉螺",
+                "呼吸"
+            ]
+        },
+        {
+            "cards": [
+                "安全剃须刀",
+                "独特味道",
+                "瑞达加斯特",
+                "骗局",
+                "诈骗"
+            ]
+        },
+        {
+            "cards": [
+                "山峰",
+                "鱿鱼",
+                "苹果酒",
+                "平的",
+                "水生生物",
+                "风味"
+            ]
+        },
+        {
+            "cards": [
+                "幻觉",
+                "海象",
+                "搭扣",
+                "玩笑",
+                "扣具",
+                "喘息",
+                "打鼾"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 204,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "普拉提",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉伸",
+                    "icon": false
+                },
+                {
+                    "wordId": "带子",
+                    "icon": false
+                },
+                {
+                    "wordId": "垫枕",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼吸",
+                    "icon": false
+                },
+                {
+                    "wordId": "触觉的",
+                    "icon": false
+                },
+                {
+                    "wordId": "锻炼",
+                    "icon": false
+                },
+                {
+                    "wordId": "健康",
+                    "icon": false
+                },
+                {
+                    "wordId": "身体的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "管道工",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钢锯",
+                    "icon": true
+                },
+                {
+                    "wordId": "管道",
+                    "icon": true
+                },
+                {
+                    "wordId": "皮搋子",
+                    "icon": true
+                },
+                {
+                    "wordId": "管钳",
+                    "icon": true
+                },
+                {
+                    "wordId": "水龙头",
+                    "icon": true
+                },
+                {
+                    "wordId": "浴缸",
+                    "icon": true
+                },
+                {
+                    "wordId": "马桶",
+                    "icon": true
+                },
+                {
+                    "wordId": "漏水",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "棕色物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "巧克力",
+                    "icon": true
+                },
+                {
+                    "wordId": "咖啡",
+                    "icon": true
+                },
+                {
+                    "wordId": "树叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "土豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "陶器",
+                    "icon": true
+                },
+                {
+                    "wordId": "马",
+                    "icon": true
+                },
+                {
+                    "wordId": "蟑螂",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "非政府组织",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "援助",
+                    "icon": false
+                },
+                {
+                    "wordId": "帮助",
+                    "icon": false
+                },
+                {
+                    "wordId": "慈善",
+                    "icon": false
+                },
+                {
+                    "wordId": "救济",
+                    "icon": false
+                },
+                {
+                    "wordId": "人民",
+                    "icon": false
+                },
+                {
+                    "wordId": "公益",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "制裁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "施加",
+                    "icon": false
+                },
+                {
+                    "wordId": "禁止",
+                    "icon": false
+                },
+                {
+                    "wordId": "处罚",
+                    "icon": false
+                },
+                {
+                    "wordId": "惩罚",
+                    "icon": false
+                },
+                {
+                    "wordId": "禁运",
+                    "icon": false
+                },
+                {
+                    "wordId": "法令",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "弗洛伊德",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "精神分析",
+                    "icon": false
+                },
+                {
+                    "wordId": "自我",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄狄浦斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "情结",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "贵族",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "公爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "皇帝",
+                    "icon": false
+                },
+                {
+                    "wordId": "男爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "伯爵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "比赛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马拉松",
+                    "icon": false
+                },
+                {
+                    "wordId": "短跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "接力赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "冬季两项",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "兔子相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "地洞",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳朵",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "礼貌的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谢谢",
+                    "icon": false
+                },
+                {
+                    "wordId": "欢迎",
+                    "icon": false
+                },
+                {
+                    "wordId": "对不起",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "地洞",
+        "管道",
+        "水龙头",
+        "伯爵",
+        "慈善",
+        "普拉提",
+        "耳朵",
+        "钢锯",
+        "身体的",
+        "棕色物",
+        "锻炼",
+        "救济",
+        "精神分析",
+        "马拉松",
+        "短跑",
+        "谢谢",
+        "拉伸",
+        "呼吸",
+        "自我",
+        "皮搋子",
+        "情结",
+        "制裁",
+        "管钳",
+        "带子",
+        "胡萝卜",
+        "欢迎",
+        "人民",
+        "管道工",
+        "公益",
+        "触觉的",
+        "漏水",
+        "对不起",
+        "法令",
+        "浴缸",
+        "蟑螂",
+        "男爵",
+        "巧克力",
+        "陶器",
+        "马",
+        "俄狄浦斯",
+        "接力赛",
+        "非政府组织"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "禁运",
+                "皇帝",
+                "公爵",
+                "援助"
+            ]
+        },
+        {
+            "cards": [
+                "施加",
+                "垫枕",
+                "禁止",
+                "兔子相关",
+                "处罚"
+            ]
+        },
+        {
+            "cards": [
+                "马桶",
+                "冬季两项",
+                "礼貌的",
+                "比赛",
+                "咖啡",
+                "贵族"
+            ]
+        },
+        {
+            "cards": [
+                "弗洛伊德",
+                "土豆",
+                "惩罚",
+                "树叶",
+                "熊",
+                "帮助",
+                "健康"
+            ]
+        }
+    ]
+}

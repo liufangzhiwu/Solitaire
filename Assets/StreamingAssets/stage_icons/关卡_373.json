@@ -1,0 +1,217 @@
+{
+    "levelId": 373,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水星",
+                    "icon": true
+                },
+                {
+                    "wordId": "金星",
+                    "icon": true
+                },
+                {
+                    "wordId": "冥王星",
+                    "icon": true
+                },
+                {
+                    "wordId": "火星",
+                    "icon": true
+                },
+                {
+                    "wordId": "木星",
+                    "icon": true
+                },
+                {
+                    "wordId": "土星",
+                    "icon": true
+                },
+                {
+                    "wordId": "天王星",
+                    "icon": true
+                },
+                {
+                    "wordId": "海王星",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "机械",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钻床",
+                    "icon": false
+                },
+                {
+                    "wordId": "车床",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲床",
+                    "icon": false
+                },
+                {
+                    "wordId": "切割机",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋钻",
+                    "icon": false
+                },
+                {
+                    "wordId": "焊机",
+                    "icon": false
+                },
+                {
+                    "wordId": "刨床",
+                    "icon": false
+                },
+                {
+                    "wordId": "磨床",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宝石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红宝石",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛋白石",
+                    "icon": true
+                },
+                {
+                    "wordId": "翡翠",
+                    "icon": true
+                },
+                {
+                    "wordId": "珍珠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "墨水瓶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羽笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔尖",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨壶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "母音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "A",
+                    "icon": false
+                },
+                {
+                    "wordId": "E",
+                    "icon": false
+                },
+                {
+                    "wordId": "I",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麝香",
+                    "icon": false
+                },
+                {
+                    "wordId": "一丝气味",
+                    "icon": false
+                },
+                {
+                    "wordId": "香气",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "土星",
+        "蛋白石",
+        "A",
+        "火星",
+        "香气",
+        "墨壶",
+        "螺旋钻",
+        "海王星",
+        "水星",
+        "行星",
+        "焊机",
+        "气味",
+        "车床",
+        "麝香",
+        "I",
+        "母音",
+        "刨床",
+        "天王星",
+        "一丝气味",
+        "磨床",
+        "木星",
+        "金星",
+        "冲床",
+        "E"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "宝石",
+                "羽毛",
+                "笔尖"
+            ]
+        },
+        {
+            "cards": [
+                "珍珠",
+                "机械",
+                "墨水瓶",
+                "切割机"
+            ]
+        },
+        {
+            "cards": [
+                "翡翠",
+                "羽笔",
+                "红宝石",
+                "钻床",
+                "冥王星"
+            ]
+        }
+    ]
+}

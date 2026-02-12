@@ -1,0 +1,521 @@
+{
+    "levelId": 353,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "零",
+                    "icon": false
+                },
+                {
+                    "wordId": "一",
+                    "icon": false
+                },
+                {
+                    "wordId": "二",
+                    "icon": false
+                },
+                {
+                    "wordId": "三",
+                    "icon": false
+                },
+                {
+                    "wordId": "四",
+                    "icon": false
+                },
+                {
+                    "wordId": "五",
+                    "icon": false
+                },
+                {
+                    "wordId": "六",
+                    "icon": false
+                },
+                {
+                    "wordId": "七",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "全球定位系统",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "北",
+                    "icon": false
+                },
+                {
+                    "wordId": "南",
+                    "icon": false
+                },
+                {
+                    "wordId": "东",
+                    "icon": false
+                },
+                {
+                    "wordId": "西",
+                    "icon": false
+                },
+                {
+                    "wordId": "东北",
+                    "icon": false
+                },
+                {
+                    "wordId": "西北",
+                    "icon": false
+                },
+                {
+                    "wordId": "东南",
+                    "icon": false
+                },
+                {
+                    "wordId": "西南",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化妆品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "口红",
+                    "icon": false
+                },
+                {
+                    "wordId": "睫毛膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "修容",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉底",
+                    "icon": false
+                },
+                {
+                    "wordId": "妆前乳",
+                    "icon": false
+                },
+                {
+                    "wordId": "腮红",
+                    "icon": false
+                },
+                {
+                    "wordId": "唇彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼线笔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "书桌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卷盖式书桌",
+                    "icon": false
+                },
+                {
+                    "wordId": "档柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "讲台",
+                    "icon": false
+                },
+                {
+                    "wordId": "诵经台",
+                    "icon": false
+                },
+                {
+                    "wordId": "工作台",
+                    "icon": false
+                },
+                {
+                    "wordId": "柜台",
+                    "icon": false
+                },
+                {
+                    "wordId": "折叠桌",
+                    "icon": false
+                },
+                {
+                    "wordId": "站立式书桌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "编程",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Python",
+                    "icon": false
+                },
+                {
+                    "wordId": "Java",
+                    "icon": false
+                },
+                {
+                    "wordId": "Kotlin",
+                    "icon": false
+                },
+                {
+                    "wordId": "C++",
+                    "icon": false
+                },
+                {
+                    "wordId": "Swift",
+                    "icon": false
+                },
+                {
+                    "wordId": "Rust",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手工艺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "编织",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "缝纫",
+                    "icon": false
+                },
+                {
+                    "wordId": "塑造",
+                    "icon": false
+                },
+                {
+                    "wordId": "绘画",
+                    "icon": false
+                },
+                {
+                    "wordId": "上釉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仙人掌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "干旱",
+                    "icon": false
+                },
+                {
+                    "wordId": "刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "多刺的",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙舌兰酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙漠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "首码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Un",
+                    "icon": false
+                },
+                {
+                    "wordId": "Im",
+                    "icon": false
+                },
+                {
+                    "wordId": "Il",
+                    "icon": false
+                },
+                {
+                    "wordId": "Ir",
+                    "icon": false
+                },
+                {
+                    "wordId": "Re",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "介词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "在",
+                    "icon": false
+                },
+                {
+                    "wordId": "上",
+                    "icon": false
+                },
+                {
+                    "wordId": "下",
+                    "icon": false
+                },
+                {
+                    "wordId": "上方",
+                    "icon": false
+                },
+                {
+                    "wordId": "之上",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "文本档",
+                    "icon": false
+                },
+                {
+                    "wordId": "PDF档",
+                    "icon": false
+                },
+                {
+                    "wordId": "JPG图像",
+                    "icon": false
+                },
+                {
+                    "wordId": "MP3音频",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "流览器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谷歌流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "苹果流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧朋流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "微软流览器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "零食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爆米花",
+                    "icon": true
+                },
+                {
+                    "wordId": "椒盐卷饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "曲奇",
+                    "icon": true
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宇宙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火星",
+                    "icon": false
+                },
+                {
+                    "wordId": "木星",
+                    "icon": false
+                },
+                {
+                    "wordId": "土星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鼓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "军鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "镲片",
+                    "icon": true
+                },
+                {
+                    "wordId": "鼓槌",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "零",
+        "爆米花",
+        "东",
+        "南",
+        "站立式书桌",
+        "文本档",
+        "雕刻",
+        "五",
+        "上方",
+        "苹果流览器",
+        "火星",
+        "唇彩",
+        "西",
+        "C++",
+        "编程",
+        "之上",
+        "绘画",
+        "军鼓",
+        "刺",
+        "Python",
+        "在",
+        "MP3音频",
+        "妆前乳",
+        "沙漠",
+        "Re",
+        "眼线笔",
+        "下",
+        "土星",
+        "数字",
+        "Java",
+        "塑造",
+        "东南",
+        "腮红",
+        "诵经台",
+        "工作台",
+        "二",
+        "七",
+        "一",
+        "全球定位系统",
+        "饼干",
+        "Rust",
+        "缝纫",
+        "西北",
+        "六",
+        "档柜",
+        "流览器",
+        "JPG图像",
+        "东北",
+        "PDF档",
+        "化妆品",
+        "编织",
+        "龙舌兰酒",
+        "书桌",
+        "谷歌流览器",
+        "Im",
+        "Swift",
+        "手工艺"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "宇宙",
+                "仙人掌",
+                "柜台",
+                "卷盖式书桌",
+                "鼓"
+            ]
+        },
+        {
+            "cards": [
+                "粉底",
+                "木星",
+                "微软流览器",
+                "欧朋流览器",
+                "曲奇",
+                "镲片"
+            ]
+        },
+        {
+            "cards": [
+                "首码",
+                "Il",
+                "折叠桌",
+                "绿色",
+                "三",
+                "北",
+                "口红"
+            ]
+        },
+        {
+            "cards": [
+                "Kotlin",
+                "干旱",
+                "Ir",
+                "西南",
+                "上",
+                "零食",
+                "上釉",
+                "鼓槌"
+            ]
+        },
+        {
+            "cards": [
+                "Un",
+                "椒盐卷饼",
+                "修容",
+                "四",
+                "介词",
+                "睫毛膏",
+                "多刺的",
+                "讲台",
+                "档"
+            ]
+        }
+    ]
+}

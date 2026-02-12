@@ -1,0 +1,553 @@
+{
+    "levelId": 262,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "模仿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "仿造",
+                    "icon": false
+                },
+                {
+                    "wordId": "复制品",
+                    "icon": false
+                },
+                {
+                    "wordId": "复制",
+                    "icon": false
+                },
+                {
+                    "wordId": "重制",
+                    "icon": false
+                },
+                {
+                    "wordId": "改编",
+                    "icon": false
+                },
+                {
+                    "wordId": "重印",
+                    "icon": false
+                },
+                {
+                    "wordId": "仿真",
+                    "icon": false
+                },
+                {
+                    "wordId": "模拟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "首都",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴黎",
+                    "icon": false
+                },
+                {
+                    "wordId": "伦敦",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏林",
+                    "icon": false
+                },
+                {
+                    "wordId": "维也纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "东京",
+                    "icon": false
+                },
+                {
+                    "wordId": "利马",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫斯科",
+                    "icon": false
+                },
+                {
+                    "wordId": "里斯本",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "色调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猩红",
+                    "icon": false
+                },
+                {
+                    "wordId": "天蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭石",
+                    "icon": false
+                },
+                {
+                    "wordId": "翠绿",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫罗兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "栗色",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄绿",
+                    "icon": false
+                },
+                {
+                    "wordId": "青蓝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化学元素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氖",
+                    "icon": false
+                },
+                {
+                    "wordId": "氦",
+                    "icon": false
+                },
+                {
+                    "wordId": "氧",
+                    "icon": false
+                },
+                {
+                    "wordId": "氩",
+                    "icon": false
+                },
+                {
+                    "wordId": "硼",
+                    "icon": false
+                },
+                {
+                    "wordId": "钙",
+                    "icon": false
+                },
+                {
+                    "wordId": "氪",
+                    "icon": false
+                },
+                {
+                    "wordId": "锂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "歌剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "图兰朵",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥赛罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿依达",
+                    "icon": false
+                },
+                {
+                    "wordId": "托斯卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡门",
+                    "icon": false
+                },
+                {
+                    "wordId": "纳布科",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "哺乳动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "河马",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲸",
+                    "icon": true
+                },
+                {
+                    "wordId": "狒狒",
+                    "icon": true
+                },
+                {
+                    "wordId": "熊猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "树懒",
+                    "icon": true
+                },
+                {
+                    "wordId": "猫鼬",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "解剖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "股骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "锁骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "膝盖骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "肩胛骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "下颌骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "肱骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "象形符号",
+                    "icon": false
+                },
+                {
+                    "wordId": "三曲腿图",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐喻",
+                    "icon": false
+                },
+                {
+                    "wordId": "讽喻",
+                    "icon": false
+                },
+                {
+                    "wordId": "安卡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美德",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "信仰",
+                    "icon": false
+                },
+                {
+                    "wordId": "希望",
+                    "icon": false
+                },
+                {
+                    "wordId": "慈善",
+                    "icon": false
+                },
+                {
+                    "wordId": "审慎",
+                    "icon": false
+                },
+                {
+                    "wordId": "仁慈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面包师",
+                    "icon": false
+                },
+                {
+                    "wordId": "女装裁缝",
+                    "icon": false
+                },
+                {
+                    "wordId": "屠夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "细木工",
+                    "icon": false
+                },
+                {
+                    "wordId": "石匠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱琴海",
+                    "icon": false
+                },
+                {
+                    "wordId": "白令海",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚得里亚海",
+                    "icon": false
+                },
+                {
+                    "wordId": "里海",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "敲击",
+                    "icon": false
+                },
+                {
+                    "wordId": "切割",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "固定",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "糖果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "硬糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "焦糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "软糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛轧糖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "作家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沃克",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥斯汀",
+                    "icon": false
+                },
+                {
+                    "wordId": "狄更斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笑话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双关语",
+                    "icon": false
+                },
+                {
+                    "wordId": "俏皮话",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩笑",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "猫鼬",
+        "奥斯汀",
+        "氖",
+        "面包师",
+        "托斯卡",
+        "伦敦",
+        "肩胛骨",
+        "女装裁缝",
+        "焦糖",
+        "股骨",
+        "阿依达",
+        "狄更斯",
+        "天蓝",
+        "沃克",
+        "仿造",
+        "细木工",
+        "里海",
+        "牛轧糖",
+        "白令海",
+        "里斯本",
+        "软糖",
+        "熊猫",
+        "模拟",
+        "锂",
+        "职业",
+        "模仿",
+        "河马",
+        "希望",
+        "奥赛罗",
+        "隐喻",
+        "敲击",
+        "紫罗兰",
+        "复制",
+        "柏林",
+        "改编",
+        "笑话",
+        "审慎",
+        "讽喻",
+        "慈善",
+        "化学元素",
+        "狒狒",
+        "象形符号",
+        "雕刻",
+        "钙",
+        "东京",
+        "双关语",
+        "玩笑",
+        "美德",
+        "纳布科",
+        "三曲腿图",
+        "工具",
+        "屠夫",
+        "安卡",
+        "固定",
+        "维也纳",
+        "爱琴海",
+        "信仰",
+        "复制品",
+        "重制",
+        "锁骨",
+        "树懒",
+        "首都",
+        "俏皮话"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "符号",
+                "哺乳动物",
+                "海洋",
+                "色调",
+                "橄榄绿"
+            ]
+        },
+        {
+            "cards": [
+                "歌剧",
+                "氩",
+                "仁慈",
+                "氪",
+                "糖果",
+                "翠绿"
+            ]
+        },
+        {
+            "cards": [
+                "巴黎",
+                "石匠",
+                "硬糖",
+                "赭石",
+                "下颌骨",
+                "莫斯科",
+                "肱骨"
+            ]
+        },
+        {
+            "cards": [
+                "亚得里亚海",
+                "氧",
+                "青蓝",
+                "鲸",
+                "利马",
+                "作家",
+                "重印",
+                "膝盖骨"
+            ]
+        },
+        {
+            "cards": [
+                "切割",
+                "猩红",
+                "仿真",
+                "硼",
+                "图兰朵",
+                "氦",
+                "栗色",
+                "解剖",
+                "卡门"
+            ]
+        }
+    ]
+}

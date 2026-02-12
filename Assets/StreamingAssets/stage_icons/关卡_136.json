@@ -1,0 +1,453 @@
+{
+    "levelId": 136,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 170,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "蒸汽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薄雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "水蒸气",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴霾",
+                    "icon": false
+                },
+                {
+                    "wordId": "云",
+                    "icon": false
+                },
+                {
+                    "wordId": "气体",
+                    "icon": false
+                },
+                {
+                    "wordId": "露水",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟雾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "细枝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树枝",
+                    "icon": false
+                },
+                {
+                    "wordId": "棍子",
+                    "icon": false
+                },
+                {
+                    "wordId": "树叶",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟巢",
+                    "icon": false
+                },
+                {
+                    "wordId": "木头",
+                    "icon": false
+                },
+                {
+                    "wordId": "树皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "树液",
+                    "icon": false
+                },
+                {
+                    "wordId": "茎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "忍者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面具",
+                    "icon": false
+                },
+                {
+                    "wordId": "剑",
+                    "icon": false
+                },
+                {
+                    "wordId": "潜行",
+                    "icon": false
+                },
+                {
+                    "wordId": "投掷",
+                    "icon": false
+                },
+                {
+                    "wordId": "影子",
+                    "icon": false
+                },
+                {
+                    "wordId": "战斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "无声的",
+                    "icon": false
+                },
+                {
+                    "wordId": "氏族",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "血液",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "静脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "压力",
+                    "icon": false
+                },
+                {
+                    "wordId": "红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "流动",
+                    "icon": false
+                },
+                {
+                    "wordId": "细胞",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉搏",
+                    "icon": false
+                },
+                {
+                    "wordId": "心脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "箭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弓",
+                    "icon": true
+                },
+                {
+                    "wordId": "箭袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "丘比特",
+                    "icon": true
+                },
+                {
+                    "wordId": "弩",
+                    "icon": true
+                },
+                {
+                    "wordId": "靶子",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞镖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "寓言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "传说",
+                    "icon": false
+                },
+                {
+                    "wordId": "寓意",
+                    "icon": false
+                },
+                {
+                    "wordId": "英雄",
+                    "icon": false
+                },
+                {
+                    "wordId": "教导",
+                    "icon": false
+                },
+                {
+                    "wordId": "讽喻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颂歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "合唱团",
+                    "icon": false
+                },
+                {
+                    "wordId": "赞美",
+                    "icon": false
+                },
+                {
+                    "wordId": "庄严的",
+                    "icon": false
+                },
+                {
+                    "wordId": "国家的",
+                    "icon": false
+                },
+                {
+                    "wordId": "胜利者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "光环",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圆环",
+                    "icon": false
+                },
+                {
+                    "wordId": "天使",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣人",
+                    "icon": false
+                },
+                {
+                    "wordId": "光轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "图示",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "余烬",
+                    "icon": true
+                },
+                {
+                    "wordId": "火花",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜡烛",
+                    "icon": true
+                },
+                {
+                    "wordId": "篝火",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "数学运算",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "加",
+                    "icon": true
+                },
+                {
+                    "wordId": "减",
+                    "icon": true
+                },
+                {
+                    "wordId": "除",
+                    "icon": true
+                },
+                {
+                    "wordId": "乘",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "冰屋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "庇护所",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "因纽特人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "键盘按键",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Shift键",
+                    "icon": true
+                },
+                {
+                    "wordId": "Enter键",
+                    "icon": true
+                },
+                {
+                    "wordId": "Tab键",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "滴",
+        "圣人",
+        "教导",
+        "颂歌",
+        "气体",
+        "潜行",
+        "阴霾",
+        "天使",
+        "蜡烛",
+        "氏族",
+        "箭袋",
+        "面具",
+        "Tab键",
+        "脉搏",
+        "英雄",
+        "雪",
+        "树枝",
+        "加",
+        "箭",
+        "树皮",
+        "弓",
+        "靶子",
+        "光环",
+        "薄雾",
+        "树液",
+        "Shift键",
+        "剑",
+        "飞镖",
+        "蒸汽",
+        "图示",
+        "除",
+        "鸟巢",
+        "Enter键",
+        "火",
+        "心脏",
+        "庇护所",
+        "弩",
+        "雾",
+        "云",
+        "圆环",
+        "光轮",
+        "无声的",
+        "树叶",
+        "因纽特人",
+        "合唱团",
+        "战斗",
+        "余烬",
+        "胜利者",
+        "压力",
+        "影子",
+        "水蒸气",
+        "冰屋",
+        "丘比特",
+        "赞美"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "数学运算",
+                "棍子",
+                "流动",
+                "寓言",
+                "寓意"
+            ]
+        },
+        {
+            "cards": [
+                "讽喻",
+                "细枝",
+                "键盘按键",
+                "木头",
+                "茎",
+                "烟雾"
+            ]
+        },
+        {
+            "cards": [
+                "篝火",
+                "露水",
+                "庄严的",
+                "国家的",
+                "投掷",
+                "红色",
+                "乘"
+            ]
+        },
+        {
+            "cards": [
+                "火花",
+                "血液",
+                "故事",
+                "静脉",
+                "细胞",
+                "减",
+                "传说",
+                "忍者"
+            ]
+        }
+    ]
+}

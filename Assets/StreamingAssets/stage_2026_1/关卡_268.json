@@ -1,0 +1,369 @@
+{
+    "levelId": 268,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "幻兽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "独角兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞马",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": false
+                },
+                {
+                    "wordId": "半人马",
+                    "icon": false
+                },
+                {
+                    "wordId": "九头蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "凤凰",
+                    "icon": false
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮身人面像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爬行动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凯门鳄",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜥蜴",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬣蜥",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼镜蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝰蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "陆龟",
+                    "icon": false
+                },
+                {
+                    "wordId": "蟒蛇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "山峰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠穆朗玛峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔戈里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "富士山",
+                    "icon": false
+                },
+                {
+                    "wordId": "德纳里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄尔布鲁士峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "文森峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛子峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "马卡鲁峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "织物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棉",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚麻",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝绸",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛仔布",
+                    "icon": false
+                },
+                {
+                    "wordId": "花呢",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅绒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "密码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凯撒密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩斯密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "二进制密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "普莱费尔密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "Atbash密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "共济会密码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "银",
+                    "icon": false
+                },
+                {
+                    "wordId": "金",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颜色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "深红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "靛蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭石色",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫罗兰色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饮料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咖啡",
+                    "icon": true
+                },
+                {
+                    "wordId": "茶",
+                    "icon": true
+                },
+                {
+                    "wordId": "苏打水",
+                    "icon": true
+                },
+                {
+                    "wordId": "果汁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "城市",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴黎",
+                    "icon": false
+                },
+                {
+                    "wordId": "东京",
+                    "icon": false
+                },
+                {
+                    "wordId": "开罗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甜点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "焦糖布丁",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸杯蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "果冻",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "花呢",
+        "德纳里峰",
+        "靛蓝色",
+        "北海巨妖",
+        "半人马",
+        "幻兽",
+        "Atbash密码",
+        "凯撒密码",
+        "果汁",
+        "赭石色",
+        "银",
+        "密码",
+        "狮鹫",
+        "焦糖布丁",
+        "爬行动物",
+        "普莱费尔密码",
+        "眼镜蛇",
+        "城市",
+        "马卡鲁峰",
+        "铜",
+        "牛仔布",
+        "共济会密码",
+        "亚麻",
+        "咖啡",
+        "东京",
+        "摩斯密码",
+        "果冻",
+        "鬣蜥",
+        "陆龟",
+        "独角兽",
+        "乔戈里峰",
+        "二进制密码",
+        "厄尔布鲁士峰",
+        "狮身人面像",
+        "九头蛇",
+        "天鹅绒",
+        "纸杯蛋糕",
+        "珠穆朗玛峰",
+        "巴黎",
+        "颜色",
+        "飞马",
+        "富士山"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "洛子峰",
+                "棉",
+                "金属",
+                "饮料"
+            ]
+        },
+        {
+            "cards": [
+                "铁",
+                "凤凰",
+                "壁虎",
+                "深红色",
+                "蝰蛇"
+            ]
+        },
+        {
+            "cards": [
+                "山峰",
+                "茶",
+                "丝绸",
+                "蟒蛇",
+                "开罗",
+                "紫罗兰色"
+            ]
+        },
+        {
+            "cards": [
+                "苏打水",
+                "织物",
+                "凯门鳄",
+                "文森峰",
+                "甜点",
+                "蜥蜴",
+                "金"
+            ]
+        }
+    ]
+}

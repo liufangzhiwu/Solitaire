@@ -1,0 +1,369 @@
+{
+    "levelId": 128,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "头盔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "战士",
+                    "icon": false
+                },
+                {
+                    "wordId": "士兵",
+                    "icon": false
+                },
+                {
+                    "wordId": "骑行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "重装步兵",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪者",
+                    "icon": false
+                },
+                {
+                    "wordId": "登山者",
+                    "icon": false
+                },
+                {
+                    "wordId": "维京人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "寒冷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冰",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "霜",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": false
+                },
+                {
+                    "wordId": "冬季",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "河流",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泰晤士河",
+                    "icon": false
+                },
+                {
+                    "wordId": "多瑙河",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞纳河",
+                    "icon": false
+                },
+                {
+                    "wordId": "湄公河",
+                    "icon": false
+                },
+                {
+                    "wordId": "刚果河",
+                    "icon": false
+                },
+                {
+                    "wordId": "底格里斯河",
+                    "icon": false
+                },
+                {
+                    "wordId": "密苏里河",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈德逊河",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "稀树草原",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长颈鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "大象",
+                    "icon": true
+                },
+                {
+                    "wordId": "瞪羚",
+                    "icon": true
+                },
+                {
+                    "wordId": "猎豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "水牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "小吃",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盐酥鸡",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜不辣",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭豆腐",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤鱿鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "七里香",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚵仔煎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谣言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流言",
+                    "icon": false
+                },
+                {
+                    "wordId": "道听途说",
+                    "icon": false
+                },
+                {
+                    "wordId": "传闻",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "浆果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "草莓",
+                    "icon": true
+                },
+                {
+                    "wordId": "树莓",
+                    "icon": true
+                },
+                {
+                    "wordId": "蓝莓",
+                    "icon": true
+                },
+                {
+                    "wordId": "红醋栗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "化石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骨骼",
+                    "icon": false
+                },
+                {
+                    "wordId": "琥珀",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙齿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阳伞",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖啡馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "露台",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "扩展",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扩大",
+                    "icon": false
+                },
+                {
+                    "wordId": "扩张",
+                    "icon": false
+                },
+                {
+                    "wordId": "增强",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "骑士",
+        "咖啡馆",
+        "化石",
+        "流言",
+        "蓝莓",
+        "猎豹",
+        "阳伞",
+        "湄公河",
+        "草莓",
+        "登山者",
+        "哈德逊河",
+        "牙齿",
+        "寒冷",
+        "泰晤士河",
+        "雪人",
+        "瞪羚",
+        "树莓",
+        "冬季",
+        "海滩",
+        "臭豆腐",
+        "大象",
+        "滑雪者",
+        "雪",
+        "冰柱",
+        "水牛",
+        "维京人",
+        "小吃",
+        "传闻",
+        "七里香",
+        "耳语",
+        "重装步兵",
+        "道听途说",
+        "琥珀",
+        "士兵",
+        "冰屋",
+        "战士",
+        "稀树草原",
+        "塞纳河",
+        "骨骼",
+        "蚵仔煎",
+        "贝壳",
+        "刚果河"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "浆果",
+                "增强",
+                "多瑙河",
+                "长颈鹿"
+            ]
+        },
+        {
+            "cards": [
+                "冰川",
+                "头盔",
+                "霜",
+                "冰",
+                "露台"
+            ]
+        },
+        {
+            "cards": [
+                "甜不辣",
+                "盐酥鸡",
+                "谣言",
+                "斑马",
+                "底格里斯河",
+                "密苏里河"
+            ]
+        },
+        {
+            "cards": [
+                "红醋栗",
+                "烤鱿鱼",
+                "扩张",
+                "骑行者",
+                "河流",
+                "扩展",
+                "扩大"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "levelId": 127,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "旋转物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风车",
+                    "icon": true
+                },
+                {
+                    "wordId": "地球",
+                    "icon": true
+                },
+                {
+                    "wordId": "风扇",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙卷风",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸风车",
+                    "icon": true
+                },
+                {
+                    "wordId": "轮子",
+                    "icon": true
+                },
+                {
+                    "wordId": "齿轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "方向盘",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "德国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧元",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏林",
+                    "icon": false
+                },
+                {
+                    "wordId": "莱茵河",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴伐利亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌德",
+                    "icon": false
+                },
+                {
+                    "wordId": "高速公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "汉堡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "深的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "深渊",
+                    "icon": false
+                },
+                {
+                    "wordId": "护城河",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "海沟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纯素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水果",
+                    "icon": false
+                },
+                {
+                    "wordId": "蔬菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "豆类",
+                    "icon": false
+                },
+                {
+                    "wordId": "坚果",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "保险箱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纸币",
+                    "icon": true
+                },
+                {
+                    "wordId": "珠宝",
+                    "icon": true
+                },
+                {
+                    "wordId": "枪",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "分析",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "研究",
+                    "icon": false
+                },
+                {
+                    "wordId": "检查",
+                    "icon": false
+                },
+                {
+                    "wordId": "审视",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "坚果",
+        "德国",
+        "分析",
+        "审视",
+        "啤酒",
+        "齿轮",
+        "莱茵河",
+        "纸风车",
+        "方向盘",
+        "柏林",
+        "深渊",
+        "欧元",
+        "高速公路",
+        "豆类",
+        "检查",
+        "风车",
+        "巴伐利亚",
+        "风扇",
+        "深的",
+        "蔬菜",
+        "轮子",
+        "海沟",
+        "护城河",
+        "枪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "龙卷风",
+                "珠宝",
+                "旋转物"
+            ]
+        },
+        {
+            "cards": [
+                "研究",
+                "岩洞",
+                "保险箱",
+                "水果"
+            ]
+        },
+        {
+            "cards": [
+                "地球",
+                "汉堡",
+                "歌德",
+                "纸币",
+                "纯素"
+            ]
+        }
+    ]
+}

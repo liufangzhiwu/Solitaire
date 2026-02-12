@@ -1,0 +1,369 @@
+{
+    "levelId": 209,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "研究",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "医学研究",
+                    "icon": false
+                },
+                {
+                    "wordId": "化学研究",
+                    "icon": false
+                },
+                {
+                    "wordId": "事实的",
+                    "icon": false
+                },
+                {
+                    "wordId": "准确的",
+                    "icon": false
+                },
+                {
+                    "wordId": "变数",
+                    "icon": false
+                },
+                {
+                    "wordId": "结果",
+                    "icon": false
+                },
+                {
+                    "wordId": "指导性的",
+                    "icon": false
+                },
+                {
+                    "wordId": "应用的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饮用",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "液体",
+                    "icon": false
+                },
+                {
+                    "wordId": "补水",
+                    "icon": false
+                },
+                {
+                    "wordId": "提神",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "小口喝",
+                    "icon": false
+                },
+                {
+                    "wordId": "大口喝",
+                    "icon": false
+                },
+                {
+                    "wordId": "口渴",
+                    "icon": false
+                },
+                {
+                    "wordId": "杯子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地毯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "挂毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "编织的",
+                    "icon": false
+                },
+                {
+                    "wordId": "大地毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "床边",
+                    "icon": false
+                },
+                {
+                    "wordId": "纺织品",
+                    "icon": false
+                },
+                {
+                    "wordId": "织机",
+                    "icon": false
+                },
+                {
+                    "wordId": "簇绒",
+                    "icon": false
+                },
+                {
+                    "wordId": "织物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毒素",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝎子",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": true
+                },
+                {
+                    "wordId": "毒液",
+                    "icon": true
+                },
+                {
+                    "wordId": "毒鹅膏菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜘蛛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "寂静的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "模式",
+                    "icon": false
+                },
+                {
+                    "wordId": "责备",
+                    "icon": false
+                },
+                {
+                    "wordId": "悲伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "安静的",
+                    "icon": false
+                },
+                {
+                    "wordId": "时刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "静音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黑色相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "敲诈",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑眼圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨水",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "人群",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "体育场",
+                    "icon": true
+                },
+                {
+                    "wordId": "市场",
+                    "icon": true
+                },
+                {
+                    "wordId": "俱乐部",
+                    "icon": true
+                },
+                {
+                    "wordId": "公车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "磨坊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风车",
+                    "icon": false
+                },
+                {
+                    "wordId": "面粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢厂",
+                    "icon": false
+                },
+                {
+                    "wordId": "锯木厂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "摇篮曲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "歌唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "婴儿床",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋律",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "懒惰的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "人",
+                    "icon": false
+                },
+                {
+                    "wordId": "午睡",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "静音",
+        "织机",
+        "液体",
+        "市场",
+        "补水",
+        "风车",
+        "准确的",
+        "毒液",
+        "时刻",
+        "俱乐部",
+        "黑眼圈",
+        "事实的",
+        "糖浆",
+        "蛇",
+        "小口喝",
+        "床边",
+        "午睡",
+        "应用的",
+        "毒鹅膏菌",
+        "杯子",
+        "纺织品",
+        "魔法",
+        "猫",
+        "钢厂",
+        "口渴",
+        "黑色相关",
+        "指导性的",
+        "人群",
+        "公车",
+        "医学研究",
+        "地毯",
+        "旋律",
+        "结果",
+        "锯木厂",
+        "安静的",
+        "变数",
+        "研究",
+        "编织的",
+        "模式",
+        "体育场",
+        "悲伤",
+        "饮用"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "磨坊",
+                "毒物",
+                "大口喝",
+                "婴儿床"
+            ]
+        },
+        {
+            "cards": [
+                "蝎子",
+                "人",
+                "懒惰的",
+                "摇篮曲",
+                "墨水"
+            ]
+        },
+        {
+            "cards": [
+                "寂静的",
+                "簇绒",
+                "大地毯",
+                "织物",
+                "化学研究",
+                "提神"
+            ]
+        },
+        {
+            "cards": [
+                "毒素",
+                "敲诈",
+                "责备",
+                "歌唱",
+                "蜘蛛",
+                "面粉",
+                "挂毯"
+            ]
+        }
+    ]
+}

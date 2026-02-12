@@ -1,0 +1,369 @@
+{
+    "levelId": 100,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "法国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴黎",
+                    "icon": false
+                },
+                {
+                    "wordId": "美食",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃菲尔铁塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝雷帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢浮宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "艾米丽",
+                    "icon": false
+                },
+                {
+                    "wordId": "拿破仑",
+                    "icon": false
+                },
+                {
+                    "wordId": "波尔多",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有名温泉地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "北投温泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "阳明山温泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "关子岭温泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "四重溪温泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "礁溪温泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "知本温泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑞穗温泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷关温泉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "24小时",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "夜晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "傍晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "早晨",
+                    "icon": false
+                },
+                {
+                    "wordId": "正午",
+                    "icon": false
+                },
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                },
+                {
+                    "wordId": "中午",
+                    "icon": false
+                },
+                {
+                    "wordId": "午夜",
+                    "icon": false
+                },
+                {
+                    "wordId": "暮光",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星期二",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期日",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期五",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期四",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期一",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期六",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海鱼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金枪鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "马林鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "鳕鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙丁鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲨鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "锯鳐",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "独角兽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "角",
+                    "icon": false
+                },
+                {
+                    "wordId": "蹄",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬃毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾巴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "圆形物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "球",
+                    "icon": true
+                },
+                {
+                    "wordId": "时钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "盘子",
+                    "icon": true
+                },
+                {
+                    "wordId": "地球",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "车库",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "私人车道",
+                    "icon": true
+                },
+                {
+                    "wordId": "车间",
+                    "icon": true
+                },
+                {
+                    "wordId": "开门器",
+                    "icon": true
+                },
+                {
+                    "wordId": "遥控器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "七月",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阳光",
+                    "icon": false
+                },
+                {
+                    "wordId": "暑假",
+                    "icon": false
+                },
+                {
+                    "wordId": "海滩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "零食品牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旺旺",
+                    "icon": false
+                },
+                {
+                    "wordId": "徐福记",
+                    "icon": false
+                },
+                {
+                    "wordId": "康师傅",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "星期四",
+        "遥控器",
+        "阳光",
+        "星期二",
+        "暮光",
+        "贝雷帽",
+        "傍晚",
+        "球",
+        "早晨",
+        "鲨鱼",
+        "开门器",
+        "知本温泉",
+        "阳明山温泉",
+        "午夜",
+        "关子岭温泉",
+        "独角兽",
+        "金枪鱼",
+        "正午",
+        "拿破仑",
+        "锯鳐",
+        "星期一",
+        "尾巴",
+        "星期六",
+        "海鱼",
+        "沙丁鱼",
+        "蹄",
+        "法国",
+        "零食品牌",
+        "波尔多",
+        "24小时",
+        "四重溪温泉",
+        "徐福记",
+        "星期五",
+        "盘子",
+        "谷关温泉",
+        "艾米丽",
+        "礁溪温泉",
+        "夜晚",
+        "地球",
+        "马林鱼",
+        "角",
+        "黎明"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "圆形物",
+                "鬃毛",
+                "时钟",
+                "旺旺"
+            ]
+        },
+        {
+            "cards": [
+                "七月",
+                "车间",
+                "暑假",
+                "中午",
+                "康师傅"
+            ]
+        },
+        {
+            "cards": [
+                "海滩",
+                "巴黎",
+                "鳕鱼",
+                "卢浮宫",
+                "北投温泉",
+                "星期"
+            ]
+        },
+        {
+            "cards": [
+                "星期日",
+                "瑞穗温泉",
+                "私人车道",
+                "埃菲尔铁塔",
+                "有名温泉地",
+                "车库",
+                "美食"
+            ]
+        }
+    ]
+}

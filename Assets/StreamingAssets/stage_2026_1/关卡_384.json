@@ -1,0 +1,521 @@
+{
+    "levelId": 384,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "时间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瞬间",
+                    "icon": false
+                },
+                {
+                    "wordId": "分钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "小时",
+                    "icon": false
+                },
+                {
+                    "wordId": "天",
+                    "icon": false
+                },
+                {
+                    "wordId": "周",
+                    "icon": false
+                },
+                {
+                    "wordId": "年",
+                    "icon": false
+                },
+                {
+                    "wordId": "时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "十年",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "书写",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羽管笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔尖",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔记本",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨水瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "铅笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "执笔法",
+                    "icon": false
+                },
+                {
+                    "wordId": "抄写员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "民间传说",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛇怪",
+                    "icon": true
+                },
+                {
+                    "wordId": "皮克希",
+                    "icon": true
+                },
+                {
+                    "wordId": "山怪",
+                    "icon": true
+                },
+                {
+                    "wordId": "地精",
+                    "icon": true
+                },
+                {
+                    "wordId": "哥布林",
+                    "icon": true
+                },
+                {
+                    "wordId": "萨堤尔",
+                    "icon": true
+                },
+                {
+                    "wordId": "哈耳庇厄",
+                    "icon": true
+                },
+                {
+                    "wordId": "水鬼马",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "朋友",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伙伴",
+                    "icon": false
+                },
+                {
+                    "wordId": "老友",
+                    "icon": false
+                },
+                {
+                    "wordId": "哥们",
+                    "icon": false
+                },
+                {
+                    "wordId": "同志",
+                    "icon": false
+                },
+                {
+                    "wordId": "盟友",
+                    "icon": false
+                },
+                {
+                    "wordId": "搭档",
+                    "icon": false
+                },
+                {
+                    "wordId": "闺蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "死党",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "射箭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弩箭",
+                    "icon": true
+                },
+                {
+                    "wordId": "箭矢",
+                    "icon": true
+                },
+                {
+                    "wordId": "箭囊",
+                    "icon": true
+                },
+                {
+                    "wordId": "靶子",
+                    "icon": true
+                },
+                {
+                    "wordId": "长弓",
+                    "icon": true
+                },
+                {
+                    "wordId": "弩",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "洗衣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洗涤",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂洗",
+                    "icon": false
+                },
+                {
+                    "wordId": "浸泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "烘干",
+                    "icon": false
+                },
+                {
+                    "wordId": "晾晒",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂白",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法外之徒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "土匪",
+                    "icon": false
+                },
+                {
+                    "wordId": "无赖",
+                    "icon": false
+                },
+                {
+                    "wordId": "窃贼",
+                    "icon": false
+                },
+                {
+                    "wordId": "海盗",
+                    "icon": false
+                },
+                {
+                    "wordId": "盗马贼",
+                    "icon": false
+                },
+                {
+                    "wordId": "掠夺者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "画室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水粉画",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烯画",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉彩画",
+                    "icon": false
+                },
+                {
+                    "wordId": "画布",
+                    "icon": false
+                },
+                {
+                    "wordId": "画架",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "砌筑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砂浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "抹子",
+                    "icon": false
+                },
+                {
+                    "wordId": "砖块",
+                    "icon": false
+                },
+                {
+                    "wordId": "混凝土",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰泥",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "潮汐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "退潮",
+                    "icon": false
+                },
+                {
+                    "wordId": "涨潮",
+                    "icon": false
+                },
+                {
+                    "wordId": "涌潮",
+                    "icon": false
+                },
+                {
+                    "wordId": "平潮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "飞行员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "机长",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行家",
+                    "icon": false
+                },
+                {
+                    "wordId": "副驾驶",
+                    "icon": false
+                },
+                {
+                    "wordId": "僚机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工厂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熔炉",
+                    "icon": false
+                },
+                {
+                    "wordId": "装配线",
+                    "icon": false
+                },
+                {
+                    "wordId": "传送带",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔炼厂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "透明物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "清水",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梦境",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幻想",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻象",
+                    "icon": false
+                },
+                {
+                    "wordId": "恍惚",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "机长",
+        "漂白",
+        "时代",
+        "同志",
+        "浸泡",
+        "弩",
+        "传送带",
+        "闺蜜",
+        "幻想",
+        "装配线",
+        "玻璃",
+        "哥布林",
+        "丙烯画",
+        "飞行员",
+        "墨水瓶",
+        "哈耳庇厄",
+        "烘干",
+        "箭囊",
+        "透明物",
+        "地精",
+        "伙伴",
+        "砂浆",
+        "混凝土",
+        "箭矢",
+        "年",
+        "画架",
+        "幻象",
+        "粉彩画",
+        "漂洗",
+        "羽管笔",
+        "抄写员",
+        "长弓",
+        "死党",
+        "涌潮",
+        "涨潮",
+        "副驾驶",
+        "退潮",
+        "砌筑",
+        "水粉画",
+        "平潮",
+        "笔尖",
+        "搭档",
+        "窃贼",
+        "十年",
+        "靶子",
+        "盟友",
+        "画室",
+        "晾晒",
+        "老友",
+        "飞行家",
+        "洗涤",
+        "梦境",
+        "山怪",
+        "哥们",
+        "洗衣",
+        "朋友",
+        "海盗"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "熔炼厂",
+                "笔记本",
+                "掠夺者",
+                "熔炉",
+                "弩箭"
+            ]
+        },
+        {
+            "cards": [
+                "法外之徒",
+                "水晶",
+                "土匪",
+                "时间",
+                "清水",
+                "瞬间"
+            ]
+        },
+        {
+            "cards": [
+                "小时",
+                "抹子",
+                "恍惚",
+                "工厂",
+                "射箭",
+                "无赖",
+                "僚机"
+            ]
+        },
+        {
+            "cards": [
+                "羽毛",
+                "执笔法",
+                "萨堤尔",
+                "水鬼马",
+                "皮克希",
+                "民间传说",
+                "潮汐",
+                "蛇怪"
+            ]
+        },
+        {
+            "cards": [
+                "书写",
+                "分钟",
+                "铅笔",
+                "盗马贼",
+                "砖块",
+                "画布",
+                "周",
+                "灰泥",
+                "天"
+            ]
+        }
+    ]
+}

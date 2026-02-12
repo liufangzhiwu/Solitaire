@@ -1,0 +1,553 @@
+{
+    "levelId": 331,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 220,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "神秘生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大脚怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪人",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽威",
+                    "icon": false
+                },
+                {
+                    "wordId": "野人",
+                    "icon": false
+                },
+                {
+                    "wordId": "宁恩",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥古普古",
+                    "icon": false
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": false
+                },
+                {
+                    "wordId": "天蛾人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神秘学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魔符",
+                    "icon": false
+                },
+                {
+                    "wordId": "降神会",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵应牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "水晶占卜",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔罗牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "五角星",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵体",
+                    "icon": false
+                },
+                {
+                    "wordId": "护身符",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "航海",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船体",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "船锚",
+                    "icon": false
+                },
+                {
+                    "wordId": "后桅",
+                    "icon": false
+                },
+                {
+                    "wordId": "船首三角帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "舷墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "排水口",
+                    "icon": false
+                },
+                {
+                    "wordId": "绞盘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地质学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "岩屑堆",
+                    "icon": false
+                },
+                {
+                    "wordId": "造山运动",
+                    "icon": false
+                },
+                {
+                    "wordId": "地层",
+                    "icon": false
+                },
+                {
+                    "wordId": "片岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "片麻岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄武岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "白云岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "倾斜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "信号弹",
+                    "icon": true
+                },
+                {
+                    "wordId": "信标",
+                    "icon": true
+                },
+                {
+                    "wordId": "警报器",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟雾信号",
+                    "icon": true
+                },
+                {
+                    "wordId": "号角",
+                    "icon": true
+                },
+                {
+                    "wordId": "哨子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "代数",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "矩阵",
+                    "icon": false
+                },
+                {
+                    "wordId": "向量",
+                    "icon": false
+                },
+                {
+                    "wordId": "张量",
+                    "icon": false
+                },
+                {
+                    "wordId": "标量",
+                    "icon": false
+                },
+                {
+                    "wordId": "商",
+                    "icon": false
+                },
+                {
+                    "wordId": "模",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神职人员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牧师",
+                    "icon": false
+                },
+                {
+                    "wordId": "执事",
+                    "icon": false
+                },
+                {
+                    "wordId": "教区牧师",
+                    "icon": false
+                },
+                {
+                    "wordId": "修道士",
+                    "icon": false
+                },
+                {
+                    "wordId": "修道院院长",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊玛目",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时段",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纪元",
+                    "icon": false
+                },
+                {
+                    "wordId": "瞬间",
+                    "icon": false
+                },
+                {
+                    "wordId": "时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "跨度",
+                    "icon": false
+                },
+                {
+                    "wordId": "圈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "真菌学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "孢子",
+                    "icon": false
+                },
+                {
+                    "wordId": "菌丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "菌丝体",
+                    "icon": false
+                },
+                {
+                    "wordId": "菌柄",
+                    "icon": false
+                },
+                {
+                    "wordId": "菌盖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图形",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "像素",
+                    "icon": false
+                },
+                {
+                    "wordId": "精灵图",
+                    "icon": false
+                },
+                {
+                    "wordId": "位图",
+                    "icon": false
+                },
+                {
+                    "wordId": "着色器",
+                    "icon": false
+                },
+                {
+                    "wordId": "滤镜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "实验工作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "化验",
+                    "icon": false
+                },
+                {
+                    "wordId": "移液",
+                    "icon": false
+                },
+                {
+                    "wordId": "称量",
+                    "icon": false
+                },
+                {
+                    "wordId": "试剂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肌肉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肱二头肌",
+                    "icon": false
+                },
+                {
+                    "wordId": "肱三头肌",
+                    "icon": false
+                },
+                {
+                    "wordId": "三角肌",
+                    "icon": false
+                },
+                {
+                    "wordId": "腹斜肌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "力",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "重力",
+                    "icon": false
+                },
+                {
+                    "wordId": "张力",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮力",
+                    "icon": false
+                },
+                {
+                    "wordId": "升力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "创业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "路演",
+                    "icon": false
+                },
+                {
+                    "wordId": "转型",
+                    "icon": false
+                },
+                {
+                    "wordId": "发布",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蛋白质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胶原蛋白",
+                    "icon": false
+                },
+                {
+                    "wordId": "角蛋白",
+                    "icon": false
+                },
+                {
+                    "wordId": "白蛋白",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "菌丝体",
+        "船锚",
+        "位图",
+        "天蛾人",
+        "玄武岩",
+        "称量",
+        "造山运动",
+        "路演",
+        "像素",
+        "发布",
+        "模",
+        "龙骨",
+        "时代",
+        "野人",
+        "伊玛目",
+        "滤镜",
+        "腹斜肌",
+        "菌丝",
+        "魔符",
+        "修道士",
+        "大脚怪",
+        "绞盘",
+        "灵体",
+        "化验",
+        "幽威",
+        "信标",
+        "肱二头肌",
+        "舷墙",
+        "片麻岩",
+        "船首三角帆",
+        "哨子",
+        "菌盖",
+        "船体",
+        "地层",
+        "航海",
+        "矩阵",
+        "护身符",
+        "塔罗牌",
+        "向量",
+        "跨度",
+        "神职人员",
+        "水晶占卜",
+        "胶原蛋白",
+        "后桅",
+        "雪人",
+        "信号",
+        "蛋白质",
+        "时段",
+        "宁恩",
+        "白蛋白",
+        "纪元",
+        "菌柄",
+        "代数",
+        "肱三头肌",
+        "实验工作",
+        "精灵图",
+        "北海巨妖",
+        "执事",
+        "片岩",
+        "孢子",
+        "奥古普古",
+        "圈",
+        "标量"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "牧师",
+                "三角肌",
+                "地质学",
+                "张量",
+                "信号弹"
+            ]
+        },
+        {
+            "cards": [
+                "着色器",
+                "移液",
+                "降神会",
+                "转型",
+                "岩屑堆",
+                "神秘生物"
+            ]
+        },
+        {
+            "cards": [
+                "瞬间",
+                "升力",
+                "教区牧师",
+                "号角",
+                "白云岩",
+                "灵应牌",
+                "创业"
+            ]
+        },
+        {
+            "cards": [
+                "倾斜",
+                "浮力",
+                "图形",
+                "神秘学",
+                "五角星",
+                "试剂",
+                "排水口",
+                "重力"
+            ]
+        },
+        {
+            "cards": [
+                "角蛋白",
+                "商",
+                "修道院院长",
+                "警报器",
+                "烟雾信号",
+                "肌肉",
+                "力",
+                "张力",
+                "真菌学"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,521 @@
+{
+    "levelId": 193,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 225,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "多彩的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金刚鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "彩虹",
+                    "icon": true
+                },
+                {
+                    "wordId": "孔雀",
+                    "icon": true
+                },
+                {
+                    "wordId": "格查尔鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "马赛克",
+                    "icon": true
+                },
+                {
+                    "wordId": "花束",
+                    "icon": true
+                },
+                {
+                    "wordId": "变色龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "项链",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "生物碱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿托品",
+                    "icon": false
+                },
+                {
+                    "wordId": "吗啡",
+                    "icon": false
+                },
+                {
+                    "wordId": "奎宁",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒芹堿",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼古丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖啡因",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛洛辛",
+                    "icon": false
+                },
+                {
+                    "wordId": "马钱子堿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "领袖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拿破仑",
+                    "icon": false
+                },
+                {
+                    "wordId": "林肯",
+                    "icon": false
+                },
+                {
+                    "wordId": "曼德拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "甘地",
+                    "icon": false
+                },
+                {
+                    "wordId": "俾斯麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯撒",
+                    "icon": false
+                },
+                {
+                    "wordId": "伯里克利",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿提拉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "深海",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绵鳚",
+                    "icon": false
+                },
+                {
+                    "wordId": "压力",
+                    "icon": false
+                },
+                {
+                    "wordId": "深渊",
+                    "icon": false
+                },
+                {
+                    "wordId": "吞噬鳗",
+                    "icon": false
+                },
+                {
+                    "wordId": "水滴鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "皇带鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "海沟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瓦格纳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "歌剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼伯龙根",
+                    "icon": false
+                },
+                {
+                    "wordId": "特里斯坦",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊索尔德",
+                    "icon": false
+                },
+                {
+                    "wordId": "女武神",
+                    "icon": false
+                },
+                {
+                    "wordId": "德国",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "皱纹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "折痕",
+                    "icon": false
+                },
+                {
+                    "wordId": "褶皱",
+                    "icon": false
+                },
+                {
+                    "wordId": "沟纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "弄皱",
+                    "icon": false
+                },
+                {
+                    "wordId": "起皱",
+                    "icon": false
+                },
+                {
+                    "wordId": "细皱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "晶洞",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石英",
+                    "icon": false
+                },
+                {
+                    "wordId": "白云石",
+                    "icon": false
+                },
+                {
+                    "wordId": "方解石",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝铜矿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "豆类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "斑豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "红豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "博罗蒂豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜豆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "荷兰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "荷兰国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "风车",
+                    "icon": true
+                },
+                {
+                    "wordId": "木鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "乳酪",
+                    "icon": true
+                },
+                {
+                    "wordId": "自行车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "乐观",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "希望",
+                    "icon": false
+                },
+                {
+                    "wordId": "欢呼",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐观情绪",
+                    "icon": false
+                },
+                {
+                    "wordId": "热切",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法律",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法令",
+                    "icon": false
+                },
+                {
+                    "wordId": "成文法",
+                    "icon": false
+                },
+                {
+                    "wordId": "教规",
+                    "icon": false
+                },
+                {
+                    "wordId": "规诫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "实验室工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "移液管",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "注射器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丝般的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头发",
+                    "icon": false
+                },
+                {
+                    "wordId": "质地",
+                    "icon": false
+                },
+                {
+                    "wordId": "声音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粉笔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑板",
+                    "icon": true
+                },
+                {
+                    "wordId": "台球",
+                    "icon": true
+                },
+                {
+                    "wordId": "跳房子",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "俾斯麦",
+        "项链",
+        "起皱",
+        "深渊",
+        "木鞋",
+        "方解石",
+        "沟纹",
+        "多彩的",
+        "女武神",
+        "细皱",
+        "格查尔鸟",
+        "金刚鹦鹉",
+        "彩虹",
+        "伯里克利",
+        "规诫",
+        "粉笔",
+        "丝般的",
+        "质地",
+        "注射器",
+        "生物碱",
+        "乐观情绪",
+        "吞噬鳗",
+        "阿托品",
+        "曼德拉",
+        "花束",
+        "拿破仑",
+        "咖啡因",
+        "紫水晶",
+        "法律",
+        "林肯",
+        "变色龙",
+        "阿提拉",
+        "红豆",
+        "海沟",
+        "石英",
+        "歌剧",
+        "菜豆",
+        "热切",
+        "马赛克",
+        "博罗蒂豆",
+        "自行车",
+        "头发",
+        "荷兰国旗",
+        "烧杯",
+        "特里斯坦",
+        "玛瑙",
+        "移液管",
+        "尼伯龙根",
+        "欢呼",
+        "成文法",
+        "蓝铜矿",
+        "教规",
+        "瓦格纳",
+        "乳酪",
+        "台球",
+        "实验室工具",
+        "漏斗"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "声音",
+                "乐观",
+                "凯撒",
+                "折痕",
+                "伊索尔德"
+            ]
+        },
+        {
+            "cards": [
+                "晶洞",
+                "马钱子堿",
+                "荷兰",
+                "黑暗",
+                "水滴鱼",
+                "皇带鱼"
+            ]
+        },
+        {
+            "cards": [
+                "德国",
+                "甘地",
+                "法令",
+                "奎宁",
+                "绵鳚",
+                "豆类",
+                "黑板"
+            ]
+        },
+        {
+            "cards": [
+                "弄皱",
+                "白云石",
+                "孔雀",
+                "尼古丁",
+                "毒芹堿",
+                "绿豆",
+                "深海",
+                "希望"
+            ]
+        },
+        {
+            "cards": [
+                "斑豆",
+                "褶皱",
+                "压力",
+                "风车",
+                "跳房子",
+                "赛洛辛",
+                "领袖",
+                "吗啡",
+                "皱纹"
+            ]
+        }
+    ]
+}

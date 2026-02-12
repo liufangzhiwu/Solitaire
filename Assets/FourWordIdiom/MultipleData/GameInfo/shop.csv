@@ -1,0 +1,17 @@
+﻿商品ID,日语商品名ID,繁体内购ID,商品类型,商品名（策划用）,商品大类,商品内容,价格（策划用，日元）,展示图,名称,说明文本,感叹号说明,是否首页展示,正常排序,首页排序,弹出条件,限时时间,折扣显示
+id,nameID,nameID_tw,purchaseType,,type,productContent,,showIcon,name,des,pointDes,isHomeDisplay,sort,homeSort,unlock,limitedTime,discount
+0,gold0,gold0,0,金币1,0,0;200,150,gold0,,,,1,11,7,,,
+1,gold1,gold1,0,金币2,0,0;1220,750,gold1,,,,,13,,,,
+2,gold2,gold2,0,金币3,0,0;6280,3000,gold2,,,,,15,,,,
+3,gold3,gold3,0,金币4,0,0;18400,7500,gold3,,,,,16,,,,
+4,gold4,gold4,0,金币5,0,0;660,450,gold1,,,,,12,,,,
+5,gold5,gold5,0,金币6,0,0;2680,1500,gold2,,,,,14,,,,
+6,butterfly01,butterfly01,0,蝴蝶1,0,1;20,300,Butterfly,,,,,9,,,,
+7,butterfly02,butterfly02,0,蝴蝶2,0,1;125,1500,Butterfly,,,,,10,,,,
+8,removead,removead,1,去广告 + 200金币,1,6;1#0;200,600,shopads,RemoveADName,RemoveADDes,RemoveADPointDes,1,8,6,,,
+9,box0,box0,0,初级宝箱,2,0;1080#2;8#3;8,750,shopgift1,ShopBoxName01,,,1,4,3,,,50%
+10,box1,box1,0,中级宝箱,2,0;3690#2;10#3;10,1500,shopgift2,ShopBoxName02,,,1,5,4,,,60%
+11,box2,box2,0,上级宝箱,2,0;11800#2;12#3;12,3000,shopgift3,ShopBoxName03,,,1,6,5,,,70%
+12,box3,box3,0,超级宝箱,2,0;48800#2;18#3;18,7500,shopgift4,ShopBoxName04,,,,7,,,,80%
+13,boxtimead,boxtimead,1,限时去广告宝箱,2,0;1000#6;1,600,adsgift,ShopBoxName06,RemoveADName02,RemoveADPointDes,1,2,2,21,24,50%
+14,boxtime7ad,boxtime7ad,2,限时七日去广告宝箱,2,0;200#7;1,100,adsgift,ShopBoxName05,RemoveAD7DaysName,RemoveAD7DaysPointDes,1,1,1,40001#60001#80001,48,

@@ -1,0 +1,217 @@
+{
+    "levelId": 348,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "流览器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谷歌流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "火狐流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "苹果流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧朋流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "微软流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "Vivaldi流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "Brave流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "Tor流览器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宇宙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "银河",
+                    "icon": false
+                },
+                {
+                    "wordId": "星尘",
+                    "icon": false
+                },
+                {
+                    "wordId": "重力",
+                    "icon": false
+                },
+                {
+                    "wordId": "真空",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "光子",
+                    "icon": false
+                },
+                {
+                    "wordId": "熵",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谚语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "智慧",
+                    "icon": false
+                },
+                {
+                    "wordId": "谨慎",
+                    "icon": false
+                },
+                {
+                    "wordId": "审慎",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞察",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "弦乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "曼陀林",
+                    "icon": false
+                },
+                {
+                    "wordId": "尤克里里",
+                    "icon": false
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "班卓琴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美德",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "荣誉",
+                    "icon": false
+                },
+                {
+                    "wordId": "慈善",
+                    "icon": false
+                },
+                {
+                    "wordId": "正义",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "护肤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面霜",
+                    "icon": true
+                },
+                {
+                    "wordId": "精华",
+                    "icon": true
+                },
+                {
+                    "wordId": "爽肤水",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大提琴",
+        "Vivaldi流览器",
+        "尤克里里",
+        "流览器",
+        "火狐流览器",
+        "谚语",
+        "爽肤水",
+        "Brave流览器",
+        "银河",
+        "荣誉",
+        "光子",
+        "护肤",
+        "慈善",
+        "微软流览器",
+        "谨慎",
+        "苹果流览器",
+        "曼陀林",
+        "重力",
+        "熵",
+        "星尘",
+        "智慧",
+        "Tor流览器",
+        "班卓琴",
+        "洞察"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "正义",
+                "弦乐器",
+                "真空"
+            ]
+        },
+        {
+            "cards": [
+                "星云",
+                "星系",
+                "欧朋流览器",
+                "面霜"
+            ]
+        },
+        {
+            "cards": [
+                "谷歌流览器",
+                "审慎",
+                "宇宙",
+                "精华",
+                "美德"
+            ]
+        }
+    ]
+}

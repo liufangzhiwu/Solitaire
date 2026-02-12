@@ -1,0 +1,369 @@
+{
+    "levelId": 83,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "猫科动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "老虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮子",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲狮",
+                    "icon": false
+                },
+                {
+                    "wordId": "豹猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "薮猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "狞猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎豹",
+                    "icon": false
+                },
+                {
+                    "wordId": "花豹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "头饰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帽子",
+                    "icon": true
+                },
+                {
+                    "wordId": "头巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "圆顶礼帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "软帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "菲斯帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸭舌帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "王冠",
+                    "icon": true
+                },
+                {
+                    "wordId": "头盔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "卫生设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "管道",
+                    "icon": false
+                },
+                {
+                    "wordId": "阀门",
+                    "icon": false
+                },
+                {
+                    "wordId": "接头",
+                    "icon": false
+                },
+                {
+                    "wordId": "存水弯",
+                    "icon": false
+                },
+                {
+                    "wordId": "水槽",
+                    "icon": false
+                },
+                {
+                    "wordId": "水龙头",
+                    "icon": false
+                },
+                {
+                    "wordId": "浴缸",
+                    "icon": false
+                },
+                {
+                    "wordId": "起泡器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "歌曲结构",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "前奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "副歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "合唱部分",
+                    "icon": false
+                },
+                {
+                    "wordId": "主歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "桥段",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "雨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雨伞",
+                    "icon": true
+                },
+                {
+                    "wordId": "雨衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "云",
+                    "icon": true
+                },
+                {
+                    "wordId": "水坑",
+                    "icon": true
+                },
+                {
+                    "wordId": "雨靴",
+                    "icon": true
+                },
+                {
+                    "wordId": "闪电",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "加拿大",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "枫树",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰球",
+                    "icon": false
+                },
+                {
+                    "wordId": "长曲棍球",
+                    "icon": false
+                },
+                {
+                    "wordId": "河狸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜡烛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                },
+                {
+                    "wordId": "点燃",
+                    "icon": false
+                },
+                {
+                    "wordId": "燃烧",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴燃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "多边形",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "九边形",
+                    "icon": false
+                },
+                {
+                    "wordId": "八边形",
+                    "icon": false
+                },
+                {
+                    "wordId": "七边形",
+                    "icon": false
+                },
+                {
+                    "wordId": "六边形",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "步法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "慢跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "疾驰",
+                    "icon": false
+                },
+                {
+                    "wordId": "小跑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "春季",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "五月",
+                    "icon": false
+                },
+                {
+                    "wordId": "四月",
+                    "icon": false
+                },
+                {
+                    "wordId": "三月",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "九边形",
+        "三月",
+        "枫树",
+        "雨靴",
+        "四月",
+        "狞猫",
+        "尾奏",
+        "水坑",
+        "软帽",
+        "副歌",
+        "头巾",
+        "合唱部分",
+        "水槽",
+        "阀门",
+        "圆顶礼帽",
+        "帽子",
+        "五月",
+        "老虎",
+        "主歌",
+        "桥段",
+        "闪电",
+        "卫生设备",
+        "前奏",
+        "冰球",
+        "起泡器",
+        "六边形",
+        "头饰",
+        "阴燃",
+        "鸭舌帽",
+        "管道",
+        "河狸",
+        "歌曲结构",
+        "长曲棍球",
+        "薮猫",
+        "雨伞",
+        "存水弯",
+        "豹猫",
+        "多边形",
+        "雨衣",
+        "慢跑",
+        "头盔",
+        "春季"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "菲斯帽",
+                "燃烧",
+                "雨",
+                "闪烁"
+            ]
+        },
+        {
+            "cards": [
+                "蜡烛",
+                "王冠",
+                "小跑",
+                "水龙头",
+                "加拿大"
+            ]
+        },
+        {
+            "cards": [
+                "步法",
+                "美洲狮",
+                "花豹",
+                "接头",
+                "疾驰",
+                "七边形"
+            ]
+        },
+        {
+            "cards": [
+                "狮子",
+                "点燃",
+                "浴缸",
+                "猫科动物",
+                "云",
+                "猎豹",
+                "八边形"
+            ]
+        }
+    ]
+}

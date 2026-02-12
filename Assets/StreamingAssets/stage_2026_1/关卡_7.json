@@ -1,0 +1,212 @@
+{
+    "levelId": 7,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "扑克牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "A牌",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心K",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心Q",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心J",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心10",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心9",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心8",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心7",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "甜点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "提拉米苏",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜甜圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "马芬蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "糖果",
+                    "icon": true
+                },
+                {
+                    "wordId": "雪葩",
+                    "icon": true
+                },
+                {
+                    "wordId": "马卡龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "闪电泡芙",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "购物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "价格",
+                    "icon": false
+                },
+                {
+                    "wordId": "促销",
+                    "icon": false
+                },
+                {
+                    "wordId": "折扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "优惠券",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "少数名族",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "维吾尔族",
+                    "icon": false
+                },
+                {
+                    "wordId": "壮族",
+                    "icon": false
+                },
+                {
+                    "wordId": "苗族",
+                    "icon": false
+                },
+                {
+                    "wordId": "彝族",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "物态",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "固态",
+                    "icon": false
+                },
+                {
+                    "wordId": "液态",
+                    "icon": false
+                },
+                {
+                    "wordId": "气态",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手工艺品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "漆扇",
+                    "icon": false
+                },
+                {
+                    "wordId": "手工皂",
+                    "icon": false
+                },
+                {
+                    "wordId": "编织手链",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "价格",
+        "壮族",
+        "手工艺品",
+        "促销",
+        "甜甜圈",
+        "马芬蛋糕",
+        "物态",
+        "维吾尔族",
+        "折扣",
+        "固态",
+        "少数名族",
+        "闪电泡芙",
+        "提拉米苏",
+        "漆扇",
+        "苗族",
+        "雪葩",
+        "手工皂",
+        "红心7",
+        "红心8",
+        "优惠券",
+        "红心10",
+        "糖果",
+        "彝族",
+        "A牌",
+        "红心J",
+        "马卡龙"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "红心K",
+                "红心9"
+            ]
+        },
+        {
+            "cards": [
+                "甜点",
+                "红心Q",
+                "编织手链"
+            ]
+        },
+        {
+            "cards": [
+                "购物",
+                "液态",
+                "扑克牌",
+                "气态"
+            ]
+        }
+    ]
+}

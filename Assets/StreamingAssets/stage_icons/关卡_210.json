@@ -1,0 +1,453 @@
+{
+    "levelId": 210,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 170,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "客户",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "忠诚的",
+                    "icon": false
+                },
+                {
+                    "wordId": "商业",
+                    "icon": false
+                },
+                {
+                    "wordId": "需求",
+                    "icon": false
+                },
+                {
+                    "wordId": "满足",
+                    "icon": false
+                },
+                {
+                    "wordId": "回馈",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞察",
+                    "icon": false
+                },
+                {
+                    "wordId": "目标",
+                    "icon": false
+                },
+                {
+                    "wordId": "专注的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "遗产",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "文化遗产",
+                    "icon": false
+                },
+                {
+                    "wordId": "传承",
+                    "icon": false
+                },
+                {
+                    "wordId": "联合国教科文组织",
+                    "icon": false
+                },
+                {
+                    "wordId": "保护",
+                    "icon": false
+                },
+                {
+                    "wordId": "祖先",
+                    "icon": false
+                },
+                {
+                    "wordId": "传家宝",
+                    "icon": false
+                },
+                {
+                    "wordId": "作品集",
+                    "icon": false
+                },
+                {
+                    "wordId": "自然遗产",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "超过",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "过度思考",
+                    "icon": false
+                },
+                {
+                    "wordId": "游戏结束",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬挂",
+                    "icon": false
+                },
+                {
+                    "wordId": "到期",
+                    "icon": false
+                },
+                {
+                    "wordId": "一圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "拥挤的",
+                    "icon": false
+                },
+                {
+                    "wordId": "估计",
+                    "icon": false
+                },
+                {
+                    "wordId": "淹没",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动物园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "公园",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物群",
+                    "icon": false
+                },
+                {
+                    "wordId": "展区",
+                    "icon": false
+                },
+                {
+                    "wordId": "物种",
+                    "icon": false
+                },
+                {
+                    "wordId": "教育",
+                    "icon": false
+                },
+                {
+                    "wordId": "栖息地",
+                    "icon": false
+                },
+                {
+                    "wordId": "笼子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信封",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寄件人",
+                    "icon": false
+                },
+                {
+                    "wordId": "地址",
+                    "icon": false
+                },
+                {
+                    "wordId": "收件人",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮递员",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮票",
+                    "icon": false
+                },
+                {
+                    "wordId": "明信片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "齿轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "运动齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "冠齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "露营装备",
+                    "icon": false
+                },
+                {
+                    "wordId": "涡轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "轴承",
+                    "icon": false
+                },
+                {
+                    "wordId": "拖拉机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "净化",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "过滤",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂质",
+                    "icon": false
+                },
+                {
+                    "wordId": "氯",
+                    "icon": false
+                },
+                {
+                    "wordId": "活性炭",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸馏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "眼底",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "晶状体",
+                    "icon": false
+                },
+                {
+                    "wordId": "视网膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼睛",
+                    "icon": false
+                },
+                {
+                    "wordId": "扫描",
+                    "icon": false
+                },
+                {
+                    "wordId": "成像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "杆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "北极",
+                    "icon": true
+                },
+                {
+                    "wordId": "南极",
+                    "icon": true
+                },
+                {
+                    "wordId": "电线杆",
+                    "icon": true
+                },
+                {
+                    "wordId": "木杆",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "糖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "胰岛素",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜菊糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "果糖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "低语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "耳朵",
+                    "icon": false
+                },
+                {
+                    "wordId": "悄悄地",
+                    "icon": false
+                },
+                {
+                    "wordId": "声音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阴影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼影",
+                    "icon": true
+                },
+                {
+                    "wordId": "鬼魂",
+                    "icon": true
+                },
+                {
+                    "wordId": "暗处",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "游戏结束",
+        "冠齿轮",
+        "到期",
+        "晶状体",
+        "邮票",
+        "扫描",
+        "涡轮",
+        "动物",
+        "一圈",
+        "轴承",
+        "专注的",
+        "低语",
+        "明信片",
+        "收件人",
+        "信封",
+        "果糖",
+        "红糖",
+        "电线杆",
+        "邮递员",
+        "耳朵",
+        "暗处",
+        "甜菊糖",
+        "声音",
+        "悬挂",
+        "栖息地",
+        "杂质",
+        "蒸馏",
+        "传家宝",
+        "淹没",
+        "物种",
+        "保护",
+        "过度思考",
+        "成像",
+        "需求",
+        "视网膜",
+        "木杆",
+        "眼睛",
+        "遗产",
+        "目标",
+        "估计",
+        "地址",
+        "净化",
+        "运动齿轮",
+        "眼底",
+        "拥挤的",
+        "动物群",
+        "公园",
+        "商业",
+        "悄悄地",
+        "鬼魂",
+        "活性炭",
+        "忠诚的",
+        "超过",
+        "胰岛素"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "拖拉机",
+                "回馈",
+                "寄件人",
+                "糖",
+                "作品集"
+            ]
+        },
+        {
+            "cards": [
+                "笼子",
+                "文化遗产",
+                "展区",
+                "自然遗产",
+                "满足",
+                "祖先"
+            ]
+        },
+        {
+            "cards": [
+                "教育",
+                "南极",
+                "齿轮",
+                "露营装备",
+                "洞察",
+                "客户",
+                "过滤"
+            ]
+        },
+        {
+            "cards": [
+                "氯",
+                "动物园",
+                "传承",
+                "阴影",
+                "杆",
+                "眼影",
+                "联合国教科文组织",
+                "北极"
+            ]
+        }
+    ]
+}

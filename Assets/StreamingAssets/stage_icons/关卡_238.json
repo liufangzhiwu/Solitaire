@@ -1,0 +1,369 @@
+{
+    "levelId": 238,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "长颈鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "驴",
+                    "icon": true
+                },
+                {
+                    "wordId": "松鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "水牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "袋鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "企鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "海豚",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红毛丹",
+                    "icon": true
+                },
+                {
+                    "wordId": "木瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "榅桲",
+                    "icon": true
+                },
+                {
+                    "wordId": "菲油果",
+                    "icon": true
+                },
+                {
+                    "wordId": "荔枝",
+                    "icon": true
+                },
+                {
+                    "wordId": "榴莲",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙眼",
+                    "icon": true
+                },
+                {
+                    "wordId": "金桔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "天气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雷声",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "气旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛毛雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴天",
+                    "icon": false
+                },
+                {
+                    "wordId": "季风",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颜色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "靛蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "栗色",
+                    "icon": false
+                },
+                {
+                    "wordId": "淡紫色",
+                    "icon": false
+                },
+                {
+                    "wordId": "深红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭色",
+                    "icon": false
+                },
+                {
+                    "wordId": "青蓝色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珠宝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手镯",
+                    "icon": false
+                },
+                {
+                    "wordId": "护身符",
+                    "icon": false
+                },
+                {
+                    "wordId": "饰物",
+                    "icon": false
+                },
+                {
+                    "wordId": "吊坠",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸针",
+                    "icon": false
+                },
+                {
+                    "wordId": "王冠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "传奇生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凤凰",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": false
+                },
+                {
+                    "wordId": "独角兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "喀迈拉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "岛屿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴厘岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨摩亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "夏威夷",
+                    "icon": false
+                },
+                {
+                    "wordId": "斐济",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教师",
+                    "icon": false
+                },
+                {
+                    "wordId": "工匠",
+                    "icon": false
+                },
+                {
+                    "wordId": "裁缝",
+                    "icon": false
+                },
+                {
+                    "wordId": "银行家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木槌",
+                    "icon": false
+                },
+                {
+                    "wordId": "撬棍",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥铲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "姜黄",
+                    "icon": false
+                },
+                {
+                    "wordId": "豆蔻",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉豆蔻",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "暴风雪",
+        "珠宝",
+        "长颈鹿",
+        "喀迈拉",
+        "夏威夷",
+        "雷声",
+        "企鹅",
+        "水果",
+        "靛蓝",
+        "龙眼",
+        "深红色",
+        "巴厘岛",
+        "松鼠",
+        "阴天",
+        "青蓝色",
+        "水牛",
+        "泥铲",
+        "凤凰",
+        "驴",
+        "榅桲",
+        "暴风",
+        "天气",
+        "王冠",
+        "萨摩亚",
+        "护身符",
+        "饰物",
+        "手镯",
+        "红毛丹",
+        "教师",
+        "暴风雨",
+        "传奇生物",
+        "肉豆蔻",
+        "气旋",
+        "姜黄",
+        "赭色",
+        "木槌",
+        "斐济",
+        "菲油果",
+        "木瓜",
+        "豆蔻",
+        "海豚",
+        "动物"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "袋鼠",
+                "颜色",
+                "毛毛雨",
+                "淡紫色"
+            ]
+        },
+        {
+            "cards": [
+                "荔枝",
+                "季风",
+                "裁缝",
+                "独角兽",
+                "吊坠"
+            ]
+        },
+        {
+            "cards": [
+                "狮鹫",
+                "栗色",
+                "岛屿",
+                "斑马",
+                "胸针",
+                "银行家"
+            ]
+        },
+        {
+            "cards": [
+                "工具",
+                "金桔",
+                "职业",
+                "工匠",
+                "撬棍",
+                "香料",
+                "榴莲"
+            ]
+        }
+    ]
+}

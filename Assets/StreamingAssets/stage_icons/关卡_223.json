@@ -1,0 +1,369 @@
+{
+    "levelId": 223,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "安全装备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "安全帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "护目镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "面罩",
+                    "icon": true
+                },
+                {
+                    "wordId": "手套",
+                    "icon": true
+                },
+                {
+                    "wordId": "救生圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "救生衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "灭火器",
+                    "icon": true
+                },
+                {
+                    "wordId": "防护服",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "幼崽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幼熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊羔",
+                    "icon": true
+                },
+                {
+                    "wordId": "小猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "小狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "小山羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "小猪崽",
+                    "icon": true
+                },
+                {
+                    "wordId": "小鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "幼鹿",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "资源",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "土地",
+                    "icon": false
+                },
+                {
+                    "wordId": "水",
+                    "icon": false
+                },
+                {
+                    "wordId": "天然气",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤炭",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿石",
+                    "icon": false
+                },
+                {
+                    "wordId": "植物群",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物群",
+                    "icon": false
+                },
+                {
+                    "wordId": "空气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "人民",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人性",
+                    "icon": false
+                },
+                {
+                    "wordId": "民众",
+                    "icon": false
+                },
+                {
+                    "wordId": "人口",
+                    "icon": false
+                },
+                {
+                    "wordId": "人类",
+                    "icon": false
+                },
+                {
+                    "wordId": "民族",
+                    "icon": false
+                },
+                {
+                    "wordId": "公民",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钩针编织",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钩针",
+                    "icon": false
+                },
+                {
+                    "wordId": "线圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "蕾丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "线",
+                    "icon": false
+                },
+                {
+                    "wordId": "图案",
+                    "icon": false
+                },
+                {
+                    "wordId": "针法",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "杂务",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "任务",
+                    "icon": false
+                },
+                {
+                    "wordId": "职责",
+                    "icon": false
+                },
+                {
+                    "wordId": "工作",
+                    "icon": false
+                },
+                {
+                    "wordId": "使命",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "果园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苹果树",
+                    "icon": true
+                },
+                {
+                    "wordId": "梨树",
+                    "icon": true
+                },
+                {
+                    "wordId": "樱桃树",
+                    "icon": true
+                },
+                {
+                    "wordId": "桃树",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "派类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恩潘纳达",
+                    "icon": false
+                },
+                {
+                    "wordId": "馅饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨姆萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡尔佐内",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "桶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盆",
+                    "icon": false
+                },
+                {
+                    "wordId": "箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "提桶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "门廊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "游廊",
+                    "icon": false
+                },
+                {
+                    "wordId": "柱廊",
+                    "icon": false
+                },
+                {
+                    "wordId": "凉廊",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "人民",
+        "派类",
+        "线圈",
+        "幼崽",
+        "杂务",
+        "蕾丝",
+        "梨树",
+        "钩针编织",
+        "人口",
+        "小山羊",
+        "职责",
+        "工作",
+        "灭火器",
+        "手套",
+        "提桶",
+        "人性",
+        "公民",
+        "使命",
+        "钩针",
+        "人类",
+        "水",
+        "馅饼",
+        "土地",
+        "安全帽",
+        "苹果树",
+        "箱",
+        "任务",
+        "针法",
+        "樱桃树",
+        "恩潘纳达",
+        "图案",
+        "矿石",
+        "幼熊",
+        "民众",
+        "线",
+        "空气",
+        "柱廊",
+        "面罩",
+        "小狗",
+        "桃树",
+        "植物群",
+        "防护服"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "小猫",
+                "天然气",
+                "门廊",
+                "盆"
+            ]
+        },
+        {
+            "cards": [
+                "凉廊",
+                "安全装备",
+                "幼鹿",
+                "桶",
+                "动物群"
+            ]
+        },
+        {
+            "cards": [
+                "煤炭",
+                "果园",
+                "救生圈",
+                "萨姆萨",
+                "救生衣",
+                "小猪崽"
+            ]
+        },
+        {
+            "cards": [
+                "游廊",
+                "小鹅",
+                "羊羔",
+                "卡尔佐内",
+                "护目镜",
+                "民族",
+                "资源"
+            ]
+        }
+    ]
+}

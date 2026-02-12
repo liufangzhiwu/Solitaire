@@ -1,0 +1,217 @@
+{
+    "levelId": 351,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "德国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柏林",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴伐利亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "高速公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌德",
+                    "icon": false
+                },
+                {
+                    "wordId": "啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "汉堡",
+                    "icon": false
+                },
+                {
+                    "wordId": "莱茵河",
+                    "icon": false
+                },
+                {
+                    "wordId": "德累斯顿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "紧固件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "门闩",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣子",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺栓",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹子",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹具",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "钩子",
+                    "icon": false
+                },
+                {
+                    "wordId": "销",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "关节",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肘关节",
+                    "icon": true
+                },
+                {
+                    "wordId": "膝关节",
+                    "icon": true
+                },
+                {
+                    "wordId": "腕关节",
+                    "icon": true
+                },
+                {
+                    "wordId": "踝关节",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "栅栏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尖桩栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "栏杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "树篱",
+                    "icon": false
+                },
+                {
+                    "wordId": "面板栅栏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瓷砖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陶瓷",
+                    "icon": false
+                },
+                {
+                    "wordId": "大理石",
+                    "icon": false
+                },
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "山丘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山脊",
+                    "icon": true
+                },
+                {
+                    "wordId": "土丘",
+                    "icon": true
+                },
+                {
+                    "wordId": "陡崖",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "钩子",
+        "螺栓",
+        "肘关节",
+        "德国",
+        "陶瓷",
+        "夹具",
+        "栏杆",
+        "腕关节",
+        "紧固件",
+        "夹子",
+        "柏林",
+        "德累斯顿",
+        "膝关节",
+        "踝关节",
+        "土丘",
+        "山脊",
+        "高速公路",
+        "销",
+        "门闩",
+        "面板栅栏",
+        "瓷砖",
+        "汉堡",
+        "啤酒",
+        "螺柱"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "莱茵河",
+                "陡崖",
+                "山丘"
+            ]
+        },
+        {
+            "cards": [
+                "扣子",
+                "尖桩栅栏",
+                "栅栏",
+                "花岗岩"
+            ]
+        },
+        {
+            "cards": [
+                "歌德",
+                "大理石",
+                "巴伐利亚",
+                "树篱",
+                "关节"
+            ]
+        }
+    ]
+}

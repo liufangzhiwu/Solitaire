@@ -1,0 +1,369 @@
+{
+    "levelId": 135,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "神话的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英雄",
+                    "icon": false
+                },
+                {
+                    "wordId": "传奇",
+                    "icon": false
+                },
+                {
+                    "wordId": "传说",
+                    "icon": false
+                },
+                {
+                    "wordId": "符文",
+                    "icon": false
+                },
+                {
+                    "wordId": "追寻",
+                    "icon": false
+                },
+                {
+                    "wordId": "故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "知识",
+                    "icon": false
+                },
+                {
+                    "wordId": "野兽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "苔藓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮湿的",
+                    "icon": false
+                },
+                {
+                    "wordId": "石头",
+                    "icon": false
+                },
+                {
+                    "wordId": "地毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔软的",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿润的",
+                    "icon": false
+                },
+                {
+                    "wordId": "孢子",
+                    "icon": false
+                },
+                {
+                    "wordId": "树干",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金库",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锁",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄金",
+                    "icon": false
+                },
+                {
+                    "wordId": "银行",
+                    "icon": false
+                },
+                {
+                    "wordId": "保险箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "守卫",
+                    "icon": false
+                },
+                {
+                    "wordId": "门",
+                    "icon": false
+                },
+                {
+                    "wordId": "硬币",
+                    "icon": false
+                },
+                {
+                    "wordId": "现金",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "模仿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "复制",
+                    "icon": false
+                },
+                {
+                    "wordId": "回声",
+                    "icon": false
+                },
+                {
+                    "wordId": "仿效",
+                    "icon": false
+                },
+                {
+                    "wordId": "假冒",
+                    "icon": false
+                },
+                {
+                    "wordId": "克隆",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "花蜜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甜的",
+                    "icon": false
+                },
+                {
+                    "wordId": "水果",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜜蜂",
+                    "icon": false
+                },
+                {
+                    "wordId": "饮料",
+                    "icon": false
+                },
+                {
+                    "wordId": "开花",
+                    "icon": false
+                },
+                {
+                    "wordId": "花朵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "眼镜蛇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毒液",
+                    "icon": false
+                },
+                {
+                    "wordId": "颈部皮褶",
+                    "icon": false
+                },
+                {
+                    "wordId": "咬",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绘画工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铅笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "马克笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "粉笔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "家园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巢穴",
+                    "icon": true
+                },
+                {
+                    "wordId": "狗窝",
+                    "icon": true
+                },
+                {
+                    "wordId": "鼹鼠丘",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛛网",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "石英",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉色的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "喝彩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "演出",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓掌",
+                    "icon": false
+                },
+                {
+                    "wordId": "喊叫",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "追寻",
+        "银行",
+        "鼓掌",
+        "复制",
+        "现金",
+        "回声",
+        "狗窝",
+        "知识",
+        "喝彩",
+        "蜜蜂",
+        "石英",
+        "地毯",
+        "假冒",
+        "颈部皮褶",
+        "守卫",
+        "硬币",
+        "饮料",
+        "毒液",
+        "沙子",
+        "模仿",
+        "镜像",
+        "传奇",
+        "咬",
+        "粉色的",
+        "鼹鼠丘",
+        "野兽",
+        "水晶",
+        "钢笔",
+        "湿润的",
+        "仿效",
+        "金库",
+        "甜的",
+        "传说",
+        "树干",
+        "眼镜蛇",
+        "演出",
+        "门",
+        "石头",
+        "绿色",
+        "巢穴",
+        "铅笔",
+        "花朵"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "神话的",
+                "潮湿的",
+                "水果",
+                "蛇"
+            ]
+        },
+        {
+            "cards": [
+                "蛛网",
+                "锁",
+                "黄金",
+                "孢子",
+                "家园"
+            ]
+        },
+        {
+            "cards": [
+                "保险箱",
+                "开花",
+                "绘画工具",
+                "粉笔",
+                "柔软的",
+                "英雄"
+            ]
+        },
+        {
+            "cards": [
+                "故事",
+                "花蜜",
+                "苔藓",
+                "符文",
+                "喊叫",
+                "马克笔",
+                "克隆"
+            ]
+        }
+    ]
+}

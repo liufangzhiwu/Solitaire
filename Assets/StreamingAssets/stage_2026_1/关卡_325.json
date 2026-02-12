@@ -1,0 +1,521 @@
+{
+    "levelId": 325,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "实验室器皿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "移液管",
+                    "icon": false
+                },
+                {
+                    "wordId": "坩埚",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴定管",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "三脚架",
+                    "icon": false
+                },
+                {
+                    "wordId": "研钵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文学体裁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寓言",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨迦",
+                    "icon": false
+                },
+                {
+                    "wordId": "史诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "中篇小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "寓言故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "戏剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "讽刺文学",
+                    "icon": false
+                },
+                {
+                    "wordId": "讽喻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "代码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩斯电码",
+                    "icon": false
+                },
+                {
+                    "wordId": "二进制",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯撒密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "盲文",
+                    "icon": false
+                },
+                {
+                    "wordId": "统一码",
+                    "icon": false
+                },
+                {
+                    "wordId": "恩尼格玛密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "条码",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮递区号",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "雕像材质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大理石",
+                    "icon": false
+                },
+                {
+                    "wordId": "青铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "石膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "黏土",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑曜石",
+                    "icon": false
+                },
+                {
+                    "wordId": "木质",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄武岩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卷轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "法典",
+                    "icon": false
+                },
+                {
+                    "wordId": "账簿",
+                    "icon": false
+                },
+                {
+                    "wordId": "保险库",
+                    "icon": false
+                },
+                {
+                    "wordId": "索引",
+                    "icon": false
+                },
+                {
+                    "wordId": "编年史",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "英雄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赫拉克勒斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥德修斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "珀尔修斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝奥武夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿喀琉斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "忒修斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法医",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "子弹",
+                    "icon": false
+                },
+                {
+                    "wordId": "血液",
+                    "icon": false
+                },
+                {
+                    "wordId": "证据",
+                    "icon": false
+                },
+                {
+                    "wordId": "残留物",
+                    "icon": false
+                },
+                {
+                    "wordId": "嫌疑人",
+                    "icon": false
+                },
+                {
+                    "wordId": "现场",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "向量",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "箭头",
+                    "icon": false
+                },
+                {
+                    "wordId": "线条",
+                    "icon": false
+                },
+                {
+                    "wordId": "点",
+                    "icon": false
+                },
+                {
+                    "wordId": "轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "长度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "椅子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凳子",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚凳",
+                    "icon": false
+                },
+                {
+                    "wordId": "躺椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "翼背椅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "物理学家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱因斯坦",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "居里",
+                    "icon": false
+                },
+                {
+                    "wordId": "伽利略",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "软件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "驱动程式",
+                    "icon": false
+                },
+                {
+                    "wordId": "实用工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "插件",
+                    "icon": false
+                },
+                {
+                    "wordId": "补丁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "表情符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笑脸",
+                    "icon": true
+                },
+                {
+                    "wordId": "皱眉脸",
+                    "icon": true
+                },
+                {
+                    "wordId": "眨眼脸",
+                    "icon": true
+                },
+                {
+                    "wordId": "哭脸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "首字母缩略词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "北约",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷达",
+                    "icon": false
+                },
+                {
+                    "wordId": "联合国教科文组织",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "测验",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "正确",
+                    "icon": false
+                },
+                {
+                    "wordId": "错误",
+                    "icon": false
+                },
+                {
+                    "wordId": "可能",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "统一码",
+        "木质",
+        "索引",
+        "躺椅",
+        "摩斯电码",
+        "轴",
+        "石膏",
+        "雷达",
+        "插件",
+        "椅子",
+        "居里",
+        "摇椅",
+        "正确",
+        "伽利略",
+        "漏斗",
+        "烧瓶",
+        "史诗",
+        "联合国教科文组织",
+        "青铜",
+        "玄武岩",
+        "三脚架",
+        "现场",
+        "英雄",
+        "代码",
+        "编年史",
+        "血液",
+        "萨迦",
+        "二进制",
+        "珀尔修斯",
+        "驱动程式",
+        "寓言故事",
+        "测验",
+        "档案",
+        "子弹",
+        "盲文",
+        "表情符号",
+        "忒修斯",
+        "补丁",
+        "嫌疑人",
+        "烧杯",
+        "黑曜石",
+        "恩尼格玛密码",
+        "讽刺文学",
+        "讽喻",
+        "戏剧",
+        "法医",
+        "牛顿",
+        "奥德修斯",
+        "爱因斯坦",
+        "花岗岩",
+        "卷轴",
+        "可能",
+        "寓言",
+        "坩埚",
+        "箭头",
+        "错误",
+        "证据"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "笑脸",
+                "条码",
+                "滴定管",
+                "大理石",
+                "贝奥武夫"
+            ]
+        },
+        {
+            "cards": [
+                "实用工具",
+                "保险库",
+                "实验室器皿",
+                "线条",
+                "中篇小说",
+                "账簿"
+            ]
+        },
+        {
+            "cards": [
+                "阿喀琉斯",
+                "点",
+                "物理学家",
+                "残留物",
+                "长度",
+                "脚凳",
+                "向量"
+            ]
+        },
+        {
+            "cards": [
+                "首字母缩略词",
+                "文学体裁",
+                "雕像材质",
+                "凳子",
+                "黏土",
+                "北约",
+                "眨眼脸",
+                "移液管"
+            ]
+        },
+        {
+            "cards": [
+                "研钵",
+                "软件",
+                "皱眉脸",
+                "赫拉克勒斯",
+                "哭脸",
+                "翼背椅",
+                "凯撒密码",
+                "邮递区号",
+                "法典"
+            ]
+        }
+    ]
+}

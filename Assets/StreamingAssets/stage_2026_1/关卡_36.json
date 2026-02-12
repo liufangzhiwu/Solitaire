@@ -1,0 +1,453 @@
+{
+    "levelId": 36,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 210,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "农耕",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "围场",
+                    "icon": false
+                },
+                {
+                    "wordId": "堆肥",
+                    "icon": false
+                },
+                {
+                    "wordId": "休耕",
+                    "icon": false
+                },
+                {
+                    "wordId": "作物",
+                    "icon": false
+                },
+                {
+                    "wordId": "干草",
+                    "icon": false
+                },
+                {
+                    "wordId": "收获",
+                    "icon": false
+                },
+                {
+                    "wordId": "表土",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "科学家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "特斯拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱因斯坦",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱迪生",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "伽利略",
+                    "icon": false
+                },
+                {
+                    "wordId": "达尔文",
+                    "icon": false
+                },
+                {
+                    "wordId": "法拉第",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻尔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美妆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "护肤",
+                    "icon": false
+                },
+                {
+                    "wordId": "睫毛膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "腮红",
+                    "icon": false
+                },
+                {
+                    "wordId": "洁面乳",
+                    "icon": false
+                },
+                {
+                    "wordId": "香水",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼线笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "妆前乳",
+                    "icon": false
+                },
+                {
+                    "wordId": "口红",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工具箱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "扳手",
+                    "icon": true
+                },
+                {
+                    "wordId": "钻头",
+                    "icon": true
+                },
+                {
+                    "wordId": "胶带",
+                    "icon": true
+                },
+                {
+                    "wordId": "锯子",
+                    "icon": true
+                },
+                {
+                    "wordId": "凿子",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹子",
+                    "icon": true
+                },
+                {
+                    "wordId": "锤子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "管理者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "截止日期",
+                    "icon": false
+                },
+                {
+                    "wordId": "任务列表",
+                    "icon": false
+                },
+                {
+                    "wordId": "日程安排",
+                    "icon": false
+                },
+                {
+                    "wordId": "委派",
+                    "icon": false
+                },
+                {
+                    "wordId": "优先级",
+                    "icon": false
+                },
+                {
+                    "wordId": "规划",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图书馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书籍",
+                    "icon": false
+                },
+                {
+                    "wordId": "书架",
+                    "icon": false
+                },
+                {
+                    "wordId": "台灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "桌子",
+                    "icon": false
+                },
+                {
+                    "wordId": "作者",
+                    "icon": false
+                },
+                {
+                    "wordId": "索引",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "滑行运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雪橇",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢架雪车",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑冰",
+                    "icon": false
+                },
+                {
+                    "wordId": "无舵雪橇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绘画",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "油画",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烯",
+                    "icon": false
+                },
+                {
+                    "wordId": "水粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "调色板",
+                    "icon": false
+                },
+                {
+                    "wordId": "画布",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "市场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "集市",
+                    "icon": false
+                },
+                {
+                    "wordId": "摊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "销售",
+                    "icon": false
+                },
+                {
+                    "wordId": "小贩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "民间信仰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "妈祖",
+                    "icon": false
+                },
+                {
+                    "wordId": "观音",
+                    "icon": false
+                },
+                {
+                    "wordId": "孔子",
+                    "icon": false
+                },
+                {
+                    "wordId": "关公",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "岩石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巨石",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹅卵石",
+                    "icon": true
+                },
+                {
+                    "wordId": "碎石",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "白色东西",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪人",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "无舵雪橇",
+        "滑雪",
+        "雪人",
+        "钢架雪车",
+        "腮红",
+        "优先级",
+        "摊位",
+        "委派",
+        "钻头",
+        "牛顿",
+        "雪橇",
+        "达尔文",
+        "妆前乳",
+        "索引",
+        "孔子",
+        "销售",
+        "作者",
+        "科学家",
+        "锤子",
+        "护肤",
+        "牛奶",
+        "小贩",
+        "丙烯",
+        "香水",
+        "岩石",
+        "谷物",
+        "玻尔",
+        "水粉",
+        "管理者",
+        "日程安排",
+        "画布",
+        "规划",
+        "表土",
+        "滑行运动",
+        "爱迪生",
+        "凿子",
+        "眼线笔",
+        "滑冰",
+        "书籍",
+        "集市",
+        "民间信仰",
+        "胶带",
+        "特斯拉",
+        "睫毛膏",
+        "油画",
+        "伽利略",
+        "收获",
+        "口红",
+        "桌子",
+        "任务列表",
+        "台灯",
+        "作物",
+        "工具箱",
+        "妈祖"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "白色东西",
+                "干草",
+                "夹子",
+                "扳手",
+                "锯子"
+            ]
+        },
+        {
+            "cards": [
+                "关公",
+                "调色板",
+                "美妆",
+                "钳子",
+                "法拉第",
+                "书架"
+            ]
+        },
+        {
+            "cards": [
+                "鹅卵石",
+                "截止日期",
+                "巨石",
+                "围场",
+                "市场",
+                "图书馆",
+                "观音"
+            ]
+        },
+        {
+            "cards": [
+                "绘画",
+                "白糖",
+                "爱因斯坦",
+                "堆肥",
+                "农耕",
+                "休耕",
+                "洁面乳",
+                "碎石"
+            ]
+        }
+    ]
+}

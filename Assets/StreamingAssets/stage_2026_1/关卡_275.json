@@ -1,0 +1,369 @@
+{
+    "levelId": 275,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "贸易",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "商品",
+                    "icon": false
+                },
+                {
+                    "wordId": "国内生产总值",
+                    "icon": false
+                },
+                {
+                    "wordId": "贸易平衡",
+                    "icon": false
+                },
+                {
+                    "wordId": "交易",
+                    "icon": false
+                },
+                {
+                    "wordId": "以物易物",
+                    "icon": false
+                },
+                {
+                    "wordId": "关税",
+                    "icon": false
+                },
+                {
+                    "wordId": "逆差",
+                    "icon": false
+                },
+                {
+                    "wordId": "顺差",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "床上用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毯子",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽绒被",
+                    "icon": false
+                },
+                {
+                    "wordId": "枕头",
+                    "icon": false
+                },
+                {
+                    "wordId": "被子",
+                    "icon": false
+                },
+                {
+                    "wordId": "床单",
+                    "icon": false
+                },
+                {
+                    "wordId": "床垫",
+                    "icon": false
+                },
+                {
+                    "wordId": "长枕",
+                    "icon": false
+                },
+                {
+                    "wordId": "铺盖卷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爱好",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缝纫",
+                    "icon": true
+                },
+                {
+                    "wordId": "射箭",
+                    "icon": true
+                },
+                {
+                    "wordId": "骑行",
+                    "icon": true
+                },
+                {
+                    "wordId": "攀岩",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑雪",
+                    "icon": true
+                },
+                {
+                    "wordId": "潜水",
+                    "icon": true
+                },
+                {
+                    "wordId": "观鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "编织",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "魔法师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大法师",
+                    "icon": false
+                },
+                {
+                    "wordId": "术士",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔术师",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫师",
+                    "icon": false
+                },
+                {
+                    "wordId": "召唤师",
+                    "icon": false
+                },
+                {
+                    "wordId": "占卜师",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "食谱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混合",
+                    "icon": false
+                },
+                {
+                    "wordId": "添加",
+                    "icon": false
+                },
+                {
+                    "wordId": "煮沸",
+                    "icon": false
+                },
+                {
+                    "wordId": "搅打",
+                    "icon": false
+                },
+                {
+                    "wordId": "搅拌",
+                    "icon": false
+                },
+                {
+                    "wordId": "炖煮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "序数",
+                    "icon": false
+                },
+                {
+                    "wordId": "整数",
+                    "icon": false
+                },
+                {
+                    "wordId": "复数",
+                    "icon": false
+                },
+                {
+                    "wordId": "自然数",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "菜系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "印度菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "法国菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "海鲜",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚洲菜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "医生相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "预约",
+                    "icon": true
+                },
+                {
+                    "wordId": "转诊",
+                    "icon": true
+                },
+                {
+                    "wordId": "处方",
+                    "icon": true
+                },
+                {
+                    "wordId": "体检",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "炼金术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金",
+                    "icon": false
+                },
+                {
+                    "wordId": "锑",
+                    "icon": false
+                },
+                {
+                    "wordId": "硫酸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "光学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棱镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "眩光",
+                    "icon": false
+                },
+                {
+                    "wordId": "海市蜃楼",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "搅打",
+        "巫师",
+        "体检",
+        "棱镜",
+        "枕头",
+        "占卜师",
+        "术士",
+        "铺盖卷",
+        "预约",
+        "射箭",
+        "床垫",
+        "羽绒被",
+        "混合",
+        "锑",
+        "菜系",
+        "海市蜃楼",
+        "被子",
+        "毯子",
+        "医生相关",
+        "搅拌",
+        "长枕",
+        "添加",
+        "攀岩",
+        "食谱",
+        "炖煮",
+        "煮沸",
+        "眩光",
+        "滑雪",
+        "魔术师",
+        "转诊",
+        "爱好",
+        "自然数",
+        "关税",
+        "整数",
+        "硫酸",
+        "大法师",
+        "观鸟",
+        "贸易平衡",
+        "数字",
+        "潜水",
+        "亚洲菜",
+        "处方"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "商品",
+                "顺差",
+                "序数",
+                "金"
+            ]
+        },
+        {
+            "cards": [
+                "魔法师",
+                "贸易",
+                "编织",
+                "以物易物",
+                "交易"
+            ]
+        },
+        {
+            "cards": [
+                "逆差",
+                "召唤师",
+                "骑行",
+                "炼金术",
+                "国内生产总值",
+                "缝纫"
+            ]
+        },
+        {
+            "cards": [
+                "印度菜",
+                "床上用品",
+                "复数",
+                "海鲜",
+                "光学",
+                "法国菜",
+                "床单"
+            ]
+        }
+    ]
+}

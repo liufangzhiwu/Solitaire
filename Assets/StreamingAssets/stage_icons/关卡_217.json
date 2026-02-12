@@ -1,0 +1,369 @@
+{
+    "levelId": 217,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "卡通角色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汤姆",
+                    "icon": false
+                },
+                {
+                    "wordId": "杰瑞",
+                    "icon": false
+                },
+                {
+                    "wordId": "米老鼠",
+                    "icon": false
+                },
+                {
+                    "wordId": "米妮",
+                    "icon": false
+                },
+                {
+                    "wordId": "唐老鸭",
+                    "icon": false
+                },
+                {
+                    "wordId": "小熊维尼",
+                    "icon": false
+                },
+                {
+                    "wordId": "小卡斯珀",
+                    "icon": false
+                },
+                {
+                    "wordId": "布鲁托",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蚂蚁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "昆虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜇刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "群落",
+                    "icon": false
+                },
+                {
+                    "wordId": "微小",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "大军",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂群",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚁丘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "新生儿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尿布",
+                    "icon": true
+                },
+                {
+                    "wordId": "床铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "围兜",
+                    "icon": true
+                },
+                {
+                    "wordId": "摇铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "背心",
+                    "icon": true
+                },
+                {
+                    "wordId": "婴儿床",
+                    "icon": true
+                },
+                {
+                    "wordId": "安抚奶嘴",
+                    "icon": true
+                },
+                {
+                    "wordId": "游戏围栏",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "表演",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                },
+                {
+                    "wordId": "戏剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧本",
+                    "icon": false
+                },
+                {
+                    "wordId": "场景",
+                    "icon": false
+                },
+                {
+                    "wordId": "角色",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚本",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日常",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "新闻",
+                    "icon": false
+                },
+                {
+                    "wordId": "报纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "日记",
+                    "icon": false
+                },
+                {
+                    "wordId": "习惯",
+                    "icon": false
+                },
+                {
+                    "wordId": "常规",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮件",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "统治者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国王",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏丹",
+                    "icon": false
+                },
+                {
+                    "wordId": "君主",
+                    "icon": false
+                },
+                {
+                    "wordId": "皇帝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "下装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打底裤",
+                    "icon": true
+                },
+                {
+                    "wordId": "裤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛仔裤",
+                    "icon": true
+                },
+                {
+                    "wordId": "短裤",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "满的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "整个",
+                    "icon": false
+                },
+                {
+                    "wordId": "所有",
+                    "icon": false
+                },
+                {
+                    "wordId": "全部",
+                    "icon": false
+                },
+                {
+                    "wordId": "总计",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骆驼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "驼峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "商队",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙漠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粉笔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑板",
+                    "icon": false
+                },
+                {
+                    "wordId": "白色",
+                    "icon": false
+                },
+                {
+                    "wordId": "书写",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "角色",
+        "蚁丘",
+        "场景",
+        "脚本",
+        "骆驼",
+        "邮件",
+        "总计",
+        "常规",
+        "日记",
+        "所有",
+        "唐老鸭",
+        "床铃",
+        "商队",
+        "舞台",
+        "背心",
+        "游戏围栏",
+        "整个",
+        "戏剧",
+        "小卡斯珀",
+        "蜂群",
+        "君主",
+        "蜇刺",
+        "日常",
+        "白色",
+        "苏丹",
+        "报纸",
+        "沙漠",
+        "杰瑞",
+        "摇铃",
+        "皇帝",
+        "微小",
+        "洞穴",
+        "新生儿",
+        "全部",
+        "黑板",
+        "汤姆",
+        "习惯",
+        "米妮",
+        "蚂蚁",
+        "书写",
+        "国王",
+        "表演"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "驼峰",
+                "群落",
+                "卡通角色",
+                "尿布"
+            ]
+        },
+        {
+            "cards": [
+                "布鲁托",
+                "短裤",
+                "统治者",
+                "满的",
+                "打底裤"
+            ]
+        },
+        {
+            "cards": [
+                "牛仔裤",
+                "米老鼠",
+                "小熊维尼",
+                "安抚奶嘴",
+                "下装",
+                "新闻"
+            ]
+        },
+        {
+            "cards": [
+                "剧本",
+                "昆虫",
+                "粉笔",
+                "婴儿床",
+                "大军",
+                "裤子",
+                "围兜"
+            ]
+        }
+    ]
+}

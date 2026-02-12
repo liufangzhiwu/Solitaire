@@ -1,0 +1,369 @@
+{
+    "levelId": 283,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "织物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平纹细布",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪纺",
+                    "icon": false
+                },
+                {
+                    "wordId": "花缎",
+                    "icon": false
+                },
+                {
+                    "wordId": "纱布",
+                    "icon": false
+                },
+                {
+                    "wordId": "提花织物",
+                    "icon": false
+                },
+                {
+                    "wordId": "缎子",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔夫绸",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝绒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "学术界",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "讲座",
+                    "icon": false
+                },
+                {
+                    "wordId": "校园",
+                    "icon": false
+                },
+                {
+                    "wordId": "学者",
+                    "icon": false
+                },
+                {
+                    "wordId": "学费",
+                    "icon": false
+                },
+                {
+                    "wordId": "理论",
+                    "icon": false
+                },
+                {
+                    "wordId": "课程",
+                    "icon": false
+                },
+                {
+                    "wordId": "图书馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "考试",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "君主",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿尔弗雷德大帝",
+                    "icon": false
+                },
+                {
+                    "wordId": "拿破仑",
+                    "icon": false
+                },
+                {
+                    "wordId": "维多利亚女王",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛格丽特女王",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉美西斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥古斯都",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊莎贝拉女王",
+                    "icon": false
+                },
+                {
+                    "wordId": "腓特烈大帝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "作家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奥斯汀",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥威尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "狄更斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "托尔金",
+                    "icon": false
+                },
+                {
+                    "wordId": "勃朗特",
+                    "icon": false
+                },
+                {
+                    "wordId": "荷马",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绘图工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铅笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨水",
+                    "icon": true
+                },
+                {
+                    "wordId": "粉笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜡笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "画笔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "合金",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "青铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢",
+                    "icon": false
+                },
+                {
+                    "wordId": "白镴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "零食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薯片",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖果",
+                    "icon": false
+                },
+                {
+                    "wordId": "爆米花",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤干酪辣味玉米片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舞蹈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "探戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "华尔滋",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "狐步舞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布里欧修",
+                    "icon": true
+                },
+                {
+                    "wordId": "佛卡夏",
+                    "icon": true
+                },
+                {
+                    "wordId": "椒盐卷饼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "恐龙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "异特龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "沧龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "霸王龙",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "图书馆",
+        "粉笔",
+        "雪纺",
+        "画笔",
+        "玛格丽特女王",
+        "零食",
+        "提花织物",
+        "学者",
+        "青铜",
+        "黄铜",
+        "花缎",
+        "布里欧修",
+        "织物",
+        "校园",
+        "面包",
+        "佛卡夏",
+        "理论",
+        "讲座",
+        "拉美西斯",
+        "勃朗特",
+        "薯片",
+        "平纹细布",
+        "铅笔",
+        "爆米花",
+        "缎子",
+        "探戈",
+        "白镴",
+        "托尔金",
+        "华尔滋",
+        "奥斯汀",
+        "学术界",
+        "绘图工具",
+        "腓特烈大帝",
+        "拿破仑",
+        "阿尔弗雷德大帝",
+        "荷马",
+        "狐步舞",
+        "考试",
+        "蜡笔",
+        "伊莎贝拉女王",
+        "钢笔",
+        "奥威尔"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "烤干酪辣味玉米片",
+                "君主",
+                "课程",
+                "维多利亚女王"
+            ]
+        },
+        {
+            "cards": [
+                "奥古斯都",
+                "霸王龙",
+                "沧龙",
+                "桑巴",
+                "恐龙"
+            ]
+        },
+        {
+            "cards": [
+                "墨水",
+                "丝绒",
+                "塔夫绸",
+                "异特龙",
+                "学费",
+                "作家"
+            ]
+        },
+        {
+            "cards": [
+                "糖果",
+                "纱布",
+                "舞蹈",
+                "合金",
+                "钢",
+                "椒盐卷饼",
+                "狄更斯"
+            ]
+        }
+    ]
+}

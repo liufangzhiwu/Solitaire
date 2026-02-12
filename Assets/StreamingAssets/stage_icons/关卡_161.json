@@ -1,0 +1,553 @@
+{
+    "levelId": 161,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "橡果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "坚果",
+                    "icon": false
+                },
+                {
+                    "wordId": "橡树",
+                    "icon": false
+                },
+                {
+                    "wordId": "树木",
+                    "icon": false
+                },
+                {
+                    "wordId": "壳斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "棕色",
+                    "icon": false
+                },
+                {
+                    "wordId": "秋天",
+                    "icon": false
+                },
+                {
+                    "wordId": "松鼠",
+                    "icon": false
+                },
+                {
+                    "wordId": "野猪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鼓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "节拍",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓槌",
+                    "icon": false
+                },
+                {
+                    "wordId": "节奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓面",
+                    "icon": false
+                },
+                {
+                    "wordId": "响亮",
+                    "icon": false
+                },
+                {
+                    "wordId": "咚",
+                    "icon": false
+                },
+                {
+                    "wordId": "敲击",
+                    "icon": false
+                },
+                {
+                    "wordId": "噪音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黑白物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑点狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "条码",
+                    "icon": true
+                },
+                {
+                    "wordId": "熊猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢琴键",
+                    "icon": true
+                },
+                {
+                    "wordId": "虎鲸",
+                    "icon": true
+                },
+                {
+                    "wordId": "臭鼬",
+                    "icon": true
+                },
+                {
+                    "wordId": "足球",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "粉色物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "火烈鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "粉色口红",
+                    "icon": true
+                },
+                {
+                    "wordId": "莲花",
+                    "icon": true
+                },
+                {
+                    "wordId": "樱花",
+                    "icon": true
+                },
+                {
+                    "wordId": "玫瑰",
+                    "icon": true
+                },
+                {
+                    "wordId": "小萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "舌头",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "生活大爆炸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谢尔顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "佩妮",
+                    "icon": false
+                },
+                {
+                    "wordId": "霍华德",
+                    "icon": false
+                },
+                {
+                    "wordId": "莱纳德",
+                    "icon": false
+                },
+                {
+                    "wordId": "艾米",
+                    "icon": false
+                },
+                {
+                    "wordId": "伯纳黛特",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "老友记",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瑞秋",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫妮卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "菲比",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔伊",
+                    "icon": false
+                },
+                {
+                    "wordId": "钱德勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "切割",
+                    "icon": false
+                },
+                {
+                    "wordId": "原木",
+                    "icon": false
+                },
+                {
+                    "wordId": "锯齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "锯片",
+                    "icon": false
+                },
+                {
+                    "wordId": "手锯",
+                    "icon": false
+                },
+                {
+                    "wordId": "锋利",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "喝彩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "呼喊",
+                    "icon": false
+                },
+                {
+                    "wordId": "赞美",
+                    "icon": false
+                },
+                {
+                    "wordId": "掌声",
+                    "icon": false
+                },
+                {
+                    "wordId": "音乐会",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌剧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阅读",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书籍",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "文章",
+                    "icon": false
+                },
+                {
+                    "wordId": "信件",
+                    "icon": false
+                },
+                {
+                    "wordId": "电子邮件",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "破碎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "窗户",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡蛋",
+                    "icon": true
+                },
+                {
+                    "wordId": "心",
+                    "icon": true
+                },
+                {
+                    "wordId": "盘子",
+                    "icon": true
+                },
+                {
+                    "wordId": "花瓶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "方形物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "餐巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "吐司",
+                    "icon": false
+                },
+                {
+                    "wordId": "像素",
+                    "icon": false
+                },
+                {
+                    "wordId": "数独",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "达利",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "艺术家",
+                    "icon": false
+                },
+                {
+                    "wordId": "小胡子",
+                    "icon": false
+                },
+                {
+                    "wordId": "超现实主义",
+                    "icon": false
+                },
+                {
+                    "wordId": "绘画",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阿拉斯加",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "岛屿",
+                    "icon": false
+                },
+                {
+                    "wordId": "州",
+                    "icon": false
+                },
+                {
+                    "wordId": "美国",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "儿童",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "婴儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "幼儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "青少年",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "释放",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "解除",
+                    "icon": false
+                },
+                {
+                    "wordId": "解放",
+                    "icon": false
+                },
+                {
+                    "wordId": "放开",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "方形物",
+        "虎鲸",
+        "菲比",
+        "窗户",
+        "生活大爆炸",
+        "玫瑰",
+        "赞美",
+        "瑞秋",
+        "岛屿",
+        "敲击",
+        "诗歌",
+        "像素",
+        "松鼠",
+        "莫妮卡",
+        "解除",
+        "黑白物",
+        "小萝卜",
+        "心",
+        "掌声",
+        "幼儿",
+        "斑点狗",
+        "锯",
+        "橡果",
+        "坚果",
+        "斑马",
+        "盘子",
+        "艾米",
+        "冰川",
+        "艺术家",
+        "咚",
+        "州",
+        "破碎",
+        "霍华德",
+        "美国",
+        "鼓槌",
+        "切割",
+        "橡树",
+        "锯齿",
+        "树木",
+        "熊猫",
+        "棕色",
+        "音乐会",
+        "歌剧",
+        "餐巾",
+        "婴儿",
+        "鼓面",
+        "小胡子",
+        "粉色物",
+        "信件",
+        "火烈鸟",
+        "舌头",
+        "锯片",
+        "樱花",
+        "吐司",
+        "鸡蛋",
+        "噪音",
+        "伯纳黛特",
+        "莱纳德",
+        "节拍",
+        "呼喊",
+        "钱德勒",
+        "数独",
+        "野猪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "书籍",
+                "达利",
+                "响亮",
+                "绘画",
+                "老友记"
+            ]
+        },
+        {
+            "cards": [
+                "罗斯",
+                "乔伊",
+                "足球",
+                "钢琴键",
+                "阅读",
+                "超现实主义"
+            ]
+        },
+        {
+            "cards": [
+                "臭鼬",
+                "喝彩",
+                "阿拉斯加",
+                "花瓶",
+                "手锯",
+                "放开",
+                "壳斗"
+            ]
+        },
+        {
+            "cards": [
+                "谢尔顿",
+                "青少年",
+                "文章",
+                "条码",
+                "原木",
+                "节奏",
+                "解放",
+                "释放"
+            ]
+        },
+        {
+            "cards": [
+                "秋天",
+                "儿童",
+                "粉色口红",
+                "鼓",
+                "锋利",
+                "佩妮",
+                "电子邮件",
+                "莲花",
+                "猪"
+            ]
+        }
+    ]
+}

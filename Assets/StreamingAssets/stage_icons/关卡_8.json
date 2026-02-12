@@ -1,0 +1,369 @@
+{
+    "levelId": 8,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "星座",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白羊座",
+                    "icon": true
+                },
+                {
+                    "wordId": "金牛座",
+                    "icon": true
+                },
+                {
+                    "wordId": "双子座",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮子座",
+                    "icon": true
+                },
+                {
+                    "wordId": "处女座",
+                    "icon": true
+                },
+                {
+                    "wordId": "天秤座",
+                    "icon": true
+                },
+                {
+                    "wordId": "天蝎座",
+                    "icon": true
+                },
+                {
+                    "wordId": "双鱼座",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "浴室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浴缸",
+                    "icon": false
+                },
+                {
+                    "wordId": "沐浴露",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗发水",
+                    "icon": false
+                },
+                {
+                    "wordId": "吹风机",
+                    "icon": false
+                },
+                {
+                    "wordId": "肥皂",
+                    "icon": false
+                },
+                {
+                    "wordId": "淋浴间",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "拖鞋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙漠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔克拉玛干",
+                    "icon": false
+                },
+                {
+                    "wordId": "戈壁",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴丹吉林",
+                    "icon": false
+                },
+                {
+                    "wordId": "腾格里",
+                    "icon": false
+                },
+                {
+                    "wordId": "柴达木盆地",
+                    "icon": false
+                },
+                {
+                    "wordId": "撒哈拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "库木塔格",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌兰布和",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "找刺激",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳楼机",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊悚密室",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬼屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "荒岛求生",
+                    "icon": false
+                },
+                {
+                    "wordId": "过山车",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐怖片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "邮递员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邮票",
+                    "icon": false
+                },
+                {
+                    "wordId": "信封",
+                    "icon": false
+                },
+                {
+                    "wordId": "信件",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮件",
+                    "icon": false
+                },
+                {
+                    "wordId": "印章",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨水",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "湖泊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日月潭",
+                    "icon": false
+                },
+                {
+                    "wordId": "翠峰湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘉明湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "七彩湖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拳击",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "实战训练",
+                    "icon": false
+                },
+                {
+                    "wordId": "上勾拳",
+                    "icon": false
+                },
+                {
+                    "wordId": "击倒",
+                    "icon": false
+                },
+                {
+                    "wordId": "裁判",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "长度单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英寸",
+                    "icon": false
+                },
+                {
+                    "wordId": "英尺",
+                    "icon": false
+                },
+                {
+                    "wordId": "码",
+                    "icon": false
+                },
+                {
+                    "wordId": "英里",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "礼服",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "翻领",
+                    "icon": false
+                },
+                {
+                    "wordId": "领结",
+                    "icon": false
+                },
+                {
+                    "wordId": "袖扣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "木制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铅笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "书",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "洗发水",
+        "浴缸",
+        "七彩湖",
+        "邮递员",
+        "书",
+        "裁判",
+        "乌兰布和",
+        "上勾拳",
+        "长度单位",
+        "袖扣",
+        "恐怖片",
+        "礼服",
+        "翠峰湖",
+        "铅笔",
+        "过山车",
+        "墨水",
+        "湖泊",
+        "戈壁",
+        "处女座",
+        "英寸",
+        "金牛座",
+        "荒岛求生",
+        "腾格里",
+        "翻领",
+        "天秤座",
+        "惊悚密室",
+        "拖鞋",
+        "双子座",
+        "白羊座",
+        "巴丹吉林",
+        "击倒",
+        "浴室",
+        "塔克拉玛干",
+        "天蝎座",
+        "库木塔格",
+        "日月潭",
+        "领结",
+        "鬼屋",
+        "柴达木盆地",
+        "吹风机",
+        "实战训练",
+        "撒哈拉",
+        "肥皂",
+        "跳楼机",
+        "邮票",
+        "英里"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "信封",
+                "印章",
+                "英尺"
+            ]
+        },
+        {
+            "cards": [
+                "拳击",
+                "信件",
+                "沙漠",
+                "吉他"
+            ]
+        },
+        {
+            "cards": [
+                "找刺激",
+                "木制品",
+                "码",
+                "狮子座",
+                "沐浴露"
+            ]
+        },
+        {
+            "cards": [
+                "双鱼座",
+                "淋浴间",
+                "邮件",
+                "毛巾",
+                "星座",
+                "嘉明湖"
+            ]
+        }
+    ]
+}

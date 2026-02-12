@@ -1,0 +1,369 @@
+{
+    "levelId": 256,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "工作相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "净重",
+                    "icon": false
+                },
+                {
+                    "wordId": "在家工作",
+                    "icon": false
+                },
+                {
+                    "wordId": "四处奔波",
+                    "icon": false
+                },
+                {
+                    "wordId": "努力工作",
+                    "icon": false
+                },
+                {
+                    "wordId": "外出",
+                    "icon": false
+                },
+                {
+                    "wordId": "车间",
+                    "icon": false
+                },
+                {
+                    "wordId": "团队",
+                    "icon": false
+                },
+                {
+                    "wordId": "解雇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "河流",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "莱茵河",
+                    "icon": false
+                },
+                {
+                    "wordId": "育空河",
+                    "icon": false
+                },
+                {
+                    "wordId": "长江",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏尔加河",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥里诺科河",
+                    "icon": false
+                },
+                {
+                    "wordId": "恒河",
+                    "icon": false
+                },
+                {
+                    "wordId": "勒拿河",
+                    "icon": false
+                },
+                {
+                    "wordId": "赞比西河",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "货币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "美元",
+                    "icon": true
+                },
+                {
+                    "wordId": "欧元",
+                    "icon": true
+                },
+                {
+                    "wordId": "日元",
+                    "icon": true
+                },
+                {
+                    "wordId": "迪拉姆",
+                    "icon": true
+                },
+                {
+                    "wordId": "卢比",
+                    "icon": true
+                },
+                {
+                    "wordId": "韩元",
+                    "icon": true
+                },
+                {
+                    "wordId": "法郎",
+                    "icon": true
+                },
+                {
+                    "wordId": "里拉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "灯笼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "LED灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "油灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤油灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜡烛灯笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤气灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "电石灯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "度量单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "加仑",
+                    "icon": false
+                },
+                {
+                    "wordId": "盎司",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒲式耳",
+                    "icon": false
+                },
+                {
+                    "wordId": "升",
+                    "icon": false
+                },
+                {
+                    "wordId": "夸脱",
+                    "icon": false
+                },
+                {
+                    "wordId": "品脱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "茶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乌龙茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "煎茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "抹茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "锡兰红茶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "利润",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "收益",
+                    "icon": false
+                },
+                {
+                    "wordId": "总收入",
+                    "icon": false
+                },
+                {
+                    "wordId": "利润率",
+                    "icon": false
+                },
+                {
+                    "wordId": "收益率",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爬行动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜥蜴",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯门鳄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "帽子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "礼仪帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "安全头盔",
+                    "icon": true
+                },
+                {
+                    "wordId": "时尚帽",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "意面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扁细面",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋面",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式馄饨",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "韩元",
+        "伏尔加河",
+        "蛇",
+        "LED灯",
+        "螺旋面",
+        "长江",
+        "利润率",
+        "法郎",
+        "蒲式耳",
+        "灯笼",
+        "团队",
+        "欧元",
+        "卢比",
+        "抹茶",
+        "外出",
+        "电石灯",
+        "煤气灯",
+        "育空河",
+        "美元",
+        "解雇",
+        "迪拉姆",
+        "茶",
+        "意面",
+        "加仑",
+        "恒河",
+        "蜥蜴",
+        "努力工作",
+        "莱茵河",
+        "锡兰红茶",
+        "收益率",
+        "乌龙茶",
+        "壁虎",
+        "勒拿河",
+        "度量单位",
+        "里拉",
+        "升",
+        "品脱",
+        "安全头盔",
+        "油灯",
+        "意式馄饨",
+        "工作相关",
+        "奥里诺科河"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "时尚帽",
+                "煤油灯",
+                "日元",
+                "蜡烛灯笼"
+            ]
+        },
+        {
+            "cards": [
+                "货币",
+                "礼仪帽",
+                "夸脱",
+                "河流",
+                "净重"
+            ]
+        },
+        {
+            "cards": [
+                "利润",
+                "盎司",
+                "总收入",
+                "车间",
+                "煎茶",
+                "凯门鳄"
+            ]
+        },
+        {
+            "cards": [
+                "爬行动物",
+                "赞比西河",
+                "帽子",
+                "收益",
+                "扁细面",
+                "在家工作",
+                "四处奔波"
+            ]
+        }
+    ]
+}

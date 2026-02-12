@@ -1,0 +1,553 @@
+{
+    "levelId": 121,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "干草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "干草堆",
+                    "icon": false
+                },
+                {
+                    "wordId": "马",
+                    "icon": false
+                },
+                {
+                    "wordId": "草",
+                    "icon": false
+                },
+                {
+                    "wordId": "干燥的",
+                    "icon": false
+                },
+                {
+                    "wordId": "稻草",
+                    "icon": false
+                },
+                {
+                    "wordId": "农场",
+                    "icon": false
+                },
+                {
+                    "wordId": "奶牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "草料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "编辑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纠正",
+                    "icon": false
+                },
+                {
+                    "wordId": "擦除",
+                    "icon": false
+                },
+                {
+                    "wordId": "重命名",
+                    "icon": false
+                },
+                {
+                    "wordId": "重塑",
+                    "icon": false
+                },
+                {
+                    "wordId": "删除",
+                    "icon": false
+                },
+                {
+                    "wordId": "编辑者",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼写",
+                    "icon": false
+                },
+                {
+                    "wordId": "打字",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛仔裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "自由女神像",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉斯加",
+                    "icon": false
+                },
+                {
+                    "wordId": "夏威夷",
+                    "icon": false
+                },
+                {
+                    "wordId": "66号公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "爵士乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "林肯",
+                    "icon": false
+                },
+                {
+                    "wordId": "美国独立日",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游说",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "活动家",
+                    "icon": false
+                },
+                {
+                    "wordId": "宣导者",
+                    "icon": false
+                },
+                {
+                    "wordId": "立法者",
+                    "icon": false
+                },
+                {
+                    "wordId": "说服",
+                    "icon": false
+                },
+                {
+                    "wordId": "成员",
+                    "icon": false
+                },
+                {
+                    "wordId": "请愿",
+                    "icon": false
+                },
+                {
+                    "wordId": "施压",
+                    "icon": false
+                },
+                {
+                    "wordId": "竞选活动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸟喙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸟",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸣叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻子",
+                    "icon": false
+                },
+                {
+                    "wordId": "钩状的",
+                    "icon": false
+                },
+                {
+                    "wordId": "啄",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖锐的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梵高",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸢尾花",
+                    "icon": false
+                },
+                {
+                    "wordId": "画家",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳朵",
+                    "icon": false
+                },
+                {
+                    "wordId": "肖像画",
+                    "icon": false
+                },
+                {
+                    "wordId": "荷兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "星空",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谨慎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "危害",
+                    "icon": false
+                },
+                {
+                    "wordId": "警报",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐惧",
+                    "icon": false
+                },
+                {
+                    "wordId": "警告",
+                    "icon": false
+                },
+                {
+                    "wordId": "审慎",
+                    "icon": false
+                },
+                {
+                    "wordId": "当心",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "赌博",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骰子",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮盘赌",
+                    "icon": false
+                },
+                {
+                    "wordId": "下注",
+                    "icon": false
+                },
+                {
+                    "wordId": "赌场",
+                    "icon": false
+                },
+                {
+                    "wordId": "庄家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "独立",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "自己动手",
+                    "icon": false
+                },
+                {
+                    "wordId": "低保真",
+                    "icon": false
+                },
+                {
+                    "wordId": "独特的",
+                    "icon": false
+                },
+                {
+                    "wordId": "垃圾摇滚",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞蹈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乳酪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "多尔布卢乳酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯蒂尔顿乳酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "高达乳酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "菲达乳酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈瓦蒂乳酪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "危险",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "易燃",
+                    "icon": true
+                },
+                {
+                    "wordId": "放射性",
+                    "icon": true
+                },
+                {
+                    "wordId": "有毒",
+                    "icon": true
+                },
+                {
+                    "wordId": "生物危害",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "不安的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "害羞的",
+                    "icon": false
+                },
+                {
+                    "wordId": "害怕的",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦虑的",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊恐的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "病毒式传播",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "内容",
+                    "icon": false
+                },
+                {
+                    "wordId": "视频",
+                    "icon": false
+                },
+                {
+                    "wordId": "网络迷因",
+                    "icon": false
+                },
+                {
+                    "wordId": "流感",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "品质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高",
+                    "icon": false
+                },
+                {
+                    "wordId": "低",
+                    "icon": false
+                },
+                {
+                    "wordId": "平庸的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "医疗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "药片",
+                    "icon": true
+                },
+                {
+                    "wordId": "糖浆",
+                    "icon": true
+                },
+                {
+                    "wordId": "药膏",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "有毒",
+        "低",
+        "药膏",
+        "网络迷因",
+        "稻草",
+        "删除",
+        "乳酪",
+        "鸟",
+        "低保真",
+        "编辑者",
+        "夏威夷",
+        "草料",
+        "纠正",
+        "施压",
+        "视频",
+        "鸟喙",
+        "编辑",
+        "肖像画",
+        "害羞的",
+        "马",
+        "星空",
+        "骰子",
+        "宣导者",
+        "独特的",
+        "流感",
+        "谨慎",
+        "焦虑的",
+        "易燃",
+        "尖锐的",
+        "糖浆",
+        "66号公路",
+        "牛仔裤",
+        "奶牛",
+        "啄",
+        "鸢尾花",
+        "耳朵",
+        "荷兰",
+        "草",
+        "轮盘赌",
+        "垃圾摇滚",
+        "恐惧",
+        "说服",
+        "危害",
+        "竞选活动",
+        "打字",
+        "梵高",
+        "高",
+        "当心",
+        "成员",
+        "惊恐的",
+        "庄家",
+        "警告",
+        "美国",
+        "舞蹈",
+        "病毒式传播",
+        "赌场",
+        "害怕的",
+        "干草堆",
+        "钩状的",
+        "画家",
+        "农场",
+        "审慎",
+        "立法者"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "品质",
+                "药片",
+                "重命名",
+                "不安的",
+                "斯蒂尔顿乳酪"
+            ]
+        },
+        {
+            "cards": [
+                "活动家",
+                "爵士乐",
+                "阿拉斯加",
+                "放射性",
+                "游说",
+                "哈瓦蒂乳酪"
+            ]
+        },
+        {
+            "cards": [
+                "高达乳酪",
+                "鸣叫",
+                "下注",
+                "警报",
+                "危险",
+                "林肯",
+                "美国独立日"
+            ]
+        },
+        {
+            "cards": [
+                "请愿",
+                "自由女神像",
+                "干草",
+                "内容",
+                "自己动手",
+                "菲达乳酪",
+                "生物危害",
+                "鼻子"
+            ]
+        },
+        {
+            "cards": [
+                "擦除",
+                "医疗",
+                "多尔布卢乳酪",
+                "重塑",
+                "平庸的",
+                "独立",
+                "赌博",
+                "干燥的",
+                "拼写"
+            ]
+        }
+    ]
+}

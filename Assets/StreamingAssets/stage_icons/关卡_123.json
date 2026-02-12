@@ -1,0 +1,369 @@
+{
+    "levelId": 123,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "燃烧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "灰烬",
+                    "icon": false
+                },
+                {
+                    "wordId": "火",
+                    "icon": false
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                },
+                {
+                    "wordId": "热的",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "氧气",
+                    "icon": false
+                },
+                {
+                    "wordId": "木柴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "父母",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "儿子",
+                    "icon": false
+                },
+                {
+                    "wordId": "女儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "照顾",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱",
+                    "icon": false
+                },
+                {
+                    "wordId": "抚养",
+                    "icon": false
+                },
+                {
+                    "wordId": "榜样",
+                    "icon": false
+                },
+                {
+                    "wordId": "父亲",
+                    "icon": false
+                },
+                {
+                    "wordId": "母亲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "获胜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奖杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "奖品",
+                    "icon": true
+                },
+                {
+                    "wordId": "奥运会",
+                    "icon": true
+                },
+                {
+                    "wordId": "游戏",
+                    "icon": true
+                },
+                {
+                    "wordId": "奥斯卡",
+                    "icon": true
+                },
+                {
+                    "wordId": "拉力赛",
+                    "icon": true
+                },
+                {
+                    "wordId": "赛跑",
+                    "icon": true
+                },
+                {
+                    "wordId": "竞赛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "星星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流行明星",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "天空",
+                    "icon": false
+                },
+                {
+                    "wordId": "星际旅行",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "收入",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "税",
+                    "icon": false
+                },
+                {
+                    "wordId": "权益",
+                    "icon": false
+                },
+                {
+                    "wordId": "利润空间",
+                    "icon": false
+                },
+                {
+                    "wordId": "工资",
+                    "icon": false
+                },
+                {
+                    "wordId": "利润",
+                    "icon": false
+                },
+                {
+                    "wordId": "营业额",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "岛屿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棕榈树",
+                    "icon": true
+                },
+                {
+                    "wordId": "椰子",
+                    "icon": true
+                },
+                {
+                    "wordId": "小船",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝壳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "化妆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘴唇",
+                    "icon": true
+                },
+                {
+                    "wordId": "睫毛",
+                    "icon": true
+                },
+                {
+                    "wordId": "脸颊",
+                    "icon": true
+                },
+                {
+                    "wordId": "眉毛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "颜色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑色",
+                    "icon": false
+                },
+                {
+                    "wordId": "白色",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乘坐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火车",
+                    "icon": false
+                },
+                {
+                    "wordId": "马",
+                    "icon": false
+                },
+                {
+                    "wordId": "重力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时钟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "时间",
+                    "icon": true
+                },
+                {
+                    "wordId": "手表",
+                    "icon": true
+                },
+                {
+                    "wordId": "日晷",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "照顾",
+        "粉色",
+        "绿色",
+        "父亲",
+        "天空",
+        "白色",
+        "营业额",
+        "星星",
+        "乘坐",
+        "太阳",
+        "爱",
+        "马",
+        "火车",
+        "岛屿",
+        "奖杯",
+        "火",
+        "利润空间",
+        "抚养",
+        "奖品",
+        "拉力赛",
+        "黑色",
+        "利润",
+        "母亲",
+        "椰子",
+        "权益",
+        "颜色",
+        "流行明星",
+        "彗星",
+        "嘴唇",
+        "税",
+        "氧气",
+        "小船",
+        "轨道",
+        "重力",
+        "火焰",
+        "时间",
+        "蜡烛",
+        "棕榈树",
+        "时钟",
+        "睫毛",
+        "奥运会",
+        "闪烁"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "获胜",
+                "木柴",
+                "眉毛",
+                "游戏"
+            ]
+        },
+        {
+            "cards": [
+                "燃烧",
+                "奥斯卡",
+                "化妆",
+                "儿子",
+                "收入"
+            ]
+        },
+        {
+            "cards": [
+                "手表",
+                "赛跑",
+                "贝壳",
+                "榜样",
+                "脸颊",
+                "热的"
+            ]
+        },
+        {
+            "cards": [
+                "父母",
+                "竞赛",
+                "工资",
+                "灰烬",
+                "女儿",
+                "日晷",
+                "星际旅行"
+            ]
+        }
+    ]
+}

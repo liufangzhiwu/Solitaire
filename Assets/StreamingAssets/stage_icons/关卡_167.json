@@ -1,0 +1,217 @@
+{
+    "levelId": 167,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刺猬",
+                    "icon": true
+                },
+                {
+                    "wordId": "袋鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "猫鼬",
+                    "icon": true
+                },
+                {
+                    "wordId": "考拉",
+                    "icon": true
+                },
+                {
+                    "wordId": "企鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "驼鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "兔子",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜥蜴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "故事体裁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寓言",
+                    "icon": false
+                },
+                {
+                    "wordId": "故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "长篇小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "传奇故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "中篇小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "传说",
+                    "icon": false
+                },
+                {
+                    "wordId": "神话",
+                    "icon": false
+                },
+                {
+                    "wordId": "轶事",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "敬奉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "崇拜",
+                    "icon": false
+                },
+                {
+                    "wordId": "尊崇",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼拜",
+                    "icon": false
+                },
+                {
+                    "wordId": "奉若神明",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "汽车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮卡",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉普车",
+                    "icon": true
+                },
+                {
+                    "wordId": "轿车",
+                    "icon": true
+                },
+                {
+                    "wordId": "敞篷车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "带馅点心",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闪电泡芙",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜甜圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "奶油甜馅煎饼卷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "教皇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教宗",
+                    "icon": false
+                },
+                {
+                    "wordId": "梵蒂冈",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣座",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "兔子",
+        "奶油甜馅煎饼卷",
+        "礼拜",
+        "甜甜圈",
+        "尊崇",
+        "敞篷车",
+        "皮卡",
+        "圣座",
+        "带馅点心",
+        "轶事",
+        "袋鼠",
+        "企鹅",
+        "动物",
+        "故事",
+        "传说",
+        "吉普车",
+        "崇拜",
+        "奉若神明",
+        "梵蒂冈",
+        "长篇小说",
+        "蜥蜴",
+        "轿车",
+        "敬奉",
+        "考拉"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "闪电泡芙",
+                "神话",
+                "猫鼬"
+            ]
+        },
+        {
+            "cards": [
+                "中篇小说",
+                "传奇故事",
+                "故事体裁",
+                "教宗"
+            ]
+        },
+        {
+            "cards": [
+                "教皇",
+                "汽车",
+                "寓言",
+                "刺猬",
+                "驼鹿"
+            ]
+        }
+    ]
+}

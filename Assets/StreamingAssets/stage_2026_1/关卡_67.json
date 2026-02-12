@@ -1,0 +1,217 @@
+{
+    "levelId": 67,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "流行明星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "音乐人",
+                    "icon": false
+                },
+                {
+                    "wordId": "偶像",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉丝群",
+                    "icon": false
+                },
+                {
+                    "wordId": "唱片公司",
+                    "icon": false
+                },
+                {
+                    "wordId": "巡演",
+                    "icon": false
+                },
+                {
+                    "wordId": "热门歌曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "排行榜",
+                    "icon": false
+                },
+                {
+                    "wordId": "传奇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "结婚仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "见证人",
+                    "icon": false
+                },
+                {
+                    "wordId": "新娘",
+                    "icon": false
+                },
+                {
+                    "wordId": "主持人",
+                    "icon": false
+                },
+                {
+                    "wordId": "花童",
+                    "icon": false
+                },
+                {
+                    "wordId": "宴席",
+                    "icon": false
+                },
+                {
+                    "wordId": "捧花",
+                    "icon": false
+                },
+                {
+                    "wordId": "新郎",
+                    "icon": false
+                },
+                {
+                    "wordId": "交换戒指",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骨骼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "脊柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸腔",
+                    "icon": false
+                },
+                {
+                    "wordId": "锁骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "住宅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帐篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "平房",
+                    "icon": true
+                },
+                {
+                    "wordId": "双拼住宅",
+                    "icon": true
+                },
+                {
+                    "wordId": "豪宅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "隐藏的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戴面具的",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙面的",
+                    "icon": false
+                },
+                {
+                    "wordId": "被覆盖的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "评估",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "评定",
+                    "icon": false
+                },
+                {
+                    "wordId": "估计",
+                    "icon": false
+                },
+                {
+                    "wordId": "分析",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "新郎",
+        "双拼住宅",
+        "传奇",
+        "胸腔",
+        "锁骨",
+        "帐篷",
+        "花童",
+        "戴面具的",
+        "巡演",
+        "热门歌曲",
+        "隐藏的",
+        "被覆盖的",
+        "交换戒指",
+        "流行明星",
+        "主持人",
+        "头骨",
+        "音乐人",
+        "粉丝群",
+        "分析",
+        "脊柱",
+        "评估",
+        "新娘",
+        "蒙面的",
+        "宴席"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "骨骼",
+                "豪宅",
+                "住宅"
+            ]
+        },
+        {
+            "cards": [
+                "偶像",
+                "结婚仪式",
+                "捧花",
+                "平房"
+            ]
+        },
+        {
+            "cards": [
+                "估计",
+                "见证人",
+                "唱片公司",
+                "排行榜",
+                "评定"
+            ]
+        }
+    ]
+}

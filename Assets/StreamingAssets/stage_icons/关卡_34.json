@@ -1,0 +1,369 @@
+{
+    "levelId": 34,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "侦探",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "证人",
+                    "icon": false
+                },
+                {
+                    "wordId": "动机",
+                    "icon": false
+                },
+                {
+                    "wordId": "受害者",
+                    "icon": false
+                },
+                {
+                    "wordId": "线索",
+                    "icon": false
+                },
+                {
+                    "wordId": "罪行",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜团",
+                    "icon": false
+                },
+                {
+                    "wordId": "嫌疑人",
+                    "icon": false
+                },
+                {
+                    "wordId": "不在场证明",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "太空",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流星",
+                    "icon": false
+                },
+                {
+                    "wordId": "月球",
+                    "icon": false
+                },
+                {
+                    "wordId": "极光",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉冲星",
+                    "icon": false
+                },
+                {
+                    "wordId": "类星体",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "新星",
+                    "icon": false
+                },
+                {
+                    "wordId": "小行星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宗教",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "僧侣",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧师",
+                    "icon": false
+                },
+                {
+                    "wordId": "修道院院长",
+                    "icon": false
+                },
+                {
+                    "wordId": "红衣主教",
+                    "icon": false
+                },
+                {
+                    "wordId": "崇拜",
+                    "icon": false
+                },
+                {
+                    "wordId": "教皇",
+                    "icon": false
+                },
+                {
+                    "wordId": "祈祷",
+                    "icon": false
+                },
+                {
+                    "wordId": "信仰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "土壤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黏土",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙质",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉质",
+                    "icon": false
+                },
+                {
+                    "wordId": "壤土",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥炭",
+                    "icon": false
+                },
+                {
+                    "wordId": "淤泥",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "西部文化",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赌徒",
+                    "icon": true
+                },
+                {
+                    "wordId": "警长",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛仔",
+                    "icon": true
+                },
+                {
+                    "wordId": "套索",
+                    "icon": true
+                },
+                {
+                    "wordId": "酒吧",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛仔竞技",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "手电筒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "开关",
+                    "icon": false
+                },
+                {
+                    "wordId": "电池",
+                    "icon": false
+                },
+                {
+                    "wordId": "电路",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯泡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "雷声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嗡嗡声",
+                    "icon": false
+                },
+                {
+                    "wordId": "咆哮声",
+                    "icon": false
+                },
+                {
+                    "wordId": "隆隆声",
+                    "icon": false
+                },
+                {
+                    "wordId": "轰鸣声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "配料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜂蜜",
+                    "icon": true
+                },
+                {
+                    "wordId": "焦糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "果冻",
+                    "icon": true
+                },
+                {
+                    "wordId": "糖浆",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "锁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "安全",
+                    "icon": false
+                },
+                {
+                    "wordId": "坚固",
+                    "icon": false
+                },
+                {
+                    "wordId": "可靠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "腿部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大腿",
+                    "icon": false
+                },
+                {
+                    "wordId": "膝盖",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚踝",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "证人",
+        "流星",
+        "套索",
+        "牛仔",
+        "土壤",
+        "不在场证明",
+        "罪行",
+        "脉冲星",
+        "隆隆声",
+        "线索",
+        "牧师",
+        "牛仔竞技",
+        "赌徒",
+        "淤泥",
+        "可靠",
+        "轰鸣声",
+        "嗡嗡声",
+        "腿部",
+        "月球",
+        "祈祷",
+        "类星体",
+        "粉质",
+        "僧侣",
+        "开关",
+        "蜂蜜",
+        "太空",
+        "雷声",
+        "大腿",
+        "黏土",
+        "电路",
+        "红衣主教",
+        "果冻",
+        "沙质",
+        "膝盖",
+        "焦糖",
+        "手电筒",
+        "糖浆",
+        "动机",
+        "坚固",
+        "脚踝",
+        "酒吧",
+        "极光"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "崇拜",
+                "警长",
+                "灯泡",
+                "宗教"
+            ]
+        },
+        {
+            "cards": [
+                "嫌疑人",
+                "配料",
+                "教皇",
+                "锁",
+                "新星"
+            ]
+        },
+        {
+            "cards": [
+                "谜团",
+                "电池",
+                "侦探",
+                "小行星",
+                "咆哮声",
+                "安全"
+            ]
+        },
+        {
+            "cards": [
+                "泥炭",
+                "受害者",
+                "修道院院长",
+                "西部文化",
+                "星云",
+                "壤土",
+                "信仰"
+            ]
+        }
+    ]
+}

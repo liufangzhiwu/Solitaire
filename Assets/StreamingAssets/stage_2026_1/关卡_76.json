@@ -1,0 +1,453 @@
+{
+    "levelId": 76,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 190,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "腰带",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮革",
+                    "icon": false
+                },
+                {
+                    "wordId": "带子",
+                    "icon": false
+                },
+                {
+                    "wordId": "腰部",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全带",
+                    "icon": false
+                },
+                {
+                    "wordId": "传动带",
+                    "icon": false
+                },
+                {
+                    "wordId": "拳击腰带",
+                    "icon": false
+                },
+                {
+                    "wordId": "冠军",
+                    "icon": false
+                },
+                {
+                    "wordId": "搭扣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "富有",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "财富",
+                    "icon": false
+                },
+                {
+                    "wordId": "金钱",
+                    "icon": false
+                },
+                {
+                    "wordId": "运气",
+                    "icon": false
+                },
+                {
+                    "wordId": "奢华",
+                    "icon": false
+                },
+                {
+                    "wordId": "战利品",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝藏",
+                    "icon": false
+                },
+                {
+                    "wordId": "富裕",
+                    "icon": false
+                },
+                {
+                    "wordId": "继承人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有翅膀的事物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "萤火虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝴蝶",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹰",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸽子",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝙蝠",
+                    "icon": true
+                },
+                {
+                    "wordId": "天使",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞马",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "霜冻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冬季",
+                    "icon": false
+                },
+                {
+                    "wordId": "降雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰冻",
+                    "icon": false
+                },
+                {
+                    "wordId": "刺骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰雹",
+                    "icon": false
+                },
+                {
+                    "wordId": "寒冷",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "白霜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "交通标志",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "停止",
+                    "icon": true
+                },
+                {
+                    "wordId": "让行",
+                    "icon": true
+                },
+                {
+                    "wordId": "限速",
+                    "icon": true
+                },
+                {
+                    "wordId": "禁止转弯",
+                    "icon": true
+                },
+                {
+                    "wordId": "靠右行驶",
+                    "icon": true
+                },
+                {
+                    "wordId": "靠左行驶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "湿壁画",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天花板",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰泥",
+                    "icon": false
+                },
+                {
+                    "wordId": "画家",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁画",
+                    "icon": false
+                },
+                {
+                    "wordId": "艺术品",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "苹果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "多汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "新鲜",
+                    "icon": false
+                },
+                {
+                    "wordId": "爽脆",
+                    "icon": false
+                },
+                {
+                    "wordId": "脆",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "垃圾桶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "垃圾",
+                    "icon": false
+                },
+                {
+                    "wordId": "废物",
+                    "icon": false
+                },
+                {
+                    "wordId": "废弃物",
+                    "icon": false
+                },
+                {
+                    "wordId": "无价值物品",
+                    "icon": false
+                },
+                {
+                    "wordId": "桌面回收站",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "荣誉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尊重",
+                    "icon": false
+                },
+                {
+                    "wordId": "敬重",
+                    "icon": false
+                },
+                {
+                    "wordId": "赞美",
+                    "icon": false
+                },
+                {
+                    "wordId": "致敬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "植物学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嫩芽",
+                    "icon": false
+                },
+                {
+                    "wordId": "种子",
+                    "icon": false
+                },
+                {
+                    "wordId": "根茎",
+                    "icon": false
+                },
+                {
+                    "wordId": "萼片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "反刍动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "瞪羚",
+                    "icon": true
+                },
+                {
+                    "wordId": "羚羊",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "圆锥帐篷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "部落",
+                    "icon": false
+                },
+                {
+                    "wordId": "住所",
+                    "icon": false
+                },
+                {
+                    "wordId": "帆布",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "天花板",
+        "垃圾",
+        "冠军",
+        "桌面回收站",
+        "靠右行驶",
+        "皮革",
+        "画家",
+        "植物学",
+        "苹果",
+        "运气",
+        "带子",
+        "停止",
+        "部落",
+        "爽脆",
+        "艺术品",
+        "腰部",
+        "嫩芽",
+        "敬重",
+        "萼片",
+        "鹿",
+        "蝴蝶",
+        "安全带",
+        "传动带",
+        "龙",
+        "根茎",
+        "壁画",
+        "多汁",
+        "交通标志",
+        "靠左行驶",
+        "刺骨",
+        "脆",
+        "冰柱",
+        "有翅膀的事物",
+        "限速",
+        "飞马",
+        "冰雹",
+        "金钱",
+        "财富",
+        "废弃物",
+        "拱顶",
+        "富有",
+        "瞪羚",
+        "富裕",
+        "羚羊",
+        "致敬",
+        "新鲜",
+        "蝙蝠",
+        "种子",
+        "寒冷",
+        "继承人",
+        "荣誉",
+        "帆布",
+        "禁止转弯",
+        "无价值物品"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "灰泥",
+                "鹰",
+                "鸽子",
+                "废物",
+                "住所"
+            ]
+        },
+        {
+            "cards": [
+                "拳击腰带",
+                "宝藏",
+                "冬季",
+                "天使",
+                "搭扣",
+                "湿壁画"
+            ]
+        },
+        {
+            "cards": [
+                "尊重",
+                "甜",
+                "降雪",
+                "战利品",
+                "垃圾桶",
+                "反刍动物",
+                "赞美"
+            ]
+        },
+        {
+            "cards": [
+                "腰带",
+                "白霜",
+                "冰冻",
+                "圆锥帐篷",
+                "奢华",
+                "让行",
+                "霜冻",
+                "萤火虫"
+            ]
+        }
+    ]
+}

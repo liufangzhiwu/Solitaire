@@ -1,0 +1,369 @@
+{
+    "levelId": 110,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "宫殿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宫廷",
+                    "icon": false
+                },
+                {
+                    "wordId": "王室",
+                    "icon": false
+                },
+                {
+                    "wordId": "君主",
+                    "icon": false
+                },
+                {
+                    "wordId": "贵族",
+                    "icon": false
+                },
+                {
+                    "wordId": "王座",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "大理石",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄金",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "DIY工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剪刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "锤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "钳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "胶水",
+                    "icon": true
+                },
+                {
+                    "wordId": "美工刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "胶带",
+                    "icon": true
+                },
+                {
+                    "wordId": "钉子",
+                    "icon": true
+                },
+                {
+                    "wordId": "油漆",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "烈酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙舌兰酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "白兰地",
+                    "icon": false
+                },
+                {
+                    "wordId": "金酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "朗姆酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏特加",
+                    "icon": false
+                },
+                {
+                    "wordId": "威士卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "波本威士卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "利口酒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "怪物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吸血鬼",
+                    "icon": true
+                },
+                {
+                    "wordId": "僵尸",
+                    "icon": true
+                },
+                {
+                    "wordId": "狼人",
+                    "icon": true
+                },
+                {
+                    "wordId": "哥斯拉",
+                    "icon": true
+                },
+                {
+                    "wordId": "戈耳工",
+                    "icon": true
+                },
+                {
+                    "wordId": "刻耳柏洛斯",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "道路",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "路标",
+                    "icon": false
+                },
+                {
+                    "wordId": "检修孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "坑洼",
+                    "icon": false
+                },
+                {
+                    "wordId": "人行道",
+                    "icon": false
+                },
+                {
+                    "wordId": "交通",
+                    "icon": false
+                },
+                {
+                    "wordId": "立交桥",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笔记本",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "清单",
+                    "icon": false
+                },
+                {
+                    "wordId": "想法",
+                    "icon": false
+                },
+                {
+                    "wordId": "任务",
+                    "icon": false
+                },
+                {
+                    "wordId": "草图",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "无聊的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冗长乏味的",
+                    "icon": false
+                },
+                {
+                    "wordId": "枯燥的",
+                    "icon": false
+                },
+                {
+                    "wordId": "累人的",
+                    "icon": false
+                },
+                {
+                    "wordId": "令人疲倦的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "围巾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羊毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "棉",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝绸",
+                    "icon": false
+                },
+                {
+                    "wordId": "羊绒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "角度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锐角",
+                    "icon": false
+                },
+                {
+                    "wordId": "钝角",
+                    "icon": false
+                },
+                {
+                    "wordId": "直角",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "页",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书籍",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂志",
+                    "icon": false
+                },
+                {
+                    "wordId": "网页",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "王座",
+        "人行道",
+        "页",
+        "坑洼",
+        "羊绒",
+        "笔记本",
+        "杂志",
+        "钝角",
+        "威士卡",
+        "想法",
+        "胶带",
+        "任务",
+        "油漆",
+        "剪刀",
+        "朗姆酒",
+        "丝绸",
+        "戈耳工",
+        "金酒",
+        "路标",
+        "锤子",
+        "哥斯拉",
+        "吸血鬼",
+        "草图",
+        "贵族",
+        "棉",
+        "波本威士卡",
+        "累人的",
+        "无聊的",
+        "网页",
+        "书籍",
+        "舞厅",
+        "龙舌兰酒",
+        "直角",
+        "白兰地",
+        "清单",
+        "枯燥的",
+        "宫殿",
+        "宫廷",
+        "令人疲倦的",
+        "钳子",
+        "冗长乏味的",
+        "围巾"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "狼人",
+                "锐角",
+                "大理石",
+                "胶水"
+            ]
+        },
+        {
+            "cards": [
+                "角度",
+                "检修孔",
+                "利口酒",
+                "伏特加",
+                "烈酒"
+            ]
+        },
+        {
+            "cards": [
+                "DIY工具",
+                "刻耳柏洛斯",
+                "美工刀",
+                "王室",
+                "黄金",
+                "立交桥"
+            ]
+        },
+        {
+            "cards": [
+                "道路",
+                "钉子",
+                "君主",
+                "交通",
+                "羊毛",
+                "僵尸",
+                "怪物"
+            ]
+        }
+    ]
+}

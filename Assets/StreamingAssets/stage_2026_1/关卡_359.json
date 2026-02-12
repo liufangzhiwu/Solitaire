@@ -1,0 +1,369 @@
+{
+    "levelId": 359,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "人生阶段",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "出生",
+                    "icon": false
+                },
+                {
+                    "wordId": "幼儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "青年",
+                    "icon": false
+                },
+                {
+                    "wordId": "儿童",
+                    "icon": false
+                },
+                {
+                    "wordId": "成年",
+                    "icon": false
+                },
+                {
+                    "wordId": "中年",
+                    "icon": false
+                },
+                {
+                    "wordId": "老年",
+                    "icon": false
+                },
+                {
+                    "wordId": "退休",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜡笔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄色",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑色",
+                    "icon": false
+                },
+                {
+                    "wordId": "白色",
+                    "icon": false
+                },
+                {
+                    "wordId": "橙色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "房间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卧室",
+                    "icon": false
+                },
+                {
+                    "wordId": "浴室",
+                    "icon": false
+                },
+                {
+                    "wordId": "餐厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "客厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "书房",
+                    "icon": false
+                },
+                {
+                    "wordId": "阁楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "地窖",
+                    "icon": false
+                },
+                {
+                    "wordId": "车库",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "龙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "中国龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷火",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳞片",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞翔",
+                    "icon": false
+                },
+                {
+                    "wordId": "咆哮",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瓷砖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陶瓷瓷砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "大理石瓷砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "花岗岩瓷砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "板岩瓷砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "珐琅瓷砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "马赛克瓷砖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图示",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快退",
+                    "icon": true
+                },
+                {
+                    "wordId": "暂停",
+                    "icon": true
+                },
+                {
+                    "wordId": "播放",
+                    "icon": true
+                },
+                {
+                    "wordId": "停止图示",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "堡垒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "棱堡",
+                    "icon": false
+                },
+                {
+                    "wordId": "要塞",
+                    "icon": false
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "考验",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "磨难",
+                    "icon": false
+                },
+                {
+                    "wordId": "测试",
+                    "icon": false
+                },
+                {
+                    "wordId": "严酷考验",
+                    "icon": false
+                },
+                {
+                    "wordId": "竞赛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "移动动作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "踏步",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳跃",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲刺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "学校",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教科书",
+                    "icon": true
+                },
+                {
+                    "wordId": "学生",
+                    "icon": true
+                },
+                {
+                    "wordId": "老师",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "主楼",
+        "出生",
+        "考验",
+        "幼儿",
+        "餐厅",
+        "棱堡",
+        "成年",
+        "青年",
+        "退休",
+        "严酷考验",
+        "教科书",
+        "停止图示",
+        "卧室",
+        "飞翔",
+        "学校",
+        "堡垒",
+        "阁楼",
+        "马赛克瓷砖",
+        "花岗岩瓷砖",
+        "粉色",
+        "咆哮",
+        "要塞",
+        "魔法",
+        "龙",
+        "竞赛",
+        "老师",
+        "儿童",
+        "黄色",
+        "陶瓷瓷砖",
+        "磨难",
+        "图示",
+        "板岩瓷砖",
+        "学生",
+        "暂停",
+        "浴室",
+        "测试",
+        "红色",
+        "中国龙",
+        "跳跃",
+        "播放",
+        "绿色",
+        "白色"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "橙色",
+                "人生阶段",
+                "踏步",
+                "喷火"
+            ]
+        },
+        {
+            "cards": [
+                "房间",
+                "客厅",
+                "老年",
+                "黑色",
+                "车库"
+            ]
+        },
+        {
+            "cards": [
+                "大理石瓷砖",
+                "鳞片",
+                "快退",
+                "地窖",
+                "珐琅瓷砖",
+                "蓝色"
+            ]
+        },
+        {
+            "cards": [
+                "蜡笔",
+                "城堡",
+                "中年",
+                "瓷砖",
+                "冲刺",
+                "移动动作",
+                "书房"
+            ]
+        }
+    ]
+}

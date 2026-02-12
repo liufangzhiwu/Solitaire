@@ -1,0 +1,217 @@
+{
+    "levelId": 117,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "代词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "我",
+                    "icon": false
+                },
+                {
+                    "wordId": "你",
+                    "icon": false
+                },
+                {
+                    "wordId": "他",
+                    "icon": false
+                },
+                {
+                    "wordId": "她",
+                    "icon": false
+                },
+                {
+                    "wordId": "它",
+                    "icon": false
+                },
+                {
+                    "wordId": "我们",
+                    "icon": false
+                },
+                {
+                    "wordId": "他们",
+                    "icon": false
+                },
+                {
+                    "wordId": "咱们",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烘焙食品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巧巴达",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜甜圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "法棍",
+                    "icon": true
+                },
+                {
+                    "wordId": "面包条",
+                    "icon": true
+                },
+                {
+                    "wordId": "司康饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛角包",
+                    "icon": true
+                },
+                {
+                    "wordId": "烤炉",
+                    "icon": true
+                },
+                {
+                    "wordId": "椒盐卷饼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "回收",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塑胶",
+                    "icon": true
+                },
+                {
+                    "wordId": "玻璃",
+                    "icon": true
+                },
+                {
+                    "wordId": "有机垃圾",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸张",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "尺寸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "超大的",
+                    "icon": false
+                },
+                {
+                    "wordId": "大的",
+                    "icon": false
+                },
+                {
+                    "wordId": "小的",
+                    "icon": false
+                },
+                {
+                    "wordId": "微小的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "批准",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "是的",
+                    "icon": false
+                },
+                {
+                    "wordId": "掌声",
+                    "icon": false
+                },
+                {
+                    "wordId": "好的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "土豆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "土豆泥",
+                    "icon": false
+                },
+                {
+                    "wordId": "炸薯条",
+                    "icon": false
+                },
+                {
+                    "wordId": "削皮",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "司康饼",
+        "法棍",
+        "微小的",
+        "我们",
+        "它",
+        "回收",
+        "他们",
+        "尺寸",
+        "牛角包",
+        "他",
+        "炸薯条",
+        "大的",
+        "我",
+        "有机垃圾",
+        "纸张",
+        "削皮",
+        "掌声",
+        "土豆泥",
+        "巧巴达",
+        "甜甜圈",
+        "她",
+        "椒盐卷饼",
+        "超大的",
+        "代词"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "批准",
+                "土豆",
+                "面包条"
+            ]
+        },
+        {
+            "cards": [
+                "好的",
+                "烤炉",
+                "烘焙食品",
+                "玻璃"
+            ]
+        },
+        {
+            "cards": [
+                "是的",
+                "塑胶",
+                "咱们",
+                "小的",
+                "你"
+            ]
+        }
+    ]
+}

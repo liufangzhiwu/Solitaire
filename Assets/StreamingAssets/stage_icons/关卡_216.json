@@ -1,0 +1,217 @@
+{
+    "levelId": 216,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "瑜伽体式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "支撑式",
+                    "icon": true
+                },
+                {
+                    "wordId": "婴儿式",
+                    "icon": true
+                },
+                {
+                    "wordId": "摊尸式",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鸦式",
+                    "icon": true
+                },
+                {
+                    "wordId": "花环式",
+                    "icon": true
+                },
+                {
+                    "wordId": "英雄式",
+                    "icon": true
+                },
+                {
+                    "wordId": "山式",
+                    "icon": true
+                },
+                {
+                    "wordId": "犁式",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "帽子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法国军帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "头巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "软帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝雷帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "无檐便帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "软呢帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "钟形女帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸭舌帽",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "哈利波特",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魔杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫师",
+                    "icon": false
+                },
+                {
+                    "wordId": "九又四分之三月台",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "加法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "加",
+                    "icon": false
+                },
+                {
+                    "wordId": "总和",
+                    "icon": false
+                },
+                {
+                    "wordId": "加入",
+                    "icon": false
+                },
+                {
+                    "wordId": "更多",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "老虎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "条纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "咆哮",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕食者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宇宙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人造卫星",
+                    "icon": true
+                },
+                {
+                    "wordId": "航天飞机玤",
+                    "icon": true
+                },
+                {
+                    "wordId": "火箭",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "帽子",
+        "魔杖",
+        "九又四分之三月台",
+        "更多",
+        "头巾",
+        "软呢帽",
+        "支撑式",
+        "宇宙",
+        "法国军帽",
+        "条纹",
+        "花环式",
+        "犁式",
+        "英雄式",
+        "鸭舌帽",
+        "钟形女帽",
+        "贝雷帽",
+        "航天飞机玤",
+        "捕食者",
+        "瑜伽体式",
+        "魔法",
+        "无檐便帽",
+        "山式",
+        "咆哮",
+        "总和"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "加入",
+                "加",
+                "加法"
+            ]
+        },
+        {
+            "cards": [
+                "软帽",
+                "婴儿式",
+                "人造卫星",
+                "巫师"
+            ]
+        },
+        {
+            "cards": [
+                "老虎",
+                "火箭",
+                "哈利波特",
+                "乌鸦式",
+                "摊尸式"
+            ]
+        }
+    ]
+}

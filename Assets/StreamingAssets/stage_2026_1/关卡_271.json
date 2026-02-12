@@ -1,0 +1,369 @@
+{
+    "levelId": 271,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "海洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴伦支海",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱尔兰海",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚得里亚海",
+                    "icon": false
+                },
+                {
+                    "wordId": "白令海",
+                    "icon": false
+                },
+                {
+                    "wordId": "马尾藻海",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱琴海",
+                    "icon": false
+                },
+                {
+                    "wordId": "波罗的海",
+                    "icon": false
+                },
+                {
+                    "wordId": "里海",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "河流",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尼罗河",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚马逊河",
+                    "icon": false
+                },
+                {
+                    "wordId": "多瑙河",
+                    "icon": false
+                },
+                {
+                    "wordId": "恒河",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏尔加河",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞纳河",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰晤士河",
+                    "icon": false
+                },
+                {
+                    "wordId": "印度河",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珠宝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戒指",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳环",
+                    "icon": true
+                },
+                {
+                    "wordId": "手镯",
+                    "icon": true
+                },
+                {
+                    "wordId": "项链",
+                    "icon": true
+                },
+                {
+                    "wordId": "吊坠",
+                    "icon": true
+                },
+                {
+                    "wordId": "胸针",
+                    "icon": true
+                },
+                {
+                    "wordId": "头冠",
+                    "icon": true
+                },
+                {
+                    "wordId": "链子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "神祇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宙斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿努比斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "索尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈迪斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地区",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "撒哈拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "西藏",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉普兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "西西里",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴伐利亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "普罗旺斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "罗勒",
+                    "icon": true
+                },
+                {
+                    "wordId": "迷迭香",
+                    "icon": true
+                },
+                {
+                    "wordId": "欧芹",
+                    "icon": true
+                },
+                {
+                    "wordId": "莳萝",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "欧米伽",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿尔法",
+                    "icon": false
+                },
+                {
+                    "wordId": "西塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "西格玛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "迷宫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迷阵",
+                    "icon": true
+                },
+                {
+                    "wordId": "网格",
+                    "icon": true
+                },
+                {
+                    "wordId": "树篱",
+                    "icon": true
+                },
+                {
+                    "wordId": "螺旋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "墨水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "青色",
+                    "icon": false
+                },
+                {
+                    "wordId": "品红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "季节",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "春季",
+                    "icon": false
+                },
+                {
+                    "wordId": "夏季",
+                    "icon": false
+                },
+                {
+                    "wordId": "冬季",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "白令海",
+        "泰晤士河",
+        "撒哈拉",
+        "爱尔兰海",
+        "耳环",
+        "神祇",
+        "胸针",
+        "波罗的海",
+        "青色",
+        "手镯",
+        "迷阵",
+        "地区",
+        "河流",
+        "里海",
+        "螺旋",
+        "春季",
+        "恒河",
+        "黄色",
+        "西格玛",
+        "罗勒",
+        "网格",
+        "奥丁",
+        "迷迭香",
+        "阿尔法",
+        "马尾藻海",
+        "拉",
+        "尼罗河",
+        "西藏",
+        "戒指",
+        "品红色",
+        "亚得里亚海",
+        "海洋",
+        "欧芹",
+        "宙斯",
+        "阿努比斯",
+        "塞纳河",
+        "多瑙河",
+        "吊坠",
+        "普罗旺斯",
+        "哈迪斯",
+        "季节",
+        "爱琴海"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "欧米伽",
+                "珠宝",
+                "香草",
+                "索尔"
+            ]
+        },
+        {
+            "cards": [
+                "拉普兰",
+                "莳萝",
+                "巴伐利亚",
+                "巴伦支海",
+                "夏季"
+            ]
+        },
+        {
+            "cards": [
+                "冬季",
+                "墨水",
+                "西西里",
+                "头冠",
+                "伏尔加河",
+                "迷宫"
+            ]
+        },
+        {
+            "cards": [
+                "符号",
+                "树篱",
+                "项链",
+                "印度河",
+                "链子",
+                "亚马逊河",
+                "西塔"
+            ]
+        }
+    ]
+}

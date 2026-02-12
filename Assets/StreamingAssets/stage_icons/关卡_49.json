@@ -1,0 +1,369 @@
+{
+    "levelId": 49,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "草地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "草坪",
+                    "icon": false
+                },
+                {
+                    "wordId": "草甸",
+                    "icon": false
+                },
+                {
+                    "wordId": "田野",
+                    "icon": false
+                },
+                {
+                    "wordId": "花园",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧场",
+                    "icon": false
+                },
+                {
+                    "wordId": "草皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "草原",
+                    "icon": false
+                },
+                {
+                    "wordId": "干草原",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "枪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "步枪",
+                    "icon": false
+                },
+                {
+                    "wordId": "手枪",
+                    "icon": false
+                },
+                {
+                    "wordId": "霰弹枪",
+                    "icon": false
+                },
+                {
+                    "wordId": "左轮手枪",
+                    "icon": false
+                },
+                {
+                    "wordId": "格洛克",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛瑟",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓦尔特",
+                    "icon": false
+                },
+                {
+                    "wordId": "枪管",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恐惧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜘蛛",
+                    "icon": false
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐怖",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊吓",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦虑",
+                    "icon": false
+                },
+                {
+                    "wordId": "畏惧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绳索",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人造丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄麻",
+                    "icon": false
+                },
+                {
+                    "wordId": "棉",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯夫拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝绸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "装载机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拣选机",
+                    "icon": false
+                },
+                {
+                    "wordId": "打包机",
+                    "icon": false
+                },
+                {
+                    "wordId": "分拣机",
+                    "icon": false
+                },
+                {
+                    "wordId": "箱子",
+                    "icon": false
+                },
+                {
+                    "wordId": "托盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "板条箱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "头部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头发",
+                    "icon": true
+                },
+                {
+                    "wordId": "头骨",
+                    "icon": true
+                },
+                {
+                    "wordId": "大脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "脸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "砖石建筑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢筋",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚手架",
+                    "icon": false
+                },
+                {
+                    "wordId": "砂浆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "异教信仰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "仪式",
+                    "icon": false
+                },
+                {
+                    "wordId": "图腾",
+                    "icon": false
+                },
+                {
+                    "wordId": "偶像",
+                    "icon": false
+                },
+                {
+                    "wordId": "祭坛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "现在",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "当前",
+                    "icon": false
+                },
+                {
+                    "wordId": "即刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "今天",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "秘密",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "代码",
+                    "icon": false
+                },
+                {
+                    "wordId": "特工",
+                    "icon": false
+                },
+                {
+                    "wordId": "暗语",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "钢筋",
+        "花园",
+        "装载机",
+        "板条箱",
+        "霰弹枪",
+        "恐怖",
+        "大脑",
+        "步枪",
+        "祭坛",
+        "脸",
+        "草坪",
+        "秘密",
+        "脚手架",
+        "田野",
+        "黑暗",
+        "即刻",
+        "砂浆",
+        "偶像",
+        "箱子",
+        "图腾",
+        "特工",
+        "头骨",
+        "丝绸",
+        "仪式",
+        "花岗岩",
+        "畏惧",
+        "焦虑",
+        "砖石建筑",
+        "惊吓",
+        "枪管",
+        "绳索",
+        "毛瑟",
+        "今天",
+        "格洛克",
+        "尼龙",
+        "草原",
+        "小丑",
+        "分拣机",
+        "瓦尔特",
+        "异教信仰",
+        "棉",
+        "代码"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "手枪",
+                "打包机",
+                "现在",
+                "凯夫拉"
+            ]
+        },
+        {
+            "cards": [
+                "草地",
+                "头发",
+                "蜘蛛",
+                "牧场",
+                "当前"
+            ]
+        },
+        {
+            "cards": [
+                "人造丝",
+                "恐惧",
+                "草甸",
+                "左轮手枪",
+                "托盘",
+                "头部"
+            ]
+        },
+        {
+            "cards": [
+                "枪",
+                "草皮",
+                "拣选机",
+                "蛇",
+                "黄麻",
+                "暗语",
+                "干草原"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 48,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 135,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锁",
+                    "icon": false
+                },
+                {
+                    "wordId": "门把手",
+                    "icon": false
+                },
+                {
+                    "wordId": "合页",
+                    "icon": false
+                },
+                {
+                    "wordId": "钥匙",
+                    "icon": false
+                },
+                {
+                    "wordId": "把手",
+                    "icon": false
+                },
+                {
+                    "wordId": "猫眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "门铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "门闩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "缝纫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缝线",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶针",
+                    "icon": false
+                },
+                {
+                    "wordId": "针",
+                    "icon": false
+                },
+                {
+                    "wordId": "纱线",
+                    "icon": false
+                },
+                {
+                    "wordId": "褶边",
+                    "icon": false
+                },
+                {
+                    "wordId": "补丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "布料",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪刀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙拉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄瓜",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡萝卜",
+                    "icon": false
+                },
+                {
+                    "wordId": "酱汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄油",
+                    "icon": false
+                },
+                {
+                    "wordId": "醋",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸡胸肉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瓶子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "饮用",
+                    "icon": false
+                },
+                {
+                    "wordId": "小口喝",
+                    "icon": false
+                },
+                {
+                    "wordId": "大口喝",
+                    "icon": false
+                },
+                {
+                    "wordId": "吞咽",
+                    "icon": false
+                },
+                {
+                    "wordId": "啜饮",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂饮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法外之徒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "土匪",
+                    "icon": false
+                },
+                {
+                    "wordId": "匪徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "骇客",
+                    "icon": false
+                },
+                {
+                    "wordId": "走私者",
+                    "icon": false
+                },
+                {
+                    "wordId": "抢劫犯",
+                    "icon": false
+                },
+                {
+                    "wordId": "海盗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "咳嗽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喉咙",
+                    "icon": false
+                },
+                {
+                    "wordId": "药物",
+                    "icon": false
+                },
+                {
+                    "wordId": "痰液",
+                    "icon": false
+                },
+                {
+                    "wordId": "感染",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "意大利面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "意大利饺子",
+                    "icon": true
+                },
+                {
+                    "wordId": "通心粉",
+                    "icon": true
+                },
+                {
+                    "wordId": "粗通心粉",
+                    "icon": true
+                },
+                {
+                    "wordId": "笔管面",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "紧固件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螺栓",
+                    "icon": true
+                },
+                {
+                    "wordId": "钉子",
+                    "icon": true
+                },
+                {
+                    "wordId": "螺丝",
+                    "icon": true
+                },
+                {
+                    "wordId": "铆钉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "支持",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拥抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "同理心",
+                    "icon": false
+                },
+                {
+                    "wordId": "安慰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "调查",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "民意调查",
+                    "icon": false
+                },
+                {
+                    "wordId": "评论",
+                    "icon": false
+                },
+                {
+                    "wordId": "回馈",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "把手",
+        "海盗",
+        "感染",
+        "抢劫犯",
+        "瓶子",
+        "土匪",
+        "布料",
+        "匪徒",
+        "门",
+        "顶针",
+        "褶边",
+        "评论",
+        "走私者",
+        "啜饮",
+        "通心粉",
+        "门把手",
+        "铆钉",
+        "饮用",
+        "痰液",
+        "锁",
+        "吞咽",
+        "笔管面",
+        "缝线",
+        "门闩",
+        "沙拉",
+        "补丁",
+        "酱汁",
+        "药物",
+        "狂饮",
+        "意大利饺子",
+        "拥抱",
+        "合页",
+        "鸡胸肉",
+        "纱线",
+        "意大利面",
+        "番茄",
+        "喉咙",
+        "螺丝",
+        "同理心",
+        "调查",
+        "剪刀",
+        "小口喝"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "门铃",
+                "粗通心粉",
+                "缝纫",
+                "猫眼"
+            ]
+        },
+        {
+            "cards": [
+                "胡萝卜",
+                "钥匙",
+                "咳嗽",
+                "生菜",
+                "支持"
+            ]
+        },
+        {
+            "cards": [
+                "螺栓",
+                "大口喝",
+                "回馈",
+                "橄榄油",
+                "黄瓜",
+                "法外之徒"
+            ]
+        },
+        {
+            "cards": [
+                "钉子",
+                "安慰",
+                "民意调查",
+                "紧固件",
+                "骇客",
+                "醋",
+                "针"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "levelId": 17,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "灵长类动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大猩猩",
+                    "icon": true
+                },
+                {
+                    "wordId": "长臂猿",
+                    "icon": true
+                },
+                {
+                    "wordId": "狒狒",
+                    "icon": true
+                },
+                {
+                    "wordId": "狐猴",
+                    "icon": true
+                },
+                {
+                    "wordId": "猕猴",
+                    "icon": true
+                },
+                {
+                    "wordId": "猿",
+                    "icon": true
+                },
+                {
+                    "wordId": "山魈",
+                    "icon": true
+                },
+                {
+                    "wordId": "眼镜猴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "祭典",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面具",
+                    "icon": false
+                },
+                {
+                    "wordId": "神社",
+                    "icon": false
+                },
+                {
+                    "wordId": "祈祷",
+                    "icon": false
+                },
+                {
+                    "wordId": "贡品",
+                    "icon": false
+                },
+                {
+                    "wordId": "传统",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "参拜",
+                    "icon": false
+                },
+                {
+                    "wordId": "香烛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "说唱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "歌词",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗句",
+                    "icon": false
+                },
+                {
+                    "wordId": "押韵",
+                    "icon": false
+                },
+                {
+                    "wordId": "点睛之笔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瀑布",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "安赫尔瀑布",
+                    "icon": false
+                },
+                {
+                    "wordId": "维多利亚瀑布",
+                    "icon": false
+                },
+                {
+                    "wordId": "壶口瀑布",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄果树瀑布",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "寿司",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "海苔",
+                    "icon": false
+                },
+                {
+                    "wordId": "生鱼片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "玩具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "溜溜球",
+                    "icon": true
+                },
+                {
+                    "wordId": "指尖陀螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "娃娃",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "壶口瀑布",
+        "灯笼",
+        "娃娃",
+        "山魈",
+        "点睛之笔",
+        "安赫尔瀑布",
+        "猕猴",
+        "溜溜球",
+        "黄果树瀑布",
+        "大猩猩",
+        "诗句",
+        "米饭",
+        "说唱",
+        "参拜",
+        "灵长类动物",
+        "生鱼片",
+        "押韵",
+        "眼镜猴",
+        "狐猴",
+        "维多利亚瀑布",
+        "猿",
+        "玩具",
+        "神社",
+        "狒狒"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "贡品",
+                "歌词",
+                "祈祷"
+            ]
+        },
+        {
+            "cards": [
+                "面具",
+                "指尖陀螺",
+                "寿司",
+                "长臂猿"
+            ]
+        },
+        {
+            "cards": [
+                "香烛",
+                "瀑布",
+                "祭典",
+                "海苔",
+                "传统"
+            ]
+        }
+    ]
+}

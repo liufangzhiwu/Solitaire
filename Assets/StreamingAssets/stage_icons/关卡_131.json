@@ -1,0 +1,553 @@
+{
+    "levelId": 131,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "骨骼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "肋骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "膝盖骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨盆",
+                    "icon": false
+                },
+                {
+                    "wordId": "脊柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "股骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "肱骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "维生素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烟酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "生物素",
+                    "icon": false
+                },
+                {
+                    "wordId": "硫胺素",
+                    "icon": false
+                },
+                {
+                    "wordId": "视黄醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "维生素D",
+                    "icon": false
+                },
+                {
+                    "wordId": "维生素K",
+                    "icon": false
+                },
+                {
+                    "wordId": "维生素C",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薄荷",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼠尾草",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷迭香",
+                    "icon": false
+                },
+                {
+                    "wordId": "茴香",
+                    "icon": false
+                },
+                {
+                    "wordId": "百里香",
+                    "icon": false
+                },
+                {
+                    "wordId": "莳萝",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙蒿",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗勒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赫拉克勒斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯库拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "弥诺陶洛斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿波罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫尔墨斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "雅典娜",
+                    "icon": false
+                },
+                {
+                    "wordId": "缪斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "宁芙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粘稠的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "胶水",
+                    "icon": false
+                },
+                {
+                    "wordId": "番茄酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "分子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "原子",
+                    "icon": false
+                },
+                {
+                    "wordId": "键",
+                    "icon": false
+                },
+                {
+                    "wordId": "离子",
+                    "icon": false
+                },
+                {
+                    "wordId": "基团",
+                    "icon": false
+                },
+                {
+                    "wordId": "化合价",
+                    "icon": false
+                },
+                {
+                    "wordId": "分子式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游乐场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跷跷板",
+                    "icon": true
+                },
+                {
+                    "wordId": "秋千",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑梯",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙坑",
+                    "icon": true
+                },
+                {
+                    "wordId": "旋转木马",
+                    "icon": true
+                },
+                {
+                    "wordId": "攀爬架",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "快乐的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喜悦的",
+                    "icon": false
+                },
+                {
+                    "wordId": "愉快的",
+                    "icon": false
+                },
+                {
+                    "wordId": "开心的",
+                    "icon": false
+                },
+                {
+                    "wordId": "欢乐的",
+                    "icon": false
+                },
+                {
+                    "wordId": "快活的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "游戏手柄",
+                    "icon": true
+                },
+                {
+                    "wordId": "电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "头戴式耳机",
+                    "icon": true
+                },
+                {
+                    "wordId": "街机",
+                    "icon": true
+                },
+                {
+                    "wordId": "VR头盔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "马厩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马匹",
+                    "icon": false
+                },
+                {
+                    "wordId": "马栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "干草",
+                    "icon": false
+                },
+                {
+                    "wordId": "马笼头",
+                    "icon": false
+                },
+                {
+                    "wordId": "马鞍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "跳跃",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "飞跃",
+                    "icon": false
+                },
+                {
+                    "wordId": "单脚跳",
+                    "icon": false
+                },
+                {
+                    "wordId": "蹦跳",
+                    "icon": false
+                },
+                {
+                    "wordId": "猛扑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "夏威夷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿罗哈",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "波奇饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢奥宴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "切割工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剪刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "锯子",
+                    "icon": true
+                },
+                {
+                    "wordId": "剃刀",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "奶油",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面霜",
+                    "icon": false
+                },
+                {
+                    "wordId": "搅打奶油",
+                    "icon": false
+                },
+                {
+                    "wordId": "优酪乳油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盛大",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大奖赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "大峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "大满贯",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "焦油",
+        "波奇饭",
+        "开心的",
+        "糖蜜",
+        "卢奥宴",
+        "胶水",
+        "马匹",
+        "头戴式耳机",
+        "肱骨",
+        "阿波罗",
+        "搅打奶油",
+        "莳萝",
+        "游戏",
+        "肋骨",
+        "维生素",
+        "刀",
+        "硫胺素",
+        "剪刀",
+        "番茄酱",
+        "马鞍",
+        "优酪乳油",
+        "神话",
+        "蹦跳",
+        "猛扑",
+        "马厩",
+        "原子",
+        "VR头盔",
+        "糖浆",
+        "薄荷",
+        "雅典娜",
+        "游乐场",
+        "宁芙",
+        "欢乐的",
+        "分子",
+        "旋转木马",
+        "维生素C",
+        "飞跃",
+        "茴香",
+        "沙坑",
+        "马笼头",
+        "骨盆",
+        "愉快的",
+        "喜悦的",
+        "剃刀",
+        "烟酸",
+        "秋千",
+        "键",
+        "面霜",
+        "赫拉克勒斯",
+        "街机",
+        "化合价",
+        "维生素K",
+        "斯库拉",
+        "叶酸",
+        "粘稠的",
+        "大满贯",
+        "弥诺陶洛斯",
+        "大峡谷",
+        "分子式",
+        "迷迭香",
+        "大奖赛",
+        "鼠尾草",
+        "龙蒿"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "胸骨",
+                "电脑",
+                "脊柱",
+                "视黄醇",
+                "马栏"
+            ]
+        },
+        {
+            "cards": [
+                "头骨",
+                "夏威夷",
+                "滑梯",
+                "攀爬架",
+                "快活的",
+                "跷跷板"
+            ]
+        },
+        {
+            "cards": [
+                "奶油",
+                "干草",
+                "香草",
+                "缪斯",
+                "跳跃",
+                "罗勒",
+                "骨骼"
+            ]
+        },
+        {
+            "cards": [
+                "百里香",
+                "切割工具",
+                "锯子",
+                "蜂蜜",
+                "阿罗哈",
+                "基团",
+                "火山",
+                "维生素D"
+            ]
+        },
+        {
+            "cards": [
+                "单脚跳",
+                "股骨",
+                "游戏手柄",
+                "赫尔墨斯",
+                "膝盖骨",
+                "离子",
+                "快乐的",
+                "生物素",
+                "盛大"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 5,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 135,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "鱼类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "金枪鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "马林鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙丁鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳗鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲭鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "石斑鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲈鱼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "意大利",
+                    "icon": true
+                },
+                {
+                    "wordId": "印度",
+                    "icon": true
+                },
+                {
+                    "wordId": "澳大利亚",
+                    "icon": true
+                },
+                {
+                    "wordId": "法国",
+                    "icon": true
+                },
+                {
+                    "wordId": "美国",
+                    "icon": true
+                },
+                {
+                    "wordId": "英国",
+                    "icon": true
+                },
+                {
+                    "wordId": "塞浦路斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "加拿大",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "表情符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼泪",
+                    "icon": true
+                },
+                {
+                    "wordId": "心",
+                    "icon": true
+                },
+                {
+                    "wordId": "滚动",
+                    "icon": true
+                },
+                {
+                    "wordId": "向上",
+                    "icon": true
+                },
+                {
+                    "wordId": "哭泣",
+                    "icon": true
+                },
+                {
+                    "wordId": "祈祷",
+                    "icon": true
+                },
+                {
+                    "wordId": "眼睛",
+                    "icon": true
+                },
+                {
+                    "wordId": "便便",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "旅游景区",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小吃街",
+                    "icon": false
+                },
+                {
+                    "wordId": "缆车",
+                    "icon": false
+                },
+                {
+                    "wordId": "游客中心",
+                    "icon": false
+                },
+                {
+                    "wordId": "公园",
+                    "icon": false
+                },
+                {
+                    "wordId": "假山",
+                    "icon": false
+                },
+                {
+                    "wordId": "凉亭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "形容抠门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁公鸡",
+                    "icon": false
+                },
+                {
+                    "wordId": "小气鬼",
+                    "icon": false
+                },
+                {
+                    "wordId": "咸涩",
+                    "icon": false
+                },
+                {
+                    "wordId": "死抠",
+                    "icon": false
+                },
+                {
+                    "wordId": "吝啬",
+                    "icon": false
+                },
+                {
+                    "wordId": "一毛不拔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏玩家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "道具",
+                    "icon": false
+                },
+                {
+                    "wordId": "经验值",
+                    "icon": false
+                },
+                {
+                    "wordId": "关卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "得分",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冬季",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寒冷",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "霜",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烘干机",
+                    "icon": false
+                },
+                {
+                    "wordId": "打印机",
+                    "icon": false
+                },
+                {
+                    "wordId": "传真机",
+                    "icon": false
+                },
+                {
+                    "wordId": "加热器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瑜伽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "体式",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉伸",
+                    "icon": false
+                },
+                {
+                    "wordId": "冥想",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "房屋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宅邸",
+                    "icon": false
+                },
+                {
+                    "wordId": "宫殿",
+                    "icon": false
+                },
+                {
+                    "wordId": "别墅",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "一毛不拔",
+        "体式",
+        "石斑鱼",
+        "公园",
+        "得分",
+        "意大利",
+        "印度",
+        "表情符号",
+        "心",
+        "小吃街",
+        "鲈鱼",
+        "设备",
+        "瑜伽",
+        "眼泪",
+        "缆车",
+        "英国",
+        "马林鱼",
+        "雪人",
+        "小气鬼",
+        "冬季",
+        "凉亭",
+        "加拿大",
+        "便便",
+        "打印机",
+        "寒冷",
+        "冥想",
+        "金枪鱼",
+        "金鱼",
+        "别墅",
+        "传真机",
+        "吝啬",
+        "眼睛",
+        "咸涩",
+        "拉伸",
+        "沙丁鱼",
+        "向上",
+        "宫殿",
+        "形容抠门",
+        "经验值",
+        "关卡",
+        "宅邸",
+        "道具",
+        "死抠",
+        "鲭鱼",
+        "哭泣",
+        "祈祷"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "加热器",
+                "假山",
+                "铁公鸡"
+            ]
+        },
+        {
+            "cards": [
+                "游戏玩家",
+                "霜",
+                "滚动",
+                "旅游景区"
+            ]
+        },
+        {
+            "cards": [
+                "澳大利亚",
+                "房屋",
+                "烘干机",
+                "国家",
+                "塞浦路斯"
+            ]
+        },
+        {
+            "cards": [
+                "游客中心",
+                "鱼类",
+                "雪",
+                "美国",
+                "法国",
+                "鳗鱼"
+            ]
+        }
+    ]
+}

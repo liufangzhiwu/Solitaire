@@ -1,0 +1,453 @@
+{
+    "levelId": 190,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 180,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "露营",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帐篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "指南针",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": true
+                },
+                {
+                    "wordId": "吊床",
+                    "icon": true
+                },
+                {
+                    "wordId": "背包",
+                    "icon": true
+                },
+                {
+                    "wordId": "篝火",
+                    "icon": true
+                },
+                {
+                    "wordId": "地图",
+                    "icon": true
+                },
+                {
+                    "wordId": "哨子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地貌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "孤峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "方山",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱门",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬崖",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脊",
+                    "icon": false
+                },
+                {
+                    "wordId": "峭壁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "如尼文",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Fehu",
+                    "icon": false
+                },
+                {
+                    "wordId": "Uruz",
+                    "icon": false
+                },
+                {
+                    "wordId": "Thurisaz",
+                    "icon": false
+                },
+                {
+                    "wordId": "Ansuz",
+                    "icon": false
+                },
+                {
+                    "wordId": "Raido",
+                    "icon": false
+                },
+                {
+                    "wordId": "Kenaz",
+                    "icon": false
+                },
+                {
+                    "wordId": "Gebo",
+                    "icon": false
+                },
+                {
+                    "wordId": "Wunjo",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谷物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "玉米",
+                    "icon": false
+                },
+                {
+                    "wordId": "大米",
+                    "icon": false
+                },
+                {
+                    "wordId": "大麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "燕麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "高粱",
+                    "icon": false
+                },
+                {
+                    "wordId": "小米",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "英雄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿喀琉斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥德修斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚瑟王",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝奥武夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "索尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "珀尔修斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "健身",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "深蹲",
+                    "icon": true
+                },
+                {
+                    "wordId": "登阶",
+                    "icon": true
+                },
+                {
+                    "wordId": "平板支撑",
+                    "icon": true
+                },
+                {
+                    "wordId": "臂屈伸",
+                    "icon": true
+                },
+                {
+                    "wordId": "引体向上",
+                    "icon": true
+                },
+                {
+                    "wordId": "俯卧撑",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "塔罗牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愚者",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔术师",
+                    "icon": false
+                },
+                {
+                    "wordId": "战车",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐士",
+                    "icon": false
+                },
+                {
+                    "wordId": "恋人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迷宫",
+                    "icon": true
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": true
+                },
+                {
+                    "wordId": "数独",
+                    "icon": true
+                },
+                {
+                    "wordId": "数谜",
+                    "icon": true
+                },
+                {
+                    "wordId": "填字游戏",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "国家旗帜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西班牙国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "日本国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "印度国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "加拿大国旗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "诗歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "俳句",
+                    "icon": false
+                },
+                {
+                    "wordId": "十四行诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "颂诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "打油诗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴洛克时期",
+                    "icon": false
+                },
+                {
+                    "wordId": "中世纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "哥特时期",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绝地武士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卢克",
+                    "icon": false
+                },
+                {
+                    "wordId": "尤达",
+                    "icon": false
+                },
+                {
+                    "wordId": "克诺比",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "亚瑟王",
+        "峭壁",
+        "小麦",
+        "玉米",
+        "山脊",
+        "数独",
+        "英雄",
+        "Ansuz",
+        "恋人",
+        "Wunjo",
+        "健身",
+        "克诺比",
+        "拱门",
+        "颂诗",
+        "方山",
+        "卢克",
+        "登阶",
+        "俳句",
+        "中世纪",
+        "迷宫",
+        "魔术师",
+        "数谜",
+        "灯笼",
+        "大米",
+        "燕麦",
+        "俯卧撑",
+        "背包",
+        "时代",
+        "Thurisaz",
+        "尖峰",
+        "填字游戏",
+        "奥德修斯",
+        "帐篷",
+        "塔罗牌",
+        "篝火",
+        "黑麦",
+        "贝奥武夫",
+        "印度国旗",
+        "战车",
+        "西班牙国旗",
+        "绝地武士",
+        "隐士",
+        "尤达",
+        "哥特时期",
+        "地图",
+        "大麦",
+        "日本国旗",
+        "哨子",
+        "深蹲",
+        "加拿大国旗",
+        "诗歌",
+        "愚者",
+        "Fehu",
+        "臂屈伸"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "平板支撑",
+                "地貌",
+                "Uruz",
+                "Gebo",
+                "打油诗"
+            ]
+        },
+        {
+            "cards": [
+                "峡谷",
+                "十四行诗",
+                "吊床",
+                "指南针",
+                "珀尔修斯",
+                "孤峰"
+            ]
+        },
+        {
+            "cards": [
+                "谷物",
+                "Kenaz",
+                "巴洛克时期",
+                "国家旗帜",
+                "阿喀琉斯",
+                "高粱",
+                "小米"
+            ]
+        },
+        {
+            "cards": [
+                "引体向上",
+                "Raido",
+                "如尼文",
+                "拼图",
+                "露营",
+                "谜题",
+                "悬崖",
+                "索尔"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 386,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "多边形",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三角形",
+                    "icon": true
+                },
+                {
+                    "wordId": "正方形",
+                    "icon": true
+                },
+                {
+                    "wordId": "五边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "六边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "七边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "八边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "九边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "十边形",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "悬崖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陡峭的",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩石的",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩架",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬垂",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脊",
+                    "icon": false
+                },
+                {
+                    "wordId": "峭壁",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶壁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "如尼字母",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "菲胡",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鲁兹",
+                    "icon": true
+                },
+                {
+                    "wordId": "苏里萨兹",
+                    "icon": true
+                },
+                {
+                    "wordId": "安祖",
+                    "icon": true
+                },
+                {
+                    "wordId": "莱多",
+                    "icon": true
+                },
+                {
+                    "wordId": "卡翁",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉博",
+                    "icon": true
+                },
+                {
+                    "wordId": "温乔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "逻辑门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "与门",
+                    "icon": true
+                },
+                {
+                    "wordId": "或门",
+                    "icon": true
+                },
+                {
+                    "wordId": "异或门",
+                    "icon": true
+                },
+                {
+                    "wordId": "与非门",
+                    "icon": true
+                },
+                {
+                    "wordId": "或非门",
+                    "icon": true
+                },
+                {
+                    "wordId": "同或门",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "代币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "通行证",
+                    "icon": false
+                },
+                {
+                    "wordId": "筹码",
+                    "icon": false
+                },
+                {
+                    "wordId": "代金券",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽章",
+                    "icon": false
+                },
+                {
+                    "wordId": "优惠券",
+                    "icon": false
+                },
+                {
+                    "wordId": "票",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尸骨存放所",
+                    "icon": false
+                },
+                {
+                    "wordId": "坟墓",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨灰堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "地下墓穴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "氏族",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凯尔特",
+                    "icon": false
+                },
+                {
+                    "wordId": "北欧",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙古",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿兹特克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "余烬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火花",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤炭",
+                    "icon": false
+                },
+                {
+                    "wordId": "炭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "震颤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地震",
+                    "icon": false
+                },
+                {
+                    "wordId": "震动",
+                    "icon": false
+                },
+                {
+                    "wordId": "颤抖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "码头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船坞",
+                    "icon": false
+                },
+                {
+                    "wordId": "突堤",
+                    "icon": false
+                },
+                {
+                    "wordId": "驳岸",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "如尼字母",
+        "温乔",
+        "坟墓",
+        "炭",
+        "苏里萨兹",
+        "或非门",
+        "氏族",
+        "蒙古",
+        "尖峰",
+        "悬垂",
+        "九边形",
+        "票",
+        "骨灰堂",
+        "火花",
+        "优惠券",
+        "颤抖",
+        "码头",
+        "卡翁",
+        "八边形",
+        "吉博",
+        "扶壁",
+        "震动",
+        "岩架",
+        "地下墓穴",
+        "船坞",
+        "陡峭的",
+        "驳岸",
+        "与非门",
+        "余烬",
+        "三角形",
+        "代金券",
+        "地震",
+        "与门",
+        "正方形",
+        "煤炭",
+        "异或门",
+        "悬崖",
+        "菲胡",
+        "北欧",
+        "莱多",
+        "阿兹特克",
+        "凯尔特"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "七边形",
+                "岩石的",
+                "煤渣",
+                "筹码"
+            ]
+        },
+        {
+            "cards": [
+                "尸骨存放所",
+                "突堤",
+                "代币",
+                "十边形",
+                "地穴"
+            ]
+        },
+        {
+            "cards": [
+                "峭壁",
+                "乌鲁兹",
+                "逻辑门",
+                "徽章",
+                "通行证",
+                "或门"
+            ]
+        },
+        {
+            "cards": [
+                "震颤",
+                "安祖",
+                "五边形",
+                "山脊",
+                "同或门",
+                "多边形",
+                "六边形"
+            ]
+        }
+    ]
+}

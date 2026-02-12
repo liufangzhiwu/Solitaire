@@ -1,0 +1,453 @@
+{
+    "levelId": 96,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 160,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "早晨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闹钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜子",
+                    "icon": false
+                },
+                {
+                    "wordId": "阳光",
+                    "icon": false
+                },
+                {
+                    "wordId": "伸展",
+                    "icon": false
+                },
+                {
+                    "wordId": "卫生间",
+                    "icon": false
+                },
+                {
+                    "wordId": "新闻",
+                    "icon": false
+                },
+                {
+                    "wordId": "醒来",
+                    "icon": false
+                },
+                {
+                    "wordId": "穿衣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "编辑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "重命名",
+                    "icon": false
+                },
+                {
+                    "wordId": "复制",
+                    "icon": false
+                },
+                {
+                    "wordId": "粘贴",
+                    "icon": false
+                },
+                {
+                    "wordId": "删除",
+                    "icon": false
+                },
+                {
+                    "wordId": "插入",
+                    "icon": false
+                },
+                {
+                    "wordId": "格式化",
+                    "icon": false
+                },
+                {
+                    "wordId": "选择",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪切",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "汤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉面",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙冷汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "冬阴功汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗宋汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "高汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "巧达汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "秋葵汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "浓汤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "发明家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱迪生",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "诺贝尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "狄赛尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴斯德",
+                    "icon": false
+                },
+                {
+                    "wordId": "布莱叶",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "福特",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "杂食动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "野猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "臭鼬",
+                    "icon": true
+                },
+                {
+                    "wordId": "浣熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "猴子",
+                    "icon": true
+                },
+                {
+                    "wordId": "人类",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "身体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "肺",
+                    "icon": false
+                },
+                {
+                    "wordId": "心脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "肌肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨骼",
+                    "icon": false
+                },
+                {
+                    "wordId": "神经",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "语言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "中文",
+                    "icon": false
+                },
+                {
+                    "wordId": "希伯来语",
+                    "icon": false
+                },
+                {
+                    "wordId": "韩语",
+                    "icon": false
+                },
+                {
+                    "wordId": "英语",
+                    "icon": false
+                },
+                {
+                    "wordId": "土耳其语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "品种",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "暹罗猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯芬克斯猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "伯曼猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "孟加拉猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "安哥拉猫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "吸血鬼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蝙蝠",
+                    "icon": true
+                },
+                {
+                    "wordId": "尖牙",
+                    "icon": true
+                },
+                {
+                    "wordId": "棺材",
+                    "icon": true
+                },
+                {
+                    "wordId": "大蒜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "鬼魂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "怪异的",
+                    "icon": false
+                },
+                {
+                    "wordId": "出没",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵魂",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻影",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "个性",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "活泼",
+                    "icon": false
+                },
+                {
+                    "wordId": "内向",
+                    "icon": false
+                },
+                {
+                    "wordId": "顽固",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "艺术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "舞蹈",
+                    "icon": false
+                },
+                {
+                    "wordId": "音乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "戏剧",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "野猪",
+        "蝙蝠",
+        "福特",
+        "剪切",
+        "内向",
+        "秋葵汤",
+        "罗宋汤",
+        "删除",
+        "卫生间",
+        "灵魂",
+        "舞蹈",
+        "穿衣",
+        "伸展",
+        "斯芬克斯猫",
+        "安哥拉猫",
+        "阳光",
+        "西班牙冷汤",
+        "拉面",
+        "暹罗猫",
+        "鬼魂",
+        "摩斯",
+        "粘贴",
+        "诺贝尔",
+        "希伯来语",
+        "肌肉",
+        "杂食动物",
+        "中文",
+        "布莱叶",
+        "臭鼬",
+        "选择",
+        "语言",
+        "神经",
+        "大蒜",
+        "土耳其语",
+        "格式化",
+        "猴子",
+        "孟加拉猫",
+        "闹钟",
+        "品种",
+        "浓汤",
+        "骨骼",
+        "身体",
+        "活泼",
+        "韩语",
+        "英语",
+        "幻影",
+        "浣熊",
+        "怪异的",
+        "个性",
+        "人类",
+        "肺",
+        "戏剧",
+        "贝尔",
+        "巴斯德"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "艺术",
+                "镜子",
+                "音乐",
+                "醒来",
+                "爱迪生"
+            ]
+        },
+        {
+            "cards": [
+                "心脏",
+                "伯曼猫",
+                "出没",
+                "熊",
+                "尖牙",
+                "早晨"
+            ]
+        },
+        {
+            "cards": [
+                "高汤",
+                "插入",
+                "复制",
+                "吸血鬼",
+                "新闻",
+                "冬阴功汤",
+                "巧达汤"
+            ]
+        },
+        {
+            "cards": [
+                "大脑",
+                "编辑",
+                "棺材",
+                "顽固",
+                "汤",
+                "狄赛尔",
+                "发明家",
+                "重命名"
+            ]
+        }
+    ]
+}

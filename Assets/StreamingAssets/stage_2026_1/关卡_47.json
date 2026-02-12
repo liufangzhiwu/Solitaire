@@ -1,0 +1,217 @@
+{
+    "levelId": 47,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "银行卡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "借记卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "转账",
+                    "icon": false
+                },
+                {
+                    "wordId": "支付",
+                    "icon": false
+                },
+                {
+                    "wordId": "取款",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全码",
+                    "icon": false
+                },
+                {
+                    "wordId": "芯片",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "信用卡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "天空",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "云",
+                    "icon": false
+                },
+                {
+                    "wordId": "星星",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": false
+                },
+                {
+                    "wordId": "月亮",
+                    "icon": false
+                },
+                {
+                    "wordId": "月食",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞机",
+                    "icon": false
+                },
+                {
+                    "wordId": "彩虹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "警报器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "警报",
+                    "icon": false
+                },
+                {
+                    "wordId": "警告",
+                    "icon": false
+                },
+                {
+                    "wordId": "警报告",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手掌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肌腱",
+                    "icon": false
+                },
+                {
+                    "wordId": "肌肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "关节",
+                    "icon": false
+                },
+                {
+                    "wordId": "腕骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "缓慢动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树懒",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜗牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌龟",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "肥皂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皂块",
+                    "icon": false
+                },
+                {
+                    "wordId": "液体",
+                    "icon": false
+                },
+                {
+                    "wordId": "泡沫",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "取款",
+        "飞机",
+        "鸟",
+        "警告",
+        "缓慢动物",
+        "肌肉",
+        "树懒",
+        "月亮",
+        "蜗牛",
+        "乌龟",
+        "泡沫",
+        "皂块",
+        "云",
+        "肌腱",
+        "液体",
+        "关节",
+        "安全码",
+        "密码",
+        "太阳",
+        "天空",
+        "星星",
+        "警报器",
+        "借记卡",
+        "信用卡"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "信号",
+                "肥皂",
+                "转账"
+            ]
+        },
+        {
+            "cards": [
+                "支付",
+                "彩虹",
+                "警报",
+                "腕骨"
+            ]
+        },
+        {
+            "cards": [
+                "月食",
+                "手掌",
+                "芯片",
+                "银行卡",
+                "警报告"
+            ]
+        }
+    ]
+}

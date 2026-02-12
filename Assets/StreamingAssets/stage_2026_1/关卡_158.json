@@ -1,0 +1,369 @@
+{
+    "levelId": 158,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "奖项",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奖牌",
+                    "icon": true
+                },
+                {
+                    "wordId": "奖杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "奖像",
+                    "icon": true
+                },
+                {
+                    "wordId": "奖带",
+                    "icon": true
+                },
+                {
+                    "wordId": "奖状",
+                    "icon": true
+                },
+                {
+                    "wordId": "桂冠",
+                    "icon": true
+                },
+                {
+                    "wordId": "星章",
+                    "icon": true
+                },
+                {
+                    "wordId": "王冠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "积木",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "立方体",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩具",
+                    "icon": false
+                },
+                {
+                    "wordId": "砖块",
+                    "icon": false
+                },
+                {
+                    "wordId": "堆叠",
+                    "icon": false
+                },
+                {
+                    "wordId": "建造",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐高",
+                    "icon": false
+                },
+                {
+                    "wordId": "墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "形状",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "独眼巨人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "独眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨人",
+                    "icon": false
+                },
+                {
+                    "wordId": "神话",
+                    "icon": false
+                },
+                {
+                    "wordId": "野兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "强壮",
+                    "icon": false
+                },
+                {
+                    "wordId": "棍棒",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "食人魔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小溪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "溪流",
+                    "icon": false
+                },
+                {
+                    "wordId": "小河",
+                    "icon": false
+                },
+                {
+                    "wordId": "流动",
+                    "icon": false
+                },
+                {
+                    "wordId": "水",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "潺潺声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乌鸦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑色",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟类",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸦鸣",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟群",
+                    "icon": false
+                },
+                {
+                    "wordId": "垃圾",
+                    "icon": false
+                },
+                {
+                    "wordId": "巢",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "风险",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冒险的",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮盘赌",
+                    "icon": false
+                },
+                {
+                    "wordId": "赌注",
+                    "icon": false
+                },
+                {
+                    "wordId": "机会",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吐司",
+                    "icon": true
+                },
+                {
+                    "wordId": "法棍",
+                    "icon": true
+                },
+                {
+                    "wordId": "夏巴塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "布里欧修",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "火山",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "埃特纳火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "基拉韦厄火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "喀拉喀托火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "维苏威火山",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "啮齿动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "仓鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "松鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "河狸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "讨论",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "讨价还价",
+                    "icon": false
+                },
+                {
+                    "wordId": "争论",
+                    "icon": false
+                },
+                {
+                    "wordId": "争执",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "面包",
+        "乐高",
+        "垃圾",
+        "啮齿动物",
+        "立方体",
+        "溪流",
+        "鸟类",
+        "小河",
+        "维苏威火山",
+        "流动",
+        "巢",
+        "砖块",
+        "积木",
+        "黑色",
+        "基拉韦厄火山",
+        "夏巴塔",
+        "奖牌",
+        "争论",
+        "法棍",
+        "奖像",
+        "小溪",
+        "棍棒",
+        "奖状",
+        "奖杯",
+        "鸟群",
+        "河狸",
+        "水",
+        "墙",
+        "奖项",
+        "争执",
+        "食人魔",
+        "巨人",
+        "轮盘赌",
+        "鱼",
+        "玩具",
+        "星章",
+        "鸦鸣",
+        "埃特纳火山",
+        "洞穴",
+        "喀拉喀托火山",
+        "松鼠",
+        "桂冠"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "强壮",
+                "奖带",
+                "火山",
+                "建造"
+            ]
+        },
+        {
+            "cards": [
+                "讨价还价",
+                "冒险的",
+                "讨论",
+                "潺潺声",
+                "吐司"
+            ]
+        },
+        {
+            "cards": [
+                "仓鼠",
+                "堆叠",
+                "赌注",
+                "独眼巨人",
+                "王冠",
+                "机会"
+            ]
+        },
+        {
+            "cards": [
+                "布里欧修",
+                "形状",
+                "风险",
+                "神话",
+                "野兽",
+                "独眼",
+                "乌鸦"
+            ]
+        }
+    ]
+}

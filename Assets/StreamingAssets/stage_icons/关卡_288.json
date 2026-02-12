@@ -1,0 +1,453 @@
+{
+    "levelId": 288,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 160,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "小行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谷神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "灶神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "智神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "婚神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "健神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "虹神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨提斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金",
+                    "icon": false
+                },
+                {
+                    "wordId": "银",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "锡",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "铅",
+                    "icon": false
+                },
+                {
+                    "wordId": "青铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "镍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瑜伽体式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "下犬式",
+                    "icon": true
+                },
+                {
+                    "wordId": "战士式",
+                    "icon": true
+                },
+                {
+                    "wordId": "三角式",
+                    "icon": true
+                },
+                {
+                    "wordId": "婴儿式",
+                    "icon": true
+                },
+                {
+                    "wordId": "眼镜蛇式",
+                    "icon": true
+                },
+                {
+                    "wordId": "树式",
+                    "icon": true
+                },
+                {
+                    "wordId": "莲花式",
+                    "icon": true
+                },
+                {
+                    "wordId": "桥式",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法师",
+                    "icon": false
+                },
+                {
+                    "wordId": "潜行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧师",
+                    "icon": false
+                },
+                {
+                    "wordId": "德鲁伊",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "吟游诗人",
+                    "icon": false
+                },
+                {
+                    "wordId": "武僧",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨满",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "森林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚马逊森林",
+                    "icon": false
+                },
+                {
+                    "wordId": "舍伍德森林",
+                    "icon": false
+                },
+                {
+                    "wordId": "红杉林",
+                    "icon": false
+                },
+                {
+                    "wordId": "针叶林",
+                    "icon": false
+                },
+                {
+                    "wordId": "丛林",
+                    "icon": false
+                },
+                {
+                    "wordId": "婆罗洲雨林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火球术",
+                    "icon": false
+                },
+                {
+                    "wordId": "传送术",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻象术",
+                    "icon": false
+                },
+                {
+                    "wordId": "护盾术",
+                    "icon": false
+                },
+                {
+                    "wordId": "祝福术",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒术",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "首都",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴黎",
+                    "icon": false
+                },
+                {
+                    "wordId": "东京",
+                    "icon": false
+                },
+                {
+                    "wordId": "开罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏林",
+                    "icon": false
+                },
+                {
+                    "wordId": "伦敦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "庇护",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "避难所",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣所",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "庇护所",
+                    "icon": false
+                },
+                {
+                    "wordId": "港湾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "扑克花色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红心",
+                    "icon": true
+                },
+                {
+                    "wordId": "梅花",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "方块",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "图腾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熊图腾",
+                    "icon": true
+                },
+                {
+                    "wordId": "狼图腾",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹰图腾",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛇图腾",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "任务",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "救援",
+                    "icon": false
+                },
+                {
+                    "wordId": "护送",
+                    "icon": false
+                },
+                {
+                    "wordId": "侦察",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爱好",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "编织",
+                    "icon": false
+                },
+                {
+                    "wordId": "绘画",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞蹈",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "舍伍德森林",
+        "伦敦",
+        "法术",
+        "铁",
+        "青铜",
+        "德鲁伊",
+        "狼图腾",
+        "莲花式",
+        "牧师",
+        "虹神星",
+        "下犬式",
+        "柏林",
+        "红杉林",
+        "智神星",
+        "吟游诗人",
+        "红心",
+        "方块",
+        "庇护",
+        "熊图腾",
+        "鹰图腾",
+        "爱神星",
+        "侦察",
+        "庇护所",
+        "幻象术",
+        "黑桃",
+        "镍",
+        "铜",
+        "绘画",
+        "三角式",
+        "东京",
+        "铅",
+        "潜行者",
+        "树式",
+        "绿洲",
+        "墨提斯",
+        "健神星",
+        "萨满",
+        "巴黎",
+        "编织",
+        "祝福术",
+        "梅花",
+        "避难所",
+        "灶神星",
+        "针叶林",
+        "小行星",
+        "圣骑士",
+        "港湾",
+        "救援",
+        "金",
+        "金属",
+        "武僧",
+        "森林",
+        "职业",
+        "丛林"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "图腾",
+                "扑克花色",
+                "眼镜蛇式",
+                "爱好",
+                "诅咒术"
+            ]
+        },
+        {
+            "cards": [
+                "蛇图腾",
+                "圣所",
+                "舞蹈",
+                "婆罗洲雨林",
+                "婚神星",
+                "婴儿式"
+            ]
+        },
+        {
+            "cards": [
+                "开罗",
+                "银",
+                "亚马逊森林",
+                "法师",
+                "护送",
+                "桥式",
+                "锡"
+            ]
+        },
+        {
+            "cards": [
+                "首都",
+                "谷神星",
+                "战士式",
+                "任务",
+                "火球术",
+                "护盾术",
+                "传送术",
+                "瑜伽体式"
+            ]
+        }
+    ]
+}

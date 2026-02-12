@@ -1,0 +1,553 @@
+{
+    "levelId": 257,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "路径",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "堤道",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "高速公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "大道",
+                    "icon": false
+                },
+                {
+                    "wordId": "立交桥",
+                    "icon": false
+                },
+                {
+                    "wordId": "公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "车道",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "古钱币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "德拉克马",
+                    "icon": false
+                },
+                {
+                    "wordId": "第纳尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏勒德斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "舍客勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "格罗申",
+                    "icon": false
+                },
+                {
+                    "wordId": "杜卡特",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "兹罗提",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "牛排",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "臀肉牛排",
+                    "icon": false
+                },
+                {
+                    "wordId": "西冷牛排",
+                    "icon": false
+                },
+                {
+                    "wordId": "T骨牛排",
+                    "icon": false
+                },
+                {
+                    "wordId": "肋眼牛排",
+                    "icon": false
+                },
+                {
+                    "wordId": "侧腹牛排",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "菲力牛排",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛胸肉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鞋履",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鞋跟",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞋腰",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞋垫",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞋底",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞋舌",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞋带",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞋眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "后帮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黄蜂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螫针",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "条纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "昆虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗡嗡声",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂群",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "屋顶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "屋檐",
+                    "icon": false
+                },
+                {
+                    "wordId": "山墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "天窗",
+                    "icon": false
+                },
+                {
+                    "wordId": "老虎窗",
+                    "icon": false
+                },
+                {
+                    "wordId": "穹顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱腹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电脑配件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "VGA显卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "内存",
+                    "icon": false
+                },
+                {
+                    "wordId": "芯片组",
+                    "icon": false
+                },
+                {
+                    "wordId": "CPU风扇",
+                    "icon": false
+                },
+                {
+                    "wordId": "DVD光驱",
+                    "icon": false
+                },
+                {
+                    "wordId": "固态硬盘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "滑板",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砂纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "轴承",
+                    "icon": false
+                },
+                {
+                    "wordId": "板面",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮子",
+                    "icon": false
+                },
+                {
+                    "wordId": "桥钉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "原因",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "因为",
+                    "icon": false
+                },
+                {
+                    "wordId": "由于",
+                    "icon": false
+                },
+                {
+                    "wordId": "归因于",
+                    "icon": false
+                },
+                {
+                    "wordId": "导致",
+                    "icon": false
+                },
+                {
+                    "wordId": "起因",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "味道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鲜味",
+                    "icon": true
+                },
+                {
+                    "wordId": "酸味",
+                    "icon": true
+                },
+                {
+                    "wordId": "咸味",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜味",
+                    "icon": true
+                },
+                {
+                    "wordId": "苦味",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "办公用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钉书机",
+                    "icon": false
+                },
+                {
+                    "wordId": "图钉",
+                    "icon": false
+                },
+                {
+                    "wordId": "胶带",
+                    "icon": false
+                },
+                {
+                    "wordId": "胶水",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "材料特性",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "多孔的",
+                    "icon": false
+                },
+                {
+                    "wordId": "易碎的",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔韧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "海绵状的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "带孔器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "漏勺",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗筛",
+                    "icon": false
+                },
+                {
+                    "wordId": "筛网",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏斗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "指甲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甲半月",
+                    "icon": false
+                },
+                {
+                    "wordId": "角质层",
+                    "icon": false
+                },
+                {
+                    "wordId": "甲床",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "月份",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "五月",
+                    "icon": false
+                },
+                {
+                    "wordId": "六月",
+                    "icon": false
+                },
+                {
+                    "wordId": "七月",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "杜卡特",
+        "月份",
+        "翅膀",
+        "穹顶",
+        "牛排",
+        "T骨牛排",
+        "钉书机",
+        "侧腹牛排",
+        "路径",
+        "漏勺",
+        "起因",
+        "滑板",
+        "嗡嗡声",
+        "由于",
+        "鞋眼",
+        "胶水",
+        "酸味",
+        "轨道",
+        "菲力牛排",
+        "蜂群",
+        "屋顶",
+        "苦味",
+        "芯片组",
+        "七月",
+        "CPU风扇",
+        "内存",
+        "屋檐",
+        "筛网",
+        "甲床",
+        "轴承",
+        "罗筛",
+        "公路",
+        "鞋履",
+        "归因于",
+        "条纹",
+        "DVD光驱",
+        "兹罗提",
+        "鞋腰",
+        "易碎的",
+        "柔韧的",
+        "臀肉牛排",
+        "拱腹",
+        "老虎窗",
+        "肋眼牛排",
+        "第纳尔",
+        "古钱币",
+        "天窗",
+        "胶带",
+        "鞋垫",
+        "角质层",
+        "六月",
+        "苏勒德斯",
+        "西冷牛排",
+        "固态硬盘",
+        "海绵状的",
+        "VGA显卡",
+        "山墙",
+        "车道",
+        "导致",
+        "漏斗",
+        "图钉",
+        "多孔的",
+        "桥钉"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "螫针",
+                "鞋舌",
+                "办公用品",
+                "通道",
+                "甲半月"
+            ]
+        },
+        {
+            "cards": [
+                "因为",
+                "轮子",
+                "塔勒",
+                "德拉克马",
+                "五月",
+                "堤道"
+            ]
+        },
+        {
+            "cards": [
+                "昆虫",
+                "咸味",
+                "鞋底",
+                "牛胸肉",
+                "格罗申",
+                "味道",
+                "鲜味"
+            ]
+        },
+        {
+            "cards": [
+                "后帮",
+                "鞋跟",
+                "高速公路",
+                "砂纸",
+                "带孔器",
+                "黄蜂",
+                "牛肉",
+                "指甲"
+            ]
+        },
+        {
+            "cards": [
+                "立交桥",
+                "原因",
+                "材料特性",
+                "舍客勒",
+                "大道",
+                "板面",
+                "甜味",
+                "鞋带",
+                "电脑配件"
+            ]
+        }
+    ]
+}

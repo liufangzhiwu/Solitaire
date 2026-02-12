@@ -1,0 +1,369 @@
+{
+    "levelId": 382,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "乳制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄油",
+                    "icon": false
+                },
+                {
+                    "wordId": "优酪乳",
+                    "icon": false
+                },
+                {
+                    "wordId": "奶油",
+                    "icon": false
+                },
+                {
+                    "wordId": "凝乳",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳清",
+                    "icon": false
+                },
+                {
+                    "wordId": "酥油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "僵尸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "奔跑者",
+                    "icon": false
+                },
+                {
+                    "wordId": "爬行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "潜伏者",
+                    "icon": false
+                },
+                {
+                    "wordId": "嚎叫者",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖叫者",
+                    "icon": false
+                },
+                {
+                    "wordId": "噬咬者",
+                    "icon": false
+                },
+                {
+                    "wordId": "游荡者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墨汁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "靛蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "洋红",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌墨",
+                    "icon": false
+                },
+                {
+                    "wordId": "染料",
+                    "icon": false
+                },
+                {
+                    "wordId": "颜料",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烯墨",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨液",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳素墨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纽扣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柄扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "孔眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "按扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "套索扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "饰钮",
+                    "icon": false
+                },
+                {
+                    "wordId": "按压扣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行会",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法师行会",
+                    "icon": false
+                },
+                {
+                    "wordId": "盗贼行会",
+                    "icon": false
+                },
+                {
+                    "wordId": "商人行会",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁匠行会",
+                    "icon": false
+                },
+                {
+                    "wordId": "治疗师行会",
+                    "icon": false
+                },
+                {
+                    "wordId": "弓箭手行会",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "寓言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "野兔",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌龟",
+                    "icon": true
+                },
+                {
+                    "wordId": "狐狸",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鸦",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "景观",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天际线",
+                    "icon": false
+                },
+                {
+                    "wordId": "地平线",
+                    "icon": false
+                },
+                {
+                    "wordId": "全景",
+                    "icon": false
+                },
+                {
+                    "wordId": "景致",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "武士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "武士刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "大小刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "切腹",
+                    "icon": false
+                },
+                {
+                    "wordId": "武士道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "楼梯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梯级",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖板",
+                    "icon": false
+                },
+                {
+                    "wordId": "踏面",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "被褥",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拼布",
+                    "icon": false
+                },
+                {
+                    "wordId": "贴花",
+                    "icon": false
+                },
+                {
+                    "wordId": "包边",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "行会",
+        "梯级",
+        "僵尸",
+        "寓言",
+        "黄油",
+        "贴花",
+        "按扣",
+        "乌鸦",
+        "丙烯墨",
+        "奶油",
+        "乌龟",
+        "大小刀",
+        "按压扣",
+        "碳素墨",
+        "嚎叫者",
+        "柄扣",
+        "靛蓝",
+        "染料",
+        "包边",
+        "盗贼行会",
+        "狐狸",
+        "治疗师行会",
+        "法师行会",
+        "全景",
+        "被褥",
+        "野兔",
+        "酥油",
+        "竖板",
+        "楼梯",
+        "潜伏者",
+        "天际线",
+        "套索扣",
+        "景致",
+        "爬行者",
+        "凝乳",
+        "乌墨",
+        "尖叫者",
+        "奔跑者",
+        "乳酪",
+        "商人行会",
+        "拼布",
+        "饰钮"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "颜料",
+                "乳清",
+                "噬咬者",
+                "地平线"
+            ]
+        },
+        {
+            "cards": [
+                "纽扣",
+                "墨汁",
+                "孔眼",
+                "洋红",
+                "踏面"
+            ]
+        },
+        {
+            "cards": [
+                "游荡者",
+                "武士",
+                "铁匠行会",
+                "切腹",
+                "弓箭手行会",
+                "武士刀"
+            ]
+        },
+        {
+            "cards": [
+                "墨液",
+                "牛奶",
+                "武士道",
+                "行者",
+                "优酪乳",
+                "乳制品",
+                "景观"
+            ]
+        }
+    ]
+}

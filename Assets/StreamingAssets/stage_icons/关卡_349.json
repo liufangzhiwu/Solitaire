@@ -1,0 +1,369 @@
+{
+    "levelId": 349,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "行李",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旅行袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "挎包",
+                    "icon": false
+                },
+                {
+                    "wordId": "手提包",
+                    "icon": false
+                },
+                {
+                    "wordId": "背包",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "双肩包",
+                    "icon": false
+                },
+                {
+                    "wordId": "手提行李袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "搬运袋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "个人电脑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "网络摄像头",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼠标",
+                    "icon": false
+                },
+                {
+                    "wordId": "键盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "显示器",
+                    "icon": false
+                },
+                {
+                    "wordId": "散热器",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳机",
+                    "icon": false
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": false
+                },
+                {
+                    "wordId": "操纵杆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "按钮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主页",
+                    "icon": false
+                },
+                {
+                    "wordId": "重置",
+                    "icon": false
+                },
+                {
+                    "wordId": "开始",
+                    "icon": false
+                },
+                {
+                    "wordId": "选择",
+                    "icon": false
+                },
+                {
+                    "wordId": "电源",
+                    "icon": false
+                },
+                {
+                    "wordId": "退出",
+                    "icon": false
+                },
+                {
+                    "wordId": "确定",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜单",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甜食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "糖果",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜甜圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "乳脂软糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "太妃糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "果冻",
+                    "icon": true
+                },
+                {
+                    "wordId": "布朗尼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "玩具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "娃娃",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽车",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰迪熊",
+                    "icon": false
+                },
+                {
+                    "wordId": "球",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "机器人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小部件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刻度盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋钮",
+                    "icon": false
+                },
+                {
+                    "wordId": "杠杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "切换开关",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "期刊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日记",
+                    "icon": false
+                },
+                {
+                    "wordId": "账簿",
+                    "icon": false
+                },
+                {
+                    "wordId": "日志",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔记本",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灯光",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "手电筒",
+                    "icon": false
+                },
+                {
+                    "wordId": "霓虹灯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旗帜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "升旗",
+                    "icon": false
+                },
+                {
+                    "wordId": "旗面",
+                    "icon": false
+                },
+                {
+                    "wordId": "旗尾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "餐食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "午餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "晚餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "早午餐",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "个人电脑",
+        "机器人",
+        "主页",
+        "手电筒",
+        "杠杆",
+        "旅行箱",
+        "开始",
+        "玩具",
+        "灯",
+        "选择",
+        "糖果",
+        "挎包",
+        "旗帜",
+        "手提行李袋",
+        "拼图",
+        "甜甜圈",
+        "耳机",
+        "键盘",
+        "升旗",
+        "网络摄像头",
+        "电源",
+        "扬声器",
+        "切换开关",
+        "泰迪熊",
+        "晚餐",
+        "背包",
+        "菜单",
+        "双肩包",
+        "日记",
+        "汽车",
+        "旋钮",
+        "行李",
+        "旅行袋",
+        "笔记本",
+        "旗尾",
+        "布朗尼",
+        "球",
+        "灯光",
+        "重置",
+        "鼠标",
+        "午餐",
+        "日志"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "期刊",
+                "操纵杆",
+                "确定",
+                "果冻"
+            ]
+        },
+        {
+            "cards": [
+                "太妃糖",
+                "小部件",
+                "旗面",
+                "早午餐",
+                "手提包"
+            ]
+        },
+        {
+            "cards": [
+                "霓虹灯",
+                "餐食",
+                "搬运袋",
+                "娃娃",
+                "灯泡",
+                "显示器"
+            ]
+        },
+        {
+            "cards": [
+                "甜食",
+                "散热器",
+                "乳脂软糖",
+                "账簿",
+                "按钮",
+                "退出",
+                "刻度盘"
+            ]
+        }
+    ]
+}

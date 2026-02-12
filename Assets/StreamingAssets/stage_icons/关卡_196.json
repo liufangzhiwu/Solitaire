@@ -1,0 +1,217 @@
+{
+    "levelId": 196,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "自然",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树",
+                    "icon": false
+                },
+                {
+                    "wordId": "山",
+                    "icon": false
+                },
+                {
+                    "wordId": "森林",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "河流",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物群",
+                    "icon": false
+                },
+                {
+                    "wordId": "湖泊",
+                    "icon": false
+                },
+                {
+                    "wordId": "植物群",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "历史",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "过去",
+                    "icon": false
+                },
+                {
+                    "wordId": "古代",
+                    "icon": false
+                },
+                {
+                    "wordId": "帝国",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间线",
+                    "icon": false
+                },
+                {
+                    "wordId": "传说",
+                    "icon": false
+                },
+                {
+                    "wordId": "时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "文物",
+                    "icon": false
+                },
+                {
+                    "wordId": "民间传说",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旅程",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "路线",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行",
+                    "icon": false
+                },
+                {
+                    "wordId": "道路",
+                    "icon": false
+                },
+                {
+                    "wordId": "绕道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "利润",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "收益",
+                    "icon": false
+                },
+                {
+                    "wordId": "利益",
+                    "icon": false
+                },
+                {
+                    "wordId": "贸易",
+                    "icon": false
+                },
+                {
+                    "wordId": "增长",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "牛科",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牦牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛犊",
+                    "icon": true
+                },
+                {
+                    "wordId": "水牛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "概念",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "舒适",
+                    "icon": false
+                },
+                {
+                    "wordId": "适度",
+                    "icon": false
+                },
+                {
+                    "wordId": "生存意义",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "生存意义",
+        "绕道",
+        "过去",
+        "概念",
+        "树",
+        "水牛",
+        "贸易",
+        "舒适",
+        "利益",
+        "旅行",
+        "传说",
+        "植物群",
+        "道路",
+        "山",
+        "牛犊",
+        "民间传说",
+        "文物",
+        "利润",
+        "适度",
+        "河流",
+        "时代",
+        "路线",
+        "森林",
+        "牛科"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "时间线",
+                "旅程",
+                "增长"
+            ]
+        },
+        {
+            "cards": [
+                "牦牛",
+                "海洋",
+                "湖泊",
+                "帝国"
+            ]
+        },
+        {
+            "cards": [
+                "古代",
+                "自然",
+                "收益",
+                "动物群",
+                "历史"
+            ]
+        }
+    ]
+}

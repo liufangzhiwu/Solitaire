@@ -1,0 +1,369 @@
+{
+    "levelId": 365,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "纽扣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缝纫",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣紧",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣子",
+                    "icon": false
+                },
+                {
+                    "wordId": "按扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "套索扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "饰钮",
+                    "icon": false
+                },
+                {
+                    "wordId": "孔眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "钩子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地图",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地图集",
+                    "icon": false
+                },
+                {
+                    "wordId": "海图",
+                    "icon": false
+                },
+                {
+                    "wordId": "网格",
+                    "icon": false
+                },
+                {
+                    "wordId": "图例",
+                    "icon": false
+                },
+                {
+                    "wordId": "比例尺",
+                    "icon": false
+                },
+                {
+                    "wordId": "叠加层",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮廓",
+                    "icon": false
+                },
+                {
+                    "wordId": "平面图",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火炬",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "警报器",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪光信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "光",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卵石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "结节",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹅卵石",
+                    "icon": false
+                },
+                {
+                    "wordId": "砾石",
+                    "icon": false
+                },
+                {
+                    "wordId": "燧石",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "港口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船坞",
+                    "icon": false
+                },
+                {
+                    "wordId": "突堤",
+                    "icon": false
+                },
+                {
+                    "wordId": "码头",
+                    "icon": false
+                },
+                {
+                    "wordId": "驳岸",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑道",
+                    "icon": false
+                },
+                {
+                    "wordId": "游艇港",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钟声",
+                    "icon": false
+                },
+                {
+                    "wordId": "铿锵声",
+                    "icon": false
+                },
+                {
+                    "wordId": "咚声",
+                    "icon": false
+                },
+                {
+                    "wordId": "叮声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "车轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轮毂",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮缘",
+                    "icon": false
+                },
+                {
+                    "wordId": "辐条",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮胎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锻造",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁砧",
+                    "icon": true
+                },
+                {
+                    "wordId": "锻造钳",
+                    "icon": true
+                },
+                {
+                    "wordId": "风箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "坩埚",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "轴向",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旋转",
+                    "icon": false
+                },
+                {
+                    "wordId": "倾斜",
+                    "icon": false
+                },
+                {
+                    "wordId": "偏航",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "层级",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "低",
+                    "icon": false
+                },
+                {
+                    "wordId": "中",
+                    "icon": false
+                },
+                {
+                    "wordId": "高",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "锣",
+        "饰钮",
+        "砾石",
+        "图例",
+        "岩石",
+        "轮毂",
+        "灯笼",
+        "轮缘",
+        "游艇港",
+        "港口",
+        "燧石",
+        "轴向",
+        "缝纫",
+        "叮声",
+        "光",
+        "钩子",
+        "船坞",
+        "孔眼",
+        "信标",
+        "咚声",
+        "驳岸",
+        "轮胎",
+        "层级",
+        "信号",
+        "风箱",
+        "扣紧",
+        "壁灯",
+        "鹅卵石",
+        "海图",
+        "火炬",
+        "中",
+        "警报器",
+        "灯",
+        "旋转",
+        "网格",
+        "辐条",
+        "平面图",
+        "倾斜",
+        "闪光信号",
+        "扣子",
+        "高",
+        "碎屑"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "坩埚",
+                "滑道",
+                "偏航",
+                "锻造"
+            ]
+        },
+        {
+            "cards": [
+                "铿锵声",
+                "锻造钳",
+                "地图集",
+                "比例尺",
+                "车轮"
+            ]
+        },
+        {
+            "cards": [
+                "轮廓",
+                "低",
+                "卵石",
+                "突堤",
+                "套索扣",
+                "码头"
+            ]
+        },
+        {
+            "cards": [
+                "地图",
+                "钟声",
+                "纽扣",
+                "按扣",
+                "铁砧",
+                "叠加层",
+                "结节"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 228,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "景点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "菲斯古城",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃菲尔铁塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢克索神庙",
+                    "icon": false
+                },
+                {
+                    "wordId": "克里姆林宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "吴哥窟",
+                    "icon": false
+                },
+                {
+                    "wordId": "佩特拉古城",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼亚加拉大瀑布",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉萨金字塔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "葡萄园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "藤蔓",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄",
+                    "icon": false
+                },
+                {
+                    "wordId": "根",
+                    "icon": false
+                },
+                {
+                    "wordId": "藤架",
+                    "icon": false
+                },
+                {
+                    "wordId": "冠层",
+                    "icon": false
+                },
+                {
+                    "wordId": "行",
+                    "icon": false
+                },
+                {
+                    "wordId": "收获",
+                    "icon": false
+                },
+                {
+                    "wordId": "串",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海滨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "悬崖",
+                    "icon": true
+                },
+                {
+                    "wordId": "海浪",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙滩伞",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝壳",
+                    "icon": true
+                },
+                {
+                    "wordId": "海鸥",
+                    "icon": true
+                },
+                {
+                    "wordId": "海豚",
+                    "icon": true
+                },
+                {
+                    "wordId": "游泳者",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯塔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小说家",
+                    "icon": false
+                },
+                {
+                    "wordId": "博主",
+                    "icon": false
+                },
+                {
+                    "wordId": "理发师",
+                    "icon": false
+                },
+                {
+                    "wordId": "焊工",
+                    "icon": false
+                },
+                {
+                    "wordId": "珠宝匠",
+                    "icon": false
+                },
+                {
+                    "wordId": "化学家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骆驼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双峰骆驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "商人",
+                    "icon": false
+                },
+                {
+                    "wordId": "商队",
+                    "icon": false
+                },
+                {
+                    "wordId": "蹄",
+                    "icon": false
+                },
+                {
+                    "wordId": "骑手",
+                    "icon": false
+                },
+                {
+                    "wordId": "游牧者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "泵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皂液器",
+                    "icon": true
+                },
+                {
+                    "wordId": "心脏",
+                    "icon": true
+                },
+                {
+                    "wordId": "打气筒",
+                    "icon": true
+                },
+                {
+                    "wordId": "充气床垫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "漂浮物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纸飞机",
+                    "icon": true
+                },
+                {
+                    "wordId": "风筝",
+                    "icon": true
+                },
+                {
+                    "wordId": "肥皂泡",
+                    "icon": true
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "水晶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "红宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "钻石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "午夜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "昏暗的",
+                    "icon": false
+                },
+                {
+                    "wordId": "寒冷的",
+                    "icon": false
+                },
+                {
+                    "wordId": "月光下的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "唇部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "唇彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "润唇膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "唇线笔",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "收获",
+        "骑手",
+        "海豚",
+        "宝石",
+        "月光下的",
+        "海浪",
+        "打气筒",
+        "贝壳",
+        "寒冷的",
+        "菲斯古城",
+        "焊工",
+        "商队",
+        "葡萄园",
+        "克里姆林宫",
+        "理发师",
+        "卢克索神庙",
+        "职业",
+        "根",
+        "珠宝匠",
+        "葡萄",
+        "海滨",
+        "海鸥",
+        "尼亚加拉大瀑布",
+        "商人",
+        "藤蔓",
+        "博主",
+        "吴哥窟",
+        "羽毛",
+        "红宝石",
+        "润唇膏",
+        "串",
+        "唇彩",
+        "行",
+        "肥皂泡",
+        "昏暗的",
+        "唇部",
+        "佩特拉古城",
+        "充气床垫",
+        "唇线笔",
+        "埃菲尔铁塔",
+        "午夜",
+        "悬崖"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "风筝",
+                "泵",
+                "蹄",
+                "冠层"
+            ]
+        },
+        {
+            "cards": [
+                "钻石",
+                "皂液器",
+                "游泳者",
+                "藤架",
+                "小说家"
+            ]
+        },
+        {
+            "cards": [
+                "纸飞机",
+                "水晶",
+                "骆驼",
+                "吉萨金字塔",
+                "漂浮物",
+                "景点"
+            ]
+        },
+        {
+            "cards": [
+                "游牧者",
+                "心脏",
+                "双峰骆驼",
+                "沙滩伞",
+                "灯塔",
+                "蓝宝石",
+                "化学家"
+            ]
+        }
+    ]
+}

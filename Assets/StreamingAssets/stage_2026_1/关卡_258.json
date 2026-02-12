@@ -1,0 +1,217 @@
+{
+    "levelId": 258,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "意面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "千层面",
+                    "icon": false
+                },
+                {
+                    "wordId": "粗长面",
+                    "icon": false
+                },
+                {
+                    "wordId": "芭比面",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋面",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷心面",
+                    "icon": false
+                },
+                {
+                    "wordId": "车轮面",
+                    "icon": false
+                },
+                {
+                    "wordId": "粗通心粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝴蝶面",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱沙尼亚国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "罗马尼亚国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "智利国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "秘鲁国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "芬兰国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "丹麦国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "爱尔兰国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "瑞典国旗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "滑稽的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闹剧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "古怪的",
+                    "icon": false
+                },
+                {
+                    "wordId": "有趣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜剧的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "体貌特征",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苗条",
+                    "icon": false
+                },
+                {
+                    "wordId": "矮小",
+                    "icon": false
+                },
+                {
+                    "wordId": "精瘦",
+                    "icon": false
+                },
+                {
+                    "wordId": "秃头",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "教练相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轮毂",
+                    "icon": false
+                },
+                {
+                    "wordId": "辐条",
+                    "icon": false
+                },
+                {
+                    "wordId": "踏板",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海盗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船员",
+                    "icon": false
+                },
+                {
+                    "wordId": "准则",
+                    "icon": false
+                },
+                {
+                    "wordId": "战利品",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "芭比面",
+        "国家",
+        "芬兰国旗",
+        "车轮面",
+        "闹剧的",
+        "准则",
+        "瑞典国旗",
+        "爱尔兰国旗",
+        "踏板",
+        "丹麦国旗",
+        "轮毂",
+        "千层面",
+        "海盗",
+        "秘鲁国旗",
+        "战利品",
+        "有趣的",
+        "蝴蝶面",
+        "精瘦",
+        "秃头",
+        "螺旋面",
+        "粗长面",
+        "意面",
+        "粗通心粉",
+        "喜剧的"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "教练相关",
+                "苗条",
+                "矮小"
+            ]
+        },
+        {
+            "cards": [
+                "船员",
+                "辐条",
+                "卷心面",
+                "古怪的"
+            ]
+        },
+        {
+            "cards": [
+                "滑稽的",
+                "爱沙尼亚国旗",
+                "智利国旗",
+                "罗马尼亚国旗",
+                "体貌特征"
+            ]
+        }
+    ]
+}

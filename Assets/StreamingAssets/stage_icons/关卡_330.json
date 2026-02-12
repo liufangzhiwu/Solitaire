@@ -1,0 +1,553 @@
+{
+    "levelId": 330,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 220,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "排灯节",
+                    "icon": false
+                },
+                {
+                    "wordId": "复活节",
+                    "icon": false
+                },
+                {
+                    "wordId": "逾越节",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡里节",
+                    "icon": false
+                },
+                {
+                    "wordId": "光明节",
+                    "icon": false
+                },
+                {
+                    "wordId": "宽扎节",
+                    "icon": false
+                },
+                {
+                    "wordId": "九夜节",
+                    "icon": false
+                },
+                {
+                    "wordId": "斋月",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "折纸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纸鹤",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸青蛙",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸船",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸莲花",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸郁金香",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸天鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸武士",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸鱼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "天际",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日落",
+                    "icon": false
+                },
+                {
+                    "wordId": "日出",
+                    "icon": false
+                },
+                {
+                    "wordId": "暮光",
+                    "icon": false
+                },
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄昏",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄暮",
+                    "icon": false
+                },
+                {
+                    "wordId": "夜幕",
+                    "icon": false
+                },
+                {
+                    "wordId": "破晓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "山谷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷地",
+                    "icon": false
+                },
+                {
+                    "wordId": "深谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "洼地",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "平谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "干谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "山口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火球术",
+                    "icon": false
+                },
+                {
+                    "wordId": "传送术",
+                    "icon": false
+                },
+                {
+                    "wordId": "治疗术",
+                    "icon": false
+                },
+                {
+                    "wordId": "护盾术",
+                    "icon": false
+                },
+                {
+                    "wordId": "寒冰术",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒术",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "零",
+                    "icon": false
+                },
+                {
+                    "wordId": "一",
+                    "icon": false
+                },
+                {
+                    "wordId": "二",
+                    "icon": false
+                },
+                {
+                    "wordId": "三",
+                    "icon": false
+                },
+                {
+                    "wordId": "四",
+                    "icon": false
+                },
+                {
+                    "wordId": "五",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谷物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "大麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "燕麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "大米",
+                    "icon": true
+                },
+                {
+                    "wordId": "玉米",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "感测器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雷达",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭射雷达",
+                    "icon": false
+                },
+                {
+                    "wordId": "声纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "陀螺仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "红外",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "液体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苏打水",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖啡",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "果汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "字节",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "千字节",
+                    "icon": false
+                },
+                {
+                    "wordId": "兆字节",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉字节",
+                    "icon": false
+                },
+                {
+                    "wordId": "太字节",
+                    "icon": false
+                },
+                {
+                    "wordId": "拍字节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美国宇航局",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿波罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "双子星",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎户座",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚特兰蒂斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灯笼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻璃灯笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸灯笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "LED灯笼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手机",
+                    "icon": true
+                },
+                {
+                    "wordId": "笔记本电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "打印机",
+                    "icon": true
+                },
+                {
+                    "wordId": "路由器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "镜头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "微距镜头",
+                    "icon": false
+                },
+                {
+                    "wordId": "变焦镜头",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼眼镜头",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "端口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "HTTP协议",
+                    "icon": false
+                },
+                {
+                    "wordId": "FTP协议",
+                    "icon": false
+                },
+                {
+                    "wordId": "SSH协议",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "红外",
+        "法术",
+        "兆字节",
+        "鱼眼镜头",
+        "斋月",
+        "笔记本电脑",
+        "平谷",
+        "光明节",
+        "宽扎节",
+        "五",
+        "破晓",
+        "LED灯笼",
+        "纸莲花",
+        "数字",
+        "吉字节",
+        "玻璃灯笼",
+        "谷地",
+        "九夜节",
+        "葡萄酒",
+        "纸武士",
+        "三",
+        "猎户座",
+        "小麦",
+        "玉米",
+        "山谷",
+        "FTP协议",
+        "变焦镜头",
+        "亚特兰蒂斯",
+        "纸鱼",
+        "声纳",
+        "火球术",
+        "咖啡",
+        "天灯",
+        "纸天鹅",
+        "四",
+        "排灯节",
+        "山口",
+        "手机",
+        "字节",
+        "微距镜头",
+        "纸青蛙",
+        "灯笼",
+        "美国宇航局",
+        "薄暮",
+        "黑麦",
+        "黄昏",
+        "折纸",
+        "逾越节",
+        "纸鹤",
+        "大麦",
+        "二",
+        "太字节",
+        "纸郁金香",
+        "双子星",
+        "纸船",
+        "胡里节",
+        "暮光",
+        "夜幕",
+        "一",
+        "阿波罗",
+        "峡谷",
+        "雷达",
+        "深谷"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "治疗术",
+                "传送术",
+                "打印机",
+                "设备",
+                "日出"
+            ]
+        },
+        {
+            "cards": [
+                "护盾术",
+                "镜头",
+                "千字节",
+                "零",
+                "牛奶",
+                "黎明"
+            ]
+        },
+        {
+            "cards": [
+                "燕麦",
+                "节日",
+                "陀螺仪",
+                "诅咒术",
+                "路由器",
+                "幽谷",
+                "复活节"
+            ]
+        },
+        {
+            "cards": [
+                "拍字节",
+                "苏打水",
+                "镭射雷达",
+                "HTTP协议",
+                "谷物",
+                "寒冰术",
+                "日落",
+                "果汁"
+            ]
+        },
+        {
+            "cards": [
+                "干谷",
+                "端口",
+                "液体",
+                "大米",
+                "纸灯笼",
+                "天际",
+                "SSH协议",
+                "感测器",
+                "洼地"
+            ]
+        }
+    ]
+}

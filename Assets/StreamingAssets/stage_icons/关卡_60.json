@@ -1,0 +1,369 @@
+{
+    "levelId": 60,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "字体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "字形",
+                    "icon": false
+                },
+                {
+                    "wordId": "设计",
+                    "icon": false
+                },
+                {
+                    "wordId": "排版",
+                    "icon": false
+                },
+                {
+                    "wordId": "印刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "样式",
+                    "icon": false
+                },
+                {
+                    "wordId": "粗细",
+                    "icon": false
+                },
+                {
+                    "wordId": "斜体",
+                    "icon": false
+                },
+                {
+                    "wordId": "等宽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "兔子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳跃",
+                    "icon": false
+                },
+                {
+                    "wordId": "挖洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "哺乳动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡萝卜",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "小兔子",
+                    "icon": false
+                },
+                {
+                    "wordId": "宠物",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳朵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "无线电",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "调谐器",
+                    "icon": false
+                },
+                {
+                    "wordId": "电波",
+                    "icon": false
+                },
+                {
+                    "wordId": "调频",
+                    "icon": false
+                },
+                {
+                    "wordId": "调幅",
+                    "icon": false
+                },
+                {
+                    "wordId": "电台",
+                    "icon": false
+                },
+                {
+                    "wordId": "DJ",
+                    "icon": false
+                },
+                {
+                    "wordId": "接收器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "本能反应",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打哈欠",
+                    "icon": false
+                },
+                {
+                    "wordId": "眨眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "打喷嚏",
+                    "icon": false
+                },
+                {
+                    "wordId": "作呕",
+                    "icon": false
+                },
+                {
+                    "wordId": "畏缩",
+                    "icon": false
+                },
+                {
+                    "wordId": "咳嗽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "跳伞者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "自由落体",
+                    "icon": false
+                },
+                {
+                    "wordId": "天空",
+                    "icon": false
+                },
+                {
+                    "wordId": "开伞索",
+                    "icon": false
+                },
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行",
+                    "icon": false
+                },
+                {
+                    "wordId": "背带",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "惊悚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "危险",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬念",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴谋",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧张",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图腾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "偶像",
+                    "icon": false
+                },
+                {
+                    "wordId": "遗物",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶饰",
+                    "icon": false
+                },
+                {
+                    "wordId": "护身符",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甲虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "白蚁",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚊子",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚂蚁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "目标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瞄准",
+                    "icon": false
+                },
+                {
+                    "wordId": "靶子",
+                    "icon": false
+                },
+                {
+                    "wordId": "目的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "通话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "呼出",
+                    "icon": false
+                },
+                {
+                    "wordId": "来电",
+                    "icon": false
+                },
+                {
+                    "wordId": "未接",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "调频",
+        "胡萝卜",
+        "未接",
+        "阴谋",
+        "调谐器",
+        "打喷嚏",
+        "护身符",
+        "呼出",
+        "本能反应",
+        "电台",
+        "惊悚",
+        "挖洞",
+        "斜体",
+        "信号",
+        "调幅",
+        "皮毛",
+        "自由落体",
+        "偶像",
+        "兔子",
+        "作呕",
+        "耳朵",
+        "飞行",
+        "跳跃",
+        "印刷",
+        "遗物",
+        "小兔子",
+        "宠物",
+        "顶饰",
+        "昆虫",
+        "靶子",
+        "目的",
+        "打哈欠",
+        "字形",
+        "字体",
+        "电波",
+        "畏缩",
+        "危险",
+        "瞄准",
+        "背带",
+        "设计",
+        "头盔",
+        "样式"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "白蚁",
+                "跳伞者",
+                "哺乳动物",
+                "排版"
+            ]
+        },
+        {
+            "cards": [
+                "天空",
+                "DJ",
+                "悬念",
+                "紧张",
+                "蚂蚁"
+            ]
+        },
+        {
+            "cards": [
+                "通话",
+                "开伞索",
+                "图腾",
+                "甲虫",
+                "蚊子",
+                "无线电"
+            ]
+        },
+        {
+            "cards": [
+                "接收器",
+                "来电",
+                "咳嗽",
+                "等宽",
+                "眨眼",
+                "目标",
+                "粗细"
+            ]
+        }
+    ]
+}

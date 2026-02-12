@@ -1,0 +1,369 @@
+{
+    "levelId": 224,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "储物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橱柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "衣柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "储物柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "书柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "箱子",
+                    "icon": true
+                },
+                {
+                    "wordId": "保险箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "存钱罐",
+                    "icon": true
+                },
+                {
+                    "wordId": "硬盘",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "葡萄牙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "里斯本",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓷砖画",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳕鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "法多",
+                    "icon": false
+                },
+                {
+                    "wordId": "足球",
+                    "icon": false
+                },
+                {
+                    "wordId": "波尔图",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛特拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "支付",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "支票",
+                    "icon": false
+                },
+                {
+                    "wordId": "薪水",
+                    "icon": false
+                },
+                {
+                    "wordId": "养老金",
+                    "icon": false
+                },
+                {
+                    "wordId": "版税",
+                    "icon": false
+                },
+                {
+                    "wordId": "费用",
+                    "icon": false
+                },
+                {
+                    "wordId": "退款",
+                    "icon": false
+                },
+                {
+                    "wordId": "保险费",
+                    "icon": false
+                },
+                {
+                    "wordId": "报酬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "辣椒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔巴斯科",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡宴辣椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈瓦那辣椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨西哥胡椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "红辣椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡椒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "斑点图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猎豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "长颈鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑点狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "瓢虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "奶牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "鬣狗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "炽热的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "燃烧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "加热的",
+                    "icon": false
+                },
+                {
+                    "wordId": "灼热的",
+                    "icon": false
+                },
+                {
+                    "wordId": "发出滋滋声的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "项链",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠子",
+                    "icon": false
+                },
+                {
+                    "wordId": "珍珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "珠宝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "背包客",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "徒步者",
+                    "icon": false
+                },
+                {
+                    "wordId": "游客",
+                    "icon": false
+                },
+                {
+                    "wordId": "登山者",
+                    "icon": false
+                },
+                {
+                    "wordId": "学生",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烟斗/管乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烟草",
+                    "icon": true
+                },
+                {
+                    "wordId": "风笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟斗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "顶端",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "顶峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶点",
+                    "icon": false
+                },
+                {
+                    "wordId": "巅峰",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "哈瓦那辣椒",
+        "墨西哥胡椒",
+        "箱子",
+        "费用",
+        "书柜",
+        "灼热的",
+        "烟草",
+        "发出滋滋声的",
+        "波尔图",
+        "海洋",
+        "辛特拉",
+        "学生",
+        "风笛",
+        "衣柜",
+        "瓢虫",
+        "瓷砖画",
+        "项链",
+        "鳕鱼",
+        "红辣椒",
+        "鬣狗",
+        "顶点",
+        "葡萄牙",
+        "顶峰",
+        "辣椒",
+        "储物",
+        "储物柜",
+        "登山者",
+        "斑点图案",
+        "保险箱",
+        "法多",
+        "游客",
+        "珠宝",
+        "珠子",
+        "珍珠",
+        "斑点狗",
+        "烟斗",
+        "版税",
+        "加热的",
+        "保险费",
+        "胡椒",
+        "徒步者",
+        "足球"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "支票",
+                "存钱罐",
+                "报酬",
+                "宝石"
+            ]
+        },
+        {
+            "cards": [
+                "猎豹",
+                "支付",
+                "奶牛",
+                "养老金",
+                "烟斗/管乐器"
+            ]
+        },
+        {
+            "cards": [
+                "塔巴斯科",
+                "薪水",
+                "炽热的",
+                "燃烧的",
+                "橱柜",
+                "退款"
+            ]
+        },
+        {
+            "cards": [
+                "顶端",
+                "长颈鹿",
+                "卡宴辣椒",
+                "巅峰",
+                "硬盘",
+                "背包客",
+                "里斯本"
+            ]
+        }
+    ]
+}

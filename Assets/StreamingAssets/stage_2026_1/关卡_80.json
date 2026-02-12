@@ -1,0 +1,369 @@
+{
+    "levelId": 80,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "植物群",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小树林",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁香",
+                    "icon": false
+                },
+                {
+                    "wordId": "新芽",
+                    "icon": false
+                },
+                {
+                    "wordId": "花蕾",
+                    "icon": false
+                },
+                {
+                    "wordId": "开花",
+                    "icon": false
+                },
+                {
+                    "wordId": "药草",
+                    "icon": false
+                },
+                {
+                    "wordId": "荆棘",
+                    "icon": false
+                },
+                {
+                    "wordId": "树枝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "塔楼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尖顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "时钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "要塞",
+                    "icon": false
+                },
+                {
+                    "wordId": "宣礼塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "堡垒",
+                    "icon": false
+                },
+                {
+                    "wordId": "监狱",
+                    "icon": false
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "椅子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "垫子",
+                    "icon": true
+                },
+                {
+                    "wordId": "王座",
+                    "icon": true
+                },
+                {
+                    "wordId": "脚凳",
+                    "icon": true
+                },
+                {
+                    "wordId": "凳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "扶手",
+                    "icon": true
+                },
+                {
+                    "wordId": "双人沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "躺椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "豆袋椅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "驾驶员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "漂移",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸣笛",
+                    "icon": false
+                },
+                {
+                    "wordId": "刹车",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛车",
+                    "icon": false
+                },
+                {
+                    "wordId": "转弯",
+                    "icon": false
+                },
+                {
+                    "wordId": "停车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "一条面包",
+                    "icon": false
+                },
+                {
+                    "wordId": "面包店",
+                    "icon": false
+                },
+                {
+                    "wordId": "一片",
+                    "icon": false
+                },
+                {
+                    "wordId": "面团",
+                    "icon": false
+                },
+                {
+                    "wordId": "面包屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝果",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "滑雪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斜坡",
+                    "icon": false
+                },
+                {
+                    "wordId": "山间小屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪道",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈士奇犬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诊所",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绷带",
+                    "icon": false
+                },
+                {
+                    "wordId": "探针",
+                    "icon": false
+                },
+                {
+                    "wordId": "听诊器",
+                    "icon": false
+                },
+                {
+                    "wordId": "样本",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "棱镜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "光线",
+                    "icon": false
+                },
+                {
+                    "wordId": "折射",
+                    "icon": false
+                },
+                {
+                    "wordId": "光谱",
+                    "icon": false
+                },
+                {
+                    "wordId": "反射",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "平板电脑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "触摸",
+                    "icon": false
+                },
+                {
+                    "wordId": "萤幕",
+                    "icon": false
+                },
+                {
+                    "wordId": "应用",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "牛仔裤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "裤腿",
+                    "icon": true
+                },
+                {
+                    "wordId": "拉链",
+                    "icon": true
+                },
+                {
+                    "wordId": "口袋",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "哈士奇犬",
+        "尖顶",
+        "王座",
+        "一片",
+        "面包店",
+        "荆棘",
+        "丁香",
+        "滑雪道",
+        "贝果",
+        "药草",
+        "花蕾",
+        "凳子",
+        "面包屑",
+        "绷带",
+        "样本",
+        "光线",
+        "要塞",
+        "山间小屋",
+        "触摸",
+        "滑雪",
+        "豆袋椅",
+        "应用",
+        "反射",
+        "鸣笛",
+        "垫子",
+        "监狱",
+        "树枝",
+        "驾驶员",
+        "刹车",
+        "口袋",
+        "扶手",
+        "牛仔裤",
+        "漂移",
+        "躺椅",
+        "面团",
+        "平板电脑",
+        "城堡",
+        "斜坡",
+        "圆顶",
+        "探针",
+        "脚凳",
+        "椅子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "光谱",
+                "宣礼塔",
+                "停车",
+                "赛车"
+            ]
+        },
+        {
+            "cards": [
+                "转弯",
+                "拉链",
+                "折射",
+                "听诊器",
+                "塔楼"
+            ]
+        },
+        {
+            "cards": [
+                "裤腿",
+                "小树林",
+                "植物群",
+                "堡垒",
+                "开花",
+                "萤幕"
+            ]
+        },
+        {
+            "cards": [
+                "棱镜",
+                "诊所",
+                "时钟",
+                "一条面包",
+                "面包",
+                "双人沙发",
+                "新芽"
+            ]
+        }
+    ]
+}

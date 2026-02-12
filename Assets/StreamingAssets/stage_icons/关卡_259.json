@@ -1,0 +1,369 @@
+{
+    "levelId": 259,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "政体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "单一制",
+                    "icon": false
+                },
+                {
+                    "wordId": "联邦制",
+                    "icon": false
+                },
+                {
+                    "wordId": "君主国",
+                    "icon": false
+                },
+                {
+                    "wordId": "共和国",
+                    "icon": false
+                },
+                {
+                    "wordId": "帝国",
+                    "icon": false
+                },
+                {
+                    "wordId": "王国",
+                    "icon": false
+                },
+                {
+                    "wordId": "殖民地",
+                    "icon": false
+                },
+                {
+                    "wordId": "国家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "看",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "一瞥",
+                    "icon": false
+                },
+                {
+                    "wordId": "凝视",
+                    "icon": false
+                },
+                {
+                    "wordId": "盯着",
+                    "icon": false
+                },
+                {
+                    "wordId": "目瞪口呆",
+                    "icon": false
+                },
+                {
+                    "wordId": "偷看",
+                    "icon": false
+                },
+                {
+                    "wordId": "端详",
+                    "icon": false
+                },
+                {
+                    "wordId": "聚焦",
+                    "icon": false
+                },
+                {
+                    "wordId": "扫视",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "女神",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迦梨",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉克什米",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫斯提亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "密涅瓦",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫卡忒",
+                    "icon": false
+                },
+                {
+                    "wordId": "提亚玛特",
+                    "icon": false
+                },
+                {
+                    "wordId": "涅墨西斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞赫麦特",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "滚筒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泡沫滚筒",
+                    "icon": true
+                },
+                {
+                    "wordId": "卷发器",
+                    "icon": true
+                },
+                {
+                    "wordId": "油漆滚筒",
+                    "icon": true
+                },
+                {
+                    "wordId": "压路机",
+                    "icon": true
+                },
+                {
+                    "wordId": "过山车",
+                    "icon": true
+                },
+                {
+                    "wordId": "溜冰鞋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "短裤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "百慕大短裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "工装短裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "骑行短裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "四角裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "裙裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "跑步短裤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烧瓶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "试管",
+                    "icon": true
+                },
+                {
+                    "wordId": "烧杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "曲颈瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "锥形瓶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "番茄酱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "番茄",
+                    "icon": false
+                },
+                {
+                    "wordId": "醋",
+                    "icon": false
+                },
+                {
+                    "wordId": "盐",
+                    "icon": false
+                },
+                {
+                    "wordId": "香料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "细流",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滴流",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴下",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛毛雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "渗出",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绒毛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "细毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "一簇",
+                    "icon": false
+                },
+                {
+                    "wordId": "棉绒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "无",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "零",
+                    "icon": false
+                },
+                {
+                    "wordId": "没有",
+                    "icon": false
+                },
+                {
+                    "wordId": "空白",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "偷看",
+        "王国",
+        "卷发器",
+        "绒毛",
+        "政体",
+        "香料",
+        "泡沫滚筒",
+        "提亚玛特",
+        "赫卡忒",
+        "滴流",
+        "没有",
+        "迦梨",
+        "国家",
+        "细毛",
+        "跑步短裤",
+        "单一制",
+        "扫视",
+        "四角裤",
+        "端详",
+        "聚焦",
+        "短裤",
+        "盯着",
+        "过山车",
+        "盐",
+        "无",
+        "锥形瓶",
+        "裙裤",
+        "密涅瓦",
+        "压路机",
+        "君主国",
+        "零",
+        "一簇",
+        "共和国",
+        "毛毛雨",
+        "棉绒",
+        "工装短裤",
+        "塞赫麦特",
+        "一瞥",
+        "拉克什米",
+        "番茄酱",
+        "目瞪口呆",
+        "涅墨西斯"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "空白",
+                "渗出",
+                "联邦制",
+                "骑行短裤"
+            ]
+        },
+        {
+            "cards": [
+                "醋",
+                "殖民地",
+                "溜冰鞋",
+                "赫斯提亚",
+                "女神"
+            ]
+        },
+        {
+            "cards": [
+                "烧杯",
+                "油漆滚筒",
+                "细流",
+                "凝视",
+                "看",
+                "百慕大短裤"
+            ]
+        },
+        {
+            "cards": [
+                "烧瓶",
+                "滚筒",
+                "帝国",
+                "滴下",
+                "番茄",
+                "试管",
+                "曲颈瓶"
+            ]
+        }
+    ]
+}

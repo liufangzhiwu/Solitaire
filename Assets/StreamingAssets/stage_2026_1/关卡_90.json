@@ -1,0 +1,369 @@
+{
+    "levelId": 90,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "石头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鹅卵石",
+                    "icon": false
+                },
+                {
+                    "wordId": "砾石",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨石",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕像",
+                    "icon": false
+                },
+                {
+                    "wordId": "方尖碑",
+                    "icon": false
+                },
+                {
+                    "wordId": "钻石",
+                    "icon": false
+                },
+                {
+                    "wordId": "化石",
+                    "icon": false
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "红色事物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瓢虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "日落",
+                    "icon": true
+                },
+                {
+                    "wordId": "彩虹",
+                    "icon": true
+                },
+                {
+                    "wordId": "耶诞节",
+                    "icon": true
+                },
+                {
+                    "wordId": "火星",
+                    "icon": true
+                },
+                {
+                    "wordId": "腮红",
+                    "icon": true
+                },
+                {
+                    "wordId": "美国国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "口红",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "人名",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迈克尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "安德鲁",
+                    "icon": false
+                },
+                {
+                    "wordId": "布莱恩",
+                    "icon": false
+                },
+                {
+                    "wordId": "克雷格",
+                    "icon": false
+                },
+                {
+                    "wordId": "大卫",
+                    "icon": false
+                },
+                {
+                    "wordId": "贾斯汀",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯文",
+                    "icon": false
+                },
+                {
+                    "wordId": "谢尔顿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爱好",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "串珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "钓鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "折纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "露营",
+                    "icon": false
+                },
+                {
+                    "wordId": "钩针编织",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拥挤的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "街道",
+                    "icon": false
+                },
+                {
+                    "wordId": "夜店",
+                    "icon": false
+                },
+                {
+                    "wordId": "教堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "城市",
+                    "icon": false
+                },
+                {
+                    "wordId": "公车",
+                    "icon": false
+                },
+                {
+                    "wordId": "体育场",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "扳手",
+                    "icon": true
+                },
+                {
+                    "wordId": "电钻",
+                    "icon": true
+                },
+                {
+                    "wordId": "钳子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "动作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哭泣",
+                    "icon": false
+                },
+                {
+                    "wordId": "大笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "说话",
+                    "icon": false
+                },
+                {
+                    "wordId": "打哈欠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美甲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "指甲油",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烯酸指甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "指甲钳",
+                    "icon": false
+                },
+                {
+                    "wordId": "指甲锉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "融化",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冰",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜡",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阅读",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗歌",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "折纸",
+        "打哈欠",
+        "哭泣",
+        "布莱恩",
+        "动作",
+        "电钻",
+        "指甲钳",
+        "爱好",
+        "露营",
+        "安德鲁",
+        "串珠",
+        "扳手",
+        "钓鱼",
+        "夜店",
+        "砾石",
+        "贾斯汀",
+        "彩虹",
+        "日落",
+        "拥挤的",
+        "小说",
+        "工具",
+        "巨石",
+        "美甲",
+        "克雷格",
+        "蜡",
+        "体育场",
+        "钻石",
+        "城市",
+        "瓢虫",
+        "钩针编织",
+        "腮红",
+        "街道",
+        "火星",
+        "方尖碑",
+        "指甲油",
+        "鹅卵石",
+        "雕像",
+        "教堂",
+        "丙烯酸指甲",
+        "黄油",
+        "冰",
+        "游戏"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "耶诞节",
+                "人名",
+                "大笑",
+                "谢尔顿"
+            ]
+        },
+        {
+            "cards": [
+                "钳子",
+                "大卫",
+                "阅读",
+                "凯文",
+                "公车"
+            ]
+        },
+        {
+            "cards": [
+                "指甲锉",
+                "锤子",
+                "迈克尔",
+                "美国国旗",
+                "红色事物",
+                "诗歌"
+            ]
+        },
+        {
+            "cards": [
+                "口红",
+                "城堡",
+                "化石",
+                "说话",
+                "融化",
+                "故事",
+                "石头"
+            ]
+        }
+    ]
+}

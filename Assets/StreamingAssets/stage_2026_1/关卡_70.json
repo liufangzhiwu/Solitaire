@@ -1,0 +1,369 @@
+{
+    "levelId": 70,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "吉祥物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "格里蒂",
+                    "icon": false
+                },
+                {
+                    "wordId": "尤皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "伯尼",
+                    "icon": false
+                },
+                {
+                    "wordId": "波",
+                    "icon": false
+                },
+                {
+                    "wordId": "诺迪",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰堡",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗瑞",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗雷德鸟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行进",
+                    "icon": false
+                },
+                {
+                    "wordId": "节日",
+                    "icon": false
+                },
+                {
+                    "wordId": "花车",
+                    "icon": false
+                },
+                {
+                    "wordId": "街道",
+                    "icon": false
+                },
+                {
+                    "wordId": "表演",
+                    "icon": false
+                },
+                {
+                    "wordId": "服装",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟花",
+                    "icon": false
+                },
+                {
+                    "wordId": "横幅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "考试",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "学生",
+                    "icon": false
+                },
+                {
+                    "wordId": "测验",
+                    "icon": false
+                },
+                {
+                    "wordId": "成绩",
+                    "icon": false
+                },
+                {
+                    "wordId": "分数",
+                    "icon": false
+                },
+                {
+                    "wordId": "压力",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦虑",
+                    "icon": false
+                },
+                {
+                    "wordId": "成功",
+                    "icon": false
+                },
+                {
+                    "wordId": "失败",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旅行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽车旅馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "播放列表",
+                    "icon": false
+                },
+                {
+                    "wordId": "短途旅行",
+                    "icon": false
+                },
+                {
+                    "wordId": "行李",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "农场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拖拉机",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷仓",
+                    "icon": false
+                },
+                {
+                    "wordId": "田地",
+                    "icon": false
+                },
+                {
+                    "wordId": "奶牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "肥料",
+                    "icon": false
+                },
+                {
+                    "wordId": "农民",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "斧头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砍",
+                    "icon": false
+                },
+                {
+                    "wordId": "劈",
+                    "icon": false
+                },
+                {
+                    "wordId": "伐倒",
+                    "icon": false
+                },
+                {
+                    "wordId": "劈开",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "婴儿用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奶嘴",
+                    "icon": true
+                },
+                {
+                    "wordId": "尿布",
+                    "icon": true
+                },
+                {
+                    "wordId": "摇铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "婴儿车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "烘焙食品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "贝果",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": true
+                },
+                {
+                    "wordId": "馅饼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "追寻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "搜寻",
+                    "icon": false
+                },
+                {
+                    "wordId": "调查",
+                    "icon": false
+                },
+                {
+                    "wordId": "追求",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "胡须样式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山羊胡",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴尔博胡",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸭尾胡",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "婴儿车",
+        "失败",
+        "奶嘴",
+        "行李",
+        "烘焙食品",
+        "压力",
+        "农民",
+        "斧头",
+        "肥料",
+        "谷仓",
+        "馅饼",
+        "游行",
+        "短途旅行",
+        "搜寻",
+        "节日",
+        "焦虑",
+        "奶牛",
+        "弗雷德鸟",
+        "测验",
+        "婴儿用品",
+        "花车",
+        "学生",
+        "服装",
+        "拖拉机",
+        "尤皮",
+        "追求",
+        "烟花",
+        "地图",
+        "汽车旅馆",
+        "播放列表",
+        "行进",
+        "伐倒",
+        "劈开",
+        "蛋糕",
+        "横幅",
+        "表演",
+        "田地",
+        "鸭尾胡",
+        "贝果",
+        "饼干",
+        "诺迪",
+        "胡须样式"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "尿布",
+                "伯尼",
+                "波",
+                "山羊胡"
+            ]
+        },
+        {
+            "cards": [
+                "吉祥物",
+                "摇铃",
+                "冰堡",
+                "旅行",
+                "农场"
+            ]
+        },
+        {
+            "cards": [
+                "街道",
+                "追寻",
+                "罗瑞",
+                "成功",
+                "成绩",
+                "格里蒂"
+            ]
+        },
+        {
+            "cards": [
+                "巴尔博胡",
+                "分数",
+                "砍",
+                "考试",
+                "公路",
+                "劈",
+                "调查"
+            ]
+        }
+    ]
+}

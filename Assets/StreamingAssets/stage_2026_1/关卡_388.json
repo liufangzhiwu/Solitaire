@@ -1,0 +1,369 @@
+{
+    "levelId": 388,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "饮料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "果汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "康普茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "抹茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "拿铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式浓缩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图形",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "像素",
+                    "icon": false
+                },
+                {
+                    "wordId": "点",
+                    "icon": false
+                },
+                {
+                    "wordId": "字节",
+                    "icon": false
+                },
+                {
+                    "wordId": "精灵图",
+                    "icon": false
+                },
+                {
+                    "wordId": "图示",
+                    "icon": false
+                },
+                {
+                    "wordId": "光栅",
+                    "icon": false
+                },
+                {
+                    "wordId": "帧",
+                    "icon": false
+                },
+                {
+                    "wordId": "块",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "道德",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伦理",
+                    "icon": false
+                },
+                {
+                    "wordId": "荣誉",
+                    "icon": false
+                },
+                {
+                    "wordId": "愧疚",
+                    "icon": false
+                },
+                {
+                    "wordId": "骄傲",
+                    "icon": false
+                },
+                {
+                    "wordId": "羞耻",
+                    "icon": false
+                },
+                {
+                    "wordId": "真理",
+                    "icon": false
+                },
+                {
+                    "wordId": "诚实",
+                    "icon": false
+                },
+                {
+                    "wordId": "品德",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "防护",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神盾",
+                    "icon": false
+                },
+                {
+                    "wordId": "盾牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "屏障",
+                    "icon": false
+                },
+                {
+                    "wordId": "守卫",
+                    "icon": false
+                },
+                {
+                    "wordId": "堡垒",
+                    "icon": false
+                },
+                {
+                    "wordId": "护墙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行李",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手提箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "背包",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行包",
+                    "icon": false
+                },
+                {
+                    "wordId": "挎包",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "大衣箱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "污渍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "污迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "斑点",
+                    "icon": false
+                },
+                {
+                    "wordId": "污点",
+                    "icon": false
+                },
+                {
+                    "wordId": "大片污渍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "长笛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "短笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "横笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "中音长笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "低音长笛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "码头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "突堤",
+                    "icon": false
+                },
+                {
+                    "wordId": "岸壁",
+                    "icon": false
+                },
+                {
+                    "wordId": "埠头",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "薄雾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "霾",
+                    "icon": false
+                },
+                {
+                    "wordId": "水汽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "飘移物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙丘",
+                    "icon": true
+                },
+                {
+                    "wordId": "雪堆",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟尘",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "行李",
+        "守卫",
+        "精灵图",
+        "品德",
+        "荣誉",
+        "污点",
+        "堡垒",
+        "意式浓缩",
+        "像素",
+        "雾",
+        "块",
+        "抹茶",
+        "横笛",
+        "雪堆",
+        "旅行包",
+        "飘移物",
+        "盾牌",
+        "旅行箱",
+        "长笛",
+        "图示",
+        "饮料",
+        "霾",
+        "挎包",
+        "背包",
+        "突堤",
+        "拿铁",
+        "大片污渍",
+        "大衣箱",
+        "中音长笛",
+        "低音长笛",
+        "屏障",
+        "真理",
+        "羞耻",
+        "水汽",
+        "光栅",
+        "污渍",
+        "岸壁",
+        "愧疚",
+        "牛奶",
+        "帧",
+        "康普茶",
+        "诚实"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "污迹",
+                "道德",
+                "伦理",
+                "短笛"
+            ]
+        },
+        {
+            "cards": [
+                "果汁",
+                "茶",
+                "点",
+                "摩卡",
+                "骄傲"
+            ]
+        },
+        {
+            "cards": [
+                "防护",
+                "烟尘",
+                "字节",
+                "图形",
+                "沙丘",
+                "护墙"
+            ]
+        },
+        {
+            "cards": [
+                "手提箱",
+                "码头",
+                "神盾",
+                "斑点",
+                "埠头",
+                "薄雾",
+                "泊位"
+            ]
+        }
+    ]
+}

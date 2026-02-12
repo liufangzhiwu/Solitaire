@@ -1,0 +1,453 @@
+{
+    "levelId": 56,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 170,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "动物学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "昆虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟类",
+                    "icon": false
+                },
+                {
+                    "wordId": "爬行动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼类",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物行为学",
+                    "icon": false
+                },
+                {
+                    "wordId": "哺乳动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "栖息地",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "民间传说",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巨魔",
+                    "icon": true
+                },
+                {
+                    "wordId": "哥布林",
+                    "icon": true
+                },
+                {
+                    "wordId": "食人魔",
+                    "icon": true
+                },
+                {
+                    "wordId": "报丧女妖",
+                    "icon": true
+                },
+                {
+                    "wordId": "独角兽",
+                    "icon": true
+                },
+                {
+                    "wordId": "仙女",
+                    "icon": true
+                },
+                {
+                    "wordId": "地精",
+                    "icon": true
+                },
+                {
+                    "wordId": "精灵",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "首字母缩略词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "NASA",
+                    "icon": false
+                },
+                {
+                    "wordId": "FBI",
+                    "icon": false
+                },
+                {
+                    "wordId": "UNESCO",
+                    "icon": false
+                },
+                {
+                    "wordId": "NATO",
+                    "icon": false
+                },
+                {
+                    "wordId": "HTML",
+                    "icon": false
+                },
+                {
+                    "wordId": "HTTP",
+                    "icon": false
+                },
+                {
+                    "wordId": "GPS",
+                    "icon": false
+                },
+                {
+                    "wordId": "USB",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "亚洲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "中国",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰国",
+                    "icon": false
+                },
+                {
+                    "wordId": "缅甸",
+                    "icon": false
+                },
+                {
+                    "wordId": "越南",
+                    "icon": false
+                },
+                {
+                    "wordId": "老挝",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼泊尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "不丹",
+                    "icon": false
+                },
+                {
+                    "wordId": "朝鲜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "护照",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "签证",
+                    "icon": false
+                },
+                {
+                    "wordId": "印章",
+                    "icon": false
+                },
+                {
+                    "wordId": "名字",
+                    "icon": false
+                },
+                {
+                    "wordId": "姓氏",
+                    "icon": false
+                },
+                {
+                    "wordId": "照片",
+                    "icon": false
+                },
+                {
+                    "wordId": "全息图",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神秘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "隐蔽的",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐秘的",
+                    "icon": false
+                },
+                {
+                    "wordId": "神秘的",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐藏的",
+                    "icon": false
+                },
+                {
+                    "wordId": "晦涩的",
+                    "icon": false
+                },
+                {
+                    "wordId": "难以捉摸的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纸张",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "A0",
+                    "icon": false
+                },
+                {
+                    "wordId": "A1",
+                    "icon": false
+                },
+                {
+                    "wordId": "A2",
+                    "icon": false
+                },
+                {
+                    "wordId": "A3",
+                    "icon": false
+                },
+                {
+                    "wordId": "A4",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "聆听",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "音乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "播客",
+                    "icon": false
+                },
+                {
+                    "wordId": "广播",
+                    "icon": false
+                },
+                {
+                    "wordId": "音乐会",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟鸣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "树",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "细枝",
+                    "icon": false
+                },
+                {
+                    "wordId": "树枝",
+                    "icon": false
+                },
+                {
+                    "wordId": "树皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "树叶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美德",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "诚实",
+                    "icon": false
+                },
+                {
+                    "wordId": "勇气",
+                    "icon": false
+                },
+                {
+                    "wordId": "正义",
+                    "icon": false
+                },
+                {
+                    "wordId": "智慧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "潮湿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "湿润",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿热",
+                    "icon": false
+                },
+                {
+                    "wordId": "微湿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "花环",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凯旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "胜利",
+                    "icon": false
+                },
+                {
+                    "wordId": "成功",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "动物行为学",
+        "食人魔",
+        "鱼类",
+        "USB",
+        "A4",
+        "签证",
+        "不丹",
+        "音乐会",
+        "哥布林",
+        "成功",
+        "美德",
+        "UNESCO",
+        "照片",
+        "动物学",
+        "名字",
+        "树枝",
+        "晦涩的",
+        "栖息地",
+        "正义",
+        "报丧女妖",
+        "潮湿",
+        "HTML",
+        "胜利",
+        "缅甸",
+        "爬行动物",
+        "鸟鸣",
+        "哺乳动物",
+        "诚实",
+        "FBI",
+        "隐藏的",
+        "勇气",
+        "神秘的",
+        "湿热",
+        "树",
+        "仙女",
+        "凯旋",
+        "越南",
+        "A1",
+        "隐蔽的",
+        "树皮",
+        "中国",
+        "朝鲜",
+        "湿润",
+        "动物",
+        "聆听",
+        "尼泊尔",
+        "NASA",
+        "昆虫",
+        "A2",
+        "树叶",
+        "细枝",
+        "智慧",
+        "纸张",
+        "广播"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "独角兽",
+                "A0",
+                "花环",
+                "A3",
+                "老挝"
+            ]
+        },
+        {
+            "cards": [
+                "亚洲",
+                "音乐",
+                "护照",
+                "巨魔",
+                "NATO",
+                "姓氏"
+            ]
+        },
+        {
+            "cards": [
+                "播客",
+                "HTTP",
+                "泰国",
+                "精灵",
+                "隐秘的",
+                "微湿",
+                "GPS"
+            ]
+        },
+        {
+            "cards": [
+                "首字母缩略词",
+                "地精",
+                "鸟类",
+                "印章",
+                "神秘",
+                "难以捉摸的",
+                "民间传说",
+                "全息图"
+            ]
+        }
+    ]
+}

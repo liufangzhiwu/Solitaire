@@ -1,0 +1,453 @@
+{
+    "levelId": 176,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 180,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "击打",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "撞击",
+                    "icon": false
+                },
+                {
+                    "wordId": "掌掴",
+                    "icon": false
+                },
+                {
+                    "wordId": "拳击",
+                    "icon": false
+                },
+                {
+                    "wordId": "拍击",
+                    "icon": false
+                },
+                {
+                    "wordId": "刺拳",
+                    "icon": false
+                },
+                {
+                    "wordId": "踢",
+                    "icon": false
+                },
+                {
+                    "wordId": "勾拳",
+                    "icon": false
+                },
+                {
+                    "wordId": "上勾拳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神祇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿蒙",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩耳甫斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "提亚玛特",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊什塔尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿南刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "芭丝特",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛基",
+                    "icon": false
+                },
+                {
+                    "wordId": "伽内什",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地下墓穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "隧道",
+                    "icon": false
+                },
+                {
+                    "wordId": "地下墓窟",
+                    "icon": false
+                },
+                {
+                    "wordId": "采石场",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨灰安置所",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱顶墓穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏骸所",
+                    "icon": false
+                },
+                {
+                    "wordId": "地下建筑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "混合",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "调和",
+                    "icon": false
+                },
+                {
+                    "wordId": "结合",
+                    "icon": false
+                },
+                {
+                    "wordId": "融合",
+                    "icon": false
+                },
+                {
+                    "wordId": "合并",
+                    "icon": false
+                },
+                {
+                    "wordId": "兼并",
+                    "icon": false
+                },
+                {
+                    "wordId": "混杂",
+                    "icon": false
+                },
+                {
+                    "wordId": "联合",
+                    "icon": false
+                },
+                {
+                    "wordId": "搅拌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "染料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胭脂红",
+                    "icon": false
+                },
+                {
+                    "wordId": "靛蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "深褐色",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏红花",
+                    "icon": false
+                },
+                {
+                    "wordId": "菘蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "茜草",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肉毒杆菌毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓖麻毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "肌毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒芹堿",
+                    "icon": false
+                },
+                {
+                    "wordId": "相思豆毒素",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "足部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "距骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "跗骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚趾",
+                    "icon": false
+                },
+                {
+                    "wordId": "足弓",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚踝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "难闻之物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "臭鼬",
+                    "icon": true
+                },
+                {
+                    "wordId": "垃圾",
+                    "icon": true
+                },
+                {
+                    "wordId": "蓝纹乳酪",
+                    "icon": true
+                },
+                {
+                    "wordId": "大蒜",
+                    "icon": true
+                },
+                {
+                    "wordId": "榴莲",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "领饰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "领巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿斯科特领带",
+                    "icon": false
+                },
+                {
+                    "wordId": "领结",
+                    "icon": false
+                },
+                {
+                    "wordId": "波洛领带",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "铃铛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哑铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "自行车铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "手摇铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "叮当铃",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "真实",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "真实的",
+                    "icon": false
+                },
+                {
+                    "wordId": "原始的",
+                    "icon": false
+                },
+                {
+                    "wordId": "真正的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "伊比利亚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西班牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "安道尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄牙",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "茜草",
+        "脚趾",
+        "洛基",
+        "搅拌",
+        "勾拳",
+        "合并",
+        "采石场",
+        "藏骸所",
+        "提亚玛特",
+        "肌毒素",
+        "真实的",
+        "芭丝特",
+        "足弓",
+        "调和",
+        "联合",
+        "染料",
+        "伊比利亚",
+        "脚踝",
+        "大蒜",
+        "混合",
+        "自行车铃",
+        "蜂毒",
+        "兼并",
+        "藏红花",
+        "毒芹堿",
+        "地下墓窟",
+        "难闻之物",
+        "拱顶墓穴",
+        "叮当铃",
+        "距骨",
+        "榴莲",
+        "地下建筑",
+        "融合",
+        "真正的",
+        "西班牙",
+        "葡萄牙",
+        "隧道",
+        "踢",
+        "垃圾",
+        "撞击",
+        "肉毒杆菌毒素",
+        "安道尔",
+        "岩洞",
+        "哑铃",
+        "波洛领带",
+        "跗骨",
+        "毒素",
+        "阿蒙",
+        "领结",
+        "神祇",
+        "混杂",
+        "阿南刻",
+        "臭鼬",
+        "深褐色"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "靛蓝",
+                "蓖麻毒素",
+                "原始的",
+                "掌掴",
+                "击打"
+            ]
+        },
+        {
+            "cards": [
+                "摩耳甫斯",
+                "手摇铃",
+                "伊什塔尔",
+                "拳击",
+                "骨灰安置所",
+                "菘蓝"
+            ]
+        },
+        {
+            "cards": [
+                "领饰",
+                "上勾拳",
+                "铃铛",
+                "胭脂红",
+                "拍击",
+                "领巾",
+                "阿斯科特领带"
+            ]
+        },
+        {
+            "cards": [
+                "相思豆毒素",
+                "刺拳",
+                "地下墓穴",
+                "结合",
+                "真实",
+                "伽内什",
+                "足部",
+                "蓝纹乳酪"
+            ]
+        }
+    ]
+}

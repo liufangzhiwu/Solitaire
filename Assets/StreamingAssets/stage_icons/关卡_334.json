@@ -1,0 +1,369 @@
+{
+    "levelId": 334,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法师",
+                    "icon": false
+                },
+                {
+                    "wordId": "潜行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧师",
+                    "icon": false
+                },
+                {
+                    "wordId": "战士",
+                    "icon": false
+                },
+                {
+                    "wordId": "吟游诗人",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "德鲁伊",
+                    "icon": false
+                },
+                {
+                    "wordId": "游侠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "陷阱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陷坑",
+                    "icon": false
+                },
+                {
+                    "wordId": "套索",
+                    "icon": false
+                },
+                {
+                    "wordId": "网",
+                    "icon": false
+                },
+                {
+                    "wordId": "绊线",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕熊夹",
+                    "icon": false
+                },
+                {
+                    "wordId": "绞索",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕人陷阱",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦油坑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火炬",
+                    "icon": true
+                },
+                {
+                    "wordId": "信号弹",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯光信号",
+                    "icon": true
+                },
+                {
+                    "wordId": "火盆",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟雾",
+                    "icon": true
+                },
+                {
+                    "wordId": "火炬信号",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "爱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亲吻",
+                    "icon": false
+                },
+                {
+                    "wordId": "心",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱抚",
+                    "icon": false
+                },
+                {
+                    "wordId": "拥抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "信物",
+                    "icon": false
+                },
+                {
+                    "wordId": "激情",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "学生",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "家庭作业",
+                    "icon": false
+                },
+                {
+                    "wordId": "讲座",
+                    "icon": false
+                },
+                {
+                    "wordId": "辅导课",
+                    "icon": false
+                },
+                {
+                    "wordId": "研讨会",
+                    "icon": false
+                },
+                {
+                    "wordId": "测验",
+                    "icon": false
+                },
+                {
+                    "wordId": "实验工作",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舒适",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扶手椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁炉",
+                    "icon": false
+                },
+                {
+                    "wordId": "枕头",
+                    "icon": false
+                },
+                {
+                    "wordId": "毯子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "派系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氏族",
+                    "icon": false
+                },
+                {
+                    "wordId": "联盟",
+                    "icon": false
+                },
+                {
+                    "wordId": "教团",
+                    "icon": false
+                },
+                {
+                    "wordId": "行会",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "球体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水晶球",
+                    "icon": true
+                },
+                {
+                    "wordId": "等离子球",
+                    "icon": true
+                },
+                {
+                    "wordId": "球",
+                    "icon": true
+                },
+                {
+                    "wordId": "棱镜球",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "特质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "勇敢",
+                    "icon": false
+                },
+                {
+                    "wordId": "聪明",
+                    "icon": false
+                },
+                {
+                    "wordId": "忠诚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "男孩名",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚历克斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "利亚姆",
+                    "icon": false
+                },
+                {
+                    "wordId": "诺亚",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "灯塔",
+        "灯光信号",
+        "球体",
+        "捕人陷阱",
+        "聪明",
+        "讲座",
+        "男孩名",
+        "焦油坑",
+        "战士",
+        "联盟",
+        "法师",
+        "枕头",
+        "绞索",
+        "棱镜球",
+        "教团",
+        "亲吻",
+        "等离子球",
+        "测验",
+        "忠诚",
+        "研讨会",
+        "特质",
+        "派系",
+        "行会",
+        "信物",
+        "壁炉",
+        "勇敢",
+        "绊线",
+        "信号弹",
+        "辅导课",
+        "氏族",
+        "实验工作",
+        "烟雾",
+        "捕熊夹",
+        "潜行者",
+        "信标",
+        "火盆",
+        "亚历克斯",
+        "游侠",
+        "火炬信号",
+        "吟游诗人",
+        "激情",
+        "水晶球"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "牧师",
+                "舒适",
+                "球",
+                "火炬"
+            ]
+        },
+        {
+            "cards": [
+                "职业",
+                "爱",
+                "拥抱",
+                "圣骑士",
+                "心"
+            ]
+        },
+        {
+            "cards": [
+                "家庭作业",
+                "网",
+                "诺亚",
+                "学生",
+                "利亚姆",
+                "陷坑"
+            ]
+        },
+        {
+            "cards": [
+                "灯笼",
+                "德鲁伊",
+                "爱抚",
+                "陷阱",
+                "套索",
+                "扶手椅",
+                "毯子"
+            ]
+        }
+    ]
+}

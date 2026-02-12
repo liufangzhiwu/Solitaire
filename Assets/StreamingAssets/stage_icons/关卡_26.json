@@ -1,0 +1,521 @@
+{
+    "levelId": 26,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "歌剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "《杜鹃山》",
+                    "icon": false
+                },
+                {
+                    "wordId": "《黑须马偕》",
+                    "icon": false
+                },
+                {
+                    "wordId": "《郑成功》",
+                    "icon": false
+                },
+                {
+                    "wordId": "《逐鹿记》",
+                    "icon": false
+                },
+                {
+                    "wordId": "《福春嫁女》",
+                    "icon": false
+                },
+                {
+                    "wordId": "《茶花女》",
+                    "icon": false
+                },
+                {
+                    "wordId": "《蓬莱》",
+                    "icon": false
+                },
+                {
+                    "wordId": "《盘丝洞》",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "风",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "微风",
+                    "icon": false
+                },
+                {
+                    "wordId": "劲风",
+                    "icon": false
+                },
+                {
+                    "wordId": "寒风",
+                    "icon": false
+                },
+                {
+                    "wordId": "暖风",
+                    "icon": false
+                },
+                {
+                    "wordId": "强风",
+                    "icon": false
+                },
+                {
+                    "wordId": "季风",
+                    "icon": false
+                },
+                {
+                    "wordId": "阵风",
+                    "icon": false
+                },
+                {
+                    "wordId": "飓风",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动物科",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山羊科",
+                    "icon": false
+                },
+                {
+                    "wordId": "绵羊科",
+                    "icon": false
+                },
+                {
+                    "wordId": "猫科",
+                    "icon": false
+                },
+                {
+                    "wordId": "马科",
+                    "icon": false
+                },
+                {
+                    "wordId": "犬科",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼠科",
+                    "icon": false
+                },
+                {
+                    "wordId": "猪科",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛科",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水疗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "美甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "按摩",
+                    "icon": false
+                },
+                {
+                    "wordId": "足部护理",
+                    "icon": false
+                },
+                {
+                    "wordId": "去角质",
+                    "icon": false
+                },
+                {
+                    "wordId": "脱毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "保健",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑拿",
+                    "icon": false
+                },
+                {
+                    "wordId": "美容",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恒星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛郎星",
+                    "icon": false
+                },
+                {
+                    "wordId": "北极星",
+                    "icon": false
+                },
+                {
+                    "wordId": "天狼星",
+                    "icon": false
+                },
+                {
+                    "wordId": "织女星",
+                    "icon": false
+                },
+                {
+                    "wordId": "参宿七",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鹦鹉种类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金刚鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "凤头鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "虎皮鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "折衷鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "长尾鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "彩虹鹦鹉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "人工智能",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "机器学习",
+                    "icon": false
+                },
+                {
+                    "wordId": "深度学习",
+                    "icon": false
+                },
+                {
+                    "wordId": "神经网络",
+                    "icon": false
+                },
+                {
+                    "wordId": "算法",
+                    "icon": false
+                },
+                {
+                    "wordId": "自动化",
+                    "icon": false
+                },
+                {
+                    "wordId": "数据分析",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "菜肴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海鲜饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "炖牛肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖喱",
+                    "icon": false
+                },
+                {
+                    "wordId": "千层面",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "剧集",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧情",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉丝圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧情回顾",
+                    "icon": false
+                },
+                {
+                    "wordId": "季",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "角度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "直角",
+                    "icon": false
+                },
+                {
+                    "wordId": "平角",
+                    "icon": false
+                },
+                {
+                    "wordId": "锐角",
+                    "icon": false
+                },
+                {
+                    "wordId": "钝角",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行政区划",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "省",
+                    "icon": false
+                },
+                {
+                    "wordId": "国家",
+                    "icon": false
+                },
+                {
+                    "wordId": "镇",
+                    "icon": false
+                },
+                {
+                    "wordId": "城市",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阅读",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "期刊",
+                    "icon": false
+                },
+                {
+                    "wordId": "文章",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂志",
+                    "icon": false
+                },
+                {
+                    "wordId": "小册子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "说话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "对话",
+                    "icon": false
+                },
+                {
+                    "wordId": "辩论",
+                    "icon": false
+                },
+                {
+                    "wordId": "争论",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "发型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "波浪发",
+                    "icon": true
+                },
+                {
+                    "wordId": "卷发",
+                    "icon": true
+                },
+                {
+                    "wordId": "紧密卷发",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "咖喱",
+        "平角",
+        "长尾鹦鹉",
+        "犬科",
+        "千层面",
+        "阅读",
+        "飓风",
+        "牛郎星",
+        "对话",
+        "劲风",
+        "说话",
+        "绵羊科",
+        "北极星",
+        "足部护理",
+        "直角",
+        "阵风",
+        "卷发",
+        "机器学习",
+        "《茶花女》",
+        "海鲜饭",
+        "剧情回顾",
+        "数据分析",
+        "神经网络",
+        "国家",
+        "强风",
+        "桑拿",
+        "女演员",
+        "行政区划",
+        "《黑须马偕》",
+        "炖牛肉",
+        "山羊科",
+        "按摩",
+        "动物科",
+        "《福春嫁女》",
+        "算法",
+        "角度",
+        "深度学习",
+        "小册子",
+        "《杜鹃山》",
+        "美容",
+        "去角质",
+        "猫科",
+        "鼠科",
+        "波浪发",
+        "折衷鹦鹉",
+        "争论",
+        "季",
+        "脱毛",
+        "歌剧",
+        "肉饼",
+        "太阳",
+        "保健",
+        "辩论",
+        "金刚鹦鹉",
+        "省",
+        "美甲",
+        "菜肴"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "钝角",
+                "人工智能",
+                "剧集",
+                "马科",
+                "风"
+            ]
+        },
+        {
+            "cards": [
+                "《逐鹿记》",
+                "镇",
+                "鹦鹉种类",
+                "天狼星",
+                "牛科",
+                "剧情"
+            ]
+        },
+        {
+            "cards": [
+                "城市",
+                "猪科",
+                "杂志",
+                "粉丝圈",
+                "自动化",
+                "《盘丝洞》",
+                "水疗"
+            ]
+        },
+        {
+            "cards": [
+                "凤头鹦鹉",
+                "期刊",
+                "紧密卷发",
+                "参宿七",
+                "季风",
+                "《蓬莱》",
+                "微风",
+                "虎皮鹦鹉"
+            ]
+        },
+        {
+            "cards": [
+                "锐角",
+                "《郑成功》",
+                "织女星",
+                "发型",
+                "彩虹鹦鹉",
+                "文章",
+                "暖风",
+                "恒星",
+                "寒风"
+            ]
+        }
+    ]
+}

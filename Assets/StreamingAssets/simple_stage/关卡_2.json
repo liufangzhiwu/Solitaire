@@ -1,0 +1,197 @@
+{
+    "levelId": 2,
+    "slotsDefault": 3,
+    "slotsRewarded": 3,
+    "movesLimit": 65,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "山羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "马",
+                    "icon": true
+                },
+                {
+                    "wordId": "猴子",
+                    "icon": true
+                },
+                {
+                    "wordId": "熊",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "电影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西部片",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧情片",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜剧片",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐怖片",
+                    "icon": false
+                },
+                {
+                    "wordId": "爆米花",
+                    "icon": false
+                },
+                {
+                    "wordId": "电影票",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "量角器",
+                    "icon": false
+                },
+                {
+                    "wordId": "钉书机",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆规",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "汉堡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛肉",
+                    "icon": true
+                },
+                {
+                    "wordId": "面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "酱汁",
+                    "icon": true
+                },
+                {
+                    "wordId": "乳酪",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "坚果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山核桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "腰果",
+                    "icon": false
+                },
+                {
+                    "wordId": "花生",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大陆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "非洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧洲",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大陆",
+        "喜剧片",
+        "腰果",
+        "欧洲",
+        "爆米花",
+        "花生",
+        "西部片",
+        "量角器",
+        "剧情片",
+        "圆规",
+        "羊",
+        "酱汁",
+        "动物",
+        "笔",
+        "电影票",
+        "面包",
+        "汉堡",
+        "乳酪",
+        "牛肉",
+        "钉书机",
+        "恐怖片",
+        "山核桃",
+        "马"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "猪",
+                "非洲"
+            ]
+        },
+        {
+            "cards": [
+                "坚果",
+                "熊",
+                "电影"
+            ]
+        },
+        {
+            "cards": [
+                "猴子",
+                "亚洲",
+                "文具",
+                "山羊"
+            ]
+        }
+    ]
+}

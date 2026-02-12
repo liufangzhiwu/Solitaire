@@ -1,0 +1,369 @@
+{
+    "levelId": 175,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "色彩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "栗色",
+                    "icon": false
+                },
+                {
+                    "wordId": "勃艮第红",
+                    "icon": false
+                },
+                {
+                    "wordId": "米色",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭石",
+                    "icon": false
+                },
+                {
+                    "wordId": "香橼黄",
+                    "icon": false
+                },
+                {
+                    "wordId": "浅黄",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭色",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋壳色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "传说生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斯芬克斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "凤凰",
+                    "icon": true
+                },
+                {
+                    "wordId": "独角兽",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": true
+                },
+                {
+                    "wordId": "戈耳工",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "刻耳柏洛斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "边界",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "边缘",
+                    "icon": false
+                },
+                {
+                    "wordId": "界限",
+                    "icon": false
+                },
+                {
+                    "wordId": "边境",
+                    "icon": false
+                },
+                {
+                    "wordId": "页边",
+                    "icon": false
+                },
+                {
+                    "wordId": "边界线",
+                    "icon": false
+                },
+                {
+                    "wordId": "限度",
+                    "icon": false
+                },
+                {
+                    "wordId": "折边",
+                    "icon": false
+                },
+                {
+                    "wordId": "边框",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长臂猿",
+                    "icon": false
+                },
+                {
+                    "wordId": "合趾猿",
+                    "icon": false
+                },
+                {
+                    "wordId": "大猩猩",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑猩猩",
+                    "icon": false
+                },
+                {
+                    "wordId": "倭黑猩猩",
+                    "icon": false
+                },
+                {
+                    "wordId": "猩猩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "下颌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "下颌骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "口部",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "臼齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "冠状突",
+                    "icon": false
+                },
+                {
+                    "wordId": "头骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "漂浮物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "游泳圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "橡皮鸭",
+                    "icon": true
+                },
+                {
+                    "wordId": "浮标",
+                    "icon": true
+                },
+                {
+                    "wordId": "小船",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "郁金香",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "栽培品种",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳞茎",
+                    "icon": false
+                },
+                {
+                    "wordId": "荷兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "花瓣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "腿部服饰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长袜",
+                    "icon": false
+                },
+                {
+                    "wordId": "短袜",
+                    "icon": false
+                },
+                {
+                    "wordId": "打底裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧身裤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "贵族",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "出身高贵的",
+                    "icon": false
+                },
+                {
+                    "wordId": "女士",
+                    "icon": false
+                },
+                {
+                    "wordId": "勋爵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "陷阱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圈套",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕捉",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕获",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "栽培品种",
+        "捕捉",
+        "下颌",
+        "头骨",
+        "栗色",
+        "小船",
+        "花瓣",
+        "牙齿",
+        "浮标",
+        "限度",
+        "边界线",
+        "出身高贵的",
+        "下颌骨",
+        "页边",
+        "长袜",
+        "游泳圈",
+        "边框",
+        "边境",
+        "赭色",
+        "陷阱",
+        "黑猩猩",
+        "长臂猿",
+        "紧身裤",
+        "橡皮鸭",
+        "赭石",
+        "传说生物",
+        "蛋壳色",
+        "龙",
+        "北海巨妖",
+        "捕获",
+        "漂浮物",
+        "狮鹫",
+        "色彩",
+        "界限",
+        "荷兰",
+        "浅黄",
+        "戈耳工",
+        "冠状突",
+        "圈套",
+        "米色",
+        "边缘",
+        "口部"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "凤凰",
+                "斯芬克斯",
+                "刻耳柏洛斯",
+                "女士"
+            ]
+        },
+        {
+            "cards": [
+                "合趾猿",
+                "折边",
+                "猿",
+                "鳞茎",
+                "大猩猩"
+            ]
+        },
+        {
+            "cards": [
+                "香橼黄",
+                "边界",
+                "勃艮第红",
+                "打底裤",
+                "腿部服饰",
+                "独角兽"
+            ]
+        },
+        {
+            "cards": [
+                "勋爵",
+                "郁金香",
+                "猩猩",
+                "倭黑猩猩",
+                "臼齿",
+                "贵族",
+                "短袜"
+            ]
+        }
+    ]
+}

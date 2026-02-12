@@ -1,0 +1,217 @@
+{
+    "levelId": 92,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 80,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "作物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橄榄",
+                    "icon": true
+                },
+                {
+                    "wordId": "向日葵",
+                    "icon": true
+                },
+                {
+                    "wordId": "亚麻",
+                    "icon": true
+                },
+                {
+                    "wordId": "藜麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "燕麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "玉米",
+                    "icon": true
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": true
+                },
+                {
+                    "wordId": "土豆",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "服装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手套",
+                    "icon": true
+                },
+                {
+                    "wordId": "连衣裙",
+                    "icon": true
+                },
+                {
+                    "wordId": "裤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "衬衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "内裤",
+                    "icon": true
+                },
+                {
+                    "wordId": "外套",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "半身裙",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "派对",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "五彩纸屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞蹈",
+                    "icon": false
+                },
+                {
+                    "wordId": "音乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "朋友",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "村庄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "庄园",
+                    "icon": false
+                },
+                {
+                    "wordId": "乡村的",
+                    "icon": false
+                },
+                {
+                    "wordId": "农场",
+                    "icon": false
+                },
+                {
+                    "wordId": "村舍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "新能源",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风力",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳光",
+                    "icon": false
+                },
+                {
+                    "wordId": "水力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "男人",
+                    "icon": true
+                },
+                {
+                    "wordId": "女人",
+                    "icon": true
+                },
+                {
+                    "wordId": "小孩",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "向日葵",
+        "半身裙",
+        "舞蹈",
+        "内裤",
+        "土豆",
+        "燕麦",
+        "庄园",
+        "连衣裙",
+        "衬衫",
+        "朋友",
+        "派对",
+        "番茄",
+        "橄榄",
+        "音乐",
+        "夹克",
+        "女人",
+        "藜麦",
+        "玉米",
+        "村庄",
+        "亚麻",
+        "服装",
+        "五彩纸屑",
+        "太阳光",
+        "外套"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "男人",
+                "手套",
+                "村舍"
+            ]
+        },
+        {
+            "cards": [
+                "乡村的",
+                "水力",
+                "裤子",
+                "作物"
+            ]
+        },
+        {
+            "cards": [
+                "风力",
+                "人",
+                "小孩",
+                "新能源",
+                "农场"
+            ]
+        }
+    ]
+}

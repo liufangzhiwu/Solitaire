@@ -1,0 +1,217 @@
+{
+    "levelId": 343,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "边界",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "边缘",
+                    "icon": false
+                },
+                {
+                    "wordId": "边距",
+                    "icon": false
+                },
+                {
+                    "wordId": "周边",
+                    "icon": false
+                },
+                {
+                    "wordId": "限制",
+                    "icon": false
+                },
+                {
+                    "wordId": "界限",
+                    "icon": false
+                },
+                {
+                    "wordId": "临界点",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮缘",
+                    "icon": false
+                },
+                {
+                    "wordId": "边疆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日出",
+                    "icon": false
+                },
+                {
+                    "wordId": "早晨",
+                    "icon": false
+                },
+                {
+                    "wordId": "正午",
+                    "icon": false
+                },
+                {
+                    "wordId": "中午",
+                    "icon": false
+                },
+                {
+                    "wordId": "日落",
+                    "icon": false
+                },
+                {
+                    "wordId": "傍晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄昏",
+                    "icon": false
+                },
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "杯子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "饮品",
+                    "icon": false
+                },
+                {
+                    "wordId": "小口喝",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲泡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "警报",
+                    "icon": false
+                },
+                {
+                    "wordId": "哔哔声",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪光",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉冲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "路径",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "路线",
+                    "icon": true
+                },
+                {
+                    "wordId": "小径",
+                    "icon": true
+                },
+                {
+                    "wordId": "轨迹",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "犯罪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "入室盗窃",
+                    "icon": true
+                },
+                {
+                    "wordId": "人身侵犯",
+                    "icon": true
+                },
+                {
+                    "wordId": "诈骗",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "警报",
+        "日间",
+        "日出",
+        "界限",
+        "正午",
+        "小口喝",
+        "周边",
+        "中午",
+        "傍晚",
+        "冲泡",
+        "诈骗",
+        "黄昏",
+        "边疆",
+        "临界点",
+        "轨迹",
+        "哔哔声",
+        "路径",
+        "日落",
+        "茶",
+        "黎明",
+        "人身侵犯",
+        "犯罪",
+        "路线",
+        "小径"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "杯子",
+                "闪光",
+                "边距"
+            ]
+        },
+        {
+            "cards": [
+                "饮品",
+                "边缘",
+                "轮缘",
+                "信号"
+            ]
+        },
+        {
+            "cards": [
+                "限制",
+                "入室盗窃",
+                "脉冲",
+                "早晨",
+                "边界"
+            ]
+        }
+    ]
+}

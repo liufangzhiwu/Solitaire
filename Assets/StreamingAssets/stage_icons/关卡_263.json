@@ -1,0 +1,369 @@
+{
+    "levelId": 263,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "湖泊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "维多利亚湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏必利尔湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "密歇根湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "安大略湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝加尔湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "休伦湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "的的喀喀湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "日内瓦湖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "首都",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伦敦",
+                    "icon": false
+                },
+                {
+                    "wordId": "东京",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴黎",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏林",
+                    "icon": false
+                },
+                {
+                    "wordId": "渥太华",
+                    "icon": false
+                },
+                {
+                    "wordId": "首尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "华沙",
+                    "icon": false
+                },
+                {
+                    "wordId": "维也纳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神祇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奥丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "宙斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊西斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛特",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿婆",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛基",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿努比斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "交响乐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快板",
+                    "icon": false
+                },
+                {
+                    "wordId": "行板",
+                    "icon": false
+                },
+                {
+                    "wordId": "急板",
+                    "icon": false
+                },
+                {
+                    "wordId": "广板",
+                    "icon": false
+                },
+                {
+                    "wordId": "活板",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔板",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "尾码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "能够的",
+                    "icon": false
+                },
+                {
+                    "wordId": "表示行为或结果",
+                    "icon": false
+                },
+                {
+                    "wordId": "表示状态或关系",
+                    "icon": false
+                },
+                {
+                    "wordId": "表示从事者",
+                    "icon": false
+                },
+                {
+                    "wordId": "表示学科",
+                    "icon": false
+                },
+                {
+                    "wordId": "表示动作或状态",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "花卉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "万寿菊",
+                    "icon": false
+                },
+                {
+                    "wordId": "罂粟花",
+                    "icon": false
+                },
+                {
+                    "wordId": "兰花",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纳米技术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石墨烯",
+                    "icon": false
+                },
+                {
+                    "wordId": "气凝胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "量子",
+                    "icon": false
+                },
+                {
+                    "wordId": "纳米管",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "体裁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑色电影",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧情片",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊悚片",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜剧片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "陶艺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双耳瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "陶轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "围裙",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "情感",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "痛苦",
+                    "icon": false
+                },
+                {
+                    "wordId": "兴高采烈",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂怒",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "兰花",
+        "丁香",
+        "巴黎",
+        "维也纳",
+        "柔板",
+        "表示学科",
+        "活板",
+        "快板",
+        "表示动作或状态",
+        "陶艺",
+        "宙斯",
+        "喜剧片",
+        "情感",
+        "气凝胶",
+        "双耳瓶",
+        "首尔",
+        "玛特",
+        "安大略湖",
+        "表示状态或关系",
+        "渥太华",
+        "剧情片",
+        "量子",
+        "伊西斯",
+        "贝加尔湖",
+        "表示从事者",
+        "陶轮",
+        "石墨烯",
+        "围裙",
+        "休伦湖",
+        "纳米技术",
+        "罂粟花",
+        "日内瓦湖",
+        "急板",
+        "痛苦",
+        "尾码",
+        "的的喀喀湖",
+        "阿努比斯",
+        "兴高采烈",
+        "行板",
+        "苏必利尔湖",
+        "万寿菊",
+        "花卉"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "能够的",
+                "伦敦",
+                "体裁",
+                "惊悚片"
+            ]
+        },
+        {
+            "cards": [
+                "交响乐",
+                "广板",
+                "拉",
+                "纳米管",
+                "维多利亚湖"
+            ]
+        },
+        {
+            "cards": [
+                "湿婆",
+                "柏林",
+                "神祇",
+                "湖泊",
+                "表示行为或结果",
+                "华沙"
+            ]
+        },
+        {
+            "cards": [
+                "密歇根湖",
+                "洛基",
+                "东京",
+                "首都",
+                "狂怒",
+                "奥丁",
+                "黑色电影"
+            ]
+        }
+    ]
+}

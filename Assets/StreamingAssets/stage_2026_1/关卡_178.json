@@ -1,0 +1,217 @@
+{
+    "levelId": 178,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "球体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙滩球",
+                    "icon": true
+                },
+                {
+                    "wordId": "气泡",
+                    "icon": true
+                },
+                {
+                    "wordId": "地球仪",
+                    "icon": true
+                },
+                {
+                    "wordId": "柳丁",
+                    "icon": true
+                },
+                {
+                    "wordId": "气球圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛线球",
+                    "icon": true
+                },
+                {
+                    "wordId": "水晶球",
+                    "icon": true
+                },
+                {
+                    "wordId": "迪斯可球",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "靴子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛仔靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "涉水靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "穆克拉克靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪地靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "威灵顿靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "海员靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "徒步靴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "网",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "渔网",
+                    "icon": true
+                },
+                {
+                    "wordId": "球网",
+                    "icon": true
+                },
+                {
+                    "wordId": "紧身裤",
+                    "icon": true
+                },
+                {
+                    "wordId": "安全网",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "碎屑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面包屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "饼干屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋糕屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "馅饼屑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "撕碎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "撕裂",
+                    "icon": false
+                },
+                {
+                    "wordId": "扯破",
+                    "icon": false
+                },
+                {
+                    "wordId": "撕开",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冲泡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖啡",
+                    "icon": false
+                },
+                {
+                    "wordId": "啤酒",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "茶",
+        "海员靴",
+        "地球仪",
+        "牛仔靴",
+        "啤酒",
+        "徒步靴",
+        "饼干屑",
+        "雪地靴",
+        "迪斯可球",
+        "气泡",
+        "蛋糕屑",
+        "穆克拉克靴",
+        "撕碎",
+        "靴子",
+        "球网",
+        "沙滩球",
+        "紧身裤",
+        "水晶球",
+        "气球圈",
+        "网",
+        "咖啡",
+        "安全网",
+        "撕裂",
+        "渔网"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "柳丁",
+                "碎屑",
+                "撕开"
+            ]
+        },
+        {
+            "cards": [
+                "球体",
+                "馅饼屑",
+                "面包屑",
+                "威灵顿靴"
+            ]
+        },
+        {
+            "cards": [
+                "扯破",
+                "涉水靴",
+                "滑雪靴",
+                "冲泡",
+                "毛线球"
+            ]
+        }
+    ]
+}

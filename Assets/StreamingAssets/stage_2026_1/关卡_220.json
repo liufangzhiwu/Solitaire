@@ -1,0 +1,521 @@
+{
+    "levelId": 220,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "柔软",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丝绸",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "枕头",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗓音",
+                    "icon": false
+                },
+                {
+                    "wordId": "羊毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "海绵",
+                    "icon": false
+                },
+                {
+                    "wordId": "技能",
+                    "icon": false
+                },
+                {
+                    "wordId": "温和的脾气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "结束",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "停止",
+                    "icon": false
+                },
+                {
+                    "wordId": "关闭",
+                    "icon": false
+                },
+                {
+                    "wordId": "最终的",
+                    "icon": false
+                },
+                {
+                    "wordId": "最后的",
+                    "icon": false
+                },
+                {
+                    "wordId": "边缘",
+                    "icon": false
+                },
+                {
+                    "wordId": "完成",
+                    "icon": false
+                },
+                {
+                    "wordId": "终止",
+                    "icon": false
+                },
+                {
+                    "wordId": "完毕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地产",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "土地",
+                    "icon": false
+                },
+                {
+                    "wordId": "房屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "别墅",
+                    "icon": false
+                },
+                {
+                    "wordId": "农场",
+                    "icon": false
+                },
+                {
+                    "wordId": "地块",
+                    "icon": false
+                },
+                {
+                    "wordId": "庄园",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧场",
+                    "icon": false
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "活动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "演出",
+                    "icon": false
+                },
+                {
+                    "wordId": "展会",
+                    "icon": false
+                },
+                {
+                    "wordId": "比赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "派对",
+                    "icon": false
+                },
+                {
+                    "wordId": "竞赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "会议",
+                    "icon": false
+                },
+                {
+                    "wordId": "博览会",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛跑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "立方体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骰子",
+                    "icon": true
+                },
+                {
+                    "wordId": "积木",
+                    "icon": true
+                },
+                {
+                    "wordId": "盒子",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰块",
+                    "icon": true
+                },
+                {
+                    "wordId": "方糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "魔方",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "罪行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盗窃",
+                    "icon": false
+                },
+                {
+                    "wordId": "诈骗",
+                    "icon": false
+                },
+                {
+                    "wordId": "纵火",
+                    "icon": false
+                },
+                {
+                    "wordId": "抢劫",
+                    "icon": false
+                },
+                {
+                    "wordId": "伪造",
+                    "icon": false
+                },
+                {
+                    "wordId": "贿赂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "字体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Arial",
+                    "icon": true
+                },
+                {
+                    "wordId": "Calibri",
+                    "icon": true
+                },
+                {
+                    "wordId": "Verdana",
+                    "icon": true
+                },
+                {
+                    "wordId": "Roboto",
+                    "icon": true
+                },
+                {
+                    "wordId": "Oswald",
+                    "icon": true
+                },
+                {
+                    "wordId": "Georgia",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "感官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "视觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "听觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗅觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "触觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "味觉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "女性",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿姨",
+                    "icon": false
+                },
+                {
+                    "wordId": "奶奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "妈妈",
+                    "icon": false
+                },
+                {
+                    "wordId": "姐妹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "键盘乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钢琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "管风琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "手风琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "合成器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "姜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "香料",
+                    "icon": false
+                },
+                {
+                    "wordId": "根茎",
+                    "icon": false
+                },
+                {
+                    "wordId": "姜饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛辣的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "天才",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱因斯坦",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "达芬奇",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌德",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "吉普赛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "游牧民族",
+                    "icon": false
+                },
+                {
+                    "wordId": "民间",
+                    "icon": false
+                },
+                {
+                    "wordId": "大篷车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "典型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "实践",
+                    "icon": false
+                },
+                {
+                    "wordId": "制作",
+                    "icon": false
+                },
+                {
+                    "wordId": "完美",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "柔软",
+        "奶奶",
+        "合成器",
+        "竞赛",
+        "会议",
+        "手风琴",
+        "游牧民族",
+        "立方体",
+        "技能",
+        "诈骗",
+        "房屋",
+        "积木",
+        "方糖",
+        "土地",
+        "盒子",
+        "羊毛",
+        "Oswald",
+        "妈妈",
+        "纵火",
+        "味觉",
+        "歌德",
+        "钢琴",
+        "比赛",
+        "停止",
+        "牛顿",
+        "听觉",
+        "温和的脾气",
+        "抢劫",
+        "皮毛",
+        "嗅觉",
+        "视觉",
+        "海绵",
+        "骰子",
+        "管风琴",
+        "活动",
+        "完美",
+        "制作",
+        "阿姨",
+        "触觉",
+        "字体",
+        "典型",
+        "丝绸",
+        "姐妹",
+        "辛辣的",
+        "Roboto",
+        "完成",
+        "地块",
+        "爱因斯坦",
+        "伪造",
+        "地产",
+        "实践",
+        "女儿",
+        "盗窃",
+        "感官",
+        "最终的",
+        "边缘",
+        "赛跑"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "展会",
+                "关闭",
+                "根茎",
+                "最后的",
+                "Arial"
+            ]
+        },
+        {
+            "cards": [
+                "吉普赛",
+                "女性",
+                "达芬奇",
+                "键盘乐器",
+                "天才",
+                "演出"
+            ]
+        },
+        {
+            "cards": [
+                "姜",
+                "Calibri",
+                "Georgia",
+                "魔方",
+                "完毕",
+                "嗓音",
+                "派对"
+            ]
+        },
+        {
+            "cards": [
+                "结束",
+                "Verdana",
+                "罪行",
+                "农场",
+                "贿赂",
+                "姜饼",
+                "博览会",
+                "民间"
+            ]
+        },
+        {
+            "cards": [
+                "枕头",
+                "香料",
+                "大篷车",
+                "庄园",
+                "别墅",
+                "终止",
+                "牧场",
+                "冰块",
+                "城堡"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 13,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "化学元素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氢",
+                    "icon": true
+                },
+                {
+                    "wordId": "氮",
+                    "icon": true
+                },
+                {
+                    "wordId": "硫",
+                    "icon": true
+                },
+                {
+                    "wordId": "碳",
+                    "icon": true
+                },
+                {
+                    "wordId": "钠",
+                    "icon": true
+                },
+                {
+                    "wordId": "硅",
+                    "icon": true
+                },
+                {
+                    "wordId": "碘",
+                    "icon": true
+                },
+                {
+                    "wordId": "氧",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "古代书生",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "进士",
+                    "icon": false
+                },
+                {
+                    "wordId": "状元",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨宝",
+                    "icon": false
+                },
+                {
+                    "wordId": "文章",
+                    "icon": false
+                },
+                {
+                    "wordId": "科举",
+                    "icon": false
+                },
+                {
+                    "wordId": "八股文",
+                    "icon": false
+                },
+                {
+                    "wordId": "骈文",
+                    "icon": false
+                },
+                {
+                    "wordId": "乡试",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "多米诺骨牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "消消乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "国际象棋",
+                    "icon": false
+                },
+                {
+                    "wordId": "大富翁",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行棋",
+                    "icon": false
+                },
+                {
+                    "wordId": "猜字游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻将",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "健身",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锻炼",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑜伽",
+                    "icon": false
+                },
+                {
+                    "wordId": "普拉提",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "健身房",
+                    "icon": false
+                },
+                {
+                    "wordId": "有氧运动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "花园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "植物",
+                    "icon": false
+                },
+                {
+                    "wordId": "种子",
+                    "icon": false
+                },
+                {
+                    "wordId": "花苞",
+                    "icon": false
+                },
+                {
+                    "wordId": "草",
+                    "icon": false
+                },
+                {
+                    "wordId": "灌木",
+                    "icon": false
+                },
+                {
+                    "wordId": "土壤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肌肉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肱二头肌",
+                    "icon": false
+                },
+                {
+                    "wordId": "三角肌",
+                    "icon": false
+                },
+                {
+                    "wordId": "腹肌",
+                    "icon": false
+                },
+                {
+                    "wordId": "肱三头肌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "照明",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "火炬",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "湖泊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝加尔湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞庭湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "青海湖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "演唱会",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "歌手",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌迷",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "桑葚",
+                    "icon": false
+                },
+                {
+                    "wordId": "桃子",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "氧",
+        "水果",
+        "硫",
+        "科举",
+        "花园",
+        "灯笼",
+        "氮",
+        "猜字游戏",
+        "锻炼",
+        "有氧运动",
+        "灌木",
+        "健身房",
+        "西湖",
+        "青海湖",
+        "碳",
+        "灯",
+        "消消乐",
+        "蜡烛",
+        "照明",
+        "桑葚",
+        "植物",
+        "状元",
+        "大富翁",
+        "碘",
+        "飞行棋",
+        "墨宝",
+        "乡试",
+        "多米诺骨牌",
+        "肱三头肌",
+        "火炬",
+        "葡萄",
+        "种子",
+        "肌肉",
+        "纸牌",
+        "古代书生",
+        "花苞",
+        "八股文",
+        "贝加尔湖",
+        "慢跑",
+        "草",
+        "桃子",
+        "文章"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "歌手",
+                "骈文",
+                "化学元素",
+                "湖泊"
+            ]
+        },
+        {
+            "cards": [
+                "硅",
+                "舞台",
+                "游戏",
+                "氢",
+                "普拉提"
+            ]
+        },
+        {
+            "cards": [
+                "健身",
+                "瑜伽",
+                "国际象棋",
+                "洞庭湖",
+                "腹肌",
+                "土壤"
+            ]
+        },
+        {
+            "cards": [
+                "肱二头肌",
+                "三角肌",
+                "麻将",
+                "歌迷",
+                "进士",
+                "演唱会",
+                "钠"
+            ]
+        }
+    ]
+}

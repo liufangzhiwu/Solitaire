@@ -1,0 +1,217 @@
+{
+    "levelId": 326,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "条纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "格子呢",
+                    "icon": false
+                },
+                {
+                    "wordId": "格纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "人字形",
+                    "icon": false
+                },
+                {
+                    "wordId": "锯齿形",
+                    "icon": false
+                },
+                {
+                    "wordId": "佩斯利",
+                    "icon": false
+                },
+                {
+                    "wordId": "方格纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "菱形花纹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "标志",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "符号",
+                    "icon": false
+                },
+                {
+                    "wordId": "纹章",
+                    "icon": false
+                },
+                {
+                    "wordId": "盾徽",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽章",
+                    "icon": false
+                },
+                {
+                    "wordId": "印章",
+                    "icon": false
+                },
+                {
+                    "wordId": "证章",
+                    "icon": false
+                },
+                {
+                    "wordId": "封印",
+                    "icon": false
+                },
+                {
+                    "wordId": "商标",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花香",
+                    "icon": false
+                },
+                {
+                    "wordId": "柑橘香",
+                    "icon": false
+                },
+                {
+                    "wordId": "木质香",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛辣香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水晶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缟玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "托帕石",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿柱石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墨水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "颜料墨",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烯墨",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒精墨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图示",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "保存",
+                    "icon": true
+                },
+                {
+                    "wordId": "主页",
+                    "icon": true
+                },
+                {
+                    "wordId": "搜索",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "绿柱石",
+        "柑橘香",
+        "花香",
+        "纹章",
+        "格纹",
+        "盾徽",
+        "保存",
+        "印章",
+        "符号",
+        "人字形",
+        "商标",
+        "图案",
+        "颜料墨",
+        "证章",
+        "格子呢",
+        "图示",
+        "酒精墨",
+        "菱形花纹",
+        "条纹",
+        "佩斯利",
+        "墨水",
+        "主页",
+        "紫水晶",
+        "搜索"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "缟玛瑙",
+                "封印",
+                "水晶"
+            ]
+        },
+        {
+            "cards": [
+                "锯齿形",
+                "气味",
+                "标志",
+                "丙烯墨"
+            ]
+        },
+        {
+            "cards": [
+                "徽章",
+                "方格纹",
+                "托帕石",
+                "辛辣香",
+                "木质香"
+            ]
+        }
+    ]
+}

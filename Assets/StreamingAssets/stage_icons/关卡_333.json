@@ -1,0 +1,217 @@
+{
+    "levelId": 333,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "银行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "储蓄账户",
+                    "icon": false
+                },
+                {
+                    "wordId": "支票账户",
+                    "icon": false
+                },
+                {
+                    "wordId": "抵押贷款",
+                    "icon": false
+                },
+                {
+                    "wordId": "信用卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "信托",
+                    "icon": false
+                },
+                {
+                    "wordId": "贷款",
+                    "icon": false
+                },
+                {
+                    "wordId": "存款",
+                    "icon": false
+                },
+                {
+                    "wordId": "分行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "城堡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔楼",
+                    "icon": true
+                },
+                {
+                    "wordId": "主楼",
+                    "icon": true
+                },
+                {
+                    "wordId": "城墙",
+                    "icon": true
+                },
+                {
+                    "wordId": "护城河",
+                    "icon": true
+                },
+                {
+                    "wordId": "城郭",
+                    "icon": true
+                },
+                {
+                    "wordId": "护墙",
+                    "icon": true
+                },
+                {
+                    "wordId": "幕墙",
+                    "icon": true
+                },
+                {
+                    "wordId": "外堡",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "复仇者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浩克",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷神",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹰眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎鹰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罗盘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "北",
+                    "icon": true
+                },
+                {
+                    "wordId": "东",
+                    "icon": true
+                },
+                {
+                    "wordId": "南",
+                    "icon": true
+                },
+                {
+                    "wordId": "西",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "冰川",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冰碛",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰瀑",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰裂缝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绿洲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "棕榈树",
+                    "icon": false
+                },
+                {
+                    "wordId": "泉水",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "塔楼",
+        "绿洲",
+        "外堡",
+        "冰瀑",
+        "储蓄账户",
+        "银行",
+        "鹰眼",
+        "冰碛",
+        "支票账户",
+        "北",
+        "泉水",
+        "复仇者",
+        "城郭",
+        "分行",
+        "主楼",
+        "护墙",
+        "沙子",
+        "浩克",
+        "猎鹰",
+        "棕榈树",
+        "西",
+        "雷神",
+        "护城河",
+        "冰裂缝"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "信用卡",
+                "贷款",
+                "存款"
+            ]
+        },
+        {
+            "cards": [
+                "信托",
+                "南",
+                "罗盘",
+                "东"
+            ]
+        },
+        {
+            "cards": [
+                "冰川",
+                "幕墙",
+                "抵押贷款",
+                "城堡",
+                "城墙"
+            ]
+        }
+    ]
+}

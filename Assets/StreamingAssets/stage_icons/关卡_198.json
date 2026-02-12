@@ -1,0 +1,369 @@
+{
+    "levelId": 198,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "摩托车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喇叭",
+                    "icon": false
+                },
+                {
+                    "wordId": "油箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "后视镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "发动机",
+                    "icon": false
+                },
+                {
+                    "wordId": "踏板",
+                    "icon": false
+                },
+                {
+                    "wordId": "消音器",
+                    "icon": false
+                },
+                {
+                    "wordId": "挡泥板",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "车顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "车钩",
+                    "icon": false
+                },
+                {
+                    "wordId": "车厢",
+                    "icon": false
+                },
+                {
+                    "wordId": "转向架",
+                    "icon": false
+                },
+                {
+                    "wordId": "车站",
+                    "icon": false
+                },
+                {
+                    "wordId": "缓冲器",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶手",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "飞机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扰流板",
+                    "icon": false
+                },
+                {
+                    "wordId": "缝翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "襟翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "机身",
+                    "icon": false
+                },
+                {
+                    "wordId": "方向舵",
+                    "icon": false
+                },
+                {
+                    "wordId": "驾驶舱",
+                    "icon": false
+                },
+                {
+                    "wordId": "垂直尾翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋桨毂盖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笔记本电脑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "网络摄像头",
+                    "icon": false
+                },
+                {
+                    "wordId": "键盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "萤幕",
+                    "icon": false
+                },
+                {
+                    "wordId": "触摸板",
+                    "icon": false
+                },
+                {
+                    "wordId": "电池",
+                    "icon": false
+                },
+                {
+                    "wordId": "内存",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白昼",
+                    "icon": true
+                },
+                {
+                    "wordId": "夜晚",
+                    "icon": true
+                },
+                {
+                    "wordId": "黎明",
+                    "icon": true
+                },
+                {
+                    "wordId": "早晨",
+                    "icon": true
+                },
+                {
+                    "wordId": "黄昏",
+                    "icon": true
+                },
+                {
+                    "wordId": "傍晚",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生存",
+                    "icon": false
+                },
+                {
+                    "wordId": "三消游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "大型多人线上游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "介词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "对面",
+                    "icon": false
+                },
+                {
+                    "wordId": "在...之间",
+                    "icon": false
+                },
+                {
+                    "wordId": "在...后面",
+                    "icon": false
+                },
+                {
+                    "wordId": "在...附近",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "房子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地下室",
+                    "icon": false
+                },
+                {
+                    "wordId": "书房",
+                    "icon": false
+                },
+                {
+                    "wordId": "浴室",
+                    "icon": false
+                },
+                {
+                    "wordId": "车库",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "风格",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "休闲",
+                    "icon": false
+                },
+                {
+                    "wordId": "西装",
+                    "icon": false
+                },
+                {
+                    "wordId": "时髦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "场地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "飞机场",
+                    "icon": false
+                },
+                {
+                    "wordId": "体育场",
+                    "icon": false
+                },
+                {
+                    "wordId": "球场",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "书房",
+        "转向架",
+        "发动机",
+        "黎明",
+        "西装",
+        "垂直尾翼",
+        "笔记本电脑",
+        "在...之间",
+        "缝翼",
+        "车钩",
+        "齿轮",
+        "生存",
+        "机身",
+        "轨道",
+        "螺旋桨毂盖",
+        "时间",
+        "扰流板",
+        "摩托车",
+        "时髦",
+        "大型多人线上游戏",
+        "三消游戏",
+        "傍晚",
+        "车库",
+        "喇叭",
+        "休闲",
+        "早晨",
+        "火车",
+        "在...后面",
+        "消音器",
+        "车顶",
+        "网络摄像头",
+        "方向舵",
+        "油箱",
+        "飞机",
+        "地下室",
+        "赛车",
+        "踏板",
+        "车站",
+        "对面",
+        "缓冲器",
+        "黄昏",
+        "触摸板"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "风格",
+                "车厢",
+                "内存",
+                "球场"
+            ]
+        },
+        {
+            "cards": [
+                "房子",
+                "白昼",
+                "扶手",
+                "夜晚",
+                "场地"
+            ]
+        },
+        {
+            "cards": [
+                "介词",
+                "萤幕",
+                "体育场",
+                "飞机场",
+                "游戏",
+                "襟翼"
+            ]
+        },
+        {
+            "cards": [
+                "键盘",
+                "在...附近",
+                "浴室",
+                "驾驶舱",
+                "后视镜",
+                "电池",
+                "挡泥板"
+            ]
+        }
+    ]
+}

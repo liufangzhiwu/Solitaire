@@ -1,0 +1,217 @@
+{
+    "levelId": 336,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "实验室器皿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "移液器",
+                    "icon": false
+                },
+                {
+                    "wordId": "试管",
+                    "icon": false
+                },
+                {
+                    "wordId": "本生灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "坩埚",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "培养皿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巫术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魔法",
+                    "icon": false
+                },
+                {
+                    "wordId": "咒语",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "长袍",
+                    "icon": false
+                },
+                {
+                    "wordId": "护身符",
+                    "icon": false
+                },
+                {
+                    "wordId": "药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "帽子",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷轴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "折纸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "千纸鹤",
+                    "icon": true
+                },
+                {
+                    "wordId": "莲花折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "盒子折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "天鹅折纸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "国际象棋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兵",
+                    "icon": false
+                },
+                {
+                    "wordId": "王",
+                    "icon": false
+                },
+                {
+                    "wordId": "后",
+                    "icon": false
+                },
+                {
+                    "wordId": "车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "零食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椒盐卷饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "爆米花",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨西哥玉米片",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "面具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "威尼斯面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "瘟疫医生面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "防毒面具",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "魔法",
+        "面具",
+        "漏斗",
+        "车",
+        "烧瓶",
+        "护身符",
+        "培养皿",
+        "防毒面具",
+        "长袍",
+        "椒盐卷饼",
+        "帽子",
+        "巫术",
+        "卷轴",
+        "魔杖",
+        "兵",
+        "爆米花",
+        "本生灯",
+        "王",
+        "千纸鹤",
+        "盒子折纸",
+        "咒语",
+        "天鹅折纸",
+        "折纸",
+        "移液器"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "烧杯",
+                "试管",
+                "坩埚"
+            ]
+        },
+        {
+            "cards": [
+                "国际象棋",
+                "实验室器皿",
+                "后",
+                "瘟疫医生面具"
+            ]
+        },
+        {
+            "cards": [
+                "药水",
+                "零食",
+                "莲花折纸",
+                "墨西哥玉米片",
+                "威尼斯面具"
+            ]
+        }
+    ]
+}

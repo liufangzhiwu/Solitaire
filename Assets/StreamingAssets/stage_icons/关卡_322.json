@@ -1,0 +1,217 @@
+{
+    "levelId": 322,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "时钟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "时针",
+                    "icon": false
+                },
+                {
+                    "wordId": "分针",
+                    "icon": false
+                },
+                {
+                    "wordId": "秒针",
+                    "icon": false
+                },
+                {
+                    "wordId": "报时",
+                    "icon": false
+                },
+                {
+                    "wordId": "表盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "计时器",
+                    "icon": false
+                },
+                {
+                    "wordId": "闹钟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "糖果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "软糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "太妃糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "甘草糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹心糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳脂软糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "果仁糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉太妃糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛轧糖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海盗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海盗船",
+                    "icon": true
+                },
+                {
+                    "wordId": "战利品",
+                    "icon": true
+                },
+                {
+                    "wordId": "剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "藏宝图",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "遗迹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "神庙",
+                    "icon": false
+                },
+                {
+                    "wordId": "堡垒",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣地",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舞蹈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "华尔滋",
+                    "icon": false
+                },
+                {
+                    "wordId": "探戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨尔萨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "溪流",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小溪",
+                    "icon": false
+                },
+                {
+                    "wordId": "小河",
+                    "icon": false
+                },
+                {
+                    "wordId": "细流",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "小溪",
+        "齿轮",
+        "细流",
+        "遗迹",
+        "报时",
+        "牛轧糖",
+        "舞蹈",
+        "闹钟",
+        "分针",
+        "藏宝图",
+        "华尔滋",
+        "软糖",
+        "果仁糖",
+        "拉太妃糖",
+        "太妃糖",
+        "糖果",
+        "神庙",
+        "堡垒",
+        "战利品",
+        "萨尔萨",
+        "剑",
+        "乳脂软糖",
+        "甘草糖",
+        "时针"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "海盗",
+                "夹心糖",
+                "圣地"
+            ]
+        },
+        {
+            "cards": [
+                "计时器",
+                "时钟",
+                "小河",
+                "地穴"
+            ]
+        },
+        {
+            "cards": [
+                "海盗船",
+                "秒针",
+                "探戈",
+                "表盘",
+                "溪流"
+            ]
+        }
+    ]
+}

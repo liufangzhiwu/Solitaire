@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "549659964262",
+    "project_id": "idiom-block",
+    "storage_bucket": "idiom-block.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549659964262:android:88047dd7b1f51970520ea7",
+        "android_client_info": {
+          "package_name": "com.neoplay.zen.idiom.flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsupE4C0iHteHNfX78cqCEPlHu1vjj9ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-9253366158869098~9229462029"
+    }
+  ],
+  "configuration_version": "1"
+}

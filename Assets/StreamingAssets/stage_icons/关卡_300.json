@@ -1,0 +1,369 @@
+{
+    "levelId": 300,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "树栖生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巨嘴鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "树懒",
+                    "icon": true
+                },
+                {
+                    "wordId": "猩猩",
+                    "icon": true
+                },
+                {
+                    "wordId": "考拉",
+                    "icon": true
+                },
+                {
+                    "wordId": "松鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "树蛙",
+                    "icon": true
+                },
+                {
+                    "wordId": "树蟒",
+                    "icon": true
+                },
+                {
+                    "wordId": "长尾黑颚猴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "汽车部件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "发动机",
+                    "icon": false
+                },
+                {
+                    "wordId": "引擎盖",
+                    "icon": false
+                },
+                {
+                    "wordId": "保险杠",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "行李箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "天窗",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全气囊",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽车座椅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巢穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苔藓",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥土",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛发",
+                    "icon": false
+                },
+                {
+                    "wordId": "绒毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "干草",
+                    "icon": false
+                },
+                {
+                    "wordId": "树叶",
+                    "icon": false
+                },
+                {
+                    "wordId": "树枝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "百分比",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "比率",
+                    "icon": false
+                },
+                {
+                    "wordId": "分数",
+                    "icon": false
+                },
+                {
+                    "wordId": "除法",
+                    "icon": false
+                },
+                {
+                    "wordId": "商",
+                    "icon": false
+                },
+                {
+                    "wordId": "小数",
+                    "icon": false
+                },
+                {
+                    "wordId": "部分",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "专家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大师",
+                    "icon": false
+                },
+                {
+                    "wordId": "艺术大师",
+                    "icon": false
+                },
+                {
+                    "wordId": "古鲁",
+                    "icon": false
+                },
+                {
+                    "wordId": "名家",
+                    "icon": false
+                },
+                {
+                    "wordId": "权威",
+                    "icon": false
+                },
+                {
+                    "wordId": "天才",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "输出设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "显示器",
+                    "icon": true
+                },
+                {
+                    "wordId": "头戴式耳机",
+                    "icon": true
+                },
+                {
+                    "wordId": "打印机",
+                    "icon": true
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "千层面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "意面",
+                    "icon": false
+                },
+                {
+                    "wordId": "白酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "帕尔玛干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉酱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "壶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "带柄壶",
+                    "icon": false
+                },
+                {
+                    "wordId": "奶盅",
+                    "icon": false
+                },
+                {
+                    "wordId": "啤酒罐",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻璃瓶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海绵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海绵蛋糕",
+                    "icon": false
+                },
+                {
+                    "wordId": "海绵动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "海绵工具",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "保湿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "湿润",
+                    "icon": false
+                },
+                {
+                    "wordId": "加湿",
+                    "icon": false
+                },
+                {
+                    "wordId": "弄湿",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "打印机",
+        "海绵工具",
+        "树栖生物",
+        "比率",
+        "海绵动物",
+        "商",
+        "引擎盖",
+        "小数",
+        "白酱",
+        "长尾黑颚猴",
+        "部分",
+        "百分比",
+        "绒毛",
+        "保险杠",
+        "苔藓",
+        "干草",
+        "树蟒",
+        "湿润",
+        "巢穴",
+        "安全气囊",
+        "海绵蛋糕",
+        "扬声器",
+        "名家",
+        "除法",
+        "弄湿",
+        "树枝",
+        "考拉",
+        "羽毛",
+        "树蛙",
+        "肉酱",
+        "尾翼",
+        "壶",
+        "显示器",
+        "树叶",
+        "保湿",
+        "意面",
+        "玻璃瓶",
+        "古鲁",
+        "艺术大师",
+        "行李箱",
+        "大师",
+        "巨嘴鸟"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "千层面",
+                "分数",
+                "发动机",
+                "输出设备"
+            ]
+        },
+        {
+            "cards": [
+                "带柄壶",
+                "帕尔玛干酪",
+                "汽车座椅",
+                "权威",
+                "加湿"
+            ]
+        },
+        {
+            "cards": [
+                "天才",
+                "树懒",
+                "啤酒罐",
+                "汽车部件",
+                "奶盅",
+                "天窗"
+            ]
+        },
+        {
+            "cards": [
+                "海绵",
+                "泥土",
+                "猩猩",
+                "专家",
+                "松鼠",
+                "毛发",
+                "头戴式耳机"
+            ]
+        }
+    ]
+}

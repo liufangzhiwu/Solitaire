@@ -1,0 +1,553 @@
+{
+    "levelId": 391,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "谚语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "格言",
+                    "icon": false
+                },
+                {
+                    "wordId": "箴言",
+                    "icon": false
+                },
+                {
+                    "wordId": "公理",
+                    "icon": false
+                },
+                {
+                    "wordId": "俗语",
+                    "icon": false
+                },
+                {
+                    "wordId": "论断",
+                    "icon": false
+                },
+                {
+                    "wordId": "座右铭",
+                    "icon": false
+                },
+                {
+                    "wordId": "说法",
+                    "icon": false
+                },
+                {
+                    "wordId": "歇后语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "航行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邮轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "徒步",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅程",
+                    "icon": false
+                },
+                {
+                    "wordId": "航海",
+                    "icon": false
+                },
+                {
+                    "wordId": "探险",
+                    "icon": false
+                },
+                {
+                    "wordId": "任务",
+                    "icon": false
+                },
+                {
+                    "wordId": "帆船",
+                    "icon": false
+                },
+                {
+                    "wordId": "远征",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "记忆游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "国际象棋",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "多米诺骨牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳棋",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼字游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "叠叠乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻将",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "埃菲尔铁塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "大本钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "金字塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "罗马斗兽场",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鲁鲁巨石",
+                    "icon": true
+                },
+                {
+                    "wordId": "佩特拉古城",
+                    "icon": true
+                },
+                {
+                    "wordId": "比萨斜塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "卢浮宫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "防御",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "护城河",
+                    "icon": false
+                },
+                {
+                    "wordId": "城墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁垒",
+                    "icon": false
+                },
+                {
+                    "wordId": "屏障",
+                    "icon": false
+                },
+                {
+                    "wordId": "防御墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "堡垒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "素描",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笔触",
+                    "icon": false
+                },
+                {
+                    "wordId": "明暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮廓",
+                    "icon": false
+                },
+                {
+                    "wordId": "排线",
+                    "icon": false
+                },
+                {
+                    "wordId": "融合",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂抹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "味道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甜",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "咸",
+                    "icon": false
+                },
+                {
+                    "wordId": "苦",
+                    "icon": false
+                },
+                {
+                    "wordId": "辣",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲜味",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梳子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平板梳",
+                    "icon": true
+                },
+                {
+                    "wordId": "耙梳",
+                    "icon": true
+                },
+                {
+                    "wordId": "挑梳",
+                    "icon": true
+                },
+                {
+                    "wordId": "口袋梳",
+                    "icon": true
+                },
+                {
+                    "wordId": "尾梳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "速度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "广板",
+                    "icon": false
+                },
+                {
+                    "wordId": "快板",
+                    "icon": false
+                },
+                {
+                    "wordId": "急板",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔板",
+                    "icon": false
+                },
+                {
+                    "wordId": "行板",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "韵律",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钟声",
+                    "icon": false
+                },
+                {
+                    "wordId": "青柠",
+                    "icon": false
+                },
+                {
+                    "wordId": "一角硬币",
+                    "icon": false
+                },
+                {
+                    "wordId": "犯罪",
+                    "icon": false
+                },
+                {
+                    "wordId": "精华",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "屋顶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木瓦",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓦片",
+                    "icon": false
+                },
+                {
+                    "wordId": "石板",
+                    "icon": false
+                },
+                {
+                    "wordId": "茅草",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鼓组",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镲片",
+                    "icon": true
+                },
+                {
+                    "wordId": "通通鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "军鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "底鼓",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "草甸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "草皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "平原",
+                    "icon": false
+                },
+                {
+                    "wordId": "沼泽",
+                    "icon": false
+                },
+                {
+                    "wordId": "草坪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "妙语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玩笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "打趣",
+                    "icon": false
+                },
+                {
+                    "wordId": "双关语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "悲伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "快乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "平静",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "妙语",
+        "军鼓",
+        "探险",
+        "轮廓",
+        "平原",
+        "情绪",
+        "钟声",
+        "徒步",
+        "纸牌",
+        "尾梳",
+        "涂抹",
+        "明暗",
+        "笔触",
+        "论断",
+        "打趣",
+        "草坪",
+        "歇后语",
+        "金字塔",
+        "壁垒",
+        "护城河",
+        "悲伤",
+        "拼字游戏",
+        "木瓦",
+        "速度",
+        "一角硬币",
+        "挑梳",
+        "底鼓",
+        "瓦片",
+        "平静",
+        "屏障",
+        "卢浮宫",
+        "柔板",
+        "屋顶",
+        "国际象棋",
+        "远征",
+        "箴言",
+        "城墙",
+        "旅程",
+        "苦",
+        "青柠",
+        "堡垒",
+        "防御墙",
+        "记忆游戏",
+        "乌鲁鲁巨石",
+        "急板",
+        "梳子",
+        "排线",
+        "麻将",
+        "谚语",
+        "快板",
+        "防御",
+        "跳棋",
+        "行板",
+        "平板梳",
+        "邮轮",
+        "草皮",
+        "口袋梳",
+        "通通鼓",
+        "咸",
+        "俗语",
+        "罗马斗兽场",
+        "茅草",
+        "航海"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "味道",
+                "帆船",
+                "耙梳",
+                "说法",
+                "快乐"
+            ]
+        },
+        {
+            "cards": [
+                "酸",
+                "广板",
+                "航行",
+                "大本钟",
+                "埃菲尔铁塔",
+                "镲片"
+            ]
+        },
+        {
+            "cards": [
+                "双关语",
+                "韵律",
+                "任务",
+                "鼓组",
+                "玩笑",
+                "地标",
+                "融合"
+            ]
+        },
+        {
+            "cards": [
+                "座右铭",
+                "精华",
+                "犯罪",
+                "草甸",
+                "沼泽",
+                "素描",
+                "佩特拉古城",
+                "石板"
+            ]
+        },
+        {
+            "cards": [
+                "鲜味",
+                "比萨斜塔",
+                "游戏",
+                "公理",
+                "多米诺骨牌",
+                "辣",
+                "甜",
+                "格言",
+                "叠叠乐"
+            ]
+        }
+    ]
+}

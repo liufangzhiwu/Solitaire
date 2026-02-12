@@ -1,0 +1,369 @@
+{
+    "levelId": 194,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "质地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天鹅绒",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚麻",
+                    "icon": false
+                },
+                {
+                    "wordId": "缎子",
+                    "icon": false
+                },
+                {
+                    "wordId": "麂皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "帆布",
+                    "icon": false
+                },
+                {
+                    "wordId": "粗麻布",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪纺",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛仔布",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "月桂叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "薰衣草",
+                    "icon": true
+                },
+                {
+                    "wordId": "百里香",
+                    "icon": true
+                },
+                {
+                    "wordId": "薄荷",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛至",
+                    "icon": true
+                },
+                {
+                    "wordId": "欧芹",
+                    "icon": true
+                },
+                {
+                    "wordId": "茴香",
+                    "icon": true
+                },
+                {
+                    "wordId": "马郁兰",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "小工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平板电脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "调制解调器",
+                    "icon": false
+                },
+                {
+                    "wordId": "路由器",
+                    "icon": false
+                },
+                {
+                    "wordId": "操纵杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "相机",
+                    "icon": false
+                },
+                {
+                    "wordId": "无人机",
+                    "icon": false
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": false
+                },
+                {
+                    "wordId": "显示器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "城堡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "堡场",
+                    "icon": false
+                },
+                {
+                    "wordId": "护城河",
+                    "icon": false
+                },
+                {
+                    "wordId": "城墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "护墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "地牢",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "真菌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毒鹅膏菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊肚菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "红菇",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛肝菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "香菇",
+                    "icon": true
+                },
+                {
+                    "wordId": "金针菇",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "岛屿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "撒丁岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "科西嘉岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔希提岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "斐济",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "武器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "匕首",
+                    "icon": true
+                },
+                {
+                    "wordId": "矛",
+                    "icon": true
+                },
+                {
+                    "wordId": "弓",
+                    "icon": true
+                },
+                {
+                    "wordId": "钉头锤",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "生物群落",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苔原",
+                    "icon": false
+                },
+                {
+                    "wordId": "稀树草原",
+                    "icon": false
+                },
+                {
+                    "wordId": "针叶林",
+                    "icon": false
+                },
+                {
+                    "wordId": "草原",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星座",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双子座",
+                    "icon": false
+                },
+                {
+                    "wordId": "处女座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天秤座",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手工艺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陶工",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕刻师",
+                    "icon": false
+                },
+                {
+                    "wordId": "织工",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "显示器",
+        "毒鹅膏菌",
+        "苔原",
+        "牛肝菌",
+        "扬声器",
+        "草原",
+        "稀树草原",
+        "科西嘉岛",
+        "薄荷",
+        "城堡",
+        "平板电脑",
+        "羊肚菌",
+        "牛至",
+        "粗麻布",
+        "织工",
+        "陶工",
+        "红菇",
+        "城墙",
+        "生物群落",
+        "地牢",
+        "真菌",
+        "双子座",
+        "护墙",
+        "调制解调器",
+        "武器",
+        "欧芹",
+        "撒丁岛",
+        "塔楼",
+        "缎子",
+        "香菇",
+        "塔希提岛",
+        "小工具",
+        "金针菇",
+        "薰衣草",
+        "护城河",
+        "百里香",
+        "处女座",
+        "帆布",
+        "相机",
+        "月桂叶",
+        "弓",
+        "无人机"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "针叶林",
+                "雕刻师",
+                "亚麻",
+                "马郁兰"
+            ]
+        },
+        {
+            "cards": [
+                "斐济",
+                "匕首",
+                "香草",
+                "茴香",
+                "质地"
+            ]
+        },
+        {
+            "cards": [
+                "手工艺",
+                "麂皮",
+                "堡场",
+                "雪纺",
+                "岛屿",
+                "钉头锤"
+            ]
+        },
+        {
+            "cards": [
+                "牛仔布",
+                "路由器",
+                "天鹅绒",
+                "操纵杆",
+                "矛",
+                "星座",
+                "天秤座"
+            ]
+        }
+    ]
+}

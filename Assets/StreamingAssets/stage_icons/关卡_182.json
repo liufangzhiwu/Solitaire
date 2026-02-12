@@ -1,0 +1,369 @@
+{
+    "levelId": 182,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "眼镜部件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铰链",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻梁",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜框",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜腿尾套",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻托",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜片",
+                    "icon": false
+                },
+                {
+                    "wordId": "固定器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "头骨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "额骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "上颌骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "下颌骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "泪骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "筛骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "颞骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "汉堡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "切达干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "面包胚",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛肉饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "番茄酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸黄瓜",
+                    "icon": false
+                },
+                {
+                    "wordId": "生菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": false
+                },
+                {
+                    "wordId": "培根",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "潜行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎人",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "战士",
+                    "icon": false
+                },
+                {
+                    "wordId": "术士",
+                    "icon": false
+                },
+                {
+                    "wordId": "法师",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "圆形几何",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "半径",
+                    "icon": true
+                },
+                {
+                    "wordId": "扇形",
+                    "icon": true
+                },
+                {
+                    "wordId": "弓形",
+                    "icon": true
+                },
+                {
+                    "wordId": "弧",
+                    "icon": true
+                },
+                {
+                    "wordId": "直径",
+                    "icon": true
+                },
+                {
+                    "wordId": "圆心",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "水槽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "出水口",
+                    "icon": false
+                },
+                {
+                    "wordId": "阀门",
+                    "icon": false
+                },
+                {
+                    "wordId": "O型圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "起泡器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "厨房",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "炉灶",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "平底锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "锅铲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "道路",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "车行道",
+                    "icon": false
+                },
+                {
+                    "wordId": "死胡同",
+                    "icon": false
+                },
+                {
+                    "wordId": "收费公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "高速公路",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火箭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "发射",
+                    "icon": false
+                },
+                {
+                    "wordId": "助推器",
+                    "icon": false
+                },
+                {
+                    "wordId": "太空",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "桌子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "桌面",
+                    "icon": false
+                },
+                {
+                    "wordId": "清漆",
+                    "icon": false
+                },
+                {
+                    "wordId": "桌腿",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "车行道",
+        "厨房",
+        "战士",
+        "高速公路",
+        "发射",
+        "镜框",
+        "起泡器",
+        "法师",
+        "直径",
+        "术士",
+        "锅铲",
+        "镜腿尾套",
+        "额骨",
+        "圆形几何",
+        "圆心",
+        "清漆",
+        "鼻骨",
+        "水槽",
+        "生菜",
+        "出水口",
+        "螺丝",
+        "固定器",
+        "收费公路",
+        "太空",
+        "潜行者",
+        "猎人",
+        "酸黄瓜",
+        "圣骑士",
+        "阀门",
+        "下颌骨",
+        "烤箱",
+        "道路",
+        "O型圈",
+        "培根",
+        "鼻托",
+        "炉灶",
+        "桌子",
+        "铰链",
+        "顶骨",
+        "泪骨",
+        "死胡同",
+        "番茄"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "鼻梁",
+                "弧",
+                "火箭",
+                "面包胚"
+            ]
+        },
+        {
+            "cards": [
+                "助推器",
+                "牛肉饼",
+                "切达干酪",
+                "汉堡",
+                "番茄酱"
+            ]
+        },
+        {
+            "cards": [
+                "上颌骨",
+                "桌腿",
+                "平底锅",
+                "颞骨",
+                "眼镜部件",
+                "扇形"
+            ]
+        },
+        {
+            "cards": [
+                "弓形",
+                "头骨",
+                "桌面",
+                "筛骨",
+                "镜片",
+                "职业",
+                "半径"
+            ]
+        }
+    ]
+}

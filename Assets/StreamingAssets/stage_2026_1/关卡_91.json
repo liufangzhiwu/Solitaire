@@ -1,0 +1,553 @@
+{
+    "levelId": 91,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "海岸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浪尖",
+                    "icon": false
+                },
+                {
+                    "wordId": "海风",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹅卵石",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "防波堤",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐",
+                    "icon": false
+                },
+                {
+                    "wordId": "突堤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "听到的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "叮当声",
+                    "icon": false
+                },
+                {
+                    "wordId": "破裂声",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘎吱声",
+                    "icon": false
+                },
+                {
+                    "wordId": "溅泼声",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼呼声",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴答声",
+                    "icon": false
+                },
+                {
+                    "wordId": "咯吱声",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙沙声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "根茎类蔬菜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜菜根",
+                    "icon": true
+                },
+                {
+                    "wordId": "胡萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "小萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "姜",
+                    "icon": true
+                },
+                {
+                    "wordId": "欧洲萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "芜菁",
+                    "icon": true
+                },
+                {
+                    "wordId": "芹菜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "药品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "维生素",
+                    "icon": false
+                },
+                {
+                    "wordId": "药师",
+                    "icon": false
+                },
+                {
+                    "wordId": "药店",
+                    "icon": false
+                },
+                {
+                    "wordId": "安眠药",
+                    "icon": false
+                },
+                {
+                    "wordId": "甘草片",
+                    "icon": false
+                },
+                {
+                    "wordId": "胶囊",
+                    "icon": false
+                },
+                {
+                    "wordId": "处方药",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿司匹林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "领型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Polo领",
+                    "icon": true
+                },
+                {
+                    "wordId": "高领",
+                    "icon": true
+                },
+                {
+                    "wordId": "垂褶领",
+                    "icon": true
+                },
+                {
+                    "wordId": "标准领",
+                    "icon": true
+                },
+                {
+                    "wordId": "勺形领",
+                    "icon": true
+                },
+                {
+                    "wordId": "V领",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "形状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "楔形",
+                    "icon": false
+                },
+                {
+                    "wordId": "五边形",
+                    "icon": false
+                },
+                {
+                    "wordId": "正方形",
+                    "icon": false
+                },
+                {
+                    "wordId": "椭圆",
+                    "icon": false
+                },
+                {
+                    "wordId": "菱形",
+                    "icon": false
+                },
+                {
+                    "wordId": "弧线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "完成",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "停止",
+                    "icon": false
+                },
+                {
+                    "wordId": "终止",
+                    "icon": false
+                },
+                {
+                    "wordId": "结束",
+                    "icon": false
+                },
+                {
+                    "wordId": "完结",
+                    "icon": false
+                },
+                {
+                    "wordId": "实现",
+                    "icon": false
+                },
+                {
+                    "wordId": "收尾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "心理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "情绪",
+                    "icon": false
+                },
+                {
+                    "wordId": "性格",
+                    "icon": false
+                },
+                {
+                    "wordId": "记忆",
+                    "icon": false
+                },
+                {
+                    "wordId": "思维",
+                    "icon": false
+                },
+                {
+                    "wordId": "压力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "轮子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轮胎",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮毂盖",
+                    "icon": false
+                },
+                {
+                    "wordId": "转向",
+                    "icon": false
+                },
+                {
+                    "wordId": "车轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "命运之轮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喝彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "作曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "天赋",
+                    "icon": false
+                },
+                {
+                    "wordId": "宗师",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锚爪",
+                    "icon": true
+                },
+                {
+                    "wordId": "犁形锚",
+                    "icon": true
+                },
+                {
+                    "wordId": "爪形锚",
+                    "icon": true
+                },
+                {
+                    "wordId": "多爪锚",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "企业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "台积电",
+                    "icon": false
+                },
+                {
+                    "wordId": "英伟达",
+                    "icon": false
+                },
+                {
+                    "wordId": "西门子",
+                    "icon": false
+                },
+                {
+                    "wordId": "中国联通",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "童话角色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白雪公主",
+                    "icon": false
+                },
+                {
+                    "wordId": "小红帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮诺丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "长发公主",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "X相关词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "X光",
+                    "icon": false
+                },
+                {
+                    "wordId": "X轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "X染色体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电视台",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "CCTV",
+                    "icon": false
+                },
+                {
+                    "wordId": "湖南卫视",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡通卫视",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "压力",
+        "听到的",
+        "湖南卫视",
+        "锚爪",
+        "沙沙声",
+        "沙子",
+        "皮诺丘",
+        "形状",
+        "英伟达",
+        "根茎类蔬菜",
+        "阿司匹林",
+        "甘草片",
+        "情绪",
+        "收尾",
+        "V领",
+        "弧线",
+        "锚",
+        "破裂声",
+        "记忆",
+        "垂褶领",
+        "CCTV",
+        "欧洲萝卜",
+        "菱形",
+        "童话角色",
+        "姜",
+        "转向",
+        "五边形",
+        "咯吱声",
+        "作曲",
+        "Polo领",
+        "台积电",
+        "宗师",
+        "停止",
+        "突堤",
+        "潮汐",
+        "X光",
+        "车轴",
+        "芹菜",
+        "药师",
+        "维生素",
+        "西门子",
+        "爪形锚",
+        "嘎吱声",
+        "小红帽",
+        "胶囊",
+        "高领",
+        "轮胎",
+        "椭圆",
+        "长发公主",
+        "心理",
+        "性格",
+        "天赋",
+        "多爪锚",
+        "舞台",
+        "甜菜根",
+        "白萝卜",
+        "海岸",
+        "白雪公主",
+        "安眠药",
+        "结束",
+        "中国联通",
+        "勺形领",
+        "终止"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "呼呼声",
+                "药店",
+                "命运之轮",
+                "领型",
+                "冲浪"
+            ]
+        },
+        {
+            "cards": [
+                "芜菁",
+                "轮毂盖",
+                "标准领",
+                "X相关词",
+                "楔形",
+                "叮当声"
+            ]
+        },
+        {
+            "cards": [
+                "企业",
+                "犁形锚",
+                "鹅卵石",
+                "处方药",
+                "正方形",
+                "小萝卜",
+                "大师"
+            ]
+        },
+        {
+            "cards": [
+                "轮子",
+                "完成",
+                "药品",
+                "思维",
+                "海风",
+                "X轴",
+                "胡萝卜",
+                "喝彩"
+            ]
+        },
+        {
+            "cards": [
+                "浪尖",
+                "电视台",
+                "滴答声",
+                "溅泼声",
+                "完结",
+                "X染色体",
+                "防波堤",
+                "卡通卫视",
+                "实现"
+            ]
+        }
+    ]
+}

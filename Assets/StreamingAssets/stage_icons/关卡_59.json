@@ -1,0 +1,369 @@
+{
+    "levelId": 59,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "大学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宿舍",
+                    "icon": false
+                },
+                {
+                    "wordId": "学业",
+                    "icon": false
+                },
+                {
+                    "wordId": "课堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "校园",
+                    "icon": false
+                },
+                {
+                    "wordId": "讲座",
+                    "icon": false
+                },
+                {
+                    "wordId": "教职工",
+                    "icon": false
+                },
+                {
+                    "wordId": "学费",
+                    "icon": false
+                },
+                {
+                    "wordId": "校友",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "漫画",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "期号",
+                    "icon": false
+                },
+                {
+                    "wordId": "连载",
+                    "icon": false
+                },
+                {
+                    "wordId": "反派",
+                    "icon": false
+                },
+                {
+                    "wordId": "必杀技",
+                    "icon": false
+                },
+                {
+                    "wordId": "对话框",
+                    "icon": false
+                },
+                {
+                    "wordId": "搭档",
+                    "icon": false
+                },
+                {
+                    "wordId": "英雄",
+                    "icon": false
+                },
+                {
+                    "wordId": "说明文字",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "发动机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柴油",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽油",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷射器",
+                    "icon": false
+                },
+                {
+                    "wordId": "燃油",
+                    "icon": false
+                },
+                {
+                    "wordId": "活塞",
+                    "icon": false
+                },
+                {
+                    "wordId": "凸轮轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "气缸",
+                    "icon": false
+                },
+                {
+                    "wordId": "扭矩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "炸药",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爆炸",
+                    "icon": false
+                },
+                {
+                    "wordId": "引爆",
+                    "icon": false
+                },
+                {
+                    "wordId": "引线",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲击波",
+                    "icon": false
+                },
+                {
+                    "wordId": "摧毁",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨响",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生态学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "回收",
+                    "icon": false
+                },
+                {
+                    "wordId": "再利用",
+                    "icon": false
+                },
+                {
+                    "wordId": "升级再造",
+                    "icon": false
+                },
+                {
+                    "wordId": "野生动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "生态区",
+                    "icon": false
+                },
+                {
+                    "wordId": "自然",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "体液",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼泪",
+                    "icon": true
+                },
+                {
+                    "wordId": "唾液",
+                    "icon": true
+                },
+                {
+                    "wordId": "汗水",
+                    "icon": true
+                },
+                {
+                    "wordId": "血液",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "锻造",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁砧",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔炼",
+                    "icon": false
+                },
+                {
+                    "wordId": "锤子",
+                    "icon": false
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "列表",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "菜单",
+                    "icon": false
+                },
+                {
+                    "wordId": "播放列表",
+                    "icon": false
+                },
+                {
+                    "wordId": "议程",
+                    "icon": false
+                },
+                {
+                    "wordId": "福布斯榜单",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "彩票",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "票根",
+                    "icon": false
+                },
+                {
+                    "wordId": "头奖",
+                    "icon": false
+                },
+                {
+                    "wordId": "赢家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "南瓜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "馅饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "面包",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "赢家",
+        "学费",
+        "燃油",
+        "自然",
+        "对话框",
+        "升级再造",
+        "连载",
+        "汗水",
+        "气缸",
+        "锤子",
+        "搭档",
+        "铁砧",
+        "活塞",
+        "眼泪",
+        "发动机",
+        "扭矩",
+        "期号",
+        "宿舍",
+        "头奖",
+        "票根",
+        "列表",
+        "引线",
+        "必杀技",
+        "大学",
+        "英雄",
+        "校园",
+        "再利用",
+        "唾液",
+        "回收",
+        "议程",
+        "汽油",
+        "凸轮轴",
+        "熔炼",
+        "讲座",
+        "学业",
+        "爆炸",
+        "火焰",
+        "反派",
+        "课堂",
+        "彩票",
+        "血液",
+        "漫画"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "引爆",
+                "锻造",
+                "说明文字",
+                "面包"
+            ]
+        },
+        {
+            "cards": [
+                "冲击波",
+                "教职工",
+                "野生动物",
+                "汤",
+                "菜单"
+            ]
+        },
+        {
+            "cards": [
+                "体液",
+                "播放列表",
+                "生态区",
+                "喷射器",
+                "巨响",
+                "校友"
+            ]
+        },
+        {
+            "cards": [
+                "福布斯榜单",
+                "生态学",
+                "馅饼",
+                "炸药",
+                "摧毁",
+                "柴油",
+                "南瓜"
+            ]
+        }
+    ]
+}

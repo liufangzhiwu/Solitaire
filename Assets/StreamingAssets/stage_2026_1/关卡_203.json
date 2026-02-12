@@ -1,0 +1,369 @@
+{
+    "levelId": 203,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "犬种",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梗犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "贵宾犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "拉布拉多犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "斗牛犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "獒犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "柯基犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴哥犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙皮犬",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "原住民",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿帕奇",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉科塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "切罗基",
+                    "icon": false
+                },
+                {
+                    "wordId": "科曼奇",
+                    "icon": false
+                },
+                {
+                    "wordId": "纳瓦霍",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏族",
+                    "icon": false
+                },
+                {
+                    "wordId": "霍皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫霍克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "例行公事",
+                    "icon": false
+                },
+                {
+                    "wordId": "习惯",
+                    "icon": false
+                },
+                {
+                    "wordId": "神圣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "典礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "习俗",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼拜仪式",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "实践",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "会议",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "议程",
+                    "icon": false
+                },
+                {
+                    "wordId": "办公室",
+                    "icon": false
+                },
+                {
+                    "wordId": "房间",
+                    "icon": false
+                },
+                {
+                    "wordId": "演讲者",
+                    "icon": false
+                },
+                {
+                    "wordId": "小组",
+                    "icon": false
+                },
+                {
+                    "wordId": "简报",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "馅料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "葡萄干",
+                    "icon": true
+                },
+                {
+                    "wordId": "花生",
+                    "icon": true
+                },
+                {
+                    "wordId": "果仁糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "果泥",
+                    "icon": true
+                },
+                {
+                    "wordId": "甘纳许",
+                    "icon": true
+                },
+                {
+                    "wordId": "椰蓉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "有角动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "公羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "奶牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹿",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "中心",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "枢轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "核心",
+                    "icon": false
+                },
+                {
+                    "wordId": "枢纽",
+                    "icon": false
+                },
+                {
+                    "wordId": "基地",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "句法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "附加语",
+                    "icon": false
+                },
+                {
+                    "wordId": "修饰语",
+                    "icon": false
+                },
+                {
+                    "wordId": "主语",
+                    "icon": false
+                },
+                {
+                    "wordId": "宾语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "博客",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "网志",
+                    "icon": false
+                },
+                {
+                    "wordId": "视频博客",
+                    "icon": false
+                },
+                {
+                    "wordId": "直播",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "同意",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "是的",
+                    "icon": false
+                },
+                {
+                    "wordId": "当然",
+                    "icon": false
+                },
+                {
+                    "wordId": "确实",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "拉布拉多犬",
+        "犬种",
+        "核心",
+        "礼仪",
+        "办公室",
+        "奶牛",
+        "是的",
+        "例行公事",
+        "斗牛犬",
+        "山羊",
+        "甘纳许",
+        "椰蓉",
+        "习惯",
+        "切罗基",
+        "典礼",
+        "贵宾犬",
+        "实践",
+        "礼拜仪式",
+        "神圣的",
+        "有角动物",
+        "演讲者",
+        "视频博客",
+        "枢轴",
+        "苏族",
+        "拉科塔",
+        "獒犬",
+        "主语",
+        "鹿",
+        "葡萄干",
+        "公羊",
+        "果泥",
+        "当然",
+        "宾语",
+        "简报",
+        "花生",
+        "枢纽",
+        "房间",
+        "习俗",
+        "仪式",
+        "博客",
+        "句法",
+        "巴哥犬"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "梗犬",
+                "网志",
+                "沙皮犬",
+                "中心"
+            ]
+        },
+        {
+            "cards": [
+                "柯基犬",
+                "科曼奇",
+                "果仁糖",
+                "纳瓦霍",
+                "霍皮"
+            ]
+        },
+        {
+            "cards": [
+                "议程",
+                "同意",
+                "馅料",
+                "基地",
+                "直播",
+                "阿帕奇"
+            ]
+        },
+        {
+            "cards": [
+                "附加语",
+                "会议",
+                "确实",
+                "原住民",
+                "莫霍克",
+                "修饰语",
+                "小组"
+            ]
+        }
+    ]
+}

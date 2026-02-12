@@ -1,0 +1,453 @@
+{
+    "levelId": 390,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 170,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "时期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "秒",
+                    "icon": false
+                },
+                {
+                    "wordId": "分钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "小时",
+                    "icon": false
+                },
+                {
+                    "wordId": "天",
+                    "icon": false
+                },
+                {
+                    "wordId": "周",
+                    "icon": false
+                },
+                {
+                    "wordId": "季度",
+                    "icon": false
+                },
+                {
+                    "wordId": "季节",
+                    "icon": false
+                },
+                {
+                    "wordId": "世纪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纸张",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔记本",
+                    "icon": false
+                },
+                {
+                    "wordId": "信封",
+                    "icon": false
+                },
+                {
+                    "wordId": "贴纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "标签",
+                    "icon": false
+                },
+                {
+                    "wordId": "活页夹",
+                    "icon": false
+                },
+                {
+                    "wordId": "档夹",
+                    "icon": false
+                },
+                {
+                    "wordId": "钉书机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "轨道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "远地点",
+                    "icon": false
+                },
+                {
+                    "wordId": "近地点",
+                    "icon": false
+                },
+                {
+                    "wordId": "远日点",
+                    "icon": false
+                },
+                {
+                    "wordId": "恒星的",
+                    "icon": false
+                },
+                {
+                    "wordId": "会合的",
+                    "icon": false
+                },
+                {
+                    "wordId": "摆线的",
+                    "icon": false
+                },
+                {
+                    "wordId": "周日的",
+                    "icon": false
+                },
+                {
+                    "wordId": "自转",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "色调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猩红",
+                    "icon": false
+                },
+                {
+                    "wordId": "琥珀色",
+                    "icon": false
+                },
+                {
+                    "wordId": "青蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "淡紫色",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭石色",
+                    "icon": false
+                },
+                {
+                    "wordId": "天蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "栗色",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡其色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "语言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "意大利语",
+                    "icon": false
+                },
+                {
+                    "wordId": "日语",
+                    "icon": false
+                },
+                {
+                    "wordId": "德语",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙语",
+                    "icon": false
+                },
+                {
+                    "wordId": "法语",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "吟诵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "颂诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "挽歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "民谣",
+                    "icon": false
+                },
+                {
+                    "wordId": "赞美诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "哀歌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "声音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "音调",
+                    "icon": false
+                },
+                {
+                    "wordId": "音高",
+                    "icon": false
+                },
+                {
+                    "wordId": "响亮",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔和",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "余烬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火星",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰烬",
+                    "icon": false
+                },
+                {
+                    "wordId": "炭渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤块",
+                    "icon": false
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酿造",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麦芽酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "世涛",
+                    "icon": false
+                },
+                {
+                    "wordId": "波特",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉格",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "杂草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "荨麻",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓟草",
+                    "icon": false
+                },
+                {
+                    "wordId": "豚草",
+                    "icon": false
+                },
+                {
+                    "wordId": "藜草",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "希腊字母",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿尔法",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "伽玛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "调式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伊奥尼亚调式",
+                    "icon": false
+                },
+                {
+                    "wordId": "多利亚调式",
+                    "icon": false
+                },
+                {
+                    "wordId": "利底亚调式",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "世纪",
+        "火星",
+        "音高",
+        "会合的",
+        "赞美诗",
+        "栗色",
+        "民谣",
+        "轨道",
+        "煤块",
+        "哀歌",
+        "青蓝色",
+        "鼻音",
+        "日语",
+        "波特",
+        "调式",
+        "近地点",
+        "德语",
+        "麦芽酒",
+        "贝塔",
+        "色调",
+        "俄语",
+        "卡其色",
+        "远地点",
+        "纸张",
+        "季度",
+        "天",
+        "圣歌",
+        "利底亚调式",
+        "意大利语",
+        "拉格",
+        "豚草",
+        "火焰",
+        "活页夹",
+        "颂诗",
+        "法语",
+        "柔和",
+        "吟诵",
+        "赭石色",
+        "天蓝色",
+        "炭渣",
+        "季节",
+        "远日点",
+        "时期",
+        "藜草",
+        "标签",
+        "文具",
+        "摆线的",
+        "响亮",
+        "分钟",
+        "信封",
+        "伊奥尼亚调式",
+        "荨麻",
+        "小时",
+        "西班牙语"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "周日的",
+                "自转",
+                "贴纸",
+                "挽歌",
+                "世涛"
+            ]
+        },
+        {
+            "cards": [
+                "阿尔法",
+                "灰烬",
+                "蓟草",
+                "钉书机",
+                "琥珀色",
+                "档夹"
+            ]
+        },
+        {
+            "cards": [
+                "声音",
+                "余烬",
+                "笔记本",
+                "恒星的",
+                "周",
+                "秒",
+                "杂草"
+            ]
+        },
+        {
+            "cards": [
+                "酿造",
+                "语言",
+                "希腊字母",
+                "伽玛",
+                "音调",
+                "淡紫色",
+                "多利亚调式",
+                "猩红"
+            ]
+        }
+    ]
+}

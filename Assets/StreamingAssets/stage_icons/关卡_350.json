@@ -1,0 +1,369 @@
+{
+    "levelId": 350,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "住房",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "庄园",
+                    "icon": false
+                },
+                {
+                    "wordId": "木屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "村舍",
+                    "icon": false
+                },
+                {
+                    "wordId": "平房",
+                    "icon": false
+                },
+                {
+                    "wordId": "复式住宅",
+                    "icon": false
+                },
+                {
+                    "wordId": "经济公寓",
+                    "icon": false
+                },
+                {
+                    "wordId": "棚屋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "挂锁",
+                    "icon": false
+                },
+                {
+                    "wordId": "死栓",
+                    "icon": false
+                },
+                {
+                    "wordId": "门闩",
+                    "icon": false
+                },
+                {
+                    "wordId": "搭扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺栓",
+                    "icon": false
+                },
+                {
+                    "wordId": "把手",
+                    "icon": false
+                },
+                {
+                    "wordId": "链条",
+                    "icon": false
+                },
+                {
+                    "wordId": "弹簧锁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "隧道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "管道",
+                    "icon": false
+                },
+                {
+                    "wordId": "导管",
+                    "icon": false
+                },
+                {
+                    "wordId": "钻孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "廊道",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "地铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "走廊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "栅栏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尖桩栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "篱笆",
+                    "icon": false
+                },
+                {
+                    "wordId": "木栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "围栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "树篱",
+                    "icon": false
+                },
+                {
+                    "wordId": "带刺铁丝网",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小树林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杨树",
+                    "icon": false
+                },
+                {
+                    "wordId": "松树",
+                    "icon": false
+                },
+                {
+                    "wordId": "桦树",
+                    "icon": false
+                },
+                {
+                    "wordId": "落叶松",
+                    "icon": false
+                },
+                {
+                    "wordId": "云杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "山杨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "砖块",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "土砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹅卵石",
+                    "icon": false
+                },
+                {
+                    "wordId": "铺路砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "熟料砖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乙酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "硝酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "硫酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳酸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "柱式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "多立克柱式",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱奥尼柱式",
+                    "icon": false
+                },
+                {
+                    "wordId": "托斯卡纳柱式",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊奥利亚柱式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "足球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "进球",
+                    "icon": true
+                },
+                {
+                    "wordId": "体育场",
+                    "icon": true
+                },
+                {
+                    "wordId": "球迷",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "车轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轮胎",
+                    "icon": false
+                },
+                {
+                    "wordId": "车轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮毂",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "庄园",
+        "住房",
+        "木屋",
+        "桦树",
+        "平房",
+        "尖桩栅栏",
+        "钻孔",
+        "山杨",
+        "多立克柱式",
+        "树篱",
+        "栅栏",
+        "门闩",
+        "复式住宅",
+        "托斯卡纳柱式",
+        "轮毂",
+        "铺路砖",
+        "把手",
+        "足球",
+        "爱奥尼柱式",
+        "搭扣",
+        "挂锁",
+        "轮胎",
+        "松树",
+        "酸",
+        "进球",
+        "体育场",
+        "螺栓",
+        "小树林",
+        "走廊",
+        "鹅卵石",
+        "廊道",
+        "死栓",
+        "车轴",
+        "杨树",
+        "经济公寓",
+        "云杉",
+        "洞穴",
+        "弹簧锁",
+        "落叶松",
+        "木栅栏",
+        "带刺铁丝网",
+        "链条"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "隧道",
+                "棚屋",
+                "导管",
+                "熟料砖"
+            ]
+        },
+        {
+            "cards": [
+                "柱式",
+                "地铁",
+                "管道",
+                "围栏",
+                "乳酸"
+            ]
+        },
+        {
+            "cards": [
+                "砖块",
+                "村舍",
+                "伊奥利亚柱式",
+                "锁",
+                "通道",
+                "车轮"
+            ]
+        },
+        {
+            "cards": [
+                "篱笆",
+                "球迷",
+                "硫酸",
+                "土砖",
+                "小屋",
+                "乙酸",
+                "硝酸"
+            ]
+        }
+    ]
+}

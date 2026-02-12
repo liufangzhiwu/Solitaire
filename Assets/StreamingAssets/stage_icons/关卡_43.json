@@ -1,0 +1,369 @@
+{
+    "levelId": 43,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "月份",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "五月",
+                    "icon": false
+                },
+                {
+                    "wordId": "四月",
+                    "icon": false
+                },
+                {
+                    "wordId": "七月",
+                    "icon": false
+                },
+                {
+                    "wordId": "六月",
+                    "icon": false
+                },
+                {
+                    "wordId": "八月",
+                    "icon": false
+                },
+                {
+                    "wordId": "十二月",
+                    "icon": false
+                },
+                {
+                    "wordId": "一月",
+                    "icon": false
+                },
+                {
+                    "wordId": "十月",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "艺术家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毕加索",
+                    "icon": false
+                },
+                {
+                    "wordId": "达·芬奇",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫奈",
+                    "icon": false
+                },
+                {
+                    "wordId": "梵高",
+                    "icon": false
+                },
+                {
+                    "wordId": "达利",
+                    "icon": false
+                },
+                {
+                    "wordId": "沃霍尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙克",
+                    "icon": false
+                },
+                {
+                    "wordId": "维米尔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "硼酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "草酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "硫酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "乙酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "苹果酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "硝酸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "云",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "积云",
+                    "icon": false
+                },
+                {
+                    "wordId": "层云",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷云",
+                    "icon": false
+                },
+                {
+                    "wordId": "雨云",
+                    "icon": false
+                },
+                {
+                    "wordId": "蔽光云",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷积云",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "发型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "波波头",
+                    "icon": true
+                },
+                {
+                    "wordId": "底层剪裁",
+                    "icon": true
+                },
+                {
+                    "wordId": "莫西干头",
+                    "icon": true
+                },
+                {
+                    "wordId": "渐变发型",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲻鱼头",
+                    "icon": true
+                },
+                {
+                    "wordId": "爆炸头",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "消息",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "短信",
+                    "icon": false
+                },
+                {
+                    "wordId": "电子邮件",
+                    "icon": false
+                },
+                {
+                    "wordId": "信件",
+                    "icon": false
+                },
+                {
+                    "wordId": "传真",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盔甲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁手套",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "潜水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "呼吸管",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚蹼",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿式潜水服",
+                    "icon": false
+                },
+                {
+                    "wordId": "干式潜水服",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "哲学观点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "二元论",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯多葛主义",
+                    "icon": false
+                },
+                {
+                    "wordId": "虚无主义",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "老鼠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "敏捷",
+                    "icon": false
+                },
+                {
+                    "wordId": "迅速",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬼祟",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "迅速",
+        "达利",
+        "乙酸",
+        "呼吸管",
+        "潜水",
+        "卷积云",
+        "哲学观点",
+        "头盔",
+        "十月",
+        "八月",
+        "信件",
+        "叶酸",
+        "二元论",
+        "六月",
+        "蒙克",
+        "层云",
+        "毕加索",
+        "十二月",
+        "乳酸",
+        "雨云",
+        "干式潜水服",
+        "硝酸",
+        "胸甲",
+        "维米尔",
+        "蔽光云",
+        "月份",
+        "短信",
+        "卷云",
+        "斯多葛主义",
+        "安全",
+        "渐变发型",
+        "五月",
+        "一月",
+        "消息",
+        "老鼠",
+        "硼酸",
+        "莫奈",
+        "鲻鱼头",
+        "传真",
+        "脚蹼",
+        "梵高",
+        "波波头"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "苹果酸",
+                "四月",
+                "草酸",
+                "艺术家"
+            ]
+        },
+        {
+            "cards": [
+                "铁手套",
+                "鬼祟",
+                "敏捷",
+                "发型",
+                "积云"
+            ]
+        },
+        {
+            "cards": [
+                "硫酸",
+                "盔甲",
+                "电子邮件",
+                "底层剪裁",
+                "云",
+                "爆炸头"
+            ]
+        },
+        {
+            "cards": [
+                "七月",
+                "莫西干头",
+                "沃霍尔",
+                "酸",
+                "虚无主义",
+                "湿式潜水服",
+                "达·芬奇"
+            ]
+        }
+    ]
+}

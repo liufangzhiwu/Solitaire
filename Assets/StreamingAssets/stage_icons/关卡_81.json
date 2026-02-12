@@ -1,0 +1,553 @@
+{
+    "levelId": 81,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 210,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "航空",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "航空公司",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷气机",
+                    "icon": false
+                },
+                {
+                    "wordId": "航班",
+                    "icon": false
+                },
+                {
+                    "wordId": "机场",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞艇",
+                    "icon": false
+                },
+                {
+                    "wordId": "跑道",
+                    "icon": false
+                },
+                {
+                    "wordId": "机身",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "风",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "密史脱拉风",
+                    "icon": false
+                },
+                {
+                    "wordId": "布拉风",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇努克风",
+                    "icon": false
+                },
+                {
+                    "wordId": "西罗科风",
+                    "icon": false
+                },
+                {
+                    "wordId": "泽费罗斯风",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮特拉克风",
+                    "icon": false
+                },
+                {
+                    "wordId": "文达瓦尔风",
+                    "icon": false
+                },
+                {
+                    "wordId": "微风",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "避难所",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "庇护所",
+                    "icon": false
+                },
+                {
+                    "wordId": "兽穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏身处",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐匿处",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全性",
+                    "icon": false
+                },
+                {
+                    "wordId": "躲藏处",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐藏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "床",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双层床",
+                    "icon": false
+                },
+                {
+                    "wordId": "行军床",
+                    "icon": false
+                },
+                {
+                    "wordId": "婴儿床",
+                    "icon": false
+                },
+                {
+                    "wordId": "卧铺",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇篮",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒲团",
+                    "icon": false
+                },
+                {
+                    "wordId": "吊床",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙发床",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "葡萄酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梅洛",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡瓦酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷司令",
+                    "icon": false
+                },
+                {
+                    "wordId": "普洛赛克",
+                    "icon": false
+                },
+                {
+                    "wordId": "赤霞珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "桃红葡萄酒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海盗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木腿",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "短弯刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "大炮",
+                    "icon": true
+                },
+                {
+                    "wordId": "朗姆酒",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝藏",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "嗅觉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鼻子",
+                    "icon": false
+                },
+                {
+                    "wordId": "香水",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒香",
+                    "icon": false
+                },
+                {
+                    "wordId": "芳香",
+                    "icon": false
+                },
+                {
+                    "wordId": "气味",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭味",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "陶瓷器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "马克杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "碗",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓷砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "盘子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "思考",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沉思",
+                    "icon": false
+                },
+                {
+                    "wordId": "想像",
+                    "icon": false
+                },
+                {
+                    "wordId": "假设",
+                    "icon": false
+                },
+                {
+                    "wordId": "相信",
+                    "icon": false
+                },
+                {
+                    "wordId": "考虑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "外套",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹克",
+                    "icon": false
+                },
+                {
+                    "wordId": "大衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽绒",
+                    "icon": false
+                },
+                {
+                    "wordId": "西装",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颈部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "领带",
+                    "icon": true
+                },
+                {
+                    "wordId": "领结",
+                    "icon": true
+                },
+                {
+                    "wordId": "衣领",
+                    "icon": true
+                },
+                {
+                    "wordId": "围巾",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "木卫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木卫一",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫二",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫三",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫四",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "脆的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薯片",
+                    "icon": false
+                },
+                {
+                    "wordId": "坚果",
+                    "icon": false
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": false
+                },
+                {
+                    "wordId": "爆米花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国王",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宝球",
+                    "icon": false
+                },
+                {
+                    "wordId": "王座",
+                    "icon": false
+                },
+                {
+                    "wordId": "权杖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "喀迈拉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狮子",
+                    "icon": true
+                },
+                {
+                    "wordId": "山羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "夹克",
+        "芳香",
+        "大炮",
+        "陶瓷器",
+        "短弯刀",
+        "皮特拉克风",
+        "卧铺",
+        "木卫一",
+        "海盗",
+        "西装",
+        "双层床",
+        "王座",
+        "布拉风",
+        "坚果",
+        "酒香",
+        "考虑",
+        "安全",
+        "宝球",
+        "薯片",
+        "婴儿床",
+        "瓷砖",
+        "木卫四",
+        "围巾",
+        "羽绒",
+        "跑道",
+        "奇努克风",
+        "普洛赛克",
+        "臭味",
+        "航班",
+        "蛇",
+        "马克杯",
+        "木卫三",
+        "气味",
+        "衣领",
+        "吊床",
+        "庇护所",
+        "花瓶",
+        "飞行员",
+        "狮子",
+        "床",
+        "木腿",
+        "摇篮",
+        "木卫",
+        "爆米花",
+        "权杖",
+        "朗姆酒",
+        "赤霞珠",
+        "鹦鹉",
+        "盘子",
+        "国王",
+        "葡萄酒",
+        "山羊",
+        "航空公司",
+        "文达瓦尔风",
+        "蒲团",
+        "鼻子",
+        "碗",
+        "微风",
+        "机身",
+        "卡瓦酒",
+        "梅洛",
+        "颈部",
+        "香水"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "兽穴",
+                "大衣",
+                "嗅觉",
+                "安全性",
+                "隐匿处"
+            ]
+        },
+        {
+            "cards": [
+                "隐藏",
+                "脆的",
+                "领结",
+                "想像",
+                "风衣",
+                "雷司令"
+            ]
+        },
+        {
+            "cards": [
+                "行军床",
+                "密史脱拉风",
+                "西罗科风",
+                "假设",
+                "喀迈拉",
+                "航空",
+                "宝藏"
+            ]
+        },
+        {
+            "cards": [
+                "外套",
+                "机场",
+                "沉思",
+                "泽费罗斯风",
+                "藏身处",
+                "木卫二",
+                "思考",
+                "饼干"
+            ]
+        },
+        {
+            "cards": [
+                "喷气机",
+                "躲藏处",
+                "飞艇",
+                "沙发床",
+                "避难所",
+                "风",
+                "相信",
+                "领带",
+                "桃红葡萄酒"
+            ]
+        }
+    ]
+}

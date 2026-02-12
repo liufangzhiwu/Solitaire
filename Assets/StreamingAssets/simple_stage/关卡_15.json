@@ -1,0 +1,369 @@
+{
+    "levelId": 15,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "钓鱼佬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "空军",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞铅钓法",
+                    "icon": false
+                },
+                {
+                    "wordId": "路亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "打窝",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼竿",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼饵",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼漂",
+                    "icon": false
+                },
+                {
+                    "wordId": "野钓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "作曲家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "莫扎特",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴赫",
+                    "icon": false
+                },
+                {
+                    "wordId": "维瓦尔第",
+                    "icon": false
+                },
+                {
+                    "wordId": "肖邦",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓦格纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "舒伯特",
+                    "icon": false
+                },
+                {
+                    "wordId": "施特劳斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "勃拉姆斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电脑组件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "显示器",
+                    "icon": false
+                },
+                {
+                    "wordId": "键盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼠标",
+                    "icon": false
+                },
+                {
+                    "wordId": "驱动器",
+                    "icon": false
+                },
+                {
+                    "wordId": "CPU",
+                    "icon": false
+                },
+                {
+                    "wordId": "显卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "内存",
+                    "icon": false
+                },
+                {
+                    "wordId": "固态硬盘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星期日",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期一",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期二",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期四",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期五",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期六",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "端午节",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙舟",
+                    "icon": false
+                },
+                {
+                    "wordId": "屈原",
+                    "icon": false
+                },
+                {
+                    "wordId": "艾草",
+                    "icon": false
+                },
+                {
+                    "wordId": "粽子",
+                    "icon": false
+                },
+                {
+                    "wordId": "汨罗江",
+                    "icon": false
+                },
+                {
+                    "wordId": "咸鸭蛋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "首席执行官",
+                    "icon": false
+                },
+                {
+                    "wordId": "经理",
+                    "icon": false
+                },
+                {
+                    "wordId": "实习生",
+                    "icon": false
+                },
+                {
+                    "wordId": "主管",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奢侈品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠宝",
+                    "icon": true
+                },
+                {
+                    "wordId": "手表",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱼子酱",
+                    "icon": true
+                },
+                {
+                    "wordId": "游艇",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "彩绘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "颜料",
+                    "icon": false
+                },
+                {
+                    "wordId": "水粉画",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜡笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨水",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阿美族",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "母系社会",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄丽玲",
+                    "icon": false
+                },
+                {
+                    "wordId": "丰年祭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "辣椒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小米辣",
+                    "icon": false
+                },
+                {
+                    "wordId": "朝天椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯笼椒",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "显示器",
+        "电脑组件",
+        "路亚",
+        "键盘",
+        "屈原",
+        "鱼饵",
+        "莫扎特",
+        "手表",
+        "母系社会",
+        "CPU",
+        "肖邦",
+        "蜡笔",
+        "颜料",
+        "奢侈品",
+        "咸鸭蛋",
+        "勃拉姆斯",
+        "游艇",
+        "艾草",
+        "星期四",
+        "星期二",
+        "珠宝",
+        "飞铅钓法",
+        "鱼竿",
+        "小米辣",
+        "实习生",
+        "主管",
+        "固态硬盘",
+        "空军",
+        "灯笼椒",
+        "巴赫",
+        "鱼子酱",
+        "星期日",
+        "维瓦尔第",
+        "施特劳斯",
+        "丰年祭",
+        "舒伯特",
+        "星期",
+        "阿美族",
+        "内存",
+        "辣椒",
+        "水粉画",
+        "经理"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "端午节",
+                "瓦格纳",
+                "汨罗江",
+                "作曲家"
+            ]
+        },
+        {
+            "cards": [
+                "打窝",
+                "星期一",
+                "钓鱼佬",
+                "粽子",
+                "首席执行官"
+            ]
+        },
+        {
+            "cards": [
+                "鼠标",
+                "龙舟",
+                "墨水",
+                "星期五",
+                "职位",
+                "驱动器"
+            ]
+        },
+        {
+            "cards": [
+                "显卡",
+                "鱼漂",
+                "彩绘",
+                "星期六",
+                "野钓",
+                "黄丽玲",
+                "朝天椒"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "levelId": 151,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "数独",
+                    "icon": false
+                },
+                {
+                    "wordId": "逻辑",
+                    "icon": false
+                },
+                {
+                    "wordId": "游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎片",
+                    "icon": false
+                },
+                {
+                    "wordId": "解决",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "装饰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "地毯",
+                    "icon": true
+                },
+                {
+                    "wordId": "靠垫",
+                    "icon": true
+                },
+                {
+                    "wordId": "窗帘",
+                    "icon": true
+                },
+                {
+                    "wordId": "绘画",
+                    "icon": true
+                },
+                {
+                    "wordId": "挂毯",
+                    "icon": true
+                },
+                {
+                    "wordId": "小雕像",
+                    "icon": true
+                },
+                {
+                    "wordId": "龟背竹",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "成对物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "靴子",
+                    "icon": true
+                },
+                {
+                    "wordId": "手套",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳环",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳机",
+                    "icon": true
+                },
+                {
+                    "wordId": "双胞胎",
+                    "icon": true
+                },
+                {
+                    "wordId": "袜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑雪板",
+                    "icon": true
+                },
+                {
+                    "wordId": "鼻孔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "气体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氧气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氦气",
+                    "icon": false
+                },
+                {
+                    "wordId": "甲烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "水蒸气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氨气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氙气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氮气",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁烷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "新生儿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "婴儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿普加评分",
+                    "icon": false
+                },
+                {
+                    "wordId": "啼哭",
+                    "icon": false
+                },
+                {
+                    "wordId": "胎盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "脐带",
+                    "icon": false
+                },
+                {
+                    "wordId": "母亲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "限制",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "速度",
+                    "icon": false
+                },
+                {
+                    "wordId": "版本",
+                    "icon": false
+                },
+                {
+                    "wordId": "上限",
+                    "icon": false
+                },
+                {
+                    "wordId": "金钱",
+                    "icon": false
+                },
+                {
+                    "wordId": "数量",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "异常",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "非典型",
+                    "icon": false
+                },
+                {
+                    "wordId": "不寻常",
+                    "icon": false
+                },
+                {
+                    "wordId": "突变",
+                    "icon": false
+                },
+                {
+                    "wordId": "偏离的",
+                    "icon": false
+                },
+                {
+                    "wordId": "古怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "怪胎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "简历",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "职位空缺",
+                    "icon": false
+                },
+                {
+                    "wordId": "职称",
+                    "icon": false
+                },
+                {
+                    "wordId": "工作",
+                    "icon": false
+                },
+                {
+                    "wordId": "人力资源",
+                    "icon": false
+                },
+                {
+                    "wordId": "申请",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "洒落",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "五彩纸屑",
+                    "icon": true
+                },
+                {
+                    "wordId": "花洒",
+                    "icon": true
+                },
+                {
+                    "wordId": "洒水器",
+                    "icon": true
+                },
+                {
+                    "wordId": "雨水",
+                    "icon": true
+                },
+                {
+                    "wordId": "浇头",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "坚果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "栗子",
+                    "icon": false
+                },
+                {
+                    "wordId": "松子",
+                    "icon": false
+                },
+                {
+                    "wordId": "核桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "腰果",
+                    "icon": false
+                },
+                {
+                    "wordId": "山核桃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "口音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伦敦腔",
+                    "icon": false
+                },
+                {
+                    "wordId": "方言",
+                    "icon": false
+                },
+                {
+                    "wordId": "发音",
+                    "icon": false
+                },
+                {
+                    "wordId": "外国口音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卡通",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "有趣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "绘制的",
+                    "icon": false
+                },
+                {
+                    "wordId": "二维",
+                    "icon": false
+                },
+                {
+                    "wordId": "动画",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "感知",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "品尝",
+                    "icon": false
+                },
+                {
+                    "wordId": "倾听",
+                    "icon": false
+                },
+                {
+                    "wordId": "闻",
+                    "icon": false
+                },
+                {
+                    "wordId": "触摸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "脊柱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脊骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "椎骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "椎间盘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "糕点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "可丽饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "果仁蜜饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪电泡芙",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "倾听",
+        "突变",
+        "鼻孔",
+        "触摸",
+        "龟背竹",
+        "职位空缺",
+        "靴子",
+        "外国口音",
+        "手套",
+        "有趣的",
+        "二维",
+        "脊骨",
+        "速度",
+        "窗帘",
+        "母亲",
+        "口音",
+        "游戏",
+        "氨气",
+        "洒落",
+        "上限",
+        "数量",
+        "动画",
+        "耳机",
+        "脊柱",
+        "工作",
+        "时间",
+        "装饰",
+        "椎骨",
+        "山核桃",
+        "果仁蜜饼",
+        "逻辑",
+        "氮气",
+        "地毯",
+        "感知",
+        "松子",
+        "金钱",
+        "椎间盘",
+        "靠垫",
+        "胎盘",
+        "挂毯",
+        "方言",
+        "古怪",
+        "核桃",
+        "碎片",
+        "数独",
+        "成对物",
+        "腰果",
+        "发音",
+        "氧气",
+        "品尝",
+        "绘制的",
+        "解决",
+        "婴儿",
+        "迷宫",
+        "怪胎",
+        "人力资源",
+        "闪电泡芙",
+        "丁烷",
+        "卡通",
+        "伦敦腔",
+        "氙气",
+        "拼图",
+        "可丽饼"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "洒水器",
+                "限制",
+                "阿普加评分",
+                "啼哭",
+                "耳环"
+            ]
+        },
+        {
+            "cards": [
+                "甲烷",
+                "简历",
+                "版本",
+                "绘画",
+                "申请",
+                "异常"
+            ]
+        },
+        {
+            "cards": [
+                "非典型",
+                "袜子",
+                "水蒸气",
+                "新生儿",
+                "浇头",
+                "糕点",
+                "小雕像"
+            ]
+        },
+        {
+            "cards": [
+                "偏离的",
+                "氦气",
+                "谜",
+                "双胞胎",
+                "花瓶",
+                "谜题",
+                "花洒",
+                "闻"
+            ]
+        },
+        {
+            "cards": [
+                "脐带",
+                "五彩纸屑",
+                "滑雪板",
+                "不寻常",
+                "职称",
+                "坚果",
+                "栗子",
+                "气体",
+                "雨水"
+            ]
+        }
+    ]
+}

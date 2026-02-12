@@ -1,0 +1,369 @@
+{
+    "levelId": 360,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "思想",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "想法",
+                    "icon": false
+                },
+                {
+                    "wordId": "记忆",
+                    "icon": false
+                },
+                {
+                    "wordId": "概念",
+                    "icon": false
+                },
+                {
+                    "wordId": "观点",
+                    "icon": false
+                },
+                {
+                    "wordId": "见解",
+                    "icon": false
+                },
+                {
+                    "wordId": "沉思",
+                    "icon": false
+                },
+                {
+                    "wordId": "理性",
+                    "icon": false
+                },
+                {
+                    "wordId": "信念",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "条纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "波点",
+                    "icon": true
+                },
+                {
+                    "wordId": "棋盘格",
+                    "icon": true
+                },
+                {
+                    "wordId": "佩斯利",
+                    "icon": true
+                },
+                {
+                    "wordId": "马赛克",
+                    "icon": true
+                },
+                {
+                    "wordId": "人字形",
+                    "icon": true
+                },
+                {
+                    "wordId": "抽象图案",
+                    "icon": true
+                },
+                {
+                    "wordId": "点状图案",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "流星雨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狮子座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "英仙座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "双子座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎户座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "金牛座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "天龙座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "天琴座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "小熊座流星雨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气泡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泡沫",
+                    "icon": false
+                },
+                {
+                    "wordId": "肥皂泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "球体",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "破裂",
+                    "icon": false
+                },
+                {
+                    "wordId": "爆裂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梦境",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "睡眠",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻象",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻想",
+                    "icon": false
+                },
+                {
+                    "wordId": "清醒梦",
+                    "icon": false
+                },
+                {
+                    "wordId": "熟睡",
+                    "icon": false
+                },
+                {
+                    "wordId": "遐想",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阴影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "遮光",
+                    "icon": false
+                },
+                {
+                    "wordId": "昏暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "半影",
+                    "icon": false
+                },
+                {
+                    "wordId": "日食",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罪行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盗窃",
+                    "icon": false
+                },
+                {
+                    "wordId": "抢劫",
+                    "icon": false
+                },
+                {
+                    "wordId": "入室盗窃",
+                    "icon": false
+                },
+                {
+                    "wordId": "纵火",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "路径",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小径",
+                    "icon": false
+                },
+                {
+                    "wordId": "路线",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "车道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "故事",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "传说",
+                    "icon": false
+                },
+                {
+                    "wordId": "史诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇谈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "科技",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "代码",
+                    "icon": false
+                },
+                {
+                    "wordId": "芯片",
+                    "icon": false
+                },
+                {
+                    "wordId": "数据",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "罪行",
+        "阴影",
+        "英仙座流星雨",
+        "理性",
+        "金牛座流星雨",
+        "睡眠",
+        "汽泡",
+        "抽象图案",
+        "天琴座流星雨",
+        "清醒梦",
+        "泡沫",
+        "球体",
+        "条纹",
+        "传说",
+        "奇谈",
+        "爆裂",
+        "幻想",
+        "故事",
+        "天龙座流星雨",
+        "观点",
+        "史诗",
+        "马赛克",
+        "昏暗",
+        "幻象",
+        "想法",
+        "日食",
+        "波点",
+        "抢劫",
+        "芯片",
+        "车道",
+        "佩斯利",
+        "遮光",
+        "轨迹",
+        "双子座流星雨",
+        "半影",
+        "肥皂泡",
+        "路径",
+        "信念",
+        "图案",
+        "纵火",
+        "破裂",
+        "小径"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "棋盘格",
+                "人字形",
+                "狮子座流星雨",
+                "沉思"
+            ]
+        },
+        {
+            "cards": [
+                "代码",
+                "气泡",
+                "记忆",
+                "小熊座流星雨",
+                "路线"
+            ]
+        },
+        {
+            "cards": [
+                "见解",
+                "流星雨",
+                "点状图案",
+                "入室盗窃",
+                "猎户座流星雨",
+                "科技"
+            ]
+        },
+        {
+            "cards": [
+                "思想",
+                "梦境",
+                "熟睡",
+                "盗窃",
+                "遐想",
+                "数据",
+                "概念"
+            ]
+        }
+    ]
+}

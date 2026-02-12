@@ -1,0 +1,217 @@
+{
+    "levelId": 82,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "床上用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毯子",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽绒被",
+                    "icon": false
+                },
+                {
+                    "wordId": "枕头",
+                    "icon": false
+                },
+                {
+                    "wordId": "被子",
+                    "icon": false
+                },
+                {
+                    "wordId": "床单",
+                    "icon": false
+                },
+                {
+                    "wordId": "床垫",
+                    "icon": false
+                },
+                {
+                    "wordId": "盖毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "长枕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "食谱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混合",
+                    "icon": false
+                },
+                {
+                    "wordId": "添加",
+                    "icon": false
+                },
+                {
+                    "wordId": "煮沸",
+                    "icon": false
+                },
+                {
+                    "wordId": "炖",
+                    "icon": false
+                },
+                {
+                    "wordId": "煨",
+                    "icon": false
+                },
+                {
+                    "wordId": "搅拌",
+                    "icon": false
+                },
+                {
+                    "wordId": "调味",
+                    "icon": false
+                },
+                {
+                    "wordId": "融化",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "银制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "硬币",
+                    "icon": true
+                },
+                {
+                    "wordId": "奖章",
+                    "icon": true
+                },
+                {
+                    "wordId": "餐具",
+                    "icon": true
+                },
+                {
+                    "wordId": "高脚杯",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "家禽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火鸡",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸭",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹌鹑",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "马车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缰绳",
+                    "icon": false
+                },
+                {
+                    "wordId": "马具",
+                    "icon": false
+                },
+                {
+                    "wordId": "马车夫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "熊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "北极熊",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰熊",
+                    "icon": false
+                },
+                {
+                    "wordId": "熊猫",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "床单",
+        "家禽",
+        "羽绒被",
+        "马车夫",
+        "添加",
+        "奖章",
+        "调味",
+        "盖毯",
+        "火鸡",
+        "缰绳",
+        "熊猫",
+        "煮沸",
+        "被子",
+        "炖",
+        "煨",
+        "床垫",
+        "搅拌",
+        "鹌鹑",
+        "床上用品",
+        "硬币",
+        "混合",
+        "银制品",
+        "鸭",
+        "鸡"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "高脚杯",
+                "马具",
+                "毯子"
+            ]
+        },
+        {
+            "cards": [
+                "熊",
+                "长枕",
+                "融化",
+                "食谱"
+            ]
+        },
+        {
+            "cards": [
+                "马车",
+                "餐具",
+                "灰熊",
+                "枕头",
+                "北极熊"
+            ]
+        }
+    ]
+}

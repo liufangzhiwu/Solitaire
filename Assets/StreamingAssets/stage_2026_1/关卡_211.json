@@ -1,0 +1,217 @@
+{
+    "levelId": 211,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "国家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "州",
+                    "icon": false
+                },
+                {
+                    "wordId": "土地",
+                    "icon": false
+                },
+                {
+                    "wordId": "人民",
+                    "icon": false
+                },
+                {
+                    "wordId": "联盟",
+                    "icon": false
+                },
+                {
+                    "wordId": "帝国",
+                    "icon": false
+                },
+                {
+                    "wordId": "共和国",
+                    "icon": false
+                },
+                {
+                    "wordId": "王国",
+                    "icon": false
+                },
+                {
+                    "wordId": "社会",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "一餐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盘子",
+                    "icon": true
+                },
+                {
+                    "wordId": "汤",
+                    "icon": true
+                },
+                {
+                    "wordId": "酱料瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "餐巾纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "一杯果汁",
+                    "icon": true
+                },
+                {
+                    "wordId": "咖啡馆",
+                    "icon": true
+                },
+                {
+                    "wordId": "厨师",
+                    "icon": true
+                },
+                {
+                    "wordId": "美味甜点",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "睡眠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "枕头",
+                    "icon": false
+                },
+                {
+                    "wordId": "毯子",
+                    "icon": false
+                },
+                {
+                    "wordId": "睡衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "打鼾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "照料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "养育",
+                    "icon": false
+                },
+                {
+                    "wordId": "喂养",
+                    "icon": false
+                },
+                {
+                    "wordId": "提供",
+                    "icon": false
+                },
+                {
+                    "wordId": "治疗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "媒体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杂志",
+                    "icon": false
+                },
+                {
+                    "wordId": "小报",
+                    "icon": false
+                },
+                {
+                    "wordId": "播客",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "教师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑板",
+                    "icon": true
+                },
+                {
+                    "wordId": "教科书",
+                    "icon": true
+                },
+                {
+                    "wordId": "教鞭",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "治疗",
+        "喂养",
+        "一餐",
+        "盘子",
+        "酱料瓶",
+        "人民",
+        "照料",
+        "播客",
+        "厨师",
+        "杂志",
+        "美味甜点",
+        "州",
+        "养育",
+        "社会",
+        "提供",
+        "咖啡馆",
+        "打鼾",
+        "餐巾纸",
+        "教科书",
+        "帝国",
+        "联盟",
+        "一杯果汁",
+        "汤",
+        "国家"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "毯子",
+                "黑板",
+                "小报"
+            ]
+        },
+        {
+            "cards": [
+                "枕头",
+                "睡衣",
+                "教鞭",
+                "土地"
+            ]
+        },
+        {
+            "cards": [
+                "王国",
+                "媒体",
+                "教师",
+                "共和国",
+                "睡眠"
+            ]
+        }
+    ]
+}

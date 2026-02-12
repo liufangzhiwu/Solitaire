@@ -1,0 +1,453 @@
+{
+    "levelId": 21,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 170,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "锋利物品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锯子",
+                    "icon": false
+                },
+                {
+                    "wordId": "手术刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "剃须刀片",
+                    "icon": false
+                },
+                {
+                    "wordId": "针",
+                    "icon": false
+                },
+                {
+                    "wordId": "斧头",
+                    "icon": false
+                },
+                {
+                    "wordId": "螫刺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海鲜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙虾",
+                    "icon": true
+                },
+                {
+                    "wordId": "牡蛎",
+                    "icon": true
+                },
+                {
+                    "wordId": "贻贝",
+                    "icon": true
+                },
+                {
+                    "wordId": "蟹",
+                    "icon": true
+                },
+                {
+                    "wordId": "扇贝",
+                    "icon": true
+                },
+                {
+                    "wordId": "对虾",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱿鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "虾",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "ABB式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笑哈哈",
+                    "icon": false
+                },
+                {
+                    "wordId": "亮晶晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "香喷喷",
+                    "icon": false
+                },
+                {
+                    "wordId": "胖乎乎",
+                    "icon": false
+                },
+                {
+                    "wordId": "软绵绵",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜丝丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "热乎乎",
+                    "icon": false
+                },
+                {
+                    "wordId": "美滋滋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "书籍类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "长篇小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "散文",
+                    "icon": false
+                },
+                {
+                    "wordId": "回忆录",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊悚小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇幻文学",
+                    "icon": false
+                },
+                {
+                    "wordId": "自传",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星座",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猎户座",
+                    "icon": false
+                },
+                {
+                    "wordId": "英仙座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天龙座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天蝎座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅座",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨蛇座",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "婚礼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "仪式",
+                    "icon": false
+                },
+                {
+                    "wordId": "求婚",
+                    "icon": false
+                },
+                {
+                    "wordId": "证婚人",
+                    "icon": false
+                },
+                {
+                    "wordId": "新娘",
+                    "icon": false
+                },
+                {
+                    "wordId": "新郎",
+                    "icon": false
+                },
+                {
+                    "wordId": "誓言",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "燃料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽油",
+                    "icon": false
+                },
+                {
+                    "wordId": "柴油",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "床",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毯子",
+                    "icon": false
+                },
+                {
+                    "wordId": "床单",
+                    "icon": false
+                },
+                {
+                    "wordId": "枕头",
+                    "icon": false
+                },
+                {
+                    "wordId": "格子布",
+                    "icon": false
+                },
+                {
+                    "wordId": "床垫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "咖啡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "意式浓缩",
+                    "icon": false
+                },
+                {
+                    "wordId": "拿铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "长萃",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩卡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "选举",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "选民",
+                    "icon": false
+                },
+                {
+                    "wordId": "选票",
+                    "icon": false
+                },
+                {
+                    "wordId": "竞选",
+                    "icon": false
+                },
+                {
+                    "wordId": "投票率",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "君主",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国王",
+                    "icon": false
+                },
+                {
+                    "wordId": "皇帝",
+                    "icon": false
+                },
+                {
+                    "wordId": "大君",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁轨",
+                    "icon": false
+                },
+                {
+                    "wordId": "车厢",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "牡蛎",
+        "大君",
+        "龙虾",
+        "惊悚小说",
+        "刀",
+        "巨蛇座",
+        "轨道",
+        "胖乎乎",
+        "猎户座",
+        "仪式",
+        "新娘",
+        "香喷喷",
+        "格子布",
+        "汽油",
+        "床垫",
+        "蟹",
+        "小说",
+        "国王",
+        "ABB式",
+        "选民",
+        "毯子",
+        "散文",
+        "婚礼",
+        "天龙座",
+        "求婚",
+        "热乎乎",
+        "贻贝",
+        "铁轨",
+        "海鲜",
+        "长萃",
+        "剪刀",
+        "意式浓缩",
+        "咖啡",
+        "回忆录",
+        "针",
+        "亮晶晶",
+        "拿铁",
+        "天鹅座",
+        "手术刀",
+        "煤",
+        "丙烷",
+        "英仙座",
+        "车厢",
+        "摩卡",
+        "虾",
+        "投票率",
+        "鱿鱼",
+        "床单",
+        "螫刺",
+        "君主",
+        "证婚人",
+        "诗歌",
+        "誓言",
+        "床"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "自传",
+                "天蝎座",
+                "锋利物品",
+                "燃料",
+                "笑哈哈"
+            ]
+        },
+        {
+            "cards": [
+                "火车",
+                "斧头",
+                "软绵绵",
+                "扇贝",
+                "选举",
+                "皇帝"
+            ]
+        },
+        {
+            "cards": [
+                "星座",
+                "锯子",
+                "煤油",
+                "长篇小说",
+                "对虾",
+                "剃须刀片",
+                "柴油"
+            ]
+        },
+        {
+            "cards": [
+                "甜丝丝",
+                "新郎",
+                "枕头",
+                "美滋滋",
+                "竞选",
+                "书籍类型",
+                "奇幻文学",
+                "选票"
+            ]
+        }
+    ]
+}

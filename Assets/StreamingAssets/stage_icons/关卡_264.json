@@ -1,0 +1,217 @@
+{
+    "levelId": 264,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "海洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "波浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "珊瑚",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲨鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "海豚",
+                    "icon": false
+                },
+                {
+                    "wordId": "洋流",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐",
+                    "icon": false
+                },
+                {
+                    "wordId": "礁石",
+                    "icon": false
+                },
+                {
+                    "wordId": "船锚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小茴香",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "姜",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏红花",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷迭香",
+                    "icon": false
+                },
+                {
+                    "wordId": "百里香",
+                    "icon": false
+                },
+                {
+                    "wordId": "红椒粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉桂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水星",
+                    "icon": false
+                },
+                {
+                    "wordId": "金星",
+                    "icon": false
+                },
+                {
+                    "wordId": "地球",
+                    "icon": false
+                },
+                {
+                    "wordId": "火星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甲虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚂蚁",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛾",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚊子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宝石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白石",
+                    "icon": false
+                },
+                {
+                    "wordId": "翡翠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时钟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "表盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "报时",
+                    "icon": false
+                },
+                {
+                    "wordId": "齿轮",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "胡椒",
+        "海豚",
+        "潮汐",
+        "齿轮",
+        "肉桂",
+        "红宝石",
+        "礁石",
+        "蚊子",
+        "昆虫",
+        "地球",
+        "翡翠",
+        "小茴香",
+        "船锚",
+        "红椒粉",
+        "蛋白石",
+        "报时",
+        "时钟",
+        "波浪",
+        "姜",
+        "洋流",
+        "宝石",
+        "甲虫",
+        "珊瑚",
+        "金星"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "蛾",
+                "行星",
+                "香料"
+            ]
+        },
+        {
+            "cards": [
+                "蚂蚁",
+                "鲨鱼",
+                "藏红花",
+                "海洋"
+            ]
+        },
+        {
+            "cards": [
+                "火星",
+                "迷迭香",
+                "表盘",
+                "水星",
+                "百里香"
+            ]
+        }
+    ]
+}

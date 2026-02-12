@@ -1,0 +1,453 @@
+{
+    "levelId": 305,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 170,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "卫星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木卫一",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫二",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫三",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫四",
+                    "icon": false
+                },
+                {
+                    "wordId": "土卫六",
+                    "icon": false
+                },
+                {
+                    "wordId": "土卫五",
+                    "icon": false
+                },
+                {
+                    "wordId": "天卫四",
+                    "icon": false
+                },
+                {
+                    "wordId": "天卫一",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "病毒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流感",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃博拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "寨卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂犬病",
+                    "icon": false
+                },
+                {
+                    "wordId": "脊髓灰质炎",
+                    "icon": false
+                },
+                {
+                    "wordId": "登革热",
+                    "icon": false
+                },
+                {
+                    "wordId": "新冠肺炎",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻疹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花香",
+                    "icon": false
+                },
+                {
+                    "wordId": "柑橘香",
+                    "icon": false
+                },
+                {
+                    "wordId": "麝香",
+                    "icon": false
+                },
+                {
+                    "wordId": "香草",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟熏",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥土气息",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄荷香",
+                    "icon": false
+                },
+                {
+                    "wordId": "木质香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动物叫声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘎嘎声",
+                    "icon": false
+                },
+                {
+                    "wordId": "吱吱声",
+                    "icon": false
+                },
+                {
+                    "wordId": "喵喵声",
+                    "icon": false
+                },
+                {
+                    "wordId": "汪汪声",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘶鸣声",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗡嗡声",
+                    "icon": false
+                },
+                {
+                    "wordId": "唧唧声",
+                    "icon": false
+                },
+                {
+                    "wordId": "咆哮声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "艺术风格",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哥特式",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴洛克",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛可可",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽象派",
+                    "icon": false
+                },
+                {
+                    "wordId": "立体主义",
+                    "icon": false
+                },
+                {
+                    "wordId": "达达主义",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "移动动作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑行",
+                    "icon": false
+                },
+                {
+                    "wordId": "爬行",
+                    "icon": false
+                },
+                {
+                    "wordId": "单脚跳",
+                    "icon": false
+                },
+                {
+                    "wordId": "攀爬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大洲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "非洲",
+                    "icon": true
+                },
+                {
+                    "wordId": "欧洲",
+                    "icon": true
+                },
+                {
+                    "wordId": "亚洲",
+                    "icon": true
+                },
+                {
+                    "wordId": "美洲",
+                    "icon": true
+                },
+                {
+                    "wordId": "大洋洲",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "坚果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杏仁",
+                    "icon": true
+                },
+                {
+                    "wordId": "腰果",
+                    "icon": true
+                },
+                {
+                    "wordId": "核桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "开心果",
+                    "icon": true
+                },
+                {
+                    "wordId": "榛子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宠物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鹦鹉",
+                    "icon": false
+                },
+                {
+                    "wordId": "仓鼠",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪貂",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙鼠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "演员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赫本",
+                    "icon": false
+                },
+                {
+                    "wordId": "白兰度",
+                    "icon": false
+                },
+                {
+                    "wordId": "德尼罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊斯特伍德",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "流星雨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狮子座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "英仙座流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎户座流星雨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乳制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奶油",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄油",
+                    "icon": false
+                },
+                {
+                    "wordId": "优酪乳",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "木卫四",
+        "麻疹",
+        "流感",
+        "美洲",
+        "巴洛克",
+        "薄荷香",
+        "动物叫声",
+        "登革热",
+        "洛可可",
+        "英仙座流星雨",
+        "亚洲",
+        "跳",
+        "天卫一",
+        "花香",
+        "大洲",
+        "坚果",
+        "达达主义",
+        "伊斯特伍德",
+        "咆哮声",
+        "非洲",
+        "狮子座流星雨",
+        "跑",
+        "滑行",
+        "寨卡",
+        "奶油",
+        "病毒",
+        "黄油",
+        "木卫一",
+        "香草",
+        "天卫四",
+        "优酪乳",
+        "赫本",
+        "卫星",
+        "爬行",
+        "嘶鸣声",
+        "柑橘香",
+        "沙鼠",
+        "开心果",
+        "腰果",
+        "嘎嘎声",
+        "烟熏",
+        "榛子",
+        "麝香",
+        "德尼罗",
+        "哥特式",
+        "唧唧声",
+        "大洋洲",
+        "埃博拉",
+        "白兰度",
+        "汪汪声",
+        "流星雨",
+        "喵喵声",
+        "土卫五",
+        "木卫三"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "抽象派",
+                "攀爬",
+                "核桃",
+                "立体主义",
+                "土卫六"
+            ]
+        },
+        {
+            "cards": [
+                "木卫二",
+                "欧洲",
+                "嗡嗡声",
+                "演员",
+                "仓鼠",
+                "狂犬病"
+            ]
+        },
+        {
+            "cards": [
+                "艺术风格",
+                "单脚跳",
+                "泥土气息",
+                "鹦鹉",
+                "香气",
+                "木质香",
+                "乳制品"
+            ]
+        },
+        {
+            "cards": [
+                "吱吱声",
+                "移动动作",
+                "脊髓灰质炎",
+                "猎户座流星雨",
+                "杏仁",
+                "宠物",
+                "雪貂",
+                "新冠肺炎"
+            ]
+        }
+    ]
+}

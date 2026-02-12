@@ -1,0 +1,369 @@
+{
+    "levelId": 133,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "纱线",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羊毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "针织",
+                    "icon": false
+                },
+                {
+                    "wordId": "反针",
+                    "icon": false
+                },
+                {
+                    "wordId": "线圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "编织",
+                    "icon": false
+                },
+                {
+                    "wordId": "线球",
+                    "icon": false
+                },
+                {
+                    "wordId": "线",
+                    "icon": false
+                },
+                {
+                    "wordId": "撚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "如尼字母",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "菲胡",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鲁兹",
+                    "icon": true
+                },
+                {
+                    "wordId": "苏里萨兹",
+                    "icon": true
+                },
+                {
+                    "wordId": "安祖",
+                    "icon": true
+                },
+                {
+                    "wordId": "莱多",
+                    "icon": true
+                },
+                {
+                    "wordId": "卡纳兹",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉博",
+                    "icon": true
+                },
+                {
+                    "wordId": "温乔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "常春藤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "藤蔓",
+                    "icon": false
+                },
+                {
+                    "wordId": "攀爬",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶子",
+                    "icon": false
+                },
+                {
+                    "wordId": "有毒的",
+                    "icon": false
+                },
+                {
+                    "wordId": "墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "植物",
+                    "icon": false
+                },
+                {
+                    "wordId": "生长",
+                    "icon": false
+                },
+                {
+                    "wordId": "茎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骑士比武",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长矛",
+                    "icon": true
+                },
+                {
+                    "wordId": "马",
+                    "icon": true
+                },
+                {
+                    "wordId": "盔甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "女士",
+                    "icon": true
+                },
+                {
+                    "wordId": "骑士",
+                    "icon": true
+                },
+                {
+                    "wordId": "盾牌",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "野牛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兽群",
+                    "icon": false
+                },
+                {
+                    "wordId": "野生",
+                    "icon": false
+                },
+                {
+                    "wordId": "角",
+                    "icon": false
+                },
+                {
+                    "wordId": "平原",
+                    "icon": false
+                },
+                {
+                    "wordId": "大型的",
+                    "icon": false
+                },
+                {
+                    "wordId": "漫步",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "氙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "气体",
+                    "icon": false
+                },
+                {
+                    "wordId": "发光",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "管",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "先知",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩西",
+                    "icon": false
+                },
+                {
+                    "wordId": "穆罕默德",
+                    "icon": false
+                },
+                {
+                    "wordId": "耶稣",
+                    "icon": false
+                },
+                {
+                    "wordId": "诺亚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锦鲤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鲤鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "池塘",
+                    "icon": false
+                },
+                {
+                    "wordId": "日本",
+                    "icon": false
+                },
+                {
+                    "wordId": "禅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "业力",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "命运",
+                    "icon": false
+                },
+                {
+                    "wordId": "循环",
+                    "icon": false
+                },
+                {
+                    "wordId": "行为",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "芳香",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "气味",
+                    "icon": false
+                },
+                {
+                    "wordId": "香水",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭味",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "摩西",
+        "氙",
+        "生长",
+        "鲤鱼",
+        "命运",
+        "大型的",
+        "卡纳兹",
+        "臭味",
+        "羊毛",
+        "苏里萨兹",
+        "漫步",
+        "野生",
+        "编织",
+        "盔甲",
+        "叶子",
+        "先知",
+        "有毒的",
+        "马",
+        "常春藤",
+        "诺亚",
+        "耶稣",
+        "业力",
+        "穆罕默德",
+        "女士",
+        "长矛",
+        "植物",
+        "骑士",
+        "角",
+        "藤蔓",
+        "行为",
+        "盾牌",
+        "线",
+        "反针",
+        "针织",
+        "平原",
+        "如尼字母",
+        "灯",
+        "线球",
+        "发光",
+        "撚",
+        "日本",
+        "管"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "菲胡",
+                "墙",
+                "安祖",
+                "乌鲁兹"
+            ]
+        },
+        {
+            "cards": [
+                "禅",
+                "气味",
+                "池塘",
+                "芳香",
+                "锦鲤"
+            ]
+        },
+        {
+            "cards": [
+                "莱多",
+                "骑士比武",
+                "循环",
+                "茎",
+                "温乔",
+                "纱线"
+            ]
+        },
+        {
+            "cards": [
+                "吉博",
+                "兽群",
+                "气体",
+                "野牛",
+                "攀爬",
+                "线圈",
+                "香水"
+            ]
+        }
+    ]
+}

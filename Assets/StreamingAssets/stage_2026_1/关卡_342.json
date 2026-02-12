@@ -1,0 +1,453 @@
+{
+    "levelId": 342,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 160,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "编程",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "数组",
+                    "icon": false
+                },
+                {
+                    "wordId": "循环",
+                    "icon": false
+                },
+                {
+                    "wordId": "栈",
+                    "icon": false
+                },
+                {
+                    "wordId": "伫列",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "补丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "调试",
+                    "icon": false
+                },
+                {
+                    "wordId": "字节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "州",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "德克萨斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉斯加",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄亥俄",
+                    "icon": false
+                },
+                {
+                    "wordId": "犹他",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱荷华",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱达荷",
+                    "icon": false
+                },
+                {
+                    "wordId": "内华达",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄勒冈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "力度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快板",
+                    "icon": false
+                },
+                {
+                    "wordId": "急板",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔板",
+                    "icon": false
+                },
+                {
+                    "wordId": "强音",
+                    "icon": false
+                },
+                {
+                    "wordId": "弱音",
+                    "icon": false
+                },
+                {
+                    "wordId": "活板",
+                    "icon": false
+                },
+                {
+                    "wordId": "断奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "连奏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黑色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "夜晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑豹",
+                    "icon": false
+                },
+                {
+                    "wordId": "影子",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌鸦",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑曜石",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌木",
+                    "icon": false
+                },
+                {
+                    "wordId": "缟玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤炭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "容器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "壶",
+                    "icon": false
+                },
+                {
+                    "wordId": "碗",
+                    "icon": false
+                },
+                {
+                    "wordId": "罐",
+                    "icon": false
+                },
+                {
+                    "wordId": "桶",
+                    "icon": false
+                },
+                {
+                    "wordId": "箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "坛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "母亲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "家长",
+                    "icon": false
+                },
+                {
+                    "wordId": "生育",
+                    "icon": false
+                },
+                {
+                    "wordId": "自然",
+                    "icon": false
+                },
+                {
+                    "wordId": "家庭",
+                    "icon": false
+                },
+                {
+                    "wordId": "照料",
+                    "icon": false
+                },
+                {
+                    "wordId": "女性",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恐怖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幽灵",
+                    "icon": true
+                },
+                {
+                    "wordId": "僵尸",
+                    "icon": true
+                },
+                {
+                    "wordId": "狼人",
+                    "icon": true
+                },
+                {
+                    "wordId": "食尸鬼",
+                    "icon": true
+                },
+                {
+                    "wordId": "恶魔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "马戏团",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小丑",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂技演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂耍演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮子",
+                    "icon": false
+                },
+                {
+                    "wordId": "驯兽师",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日历",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "年",
+                    "icon": false
+                },
+                {
+                    "wordId": "月",
+                    "icon": false
+                },
+                {
+                    "wordId": "周",
+                    "icon": false
+                },
+                {
+                    "wordId": "日",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "技能",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "潜行",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法",
+                    "icon": false
+                },
+                {
+                    "wordId": "战斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "治疗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "操作系统",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Linux",
+                    "icon": false
+                },
+                {
+                    "wordId": "Windows",
+                    "icon": false
+                },
+                {
+                    "wordId": "MacOS",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宇宙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流星",
+                    "icon": true
+                },
+                {
+                    "wordId": "彗星",
+                    "icon": true
+                },
+                {
+                    "wordId": "星系",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "连奏",
+        "俄亥俄",
+        "母亲",
+        "照料",
+        "力度",
+        "彗星",
+        "恶魔",
+        "影子",
+        "幽灵",
+        "煤炭",
+        "漏洞",
+        "星系",
+        "伫列",
+        "治疗",
+        "字节",
+        "狮子",
+        "循环",
+        "乌木",
+        "阿拉斯加",
+        "爱荷华",
+        "MacOS",
+        "潜行",
+        "编程",
+        "桶",
+        "调试",
+        "流星",
+        "箱",
+        "生育",
+        "俄勒冈",
+        "食尸鬼",
+        "弱音",
+        "坛",
+        "容器",
+        "狼人",
+        "断奏",
+        "爱达荷",
+        "数组",
+        "乌鸦",
+        "缟玛瑙",
+        "技能",
+        "战斗",
+        "杂耍演员",
+        "自然",
+        "月",
+        "小丑",
+        "急板",
+        "僵尸",
+        "马戏团",
+        "活板",
+        "夜晚",
+        "德克萨斯",
+        "女性",
+        "柔板",
+        "驯兽师"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "强音",
+                "日历",
+                "宇宙",
+                "黑色",
+                "操作系统"
+            ]
+        },
+        {
+            "cards": [
+                "恐怖",
+                "年",
+                "杂技演员",
+                "州",
+                "家长",
+                "犹他"
+            ]
+        },
+        {
+            "cards": [
+                "补丁",
+                "Windows",
+                "Linux",
+                "壶",
+                "魔法",
+                "栈",
+                "罐"
+            ]
+        },
+        {
+            "cards": [
+                "快板",
+                "家庭",
+                "黑豹",
+                "黑曜石",
+                "内华达",
+                "周",
+                "碗",
+                "日"
+            ]
+        }
+    ]
+}

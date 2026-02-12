@@ -1,0 +1,217 @@
+{
+    "levelId": 244,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "核果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "桃子",
+                    "icon": false
+                },
+                {
+                    "wordId": "杏",
+                    "icon": false
+                },
+                {
+                    "wordId": "椰枣",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "芒果",
+                    "icon": false
+                },
+                {
+                    "wordId": "西洋李",
+                    "icon": false
+                },
+                {
+                    "wordId": "荔枝",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "伪装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "面纱",
+                    "icon": true
+                },
+                {
+                    "wordId": "斗篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "假发",
+                    "icon": true
+                },
+                {
+                    "wordId": "眼镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑雪面罩",
+                    "icon": true
+                },
+                {
+                    "wordId": "假胡子",
+                    "icon": true
+                },
+                {
+                    "wordId": "帽子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜜蜂",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝴蝶",
+                    "icon": true
+                },
+                {
+                    "wordId": "蟑螂",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝗虫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "维纳斯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "女神",
+                    "icon": false
+                },
+                {
+                    "wordId": "激情",
+                    "icon": false
+                },
+                {
+                    "wordId": "美丽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "微红的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赤褐色",
+                    "icon": false
+                },
+                {
+                    "wordId": "胭脂红",
+                    "icon": false
+                },
+                {
+                    "wordId": "血红色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "悲伤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "遗憾",
+                    "icon": false
+                },
+                {
+                    "wordId": "痛苦",
+                    "icon": false
+                },
+                {
+                    "wordId": "悲哀",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "蝴蝶",
+        "假发",
+        "西洋李",
+        "行星",
+        "芒果",
+        "橄榄",
+        "悲伤",
+        "美丽",
+        "赤褐色",
+        "悲哀",
+        "假胡子",
+        "伪装",
+        "女神",
+        "面具",
+        "滑雪面罩",
+        "激情",
+        "蜜蜂",
+        "椰枣",
+        "昆虫",
+        "遗憾",
+        "龙眼",
+        "胭脂红",
+        "面纱",
+        "血红色"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "斗篷",
+                "桃子",
+                "痛苦"
+            ]
+        },
+        {
+            "cards": [
+                "帽子",
+                "杏",
+                "蟑螂",
+                "眼镜"
+            ]
+        },
+        {
+            "cards": [
+                "荔枝",
+                "核果",
+                "蝗虫",
+                "微红的",
+                "维纳斯"
+            ]
+        }
+    ]
+}

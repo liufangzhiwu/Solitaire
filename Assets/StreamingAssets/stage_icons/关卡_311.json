@@ -1,0 +1,553 @@
+{
+    "levelId": 311,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 220,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "缺陷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布满灰尘的",
+                    "icon": false
+                },
+                {
+                    "wordId": "破碎的",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏的",
+                    "icon": false
+                },
+                {
+                    "wordId": "撕裂的",
+                    "icon": false
+                },
+                {
+                    "wordId": "磨损的",
+                    "icon": false
+                },
+                {
+                    "wordId": "弯曲的",
+                    "icon": false
+                },
+                {
+                    "wordId": "生锈的",
+                    "icon": false
+                },
+                {
+                    "wordId": "开裂的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神秘生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天蛾人",
+                    "icon": true
+                },
+                {
+                    "wordId": "雪人",
+                    "icon": true
+                },
+                {
+                    "wordId": "温迪戈",
+                    "icon": true
+                },
+                {
+                    "wordId": "宁根",
+                    "icon": true
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": true
+                },
+                {
+                    "wordId": "本耶普",
+                    "icon": true
+                },
+                {
+                    "wordId": "阿胡尔",
+                    "icon": true
+                },
+                {
+                    "wordId": "奥古普古",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "拱门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "罗马式",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆拱",
+                    "icon": false
+                },
+                {
+                    "wordId": "哥特式",
+                    "icon": false
+                },
+                {
+                    "wordId": "分段拱",
+                    "icon": false
+                },
+                {
+                    "wordId": "S形拱",
+                    "icon": false
+                },
+                {
+                    "wordId": "三叶拱",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖拱",
+                    "icon": false
+                },
+                {
+                    "wordId": "柳叶刀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "声音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "叮当声",
+                    "icon": false
+                },
+                {
+                    "wordId": "破裂声",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎裂声",
+                    "icon": false
+                },
+                {
+                    "wordId": "溅泼声",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼呼声",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴答声",
+                    "icon": false
+                },
+                {
+                    "wordId": "挤压声",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙沙声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "脉搏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳动",
+                    "icon": false
+                },
+                {
+                    "wordId": "快速跳动",
+                    "icon": false
+                },
+                {
+                    "wordId": "重击",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳过",
+                    "icon": false
+                },
+                {
+                    "wordId": "颤动",
+                    "icon": false
+                },
+                {
+                    "wordId": "涌动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "脉轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "根轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "骶轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "心轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "喉轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶轮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打开",
+                    "icon": false
+                },
+                {
+                    "wordId": "关闭",
+                    "icon": false
+                },
+                {
+                    "wordId": "插入",
+                    "icon": false
+                },
+                {
+                    "wordId": "拔出",
+                    "icon": false
+                },
+                {
+                    "wordId": "安装",
+                    "icon": false
+                },
+                {
+                    "wordId": "拧开",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拉链",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉头",
+                    "icon": false
+                },
+                {
+                    "wordId": "链齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉带",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉片",
+                    "icon": false
+                },
+                {
+                    "wordId": "止码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿喀琉斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥德修斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "忒修斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "珀尔修斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫拉克勒斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒药",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砷",
+                    "icon": false
+                },
+                {
+                    "wordId": "铊",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓖麻毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙林",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒参",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巫术",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒",
+                    "icon": false
+                },
+                {
+                    "wordId": "禁令",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼仪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "素数",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梅森素数",
+                    "icon": false
+                },
+                {
+                    "wordId": "费马素数",
+                    "icon": false
+                },
+                {
+                    "wordId": "威尔逊素数",
+                    "icon": false
+                },
+                {
+                    "wordId": "高斯素数",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "量子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "费米子",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻色子",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻子",
+                    "icon": false
+                },
+                {
+                    "wordId": "强子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "命运三女神",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "克洛托",
+                    "icon": true
+                },
+                {
+                    "wordId": "拉克西斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "阿特罗波斯",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "复仇女神",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿勒克托",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨纪拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄里倪厄斯",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "安装",
+        "破裂声",
+        "分段拱",
+        "脉搏",
+        "破碎的",
+        "圆拱",
+        "磨损的",
+        "忒修斯",
+        "心轮",
+        "骶轮",
+        "神话",
+        "插入",
+        "阿喀琉斯",
+        "灯",
+        "本耶普",
+        "S形拱",
+        "叮当声",
+        "拔出",
+        "溅泼声",
+        "跳动",
+        "仪式",
+        "快速跳动",
+        "天蛾人",
+        "砷",
+        "撕裂的",
+        "毒参",
+        "蓖麻毒素",
+        "威尔逊素数",
+        "厄里倪厄斯",
+        "根轮",
+        "费马素数",
+        "强子",
+        "宁根",
+        "颤动",
+        "奥德修斯",
+        "沙沙声",
+        "布满灰尘的",
+        "声音",
+        "跳过",
+        "温迪戈",
+        "费米子",
+        "墨纪拉",
+        "拉克西斯",
+        "巫术",
+        "弯曲的",
+        "滴答声",
+        "喉轮",
+        "缺陷",
+        "拧开",
+        "生锈的",
+        "打开",
+        "涌动",
+        "梅森素数",
+        "三叶拱",
+        "礼仪",
+        "神秘生物",
+        "柳叶刀",
+        "罗马式",
+        "北海巨妖",
+        "拉片",
+        "阿勒克托",
+        "链齿",
+        "高斯素数"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "命运三女神",
+                "克洛托",
+                "挤压声",
+                "开裂的",
+                "拉带"
+            ]
+        },
+        {
+            "cards": [
+                "关闭",
+                "奥古普古",
+                "轻子",
+                "玻色子",
+                "顶轮",
+                "素数"
+            ]
+        },
+        {
+            "cards": [
+                "脉轮",
+                "复仇女神",
+                "重击",
+                "拉头",
+                "拱门",
+                "漏的",
+                "铊"
+            ]
+        },
+        {
+            "cards": [
+                "阿特罗波斯",
+                "量子",
+                "珀尔修斯",
+                "碎裂声",
+                "诅咒",
+                "太阳轮",
+                "尖拱",
+                "止码"
+            ]
+        },
+        {
+            "cards": [
+                "毒药",
+                "沙林",
+                "赫拉克勒斯",
+                "拉链",
+                "呼呼声",
+                "雪人",
+                "哥特式",
+                "阿胡尔",
+                "禁令"
+            ]
+        }
+    ]
+}

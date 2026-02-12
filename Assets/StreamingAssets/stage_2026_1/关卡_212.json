@@ -1,0 +1,369 @@
+{
+    "levelId": 212,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "建造者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "工头",
+                    "icon": false
+                },
+                {
+                    "wordId": "楼梯",
+                    "icon": false
+                },
+                {
+                    "wordId": "锤子",
+                    "icon": false
+                },
+                {
+                    "wordId": "水泥",
+                    "icon": false
+                },
+                {
+                    "wordId": "钻头",
+                    "icon": false
+                },
+                {
+                    "wordId": "水平仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "砖块",
+                    "icon": false
+                },
+                {
+                    "wordId": "铲子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "代码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "程式",
+                    "icon": false
+                },
+                {
+                    "wordId": "Swift语言",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚本",
+                    "icon": false
+                },
+                {
+                    "wordId": "Java语言",
+                    "icon": false
+                },
+                {
+                    "wordId": "调试",
+                    "icon": false
+                },
+                {
+                    "wordId": "Python语言",
+                    "icon": false
+                },
+                {
+                    "wordId": "JSON",
+                    "icon": false
+                },
+                {
+                    "wordId": "C++",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "制药",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胶囊",
+                    "icon": false
+                },
+                {
+                    "wordId": "药片",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "化学的",
+                    "icon": false
+                },
+                {
+                    "wordId": "酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "提取物",
+                    "icon": false
+                },
+                {
+                    "wordId": "药丸",
+                    "icon": false
+                },
+                {
+                    "wordId": "剂量",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "趋势",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风格",
+                    "icon": false
+                },
+                {
+                    "wordId": "媒体",
+                    "icon": false
+                },
+                {
+                    "wordId": "时尚",
+                    "icon": false
+                },
+                {
+                    "wordId": "炒作",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮流",
+                    "icon": false
+                },
+                {
+                    "wordId": "热议",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "气味",
+                    "icon": false
+                },
+                {
+                    "wordId": "檀香",
+                    "icon": false
+                },
+                {
+                    "wordId": "树脂",
+                    "icon": false
+                },
+                {
+                    "wordId": "晚香玉",
+                    "icon": false
+                },
+                {
+                    "wordId": "茉莉",
+                    "icon": false
+                },
+                {
+                    "wordId": "扩散",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "天使",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "守护天使",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "天堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国王",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "王座",
+                    "icon": true
+                },
+                {
+                    "wordId": "权杖",
+                    "icon": true
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": true
+                },
+                {
+                    "wordId": "珠宝",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "英式橄榄球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橄榄球",
+                    "icon": true
+                },
+                {
+                    "wordId": "护齿",
+                    "icon": true
+                },
+                {
+                    "wordId": "球场",
+                    "icon": true
+                },
+                {
+                    "wordId": "看台",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "谷物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高粱",
+                    "icon": false
+                },
+                {
+                    "wordId": "玉米",
+                    "icon": false
+                },
+                {
+                    "wordId": "藜麦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "银行业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "储蓄",
+                    "icon": false
+                },
+                {
+                    "wordId": "消费",
+                    "icon": false
+                },
+                {
+                    "wordId": "取款",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "扩散",
+        "锤子",
+        "珠宝",
+        "树脂",
+        "球场",
+        "水平仪",
+        "茉莉",
+        "天堂",
+        "国王",
+        "Java语言",
+        "糖浆",
+        "水泥",
+        "消费",
+        "城堡",
+        "程式",
+        "媒体",
+        "铲子",
+        "药片",
+        "风格",
+        "Python语言",
+        "砖块",
+        "取款",
+        "胶囊",
+        "药丸",
+        "提取物",
+        "守护天使",
+        "翅膀",
+        "储蓄",
+        "钻头",
+        "酶",
+        "谷物",
+        "檀香",
+        "热议",
+        "时尚",
+        "竖琴",
+        "权杖",
+        "英式橄榄球",
+        "银行业",
+        "潮流",
+        "代码",
+        "工头",
+        "气味"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "C++",
+                "炒作",
+                "香水",
+                "制药"
+            ]
+        },
+        {
+            "cards": [
+                "趋势",
+                "王座",
+                "Swift语言",
+                "高粱",
+                "建造者"
+            ]
+        },
+        {
+            "cards": [
+                "玉米",
+                "调试",
+                "JSON",
+                "护齿",
+                "楼梯",
+                "晚香玉"
+            ]
+        },
+        {
+            "cards": [
+                "化学的",
+                "天使",
+                "藜麦",
+                "橄榄球",
+                "剂量",
+                "看台",
+                "脚本"
+            ]
+        }
+    ]
+}

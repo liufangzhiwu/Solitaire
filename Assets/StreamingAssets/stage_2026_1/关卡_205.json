@@ -1,0 +1,553 @@
+{
+    "levelId": 205,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 230,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "雅皮士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "都市的",
+                    "icon": false
+                },
+                {
+                    "wordId": "年轻的",
+                    "icon": false
+                },
+                {
+                    "wordId": "精英",
+                    "icon": false
+                },
+                {
+                    "wordId": "野心",
+                    "icon": false
+                },
+                {
+                    "wordId": "额外福利",
+                    "icon": false
+                },
+                {
+                    "wordId": "早午餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "领带",
+                    "icon": false
+                },
+                {
+                    "wordId": "地位",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鼓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "套鼓",
+                    "icon": false
+                },
+                {
+                    "wordId": "触发器",
+                    "icon": false
+                },
+                {
+                    "wordId": "中音通鼓",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓棒",
+                    "icon": false
+                },
+                {
+                    "wordId": "钹",
+                    "icon": false
+                },
+                {
+                    "wordId": "邦哥鼓",
+                    "icon": false
+                },
+                {
+                    "wordId": "锣",
+                    "icon": false
+                },
+                {
+                    "wordId": "八音树筒鼓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "繁荣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爆发",
+                    "icon": false
+                },
+                {
+                    "wordId": "爆炸性增长",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓬勃发展",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷鸣",
+                    "icon": false
+                },
+                {
+                    "wordId": "猛跌",
+                    "icon": false
+                },
+                {
+                    "wordId": "激增",
+                    "icon": false
+                },
+                {
+                    "wordId": "繁荣昌盛",
+                    "icon": false
+                },
+                {
+                    "wordId": "婴儿潮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奥德赛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神话",
+                    "icon": false
+                },
+                {
+                    "wordId": "荷马",
+                    "icon": false
+                },
+                {
+                    "wordId": "史诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "远航",
+                    "icon": false
+                },
+                {
+                    "wordId": "探索",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞壬",
+                    "icon": false
+                },
+                {
+                    "wordId": "独眼巨人",
+                    "icon": false
+                },
+                {
+                    "wordId": "英雄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "等待",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "排队",
+                    "icon": false
+                },
+                {
+                    "wordId": "队伍",
+                    "icon": false
+                },
+                {
+                    "wordId": "稍后",
+                    "icon": false
+                },
+                {
+                    "wordId": "列表",
+                    "icon": false
+                },
+                {
+                    "wordId": "耐心",
+                    "icon": false
+                },
+                {
+                    "wordId": "延迟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "政府部门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卫生部",
+                    "icon": false
+                },
+                {
+                    "wordId": "劳动部",
+                    "icon": false
+                },
+                {
+                    "wordId": "社会部",
+                    "icon": false
+                },
+                {
+                    "wordId": "国防部",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅游部",
+                    "icon": false
+                },
+                {
+                    "wordId": "体育部",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "管状物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吸管",
+                    "icon": true
+                },
+                {
+                    "wordId": "隧道",
+                    "icon": true
+                },
+                {
+                    "wordId": "软管",
+                    "icon": true
+                },
+                {
+                    "wordId": "小型望远镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "管子",
+                    "icon": true
+                },
+                {
+                    "wordId": "牙膏",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "小贩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "市场",
+                    "icon": false
+                },
+                {
+                    "wordId": "手推车",
+                    "icon": false
+                },
+                {
+                    "wordId": "售卖",
+                    "icon": false
+                },
+                {
+                    "wordId": "货物",
+                    "icon": false
+                },
+                {
+                    "wordId": "叫卖小贩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阴阳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "和谐",
+                    "icon": false
+                },
+                {
+                    "wordId": "对立",
+                    "icon": false
+                },
+                {
+                    "wordId": "统一",
+                    "icon": false
+                },
+                {
+                    "wordId": "二元性",
+                    "icon": false
+                },
+                {
+                    "wordId": "平衡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "选项",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "抉择",
+                    "icon": false
+                },
+                {
+                    "wordId": "挑选",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜单",
+                    "icon": false
+                },
+                {
+                    "wordId": "选择",
+                    "icon": false
+                },
+                {
+                    "wordId": "变体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诱人的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "引诱",
+                    "icon": false
+                },
+                {
+                    "wordId": "诱惑",
+                    "icon": false
+                },
+                {
+                    "wordId": "诱饵",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸引",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "维生素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "硫胺素",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "胆碱",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶酸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梵蒂冈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教皇",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗马",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣彼得大教堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣殿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "剂量",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "用量",
+                    "icon": false
+                },
+                {
+                    "wordId": "千分比",
+                    "icon": false
+                },
+                {
+                    "wordId": "药物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "隐私",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "保密",
+                    "icon": false
+                },
+                {
+                    "wordId": "独处",
+                    "icon": false
+                },
+                {
+                    "wordId": "独自",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "吸引",
+        "八音树筒鼓",
+        "早午餐",
+        "蓬勃发展",
+        "劳动部",
+        "和谐",
+        "二元性",
+        "探索",
+        "市场",
+        "药物",
+        "领带",
+        "抉择",
+        "列表",
+        "软管",
+        "额外福利",
+        "诱惑",
+        "社会部",
+        "管子",
+        "手推车",
+        "爆炸性增长",
+        "诱人的",
+        "史诗",
+        "野心",
+        "都市的",
+        "远航",
+        "牙膏",
+        "独自",
+        "年轻的",
+        "阴阳",
+        "锣",
+        "引诱",
+        "奥德赛",
+        "触发器",
+        "婴儿潮",
+        "激增",
+        "罗马",
+        "神话",
+        "国防部",
+        "耐心",
+        "货物",
+        "选项",
+        "对立",
+        "中音通鼓",
+        "卫生部",
+        "选择",
+        "邦哥鼓",
+        "钹",
+        "菜单",
+        "剂量",
+        "用量",
+        "爆发",
+        "排队",
+        "繁荣昌盛",
+        "独眼巨人",
+        "圣彼得大教堂",
+        "变体",
+        "雅皮士",
+        "等待",
+        "小型望远镜",
+        "保密",
+        "千分比",
+        "售卖",
+        "雷鸣"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "体育部",
+                "地位",
+                "隐私",
+                "精英",
+                "塞壬"
+            ]
+        },
+        {
+            "cards": [
+                "套鼓",
+                "延迟",
+                "繁荣",
+                "鼓",
+                "英雄",
+                "硫胺素"
+            ]
+        },
+        {
+            "cards": [
+                "维生素",
+                "政府部门",
+                "旅游部",
+                "梵蒂冈",
+                "小贩",
+                "烟酸",
+                "队伍"
+            ]
+        },
+        {
+            "cards": [
+                "圣殿",
+                "统一",
+                "叫卖小贩",
+                "教皇",
+                "鼓棒",
+                "胆碱",
+                "叶酸",
+                "独处"
+            ]
+        },
+        {
+            "cards": [
+                "隧道",
+                "猛跌",
+                "管状物",
+                "平衡",
+                "吸管",
+                "荷马",
+                "诱饵",
+                "稍后",
+                "挑选"
+            ]
+        }
+    ]
+}

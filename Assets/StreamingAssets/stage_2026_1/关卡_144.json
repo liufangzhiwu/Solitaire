@@ -1,0 +1,369 @@
+{
+    "levelId": 144,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "地址",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "家庭住址",
+                    "icon": false
+                },
+                {
+                    "wordId": "电子邮件",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮寄地址",
+                    "icon": false
+                },
+                {
+                    "wordId": "建筑物",
+                    "icon": false
+                },
+                {
+                    "wordId": "收货地址",
+                    "icon": false
+                },
+                {
+                    "wordId": "IP地址",
+                    "icon": false
+                },
+                {
+                    "wordId": "街道",
+                    "icon": false
+                },
+                {
+                    "wordId": "位置",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "空气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "净化器",
+                    "icon": false
+                },
+                {
+                    "wordId": "气球",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮胎",
+                    "icon": false
+                },
+                {
+                    "wordId": "风扇",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼吸",
+                    "icon": false
+                },
+                {
+                    "wordId": "氮气",
+                    "icon": false
+                },
+                {
+                    "wordId": "密度",
+                    "icon": false
+                },
+                {
+                    "wordId": "过敏原",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "浴室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浴缸",
+                    "icon": true
+                },
+                {
+                    "wordId": "橡皮鸭",
+                    "icon": true
+                },
+                {
+                    "wordId": "沐浴露",
+                    "icon": true
+                },
+                {
+                    "wordId": "浴袍",
+                    "icon": true
+                },
+                {
+                    "wordId": "花洒",
+                    "icon": true
+                },
+                {
+                    "wordId": "肥皂盒",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛巾架",
+                    "icon": true
+                },
+                {
+                    "wordId": "马桶刷",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "焦虑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "担忧",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐惧",
+                    "icon": false
+                },
+                {
+                    "wordId": "压力",
+                    "icon": false
+                },
+                {
+                    "wordId": "不安",
+                    "icon": false
+                },
+                {
+                    "wordId": "疲劳",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐慌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "出生",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "分娩",
+                    "icon": false
+                },
+                {
+                    "wordId": "子宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "胎盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "创世纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "婴儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "助产士",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "登机口",
+                    "icon": false
+                },
+                {
+                    "wordId": "扫描器",
+                    "icon": false
+                },
+                {
+                    "wordId": "行李传送带",
+                    "icon": false
+                },
+                {
+                    "wordId": "航站楼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "上司",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "领导者",
+                    "icon": false
+                },
+                {
+                    "wordId": "负责人",
+                    "icon": false
+                },
+                {
+                    "wordId": "首席执行官",
+                    "icon": false
+                },
+                {
+                    "wordId": "创始人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "慈善",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "捐赠",
+                    "icon": false
+                },
+                {
+                    "wordId": "善意",
+                    "icon": false
+                },
+                {
+                    "wordId": "利他主义",
+                    "icon": false
+                },
+                {
+                    "wordId": "给予",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "苹果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛀虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "苹果核",
+                    "icon": true
+                },
+                {
+                    "wordId": "一篮苹果",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "公车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "排气管",
+                    "icon": false
+                },
+                {
+                    "wordId": "交通",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶手",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "压力",
+        "轮胎",
+        "浴袍",
+        "利他主义",
+        "毛巾架",
+        "邮寄地址",
+        "负责人",
+        "担忧",
+        "给予",
+        "善意",
+        "街道",
+        "IP地址",
+        "疲劳",
+        "氮气",
+        "创世纪",
+        "上司",
+        "登机口",
+        "过敏原",
+        "净化器",
+        "捐赠",
+        "一篮苹果",
+        "浴缸",
+        "子宫",
+        "扫描器",
+        "呼吸",
+        "马桶刷",
+        "创始人",
+        "建筑物",
+        "气球",
+        "领导者",
+        "电子邮件",
+        "扶手",
+        "行李传送带",
+        "公车",
+        "航站楼",
+        "婴儿",
+        "慈善",
+        "风扇",
+        "空气",
+        "排气管",
+        "家庭住址",
+        "机场"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "沐浴露",
+                "肥皂盒",
+                "花洒",
+                "恐惧"
+            ]
+        },
+        {
+            "cards": [
+                "恐慌",
+                "位置",
+                "胎盘",
+                "不安",
+                "焦虑"
+            ]
+        },
+        {
+            "cards": [
+                "收货地址",
+                "橡皮鸭",
+                "地址",
+                "交通",
+                "浴室",
+                "蛀虫"
+            ]
+        },
+        {
+            "cards": [
+                "苹果",
+                "出生",
+                "助产士",
+                "首席执行官",
+                "分娩",
+                "密度",
+                "苹果核"
+            ]
+        }
+    ]
+}

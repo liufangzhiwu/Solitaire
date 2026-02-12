@@ -1,0 +1,369 @@
+{
+    "levelId": 120,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "僧侣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "静默",
+                    "icon": false
+                },
+                {
+                    "wordId": "祈祷",
+                    "icon": false
+                },
+                {
+                    "wordId": "僧袍",
+                    "icon": false
+                },
+                {
+                    "wordId": "和平",
+                    "icon": false
+                },
+                {
+                    "wordId": "誓言",
+                    "icon": false
+                },
+                {
+                    "wordId": "诵经",
+                    "icon": false
+                },
+                {
+                    "wordId": "寺庙",
+                    "icon": false
+                },
+                {
+                    "wordId": "虔诚的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "伏击",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陷阱",
+                    "icon": false
+                },
+                {
+                    "wordId": "攻击",
+                    "icon": false
+                },
+                {
+                    "wordId": "袭击",
+                    "icon": false
+                },
+                {
+                    "wordId": "士兵",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎人",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐藏的",
+                    "icon": false
+                },
+                {
+                    "wordId": "危险",
+                    "icon": false
+                },
+                {
+                    "wordId": "突然的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "吃",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "啃",
+                    "icon": false
+                },
+                {
+                    "wordId": "舔",
+                    "icon": false
+                },
+                {
+                    "wordId": "蘸",
+                    "icon": false
+                },
+                {
+                    "wordId": "吞食",
+                    "icon": false
+                },
+                {
+                    "wordId": "零食",
+                    "icon": false
+                },
+                {
+                    "wordId": "消耗",
+                    "icon": false
+                },
+                {
+                    "wordId": "摄取",
+                    "icon": false
+                },
+                {
+                    "wordId": "品尝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "预兆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星星",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌鸦",
+                    "icon": false
+                },
+                {
+                    "wordId": "风暴",
+                    "icon": false
+                },
+                {
+                    "wordId": "神谕",
+                    "icon": false
+                },
+                {
+                    "wordId": "日/月食",
+                    "icon": false
+                },
+                {
+                    "wordId": "征兆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "产品特征",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "可行的",
+                    "icon": false
+                },
+                {
+                    "wordId": "可定制的",
+                    "icon": false
+                },
+                {
+                    "wordId": "可移动的",
+                    "icon": false
+                },
+                {
+                    "wordId": "应支付的",
+                    "icon": false
+                },
+                {
+                    "wordId": "可穿戴的",
+                    "icon": false
+                },
+                {
+                    "wordId": "可用的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "玩笑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戏弄",
+                    "icon": false
+                },
+                {
+                    "wordId": "轶事",
+                    "icon": false
+                },
+                {
+                    "wordId": "大笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽默",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有孔物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乳酪",
+                    "icon": true
+                },
+                {
+                    "wordId": "钻戒",
+                    "icon": true
+                },
+                {
+                    "wordId": "纽扣",
+                    "icon": true
+                },
+                {
+                    "wordId": "针眼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "酱料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔塔酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋黄酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "番茄酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜辣酱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "播种",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拖拉机",
+                    "icon": true
+                },
+                {
+                    "wordId": "田地",
+                    "icon": true
+                },
+                {
+                    "wordId": "犁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "发声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哦",
+                    "icon": false
+                },
+                {
+                    "wordId": "哇",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘘",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "和平",
+        "幽默",
+        "哇",
+        "攻击",
+        "可定制的",
+        "塔塔酱",
+        "誓言",
+        "玩笑",
+        "祈祷",
+        "消耗",
+        "风暴",
+        "舔",
+        "纽扣",
+        "犁",
+        "乳酪",
+        "嘘",
+        "零食",
+        "可行的",
+        "突然的",
+        "陷阱",
+        "静默",
+        "危险",
+        "田地",
+        "吃",
+        "戏弄",
+        "番茄酱",
+        "神谕",
+        "日/月食",
+        "征兆",
+        "蘸",
+        "僧袍",
+        "品尝",
+        "诵经",
+        "寺庙",
+        "预兆",
+        "星星",
+        "可用的",
+        "产品特征",
+        "甜辣酱",
+        "钻戒",
+        "针眼",
+        "酱料"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "发声",
+                "吞食",
+                "虔诚的",
+                "可穿戴的"
+            ]
+        },
+        {
+            "cards": [
+                "播种",
+                "应支付的",
+                "士兵",
+                "大笑",
+                "僧侣"
+            ]
+        },
+        {
+            "cards": [
+                "摄取",
+                "隐藏的",
+                "可移动的",
+                "乌鸦",
+                "蛋黄酱",
+                "轶事"
+            ]
+        },
+        {
+            "cards": [
+                "袭击",
+                "拖拉机",
+                "啃",
+                "有孔物",
+                "猎人",
+                "伏击",
+                "哦"
+            ]
+        }
+    ]
+}

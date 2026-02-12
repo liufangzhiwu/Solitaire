@@ -1,0 +1,553 @@
+{
+    "levelId": 61,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "鸡尾酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "酒廊",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰块",
+                    "icon": false
+                },
+                {
+                    "wordId": "配方",
+                    "icon": false
+                },
+                {
+                    "wordId": "果汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇酒器",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒吧",
+                    "icon": false
+                },
+                {
+                    "wordId": "风味",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "热",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "夏季",
+                    "icon": false
+                },
+                {
+                    "wordId": "间歇泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸汽",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "篝火",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "余烬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卫生",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肥皂",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗发水",
+                    "icon": false
+                },
+                {
+                    "wordId": "病原体",
+                    "icon": false
+                },
+                {
+                    "wordId": "消毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "清洗",
+                    "icon": false
+                },
+                {
+                    "wordId": "清洁",
+                    "icon": false
+                },
+                {
+                    "wordId": "细菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "沐浴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丛林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "藤蔓",
+                    "icon": false
+                },
+                {
+                    "wordId": "蕨类",
+                    "icon": false
+                },
+                {
+                    "wordId": "野外狩猎",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔藓",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿度",
+                    "icon": false
+                },
+                {
+                    "wordId": "人猿泰山",
+                    "icon": false
+                },
+                {
+                    "wordId": "红树林",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉卜林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机械工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扳手",
+                    "icon": true
+                },
+                {
+                    "wordId": "梅花扳手",
+                    "icon": true
+                },
+                {
+                    "wordId": "棘轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "车间",
+                    "icon": true
+                },
+                {
+                    "wordId": "钳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "千斤顶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "游牧者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "漫游者",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "流浪者",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂泊者",
+                    "icon": false
+                },
+                {
+                    "wordId": "徒步者",
+                    "icon": false
+                },
+                {
+                    "wordId": "朝圣者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鼻子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "气味",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗅",
+                    "icon": false
+                },
+                {
+                    "wordId": "香味",
+                    "icon": false
+                },
+                {
+                    "wordId": "一丝气味",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽鼻子",
+                    "icon": false
+                },
+                {
+                    "wordId": "芳香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "网络",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "路由器",
+                    "icon": false
+                },
+                {
+                    "wordId": "服务器",
+                    "icon": false
+                },
+                {
+                    "wordId": "网关",
+                    "icon": false
+                },
+                {
+                    "wordId": "以太网",
+                    "icon": false
+                },
+                {
+                    "wordId": "数据包",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "口腔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牙龈",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘴唇",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "舌头",
+                    "icon": false
+                },
+                {
+                    "wordId": "上颚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "深处",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "深渊",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "海沟",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞窟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "损坏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "开裂",
+                    "icon": false
+                },
+                {
+                    "wordId": "缺口",
+                    "icon": false
+                },
+                {
+                    "wordId": "破碎",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉碎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "关税",
+                    "icon": false
+                },
+                {
+                    "wordId": "进口",
+                    "icon": false
+                },
+                {
+                    "wordId": "边境",
+                    "icon": false
+                },
+                {
+                    "wordId": "出口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神秘生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大脚怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "天蛾人",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪人",
+                    "icon": false
+                },
+                {
+                    "wordId": "温迪戈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "线条",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弧线",
+                    "icon": false
+                },
+                {
+                    "wordId": "之字形",
+                    "icon": false
+                },
+                {
+                    "wordId": "轴线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "抵押贷款",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "还款",
+                    "icon": false
+                },
+                {
+                    "wordId": "利息",
+                    "icon": false
+                },
+                {
+                    "wordId": "利率",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "线条",
+        "鼻子",
+        "进口",
+        "沐浴",
+        "网络",
+        "漫游者",
+        "数据包",
+        "还款",
+        "洞穴",
+        "夏季",
+        "清洗",
+        "扳手",
+        "抽鼻子",
+        "气味",
+        "轴线",
+        "利息",
+        "舌头",
+        "神秘生物",
+        "服务器",
+        "嗅",
+        "以太网",
+        "流浪者",
+        "大脚怪",
+        "漂泊者",
+        "人猿泰山",
+        "天蛾人",
+        "酒吧",
+        "蒸汽",
+        "开裂",
+        "余烬",
+        "网关",
+        "关税",
+        "酒廊",
+        "粉碎",
+        "路由器",
+        "香味",
+        "风味",
+        "游牧者",
+        "沙漠",
+        "糖浆",
+        "间歇泉",
+        "冰块",
+        "果汁",
+        "千斤顶",
+        "梅花扳手",
+        "熔岩",
+        "湿度",
+        "病原体",
+        "清洁",
+        "吉卜林",
+        "损坏",
+        "弧线",
+        "徒步者",
+        "海沟",
+        "洗发水",
+        "温迪戈",
+        "机械工具",
+        "篝火",
+        "野外狩猎",
+        "细菌",
+        "利率",
+        "车间",
+        "牙龈"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "摇酒器",
+                "深处",
+                "抵押贷款",
+                "芳香",
+                "上颚"
+            ]
+        },
+        {
+            "cards": [
+                "之字形",
+                "蕨类",
+                "热",
+                "红树林",
+                "缺口",
+                "肥皂"
+            ]
+        },
+        {
+            "cards": [
+                "鸡尾酒",
+                "口腔",
+                "配方",
+                "出口",
+                "洞窟",
+                "嘴唇",
+                "旅行者"
+            ]
+        },
+        {
+            "cards": [
+                "边境",
+                "雪人",
+                "深渊",
+                "破碎",
+                "一丝气味",
+                "丛林",
+                "钳子",
+                "峡谷"
+            ]
+        },
+        {
+            "cards": [
+                "棘轮",
+                "消毒",
+                "牙齿",
+                "藤蔓",
+                "卫生",
+                "苔藓",
+                "海关",
+                "朝圣者",
+                "火山"
+            ]
+        }
+    ]
+}

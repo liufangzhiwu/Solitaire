@@ -1,0 +1,369 @@
+{
+    "levelId": 368,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "星落",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流星",
+                    "icon": false
+                },
+                {
+                    "wordId": "彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "恒星",
+                    "icon": false
+                },
+                {
+                    "wordId": "火流星",
+                    "icon": false
+                },
+                {
+                    "wordId": "小行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星尘",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火箭技术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "助推器",
+                    "icon": false
+                },
+                {
+                    "wordId": "太空舱",
+                    "icon": false
+                },
+                {
+                    "wordId": "有效载荷",
+                    "icon": false
+                },
+                {
+                    "wordId": "节流阀",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷管",
+                    "icon": false
+                },
+                {
+                    "wordId": "箭体",
+                    "icon": false
+                },
+                {
+                    "wordId": "推进器",
+                    "icon": false
+                },
+                {
+                    "wordId": "再入",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "遗产",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "祖先",
+                    "icon": false
+                },
+                {
+                    "wordId": "传承",
+                    "icon": false
+                },
+                {
+                    "wordId": "王朝",
+                    "icon": false
+                },
+                {
+                    "wordId": "血统",
+                    "icon": false
+                },
+                {
+                    "wordId": "习俗",
+                    "icon": false
+                },
+                {
+                    "wordId": "谱系",
+                    "icon": false
+                },
+                {
+                    "wordId": "根源",
+                    "icon": false
+                },
+                {
+                    "wordId": "传家宝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地牢",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "活板门",
+                    "icon": false
+                },
+                {
+                    "wordId": "牢笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "陷阱",
+                    "icon": false
+                },
+                {
+                    "wordId": "禁闭室",
+                    "icon": false
+                },
+                {
+                    "wordId": "镣铐",
+                    "icon": false
+                },
+                {
+                    "wordId": "监狱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "混乱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "无序",
+                    "icon": false
+                },
+                {
+                    "wordId": "浩劫",
+                    "icon": false
+                },
+                {
+                    "wordId": "动荡",
+                    "icon": false
+                },
+                {
+                    "wordId": "骚乱",
+                    "icon": false
+                },
+                {
+                    "wordId": "熵",
+                    "icon": false
+                },
+                {
+                    "wordId": "无政府",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酒馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜂蜜酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "麦芽酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "苹果酒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巨石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "方尖碑",
+                    "icon": true
+                },
+                {
+                    "wordId": "石棚",
+                    "icon": true
+                },
+                {
+                    "wordId": "环列巨石",
+                    "icon": true
+                },
+                {
+                    "wordId": "石柱",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "神秘学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "五角星",
+                    "icon": true
+                },
+                {
+                    "wordId": "灵应牌",
+                    "icon": true
+                },
+                {
+                    "wordId": "塔罗牌",
+                    "icon": true
+                },
+                {
+                    "wordId": "熏香",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "幻术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戏法",
+                    "icon": false
+                },
+                {
+                    "wordId": "手法",
+                    "icon": false
+                },
+                {
+                    "wordId": "骗局",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "碎片",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "裂片",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄片",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "习俗",
+        "幻术",
+        "太空舱",
+        "镣铐",
+        "熵",
+        "星云",
+        "推进器",
+        "根源",
+        "谱系",
+        "小行星",
+        "麦芽酒",
+        "五角星",
+        "禁闭室",
+        "恒星",
+        "地牢",
+        "无序",
+        "熏香",
+        "动荡",
+        "助推器",
+        "酒馆",
+        "巨石",
+        "石柱",
+        "方尖碑",
+        "骚乱",
+        "骗局",
+        "传承",
+        "牢笼",
+        "无政府",
+        "喷管",
+        "有效载荷",
+        "监狱",
+        "再入",
+        "神秘学",
+        "陷阱",
+        "浩劫",
+        "手法",
+        "星尘",
+        "箭体",
+        "火流星",
+        "蜂蜜酒",
+        "戏法",
+        "苹果酒"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "环列巨石",
+                "裂片",
+                "石棚",
+                "活板门"
+            ]
+        },
+        {
+            "cards": [
+                "薄片",
+                "灵应牌",
+                "碎屑",
+                "遗产",
+                "混乱"
+            ]
+        },
+        {
+            "cards": [
+                "塔罗牌",
+                "火箭技术",
+                "流星",
+                "节流阀",
+                "星落",
+                "传家宝"
+            ]
+        },
+        {
+            "cards": [
+                "星系",
+                "祖先",
+                "碎片",
+                "血统",
+                "彗星",
+                "黑啤酒",
+                "王朝"
+            ]
+        }
+    ]
+}

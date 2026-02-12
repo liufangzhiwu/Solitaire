@@ -1,0 +1,369 @@
+{
+    "levelId": 218,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "螃蟹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钳子",
+                    "icon": false
+                },
+                {
+                    "wordId": "壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹",
+                    "icon": false
+                },
+                {
+                    "wordId": "红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "横爬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "延迟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迟到",
+                    "icon": false
+                },
+                {
+                    "wordId": "等待",
+                    "icon": false
+                },
+                {
+                    "wordId": "暂停",
+                    "icon": false
+                },
+                {
+                    "wordId": "保持",
+                    "icon": false
+                },
+                {
+                    "wordId": "滞后",
+                    "icon": false
+                },
+                {
+                    "wordId": "拖延",
+                    "icon": false
+                },
+                {
+                    "wordId": "推迟",
+                    "icon": false
+                },
+                {
+                    "wordId": "缓慢",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动物叫声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘎嘎",
+                    "icon": false
+                },
+                {
+                    "wordId": "吱吱",
+                    "icon": false
+                },
+                {
+                    "wordId": "喵喵",
+                    "icon": false
+                },
+                {
+                    "wordId": "汪汪",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘶鸣",
+                    "icon": false
+                },
+                {
+                    "wordId": "嚎叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "呱呱",
+                    "icon": false
+                },
+                {
+                    "wordId": "驴叫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骑术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马鞍",
+                    "icon": true
+                },
+                {
+                    "wordId": "肚带",
+                    "icon": true
+                },
+                {
+                    "wordId": "缰绳",
+                    "icon": true
+                },
+                {
+                    "wordId": "马笼头",
+                    "icon": true
+                },
+                {
+                    "wordId": "马刺",
+                    "icon": true
+                },
+                {
+                    "wordId": "笼头",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "煤炭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "矿井",
+                    "icon": false
+                },
+                {
+                    "wordId": "燃料",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰烬",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳",
+                    "icon": false
+                },
+                {
+                    "wordId": "燃烧",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "轨道交通",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地铁",
+                    "icon": true
+                },
+                {
+                    "wordId": "火车",
+                    "icon": true
+                },
+                {
+                    "wordId": "有轨电车",
+                    "icon": true
+                },
+                {
+                    "wordId": "单轨列车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "脚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脚底",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚跟",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚趾",
+                    "icon": false
+                },
+                {
+                    "wordId": "足弓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阿尔法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "第一",
+                    "icon": false
+                },
+                {
+                    "wordId": "首要的",
+                    "icon": false
+                },
+                {
+                    "wordId": "领导者",
+                    "icon": false
+                },
+                {
+                    "wordId": "开始",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "六边形",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜂巢",
+                    "icon": true
+                },
+                {
+                    "wordId": "雪花",
+                    "icon": true
+                },
+                {
+                    "wordId": "螺栓头",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "援助",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帮助",
+                    "icon": false
+                },
+                {
+                    "wordId": "支持",
+                    "icon": false
+                },
+                {
+                    "wordId": "协助",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "喵喵",
+        "协助",
+        "钳子",
+        "火车",
+        "等待",
+        "夹",
+        "马笼头",
+        "海洋",
+        "肚带",
+        "脚跟",
+        "红色",
+        "骑术",
+        "延迟",
+        "首要的",
+        "嘎嘎",
+        "马刺",
+        "海滩",
+        "滞后",
+        "推迟",
+        "嚎叫",
+        "开始",
+        "保持",
+        "地铁",
+        "沙子",
+        "阿尔法",
+        "脚",
+        "足弓",
+        "轨道交通",
+        "暂停",
+        "领导者",
+        "壳",
+        "嘶鸣",
+        "拖延",
+        "横爬",
+        "矿井",
+        "单轨列车",
+        "有轨电车",
+        "驴叫",
+        "吱吱",
+        "矿石",
+        "灰烬",
+        "蜂巢"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "脚底",
+                "马鞍",
+                "燃料",
+                "六边形"
+            ]
+        },
+        {
+            "cards": [
+                "汪汪",
+                "缰绳",
+                "燃烧",
+                "煤炭",
+                "螃蟹"
+            ]
+        },
+        {
+            "cards": [
+                "迟到",
+                "第一",
+                "笼头",
+                "支持",
+                "缓慢",
+                "帮助"
+            ]
+        },
+        {
+            "cards": [
+                "脚趾",
+                "动物叫声",
+                "螺栓头",
+                "碳",
+                "呱呱",
+                "援助",
+                "雪花"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 58,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "家庭成员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "妻子",
+                    "icon": false
+                },
+                {
+                    "wordId": "儿子",
+                    "icon": false
+                },
+                {
+                    "wordId": "叔叔",
+                    "icon": false
+                },
+                {
+                    "wordId": "姐妹",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿姨",
+                    "icon": false
+                },
+                {
+                    "wordId": "堂表亲",
+                    "icon": false
+                },
+                {
+                    "wordId": "侄女",
+                    "icon": false
+                },
+                {
+                    "wordId": "母亲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神祇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿尔忒弥斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿波罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿瑞斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫尔墨斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "波塞冬",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿婆",
+                    "icon": false
+                },
+                {
+                    "wordId": "维列斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "克里希那",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地球仪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "子午线",
+                    "icon": false
+                },
+                {
+                    "wordId": "赤道",
+                    "icon": false
+                },
+                {
+                    "wordId": "纬度",
+                    "icon": false
+                },
+                {
+                    "wordId": "球体",
+                    "icon": false
+                },
+                {
+                    "wordId": "地图集",
+                    "icon": false
+                },
+                {
+                    "wordId": "世界",
+                    "icon": false
+                },
+                {
+                    "wordId": "地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "区域",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "打哈欠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "困倦",
+                    "icon": false
+                },
+                {
+                    "wordId": "昏昏欲睡",
+                    "icon": false
+                },
+                {
+                    "wordId": "疲倦",
+                    "icon": false
+                },
+                {
+                    "wordId": "疲惫",
+                    "icon": false
+                },
+                {
+                    "wordId": "瞌睡",
+                    "icon": false
+                },
+                {
+                    "wordId": "懒洋洋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "书写工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "粉笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨水",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "马克笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "铅笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "触控笔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "蠕虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绦虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "钩虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙蠋",
+                    "icon": false
+                },
+                {
+                    "wordId": "扁形虫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鲸鱼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白鲸",
+                    "icon": false
+                },
+                {
+                    "wordId": "独角鲸",
+                    "icon": false
+                },
+                {
+                    "wordId": "虎鲸",
+                    "icon": false
+                },
+                {
+                    "wordId": "座头鲸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奖项",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奥斯卡奖",
+                    "icon": true
+                },
+                {
+                    "wordId": "艾美奖",
+                    "icon": true
+                },
+                {
+                    "wordId": "托尼奖",
+                    "icon": true
+                },
+                {
+                    "wordId": "格莱美奖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "培根",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咸味",
+                    "icon": false
+                },
+                {
+                    "wordId": "酥脆",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟熏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小丑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑稽",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽默",
+                    "icon": false
+                },
+                {
+                    "wordId": "表演",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "瞌睡",
+        "克里希那",
+        "扁形虫",
+        "赤道",
+        "地图集",
+        "墨水",
+        "钢笔",
+        "沙蠋",
+        "表演",
+        "阿姨",
+        "格莱美奖",
+        "打哈欠",
+        "奥斯卡奖",
+        "地图",
+        "疲倦",
+        "家庭成员",
+        "独角鲸",
+        "鲸鱼",
+        "懒洋洋",
+        "昏昏欲睡",
+        "叔叔",
+        "困倦",
+        "姐妹",
+        "白鲸",
+        "小丑",
+        "子午线",
+        "纬度",
+        "马克笔",
+        "堂表亲",
+        "儿子",
+        "虎鲸",
+        "奖项",
+        "妻子",
+        "滑稽",
+        "酥脆",
+        "波塞冬",
+        "母亲",
+        "维列斯",
+        "区域",
+        "触控笔",
+        "湿婆",
+        "铅笔"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "托尼奖",
+                "赫尔墨斯",
+                "地球仪",
+                "蠕虫"
+            ]
+        },
+        {
+            "cards": [
+                "侄女",
+                "幽默",
+                "书写工具",
+                "艾美奖",
+                "阿瑞斯"
+            ]
+        },
+        {
+            "cards": [
+                "钩虫",
+                "粉笔",
+                "座头鲸",
+                "咸味",
+                "绦虫",
+                "球体"
+            ]
+        },
+        {
+            "cards": [
+                "阿尔忒弥斯",
+                "阿波罗",
+                "烟熏",
+                "神祇",
+                "疲惫",
+                "培根",
+                "世界"
+            ]
+        }
+    ]
+}

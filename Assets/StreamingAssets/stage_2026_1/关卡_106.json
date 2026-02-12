@@ -1,0 +1,521 @@
+{
+    "levelId": 106,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "弦乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "中提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "班卓琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "竖琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "尤克里里",
+                    "icon": true
+                },
+                {
+                    "wordId": "曼陀林",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "发光",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "萤火虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "星星",
+                    "icon": false
+                },
+                {
+                    "wordId": "霓虹灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "月亮",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": false
+                },
+                {
+                    "wordId": "萤幕",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯泡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "标点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "逗号",
+                    "icon": false
+                },
+                {
+                    "wordId": "冒号",
+                    "icon": false
+                },
+                {
+                    "wordId": "点",
+                    "icon": false
+                },
+                {
+                    "wordId": "句号",
+                    "icon": false
+                },
+                {
+                    "wordId": "括弧",
+                    "icon": false
+                },
+                {
+                    "wordId": "破折号",
+                    "icon": false
+                },
+                {
+                    "wordId": "星号",
+                    "icon": false
+                },
+                {
+                    "wordId": "大括弧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恐龙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爬行动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷克斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "化石",
+                    "icon": false
+                },
+                {
+                    "wordId": "迅猛龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨架",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕食者",
+                    "icon": false
+                },
+                {
+                    "wordId": "遗骸",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐龙物种",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "两轮车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赛格威",
+                    "icon": true
+                },
+                {
+                    "wordId": "自行车",
+                    "icon": true
+                },
+                {
+                    "wordId": "踏板车",
+                    "icon": true
+                },
+                {
+                    "wordId": "轻便摩托车",
+                    "icon": true
+                },
+                {
+                    "wordId": "摩托车",
+                    "icon": true
+                },
+                {
+                    "wordId": "小轮车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "虚构",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚特兰蒂斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "传送",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌托邦",
+                    "icon": false
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪人",
+                    "icon": false
+                },
+                {
+                    "wordId": "半人马",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宗教场所",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教堂",
+                    "icon": true
+                },
+                {
+                    "wordId": "清真寺",
+                    "icon": true
+                },
+                {
+                    "wordId": "佛塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "小教堂",
+                    "icon": true
+                },
+                {
+                    "wordId": "修道院",
+                    "icon": true
+                },
+                {
+                    "wordId": "犹太会堂",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "播放列表",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "说唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇滚",
+                    "icon": false
+                },
+                {
+                    "wordId": "爵士",
+                    "icon": false
+                },
+                {
+                    "wordId": "流行",
+                    "icon": false
+                },
+                {
+                    "wordId": "迪斯可",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瑜伽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "体式",
+                    "icon": false
+                },
+                {
+                    "wordId": "手印",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑜伽垫",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼气",
+                    "icon": false
+                },
+                {
+                    "wordId": "印度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜜蜂生命周期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卵",
+                    "icon": false
+                },
+                {
+                    "wordId": "幼虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛹",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂后",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "农民",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛仔",
+                    "icon": false
+                },
+                {
+                    "wordId": "园丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "耕夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧羊人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "状态",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "单身",
+                    "icon": false
+                },
+                {
+                    "wordId": "恋爱中",
+                    "icon": false
+                },
+                {
+                    "wordId": "已订婚",
+                    "icon": false
+                },
+                {
+                    "wordId": "已婚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "降雪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雪花",
+                    "icon": false
+                },
+                {
+                    "wordId": "云",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "牡蛎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛤蜊",
+                    "icon": false
+                },
+                {
+                    "wordId": "珍珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "世界",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "体式",
+        "括弧",
+        "流行",
+        "呼气",
+        "迪斯可",
+        "太阳",
+        "幼虫",
+        "世界",
+        "小教堂",
+        "说唱",
+        "灯泡",
+        "大提琴",
+        "修道院",
+        "捕食者",
+        "牛仔",
+        "中提琴",
+        "蜂后",
+        "犹太会堂",
+        "暴风雪",
+        "印度",
+        "小提琴",
+        "蛹",
+        "竖琴",
+        "弦乐器",
+        "亚特兰蒂斯",
+        "状态",
+        "破折号",
+        "踏板车",
+        "农民",
+        "骨架",
+        "佛塔",
+        "单身",
+        "牡蛎",
+        "恋爱中",
+        "灯笼",
+        "北海巨妖",
+        "赛格威",
+        "曼陀林",
+        "恐龙",
+        "星号",
+        "摇滚",
+        "萤火虫",
+        "蛤蜊",
+        "遗骸",
+        "爵士",
+        "已婚",
+        "大括弧",
+        "牧羊人",
+        "手印",
+        "教堂",
+        "耕夫",
+        "乌托邦",
+        "珍珠",
+        "恐龙物种",
+        "标点",
+        "已订婚",
+        "虚构"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "卵",
+                "逗号",
+                "吉他",
+                "尤克里里",
+                "播放列表"
+            ]
+        },
+        {
+            "cards": [
+                "小轮车",
+                "自行车",
+                "云",
+                "句号",
+                "宗教场所",
+                "萤幕"
+            ]
+        },
+        {
+            "cards": [
+                "霓虹灯",
+                "雪人",
+                "清真寺",
+                "班卓琴",
+                "瑜伽垫",
+                "雷克斯",
+                "星星"
+            ]
+        },
+        {
+            "cards": [
+                "传送",
+                "两轮车",
+                "半人马",
+                "降雪",
+                "化石",
+                "爬行动物",
+                "雪花",
+                "摩托车"
+            ]
+        },
+        {
+            "cards": [
+                "月亮",
+                "点",
+                "发光",
+                "园丁",
+                "迅猛龙",
+                "轻便摩托车",
+                "瑜伽",
+                "冒号",
+                "蜜蜂生命周期"
+            ]
+        }
+    ]
+}

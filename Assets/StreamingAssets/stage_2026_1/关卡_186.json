@@ -1,0 +1,369 @@
+{
+    "levelId": 186,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "美食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寿司",
+                    "icon": true
+                },
+                {
+                    "wordId": "塔可",
+                    "icon": true
+                },
+                {
+                    "wordId": "意大利面",
+                    "icon": true
+                },
+                {
+                    "wordId": "意式团子",
+                    "icon": true
+                },
+                {
+                    "wordId": "拉面",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙拉三明治",
+                    "icon": true
+                },
+                {
+                    "wordId": "法式咸派",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙威玛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "排灯节",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡里节",
+                    "icon": false
+                },
+                {
+                    "wordId": "复活节",
+                    "icon": false
+                },
+                {
+                    "wordId": "光明节",
+                    "icon": false
+                },
+                {
+                    "wordId": "斋月",
+                    "icon": false
+                },
+                {
+                    "wordId": "宽扎节",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂欢节",
+                    "icon": false
+                },
+                {
+                    "wordId": "逾越节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "座位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椅子",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": false
+                },
+                {
+                    "wordId": "凳子",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚凳",
+                    "icon": false
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": false
+                },
+                {
+                    "wordId": "躺椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "双人沙发",
+                    "icon": false
+                },
+                {
+                    "wordId": "长靠椅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鱼类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三文鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳟鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳕鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲭鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗非鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "水虎鱼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薰衣草",
+                    "icon": false
+                },
+                {
+                    "wordId": "茉莉",
+                    "icon": false
+                },
+                {
+                    "wordId": "香草",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪松",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷迭香",
+                    "icon": false
+                },
+                {
+                    "wordId": "檀香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国际象棋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兵",
+                    "icon": false
+                },
+                {
+                    "wordId": "马",
+                    "icon": false
+                },
+                {
+                    "wordId": "象",
+                    "icon": false
+                },
+                {
+                    "wordId": "车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "容器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高脚杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "调味瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "大酒壶",
+                    "icon": false
+                },
+                {
+                    "wordId": "安瓿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "无人机",
+                    "icon": true
+                },
+                {
+                    "wordId": "平板电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳机",
+                    "icon": true
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地牢",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "库",
+                    "icon": false
+                },
+                {
+                    "wordId": "坟墓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "遗产",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "文物",
+                    "icon": false
+                },
+                {
+                    "wordId": "民间传说",
+                    "icon": false
+                },
+                {
+                    "wordId": "传承",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "鳕鱼",
+        "宽扎节",
+        "大酒壶",
+        "国际象棋",
+        "薰衣草",
+        "光明节",
+        "狂欢节",
+        "香气",
+        "逾越节",
+        "车",
+        "鱼类",
+        "调味瓶",
+        "水虎鱼",
+        "躺椅",
+        "沙发",
+        "长凳",
+        "高脚杯",
+        "耳机",
+        "茉莉",
+        "鲭鱼",
+        "传承",
+        "法式咸派",
+        "椅子",
+        "地穴",
+        "迷迭香",
+        "安瓿",
+        "象",
+        "鳟鱼",
+        "檀香",
+        "意式团子",
+        "斋月",
+        "复活节",
+        "香草",
+        "平板电脑",
+        "罗非鱼",
+        "雪松",
+        "美食",
+        "库",
+        "双人沙发",
+        "容器",
+        "寿司",
+        "沙威玛"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "意大利面",
+                "小工具",
+                "长靠椅",
+                "遗产"
+            ]
+        },
+        {
+            "cards": [
+                "凳子",
+                "塔可",
+                "扬声器",
+                "马",
+                "地牢"
+            ]
+        },
+        {
+            "cards": [
+                "兵",
+                "坟墓",
+                "无人机",
+                "沙拉三明治",
+                "三文鱼",
+                "拉面"
+            ]
+        },
+        {
+            "cards": [
+                "排灯节",
+                "民间传说",
+                "脚凳",
+                "座位",
+                "胡里节",
+                "文物",
+                "节日"
+            ]
+        }
+    ]
+}

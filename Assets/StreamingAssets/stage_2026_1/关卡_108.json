@@ -1,0 +1,369 @@
+{
+    "levelId": 108,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "清澈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "钻石",
+                    "icon": false
+                },
+                {
+                    "wordId": "水",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗户",
+                    "icon": false
+                },
+                {
+                    "wordId": "河流",
+                    "icon": false
+                },
+                {
+                    "wordId": "天空",
+                    "icon": false
+                },
+                {
+                    "wordId": "空气",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮肤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "过敏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮疹",
+                    "icon": false
+                },
+                {
+                    "wordId": "特应性",
+                    "icon": false
+                },
+                {
+                    "wordId": "咳嗽",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻炎",
+                    "icon": false
+                },
+                {
+                    "wordId": "打喷嚏",
+                    "icon": false
+                },
+                {
+                    "wordId": "瘙痒",
+                    "icon": false
+                },
+                {
+                    "wordId": "发红",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶心",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "歌唱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旋律",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "音高",
+                    "icon": false
+                },
+                {
+                    "wordId": "独唱者",
+                    "icon": false
+                },
+                {
+                    "wordId": "咏叹调",
+                    "icon": false
+                },
+                {
+                    "wordId": "合唱团",
+                    "icon": false
+                },
+                {
+                    "wordId": "哼唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "音色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "树叶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "枫叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "橡树叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "棕榈叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "栗树叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "白蜡树叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "杨树叶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "狮子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狮群",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬃毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "咆哮",
+                    "icon": false
+                },
+                {
+                    "wordId": "国王",
+                    "icon": false
+                },
+                {
+                    "wordId": "稀树草原",
+                    "icon": false
+                },
+                {
+                    "wordId": "非洲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神灯精灵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愿望",
+                    "icon": false
+                },
+                {
+                    "wordId": "神灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "自由",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "豆类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "豆子",
+                    "icon": false
+                },
+                {
+                    "wordId": "豌豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "扁豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "花生",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "防护用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "护目镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "盾牌",
+                    "icon": true
+                },
+                {
+                    "wordId": "头盔",
+                    "icon": true
+                },
+                {
+                    "wordId": "防毒面具",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "遗传学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "基因",
+                    "icon": false
+                },
+                {
+                    "wordId": "DNA",
+                    "icon": false
+                },
+                {
+                    "wordId": "基因组",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "内容",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "视频",
+                    "icon": false
+                },
+                {
+                    "wordId": "照片",
+                    "icon": false
+                },
+                {
+                    "wordId": "播客",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "合唱团",
+        "过敏",
+        "杨树叶",
+        "狮群",
+        "防毒面具",
+        "空气",
+        "发红",
+        "神灯精灵",
+        "鼻炎",
+        "咆哮",
+        "栗树叶",
+        "特应性",
+        "愿望",
+        "歌曲",
+        "棕榈叶",
+        "阿拉丁",
+        "水",
+        "音色",
+        "瘙痒",
+        "音高",
+        "基因",
+        "自由",
+        "头盔",
+        "国王",
+        "哼唱",
+        "护目镜",
+        "皮疹",
+        "视频",
+        "旋律",
+        "基因组",
+        "钻石",
+        "天空",
+        "遗传学",
+        "DNA",
+        "豆子",
+        "豆类",
+        "皮肤",
+        "打喷嚏",
+        "照片",
+        "非洲",
+        "咏叹调",
+        "清澈"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "狮子",
+                "歌唱",
+                "稀树草原",
+                "玻璃"
+            ]
+        },
+        {
+            "cards": [
+                "播客",
+                "恶心",
+                "内容",
+                "花生",
+                "神灯"
+            ]
+        },
+        {
+            "cards": [
+                "防护用品",
+                "独唱者",
+                "鬃毛",
+                "咳嗽",
+                "窗户",
+                "河流"
+            ]
+        },
+        {
+            "cards": [
+                "白蜡树叶",
+                "扁豆",
+                "豌豆",
+                "树叶",
+                "枫叶",
+                "橡树叶",
+                "盾牌"
+            ]
+        }
+    ]
+}

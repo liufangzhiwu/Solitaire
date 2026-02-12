@@ -1,0 +1,217 @@
+{
+    "levelId": 147,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剃须刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "搅拌机",
+                    "icon": true
+                },
+                {
+                    "wordId": "电视",
+                    "icon": true
+                },
+                {
+                    "wordId": "扫地机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "吹风机",
+                    "icon": true
+                },
+                {
+                    "wordId": "熨斗",
+                    "icon": true
+                },
+                {
+                    "wordId": "料理机",
+                    "icon": true
+                },
+                {
+                    "wordId": "烤面包机",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "巴西",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "贫民窟",
+                    "icon": false
+                },
+                {
+                    "wordId": "里约",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖啡",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡波耶拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂欢节",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚马逊",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝利",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "部分",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "一半",
+                    "icon": false
+                },
+                {
+                    "wordId": "四分之一",
+                    "icon": false
+                },
+                {
+                    "wordId": "百分比",
+                    "icon": false
+                },
+                {
+                    "wordId": "小数",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "线上",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "聊天",
+                    "icon": false
+                },
+                {
+                    "wordId": "购物",
+                    "icon": false
+                },
+                {
+                    "wordId": "会议",
+                    "icon": false
+                },
+                {
+                    "wordId": "网络研讨会",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "量具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尺子",
+                    "icon": true
+                },
+                {
+                    "wordId": "温度计",
+                    "icon": true
+                },
+                {
+                    "wordId": "天平",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "外国的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "语言",
+                    "icon": false
+                },
+                {
+                    "wordId": "入侵者",
+                    "icon": false
+                },
+                {
+                    "wordId": "货币",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "温度计",
+        "里约",
+        "聊天",
+        "搅拌机",
+        "货币",
+        "贫民窟",
+        "扫地机器人",
+        "百分比",
+        "天平",
+        "量具",
+        "设备",
+        "网络研讨会",
+        "烤面包机",
+        "会议",
+        "电视",
+        "语言",
+        "贝利",
+        "巴西",
+        "狂欢节",
+        "熨斗",
+        "吹风机",
+        "一半",
+        "入侵者",
+        "四分之一"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "卡波耶拉",
+                "亚马逊",
+                "尺子"
+            ]
+        },
+        {
+            "cards": [
+                "咖啡",
+                "剃须刀",
+                "外国的",
+                "购物"
+            ]
+        },
+        {
+            "cards": [
+                "料理机",
+                "桑巴",
+                "线上",
+                "小数",
+                "部分"
+            ]
+        }
+    ]
+}

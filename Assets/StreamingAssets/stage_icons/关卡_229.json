@@ -1,0 +1,369 @@
+{
+    "levelId": 229,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "旅行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "郊游",
+                    "icon": false
+                },
+                {
+                    "wordId": "观光",
+                    "icon": false
+                },
+                {
+                    "wordId": "航海",
+                    "icon": false
+                },
+                {
+                    "wordId": "假期",
+                    "icon": false
+                },
+                {
+                    "wordId": "度假",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅程",
+                    "icon": false
+                },
+                {
+                    "wordId": "当地人",
+                    "icon": false
+                },
+                {
+                    "wordId": "地标",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阿拉伯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "清真寺",
+                    "icon": false
+                },
+                {
+                    "wordId": "大马士革",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊玛目",
+                    "icon": false
+                },
+                {
+                    "wordId": "头巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴格达",
+                    "icon": false
+                },
+                {
+                    "wordId": "地毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "水烟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "记忆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "思绪",
+                    "icon": false
+                },
+                {
+                    "wordId": "回忆",
+                    "icon": false
+                },
+                {
+                    "wordId": "事件",
+                    "icon": false
+                },
+                {
+                    "wordId": "过去",
+                    "icon": false
+                },
+                {
+                    "wordId": "片段",
+                    "icon": false
+                },
+                {
+                    "wordId": "日记",
+                    "icon": false
+                },
+                {
+                    "wordId": "思念",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪念品",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "城市地图",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大道",
+                    "icon": false
+                },
+                {
+                    "wordId": "广场",
+                    "icon": false
+                },
+                {
+                    "wordId": "街区",
+                    "icon": false
+                },
+                {
+                    "wordId": "小巷",
+                    "icon": false
+                },
+                {
+                    "wordId": "高速公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "桥梁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "窗户",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "窗格",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗台",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗锁",
+                    "icon": false
+                },
+                {
+                    "wordId": "百叶帘",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗帘",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗扇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "组织",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "整理",
+                    "icon": false
+                },
+                {
+                    "wordId": "分类",
+                    "icon": false
+                },
+                {
+                    "wordId": "排序",
+                    "icon": false
+                },
+                {
+                    "wordId": "对齐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "质数",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇数",
+                    "icon": false
+                },
+                {
+                    "wordId": "偶数",
+                    "icon": false
+                },
+                {
+                    "wordId": "有理数",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "优雅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "礼服",
+                    "icon": true
+                },
+                {
+                    "wordId": "项链",
+                    "icon": true
+                },
+                {
+                    "wordId": "手表",
+                    "icon": true
+                },
+                {
+                    "wordId": "领带",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "方程式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "指数",
+                    "icon": false
+                },
+                {
+                    "wordId": "常数",
+                    "icon": false
+                },
+                {
+                    "wordId": "括弧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "天赋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "歌唱",
+                    "icon": true
+                },
+                {
+                    "wordId": "表演",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢琴",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "桥梁",
+        "百叶帘",
+        "阿拉伯",
+        "大马士革",
+        "领带",
+        "窗锁",
+        "航海",
+        "地标",
+        "街区",
+        "假期",
+        "记忆",
+        "排序",
+        "巴格达",
+        "表演",
+        "钢琴",
+        "思绪",
+        "日记",
+        "郊游",
+        "纪念品",
+        "指数",
+        "整理",
+        "当地人",
+        "城市地图",
+        "旅程",
+        "片段",
+        "天赋",
+        "清真寺",
+        "水烟",
+        "窗台",
+        "小巷",
+        "质数",
+        "方程式",
+        "观光",
+        "字母",
+        "偶数",
+        "窗格",
+        "大道",
+        "度假",
+        "项链",
+        "分类",
+        "头巾",
+        "事件"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "优雅",
+                "括弧",
+                "过去",
+                "对齐"
+            ]
+        },
+        {
+            "cards": [
+                "高速公路",
+                "窗户",
+                "窗帘",
+                "回忆",
+                "礼服"
+            ]
+        },
+        {
+            "cards": [
+                "思念",
+                "有理数",
+                "窗扇",
+                "旅行",
+                "常数",
+                "手表"
+            ]
+        },
+        {
+            "cards": [
+                "地毯",
+                "伊玛目",
+                "广场",
+                "歌唱",
+                "数字",
+                "奇数",
+                "组织"
+            ]
+        }
+    ]
+}

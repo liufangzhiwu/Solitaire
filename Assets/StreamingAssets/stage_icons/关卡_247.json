@@ -1,0 +1,369 @@
+{
+    "levelId": 247,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "狡猾的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狐狸",
+                    "icon": true
+                },
+                {
+                    "wordId": "猴子",
+                    "icon": true
+                },
+                {
+                    "wordId": "黄鼠狼",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鸦",
+                    "icon": true
+                },
+                {
+                    "wordId": "浣熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "毒蛇",
+                    "icon": true
+                },
+                {
+                    "wordId": "喜鹊",
+                    "icon": true
+                },
+                {
+                    "wordId": "老鼠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "城市",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大阪",
+                    "icon": false
+                },
+                {
+                    "wordId": "德里",
+                    "icon": false
+                },
+                {
+                    "wordId": "上海",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣地亚哥",
+                    "icon": false
+                },
+                {
+                    "wordId": "北京",
+                    "icon": false
+                },
+                {
+                    "wordId": "德黑兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "雅加达",
+                    "icon": false
+                },
+                {
+                    "wordId": "迈阿密",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "武器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "匕首",
+                    "icon": true
+                },
+                {
+                    "wordId": "霰弹枪",
+                    "icon": true
+                },
+                {
+                    "wordId": "战斧",
+                    "icon": true
+                },
+                {
+                    "wordId": "弩",
+                    "icon": true
+                },
+                {
+                    "wordId": "手枪",
+                    "icon": true
+                },
+                {
+                    "wordId": "手榴弹",
+                    "icon": true
+                },
+                {
+                    "wordId": "加农炮",
+                    "icon": true
+                },
+                {
+                    "wordId": "回旋镖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "纺纱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螺纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "纺锤",
+                    "icon": false
+                },
+                {
+                    "wordId": "纱线",
+                    "icon": false
+                },
+                {
+                    "wordId": "线轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "纤维",
+                    "icon": false
+                },
+                {
+                    "wordId": "加撚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "女士内衣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "文胸",
+                    "icon": false
+                },
+                {
+                    "wordId": "内裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧身胸衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "吊带衫",
+                    "icon": false
+                },
+                {
+                    "wordId": "袜类",
+                    "icon": false
+                },
+                {
+                    "wordId": "短款文胸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "偏蓝的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "靛蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "天蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "钴蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "青色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "围栏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树篱",
+                    "icon": false
+                },
+                {
+                    "wordId": "木栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "栏杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "屏障",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "探测器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "定位器",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷达",
+                    "icon": false
+                },
+                {
+                    "wordId": "声纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭射雷达",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梨果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苹果",
+                    "icon": false
+                },
+                {
+                    "wordId": "梨",
+                    "icon": false
+                },
+                {
+                    "wordId": "榅桲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "莫吉托",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薄荷",
+                    "icon": false
+                },
+                {
+                    "wordId": "青柠",
+                    "icon": false
+                },
+                {
+                    "wordId": "朗姆酒",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "榅桲",
+        "雅加达",
+        "手枪",
+        "弩",
+        "朗姆酒",
+        "加撚",
+        "大阪",
+        "武器",
+        "天蓝",
+        "战斧",
+        "靛蓝",
+        "梨",
+        "青色",
+        "青柠",
+        "回旋镖",
+        "狡猾的",
+        "浣熊",
+        "德黑兰",
+        "喜鹊",
+        "栏杆",
+        "纺纱",
+        "纺锤",
+        "文胸",
+        "毒蛇",
+        "匕首",
+        "狐狸",
+        "树篱",
+        "短款文胸",
+        "霰弹枪",
+        "北京",
+        "吊带衫",
+        "梨果",
+        "内裤",
+        "袜类",
+        "探测器",
+        "钴蓝",
+        "圣地亚哥",
+        "木栅栏",
+        "薄荷",
+        "苹果",
+        "镭射雷达",
+        "线轴"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "螺纹",
+                "乌鸦",
+                "迈阿密",
+                "莫吉托"
+            ]
+        },
+        {
+            "cards": [
+                "女士内衣",
+                "纤维",
+                "纱线",
+                "手榴弹",
+                "声纳"
+            ]
+        },
+        {
+            "cards": [
+                "定位器",
+                "围栏",
+                "城市",
+                "老鼠",
+                "加农炮",
+                "紧身胸衣"
+            ]
+        },
+        {
+            "cards": [
+                "雷达",
+                "上海",
+                "屏障",
+                "德里",
+                "黄鼠狼",
+                "猴子",
+                "偏蓝的"
+            ]
+        }
+    ]
+}

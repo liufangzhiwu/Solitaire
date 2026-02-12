@@ -1,0 +1,217 @@
+{
+    "levelId": 272,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "餐具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "勺子",
+                    "icon": true
+                },
+                {
+                    "wordId": "叉子",
+                    "icon": true
+                },
+                {
+                    "wordId": "刀子",
+                    "icon": true
+                },
+                {
+                    "wordId": "锅铲",
+                    "icon": true
+                },
+                {
+                    "wordId": "汤勺",
+                    "icon": true
+                },
+                {
+                    "wordId": "打蛋器",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹钳",
+                    "icon": true
+                },
+                {
+                    "wordId": "削皮器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "可移动家俱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "扶手椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "衣柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "凳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "书桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "餐具柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "梳妆台",
+                    "icon": true
+                },
+                {
+                    "wordId": "长沙发",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "新手",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "初学者",
+                    "icon": false
+                },
+                {
+                    "wordId": "新来者",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜鸟",
+                    "icon": false
+                },
+                {
+                    "wordId": "新生",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "降雨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雨夹雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛毛雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风",
+                    "icon": false
+                },
+                {
+                    "wordId": "降雨量",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档夹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "档",
+                    "icon": false
+                },
+                {
+                    "wordId": "文档",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸张",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "含糖的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "糖渍的",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜如蜜的",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖浆般的",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "可移动家俱",
+        "餐具柜",
+        "初学者",
+        "甜如蜜的",
+        "凳子",
+        "衣柜",
+        "夹钳",
+        "锅铲",
+        "暴风",
+        "档",
+        "书桌",
+        "含糖的",
+        "新来者",
+        "汤勺",
+        "文档",
+        "餐具",
+        "新生",
+        "纸张",
+        "糖浆般的",
+        "长沙发",
+        "降雨量",
+        "菜鸟",
+        "打蛋器",
+        "削皮器"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "糖渍的",
+                "雨夹雪",
+                "降雨"
+            ]
+        },
+        {
+            "cards": [
+                "扶手椅",
+                "新手",
+                "叉子",
+                "档夹"
+            ]
+        },
+        {
+            "cards": [
+                "刀子",
+                "梳妆台",
+                "勺子",
+                "书柜",
+                "毛毛雨"
+            ]
+        }
+    ]
+}

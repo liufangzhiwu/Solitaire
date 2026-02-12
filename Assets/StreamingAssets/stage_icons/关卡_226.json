@@ -1,0 +1,217 @@
+{
+    "levelId": 226,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "出版",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "印刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "发布",
+                    "icon": false
+                },
+                {
+                    "wordId": "推出",
+                    "icon": false
+                },
+                {
+                    "wordId": "版次",
+                    "icon": false
+                },
+                {
+                    "wordId": "版本",
+                    "icon": false
+                },
+                {
+                    "wordId": "草稿",
+                    "icon": false
+                },
+                {
+                    "wordId": "副本",
+                    "icon": false
+                },
+                {
+                    "wordId": "读者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国家",
+                    "icon": false
+                },
+                {
+                    "wordId": "州",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹰",
+                    "icon": false
+                },
+                {
+                    "wordId": "国会大厦",
+                    "icon": false
+                },
+                {
+                    "wordId": "自由女神像",
+                    "icon": false
+                },
+                {
+                    "wordId": "条纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "星星",
+                    "icon": false
+                },
+                {
+                    "wordId": "公民",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "作家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乔叟",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱伦·坡",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪莱",
+                    "icon": false
+                },
+                {
+                    "wordId": "雨果",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "柳丁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柳丁瓣",
+                    "icon": true
+                },
+                {
+                    "wordId": "橙汁",
+                    "icon": true
+                },
+                {
+                    "wordId": "柳丁皮",
+                    "icon": true
+                },
+                {
+                    "wordId": "柳丁树",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "酸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "抗坏血酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "柠檬酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳酸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卡普里沙拉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马苏里拉乳酪",
+                    "icon": true
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": true
+                },
+                {
+                    "wordId": "罗勒",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "推出",
+        "番茄",
+        "柳丁皮",
+        "版本",
+        "橙汁",
+        "柳丁瓣",
+        "卡普里沙拉",
+        "公民",
+        "草稿",
+        "版次",
+        "国家",
+        "州",
+        "国会大厦",
+        "柳丁",
+        "碳酸",
+        "柠檬酸",
+        "条纹",
+        "爱伦·坡",
+        "雪莱",
+        "罗勒",
+        "雨果",
+        "马苏里拉乳酪",
+        "抗坏血酸",
+        "出版"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "自由女神像",
+                "柳丁树",
+                "星星"
+            ]
+        },
+        {
+            "cards": [
+                "作家",
+                "乔叟",
+                "美国",
+                "印刷"
+            ]
+        },
+        {
+            "cards": [
+                "发布",
+                "鹰",
+                "酸",
+                "副本",
+                "读者"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "levelId": 270,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "美食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔可",
+                    "icon": false
+                },
+                {
+                    "wordId": "寿司",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖喱",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙海鲜饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊旋转烤肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉汁乳酪薯条",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤肉串",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤干酪辣味玉米片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "方言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴伐利亚方言",
+                    "icon": false
+                },
+                {
+                    "wordId": "加泰罗尼亚语",
+                    "icon": false
+                },
+                {
+                    "wordId": "伦敦方言",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴斯克语",
+                    "icon": false
+                },
+                {
+                    "wordId": "利物浦方言",
+                    "icon": false
+                },
+                {
+                    "wordId": "西西里方言",
+                    "icon": false
+                },
+                {
+                    "wordId": "孟加拉语",
+                    "icon": false
+                },
+                {
+                    "wordId": "加利西亚语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "建筑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "城堡",
+                    "icon": true
+                },
+                {
+                    "wordId": "神社",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "谷仓",
+                    "icon": true
+                },
+                {
+                    "wordId": "清真寺",
+                    "icon": true
+                },
+                {
+                    "wordId": "堡垒",
+                    "icon": true
+                },
+                {
+                    "wordId": "庄园",
+                    "icon": true
+                },
+                {
+                    "wordId": "别墅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "风暴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙卷风",
+                    "icon": false
+                },
+                {
+                    "wordId": "气旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "西罗科风",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风",
+                    "icon": false
+                },
+                {
+                    "wordId": "台风",
+                    "icon": false
+                },
+                {
+                    "wordId": "大风暴",
+                    "icon": false
+                },
+                {
+                    "wordId": "季风",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蓖麻毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "氰化物",
+                    "icon": false
+                },
+                {
+                    "wordId": "士的宁",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉毒毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄曲霉素",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "智能手表",
+                    "icon": true
+                },
+                {
+                    "wordId": "VR头显",
+                    "icon": true
+                },
+                {
+                    "wordId": "扫地机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "卡拉OK麦克风",
+                    "icon": true
+                },
+                {
+                    "wordId": "相机",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳机",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "两栖动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "青蛙",
+                    "icon": false
+                },
+                {
+                    "wordId": "蟾蜍",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝾螈",
+                    "icon": false
+                },
+                {
+                    "wordId": "水狗",
+                    "icon": false
+                },
+                {
+                    "wordId": "特里同",
+                    "icon": false
+                },
+                {
+                    "wordId": "美西螈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "如尼文",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔符",
+                    "icon": false
+                },
+                {
+                    "wordId": "代币",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽记",
+                    "icon": false
+                },
+                {
+                    "wordId": "标识",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "寓言作家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伊索",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗洛里安",
+                    "icon": false
+                },
+                {
+                    "wordId": "莱辛",
+                    "icon": false
+                },
+                {
+                    "wordId": "费德鲁斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "克雷洛夫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卷轴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手稿",
+                    "icon": false
+                },
+                {
+                    "wordId": "法典",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸莎草",
+                    "icon": false
+                },
+                {
+                    "wordId": "犊皮纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "对开本",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "雕刻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石雕",
+                    "icon": false
+                },
+                {
+                    "wordId": "塑形",
+                    "icon": false
+                },
+                {
+                    "wordId": "铸造",
+                    "icon": false
+                },
+                {
+                    "wordId": "凿刻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米",
+                    "icon": false
+                },
+                {
+                    "wordId": "秒",
+                    "icon": false
+                },
+                {
+                    "wordId": "安培",
+                    "icon": false
+                },
+                {
+                    "wordId": "开尔文",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "疾病",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麻疹",
+                    "icon": false
+                },
+                {
+                    "wordId": "腮腺炎",
+                    "icon": false
+                },
+                {
+                    "wordId": "脊髓灰质炎",
+                    "icon": false
+                },
+                {
+                    "wordId": "风疹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "摩擦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "静摩擦",
+                    "icon": false
+                },
+                {
+                    "wordId": "动摩擦",
+                    "icon": false
+                },
+                {
+                    "wordId": "滚动摩擦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巫师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梅林",
+                    "icon": false
+                },
+                {
+                    "wordId": "甘道夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑞达加斯特",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "凿刻",
+        "米",
+        "卡拉OK麦克风",
+        "石雕",
+        "神社",
+        "巫师",
+        "脊髓灰质炎",
+        "腮腺炎",
+        "城堡",
+        "沙林",
+        "莱辛",
+        "秒",
+        "耳机",
+        "蟾蜍",
+        "西西里方言",
+        "加利西亚语",
+        "黄曲霉素",
+        "寿司",
+        "大风暴",
+        "标识",
+        "塔可",
+        "两栖动物",
+        "烤干酪辣味玉米片",
+        "巴伐利亚方言",
+        "扫地机器人",
+        "清真寺",
+        "安培",
+        "费德鲁斯",
+        "VR头显",
+        "摩擦",
+        "气旋",
+        "加泰罗尼亚语",
+        "宝塔",
+        "西罗科风",
+        "谷仓",
+        "暴风雪",
+        "滚动摩擦",
+        "弗洛里安",
+        "孟加拉语",
+        "青蛙",
+        "甘道夫",
+        "庄园",
+        "风暴",
+        "代币",
+        "卷轴",
+        "肉汁乳酪薯条",
+        "如尼文",
+        "瑞达加斯特",
+        "塑形",
+        "蝾螈",
+        "法典",
+        "西班牙海鲜饭",
+        "特里同",
+        "麻疹",
+        "士的宁",
+        "单位",
+        "龙卷风",
+        "水狗",
+        "梅林",
+        "对开本",
+        "犊皮纸",
+        "美食",
+        "暴风"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "徽记",
+                "方言",
+                "相机",
+                "季风",
+                "克雷洛夫"
+            ]
+        },
+        {
+            "cards": [
+                "毒素",
+                "堡垒",
+                "咖喱",
+                "烤肉串",
+                "风疹",
+                "纸莎草"
+            ]
+        },
+        {
+            "cards": [
+                "魔符",
+                "建筑",
+                "巴斯克语",
+                "蓖麻毒素",
+                "别墅",
+                "伊索",
+                "动摩擦"
+            ]
+        },
+        {
+            "cards": [
+                "疾病",
+                "台风",
+                "美西螈",
+                "手稿",
+                "伦敦方言",
+                "铸造",
+                "希腊旋转烤肉",
+                "开尔文"
+            ]
+        },
+        {
+            "cards": [
+                "氰化物",
+                "寓言作家",
+                "小工具",
+                "智能手表",
+                "符号",
+                "肉毒毒素",
+                "利物浦方言",
+                "静摩擦",
+                "雕刻"
+            ]
+        }
+    ]
+}

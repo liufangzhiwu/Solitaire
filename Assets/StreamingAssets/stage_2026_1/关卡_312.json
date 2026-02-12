@@ -1,0 +1,217 @@
+{
+    "levelId": 312,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "两栖动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "青蛙",
+                    "icon": false
+                },
+                {
+                    "wordId": "蟾蜍",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝾螈",
+                    "icon": false
+                },
+                {
+                    "wordId": "美西螈",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝌蚪",
+                    "icon": false
+                },
+                {
+                    "wordId": "小蝌蚪",
+                    "icon": false
+                },
+                {
+                    "wordId": "树蛙",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛蛙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "形状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "球体",
+                    "icon": false
+                },
+                {
+                    "wordId": "心形",
+                    "icon": false
+                },
+                {
+                    "wordId": "星形",
+                    "icon": false
+                },
+                {
+                    "wordId": "椭圆形",
+                    "icon": false
+                },
+                {
+                    "wordId": "六边形",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆柱体",
+                    "icon": false
+                },
+                {
+                    "wordId": "菱形",
+                    "icon": false
+                },
+                {
+                    "wordId": "立方体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "悬崖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "峭壁",
+                    "icon": true
+                },
+                {
+                    "wordId": "陡崖",
+                    "icon": true
+                },
+                {
+                    "wordId": "孤山",
+                    "icon": true
+                },
+                {
+                    "wordId": "险岩",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "寓言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伊索",
+                    "icon": false
+                },
+                {
+                    "wordId": "佩罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "格林",
+                    "icon": false
+                },
+                {
+                    "wordId": "安徒生",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "复活节",
+                    "icon": true
+                },
+                {
+                    "wordId": "胡里节",
+                    "icon": true
+                },
+                {
+                    "wordId": "排灯节",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "母音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "A",
+                    "icon": false
+                },
+                {
+                    "wordId": "E",
+                    "icon": false
+                },
+                {
+                    "wordId": "I",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "孤山",
+        "寓言",
+        "胡里节",
+        "E",
+        "峭壁",
+        "菱形",
+        "安徒生",
+        "六边形",
+        "牛蛙",
+        "圆柱体",
+        "树蛙",
+        "球体",
+        "小蝌蚪",
+        "格林",
+        "美西螈",
+        "排灯节",
+        "心形",
+        "I",
+        "两栖动物",
+        "蝾螈",
+        "节日",
+        "复活节",
+        "蝌蚪",
+        "星形"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "A",
+                "险岩",
+                "青蛙"
+            ]
+        },
+        {
+            "cards": [
+                "悬崖",
+                "母音",
+                "椭圆形",
+                "形状"
+            ]
+        },
+        {
+            "cards": [
+                "立方体",
+                "蟾蜍",
+                "伊索",
+                "陡崖",
+                "佩罗"
+            ]
+        }
+    ]
+}

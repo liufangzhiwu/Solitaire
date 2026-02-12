@@ -1,0 +1,553 @@
+{
+    "levelId": 371,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "桌子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平台桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "三脚桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "书桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "控制台",
+                    "icon": true
+                },
+                {
+                    "wordId": "基座桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "柜台",
+                    "icon": true
+                },
+                {
+                    "wordId": "讲台",
+                    "icon": true
+                },
+                {
+                    "wordId": "梳妆台",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "奥秘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愚者",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔术师",
+                    "icon": false
+                },
+                {
+                    "wordId": "女皇",
+                    "icon": false
+                },
+                {
+                    "wordId": "恋人",
+                    "icon": false
+                },
+                {
+                    "wordId": "正义",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐士",
+                    "icon": false
+                },
+                {
+                    "wordId": "战车",
+                    "icon": false
+                },
+                {
+                    "wordId": "力量",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旋转",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风车",
+                    "icon": false
+                },
+                {
+                    "wordId": "地球",
+                    "icon": false
+                },
+                {
+                    "wordId": "风扇",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙卷风",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸风车",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮子",
+                    "icon": false
+                },
+                {
+                    "wordId": "齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "涡轮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "寒冷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冰",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪人",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰雹",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": false
+                },
+                {
+                    "wordId": "冬天",
+                    "icon": false
+                },
+                {
+                    "wordId": "寒颤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "射箭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弓箭",
+                    "icon": true
+                },
+                {
+                    "wordId": "箭羽",
+                    "icon": true
+                },
+                {
+                    "wordId": "靶",
+                    "icon": true
+                },
+                {
+                    "wordId": "箭袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "弓弦",
+                    "icon": true
+                },
+                {
+                    "wordId": "箭尾扣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "间隔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "片刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "秒钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "分钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "小时",
+                    "icon": false
+                },
+                {
+                    "wordId": "一刻钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "时段",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工作日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星期一",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期二",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期四",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期五",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期六",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期日",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肉类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火腿",
+                    "icon": false
+                },
+                {
+                    "wordId": "猪肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "羊肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "小牛肉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "光源",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "霓虹灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "LED灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "镭射",
+                    "icon": true
+                },
+                {
+                    "wordId": "光子",
+                    "icon": true
+                },
+                {
+                    "wordId": "等离子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "电影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "动作片",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜剧片",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧情片",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊悚片",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐怖片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "咸味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼泪",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "盐水",
+                    "icon": false
+                },
+                {
+                    "wordId": "大海",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "语法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "名词",
+                    "icon": false
+                },
+                {
+                    "wordId": "动词",
+                    "icon": false
+                },
+                {
+                    "wordId": "代词",
+                    "icon": false
+                },
+                {
+                    "wordId": "副词",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "军衔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "列兵",
+                    "icon": false
+                },
+                {
+                    "wordId": "下士",
+                    "icon": false
+                },
+                {
+                    "wordId": "中士",
+                    "icon": false
+                },
+                {
+                    "wordId": "上尉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "分析",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "研究",
+                    "icon": false
+                },
+                {
+                    "wordId": "扫描",
+                    "icon": false
+                },
+                {
+                    "wordId": "评估",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "性别",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "男性",
+                    "icon": false
+                },
+                {
+                    "wordId": "女性",
+                    "icon": false
+                },
+                {
+                    "wordId": "其他",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "风扇",
+        "柜台",
+        "愚者",
+        "动作片",
+        "评估",
+        "男性",
+        "上尉",
+        "扫描",
+        "星期二",
+        "下士",
+        "研究",
+        "雪人",
+        "语法",
+        "小牛肉",
+        "靶",
+        "火腿",
+        "冰柱",
+        "平台桌",
+        "等离子",
+        "眼泪",
+        "盐水",
+        "梳妆台",
+        "羊肉",
+        "剧情片",
+        "惊悚片",
+        "箭羽",
+        "镭射",
+        "三脚桌",
+        "时段",
+        "涡轮",
+        "隐士",
+        "星期一",
+        "冰雹",
+        "战车",
+        "性别",
+        "海洋",
+        "旋转",
+        "星期日",
+        "冬天",
+        "喜剧片",
+        "秒钟",
+        "恋人",
+        "冰",
+        "肉类",
+        "名词",
+        "箭袋",
+        "讲台",
+        "女性",
+        "猪肉",
+        "控制台",
+        "大海",
+        "列兵",
+        "风车",
+        "军衔",
+        "雪",
+        "射箭",
+        "力量",
+        "工作日",
+        "一刻钟",
+        "齿轮",
+        "霓虹灯",
+        "箭尾扣",
+        "恐怖片"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "中士",
+                "寒冷",
+                "轮子",
+                "龙卷风",
+                "弓弦"
+            ]
+        },
+        {
+            "cards": [
+                "女皇",
+                "咸味",
+                "副词",
+                "分钟",
+                "间隔",
+                "魔术师"
+            ]
+        },
+        {
+            "cards": [
+                "代词",
+                "寒颤",
+                "其他",
+                "小时",
+                "纸风车",
+                "LED灯",
+                "冰川"
+            ]
+        },
+        {
+            "cards": [
+                "奥秘",
+                "星期六",
+                "星期四",
+                "牛肉",
+                "动词",
+                "地球",
+                "基座桌",
+                "光子"
+            ]
+        },
+        {
+            "cards": [
+                "星期五",
+                "桌子",
+                "弓箭",
+                "书桌",
+                "光源",
+                "分析",
+                "电影",
+                "正义",
+                "片刻"
+            ]
+        }
+    ]
+}

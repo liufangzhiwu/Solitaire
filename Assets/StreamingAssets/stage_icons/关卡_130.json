@@ -1,0 +1,369 @@
+{
+    "levelId": 130,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "人声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "男高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "女高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男中音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "假声",
+                    "icon": false
+                },
+                {
+                    "wordId": "音色",
+                    "icon": false
+                },
+                {
+                    "wordId": "音域",
+                    "icon": false
+                },
+                {
+                    "wordId": "音高",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "真菌学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "真菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "菌丝体",
+                    "icon": false
+                },
+                {
+                    "wordId": "孢子",
+                    "icon": false
+                },
+                {
+                    "wordId": "菌柄",
+                    "icon": false
+                },
+                {
+                    "wordId": "菌盖",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛肝菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "伞菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "菌丝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "跑步",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冲刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "马拉松",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "速度",
+                    "icon": false
+                },
+                {
+                    "wordId": "跑道",
+                    "icon": false
+                },
+                {
+                    "wordId": "跨栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "运动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "座位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扶手椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "摇椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "凳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": true
+                },
+                {
+                    "wordId": "脚凳",
+                    "icon": true
+                },
+                {
+                    "wordId": "豆袋椅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "肢体末端",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "利爪",
+                    "icon": false
+                },
+                {
+                    "wordId": "爪子",
+                    "icon": false
+                },
+                {
+                    "wordId": "蹄",
+                    "icon": false
+                },
+                {
+                    "wordId": "螯",
+                    "icon": false
+                },
+                {
+                    "wordId": "爪",
+                    "icon": false
+                },
+                {
+                    "wordId": "距",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "屋顶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天花板",
+                    "icon": false
+                },
+                {
+                    "wordId": "穹顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "阁楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "复折屋顶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "球茎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洋葱",
+                    "icon": true
+                },
+                {
+                    "wordId": "大蒜",
+                    "icon": true
+                },
+                {
+                    "wordId": "郁金香",
+                    "icon": true
+                },
+                {
+                    "wordId": "水仙花",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "闪亮的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "有光泽的",
+                    "icon": false
+                },
+                {
+                    "wordId": "明亮的",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪光的",
+                    "icon": false
+                },
+                {
+                    "wordId": "抛光的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "区域",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国家",
+                    "icon": false
+                },
+                {
+                    "wordId": "地区",
+                    "icon": false
+                },
+                {
+                    "wordId": "省份",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鬼魂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "出没",
+                    "icon": false
+                },
+                {
+                    "wordId": "出现",
+                    "icon": false
+                },
+                {
+                    "wordId": "消失",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "赛跑",
+        "速度",
+        "运动",
+        "菌丝",
+        "省份",
+        "闪亮的",
+        "地区",
+        "慢跑",
+        "明亮的",
+        "郁金香",
+        "牛肝菌",
+        "菌盖",
+        "跑步",
+        "真菌学",
+        "男中音",
+        "真菌",
+        "天花板",
+        "音色",
+        "区域",
+        "菌丝体",
+        "伞菌",
+        "摇椅",
+        "男高音",
+        "鬼魂",
+        "菌柄",
+        "豆袋椅",
+        "长凳",
+        "假声",
+        "水仙花",
+        "蹄",
+        "脚凳",
+        "出没",
+        "扶手椅",
+        "音高",
+        "穹顶",
+        "距",
+        "螯",
+        "利爪",
+        "阁楼",
+        "男低音",
+        "孢子",
+        "有光泽的"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "跑道",
+                "跨栏",
+                "女高音",
+                "国家"
+            ]
+        },
+        {
+            "cards": [
+                "出现",
+                "复折屋顶",
+                "球茎",
+                "大蒜",
+                "洋葱"
+            ]
+        },
+        {
+            "cards": [
+                "凳子",
+                "马拉松",
+                "屋顶",
+                "肢体末端",
+                "座位",
+                "爪"
+            ]
+        },
+        {
+            "cards": [
+                "人声",
+                "抛光的",
+                "爪子",
+                "音域",
+                "闪光的",
+                "消失",
+                "冲刺"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "levelId": 152,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "护士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "检查",
+                    "icon": false
+                },
+                {
+                    "wordId": "医生",
+                    "icon": false
+                },
+                {
+                    "wordId": "助手",
+                    "icon": false
+                },
+                {
+                    "wordId": "治疗者",
+                    "icon": false
+                },
+                {
+                    "wordId": "绷带",
+                    "icon": false
+                },
+                {
+                    "wordId": "手套",
+                    "icon": false
+                },
+                {
+                    "wordId": "注射器",
+                    "icon": false
+                },
+                {
+                    "wordId": "实验室",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "调音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "演奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "哼唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "唱歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "作曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "重复",
+                    "icon": false
+                },
+                {
+                    "wordId": "录制",
+                    "icon": false
+                },
+                {
+                    "wordId": "编曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "共鸣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "散步",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "运动鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "狗绳",
+                    "icon": true
+                },
+                {
+                    "wordId": "太阳镜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "流动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "河流",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间",
+                    "icon": false
+                },
+                {
+                    "wordId": "空气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火焰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打火机",
+                    "icon": true
+                },
+                {
+                    "wordId": "火炬",
+                    "icon": true
+                },
+                {
+                    "wordId": "炉灶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "黄昏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "暮光",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴影",
+                    "icon": false
+                },
+                {
+                    "wordId": "日落",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "作曲",
+        "狗绳",
+        "助手",
+        "太阳镜",
+        "医生",
+        "暮光",
+        "实验室",
+        "手套",
+        "时间",
+        "熔岩",
+        "火焰",
+        "重复",
+        "河流",
+        "日落",
+        "运动鞋",
+        "演奏",
+        "绷带",
+        "调音",
+        "黄昏",
+        "水瓶",
+        "检查",
+        "炉灶",
+        "注射器",
+        "打火机"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "编曲",
+                "散步",
+                "火炬"
+            ]
+        },
+        {
+            "cards": [
+                "录制",
+                "唱歌",
+                "阴影",
+                "治疗者"
+            ]
+        },
+        {
+            "cards": [
+                "流动",
+                "空气",
+                "共鸣",
+                "哼唱",
+                "护士"
+            ]
+        }
+    ]
+}

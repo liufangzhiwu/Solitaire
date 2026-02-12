@@ -1,0 +1,369 @@
+{
+    "levelId": 98,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "植物结构",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树干",
+                    "icon": true
+                },
+                {
+                    "wordId": "根",
+                    "icon": true
+                },
+                {
+                    "wordId": "嫩芽",
+                    "icon": true
+                },
+                {
+                    "wordId": "种子",
+                    "icon": true
+                },
+                {
+                    "wordId": "叶子",
+                    "icon": true
+                },
+                {
+                    "wordId": "树枝",
+                    "icon": true
+                },
+                {
+                    "wordId": "花瓣",
+                    "icon": true
+                },
+                {
+                    "wordId": "花蕾",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "休闲娱乐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "多米诺骨牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "宾果游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻将",
+                    "icon": false
+                },
+                {
+                    "wordId": "大富翁",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞镖",
+                    "icon": false
+                },
+                {
+                    "wordId": "优诺牌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "方位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "前",
+                    "icon": false
+                },
+                {
+                    "wordId": "左",
+                    "icon": false
+                },
+                {
+                    "wordId": "右",
+                    "icon": false
+                },
+                {
+                    "wordId": "东",
+                    "icon": false
+                },
+                {
+                    "wordId": "北",
+                    "icon": false
+                },
+                {
+                    "wordId": "下",
+                    "icon": false
+                },
+                {
+                    "wordId": "上",
+                    "icon": false
+                },
+                {
+                    "wordId": "后",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "衣物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "套头衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "女式衬衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛仔裤",
+                    "icon": true
+                },
+                {
+                    "wordId": "半身裙",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "奥林匹斯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山",
+                    "icon": false
+                },
+                {
+                    "wordId": "众神",
+                    "icon": false
+                },
+                {
+                    "wordId": "宙斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "不朽的",
+                    "icon": false
+                },
+                {
+                    "wordId": "神话",
+                    "icon": false
+                },
+                {
+                    "wordId": "万神殿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "眼镜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "太阳镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "老花镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "单片眼镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "护目镜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "热带",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棕榈树",
+                    "icon": false
+                },
+                {
+                    "wordId": "榴莲",
+                    "icon": false
+                },
+                {
+                    "wordId": "珊瑚",
+                    "icon": false
+                },
+                {
+                    "wordId": "椰子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "庭院",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙坑",
+                    "icon": false
+                },
+                {
+                    "wordId": "跷跷板",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑梯",
+                    "icon": false
+                },
+                {
+                    "wordId": "秋千",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "河流",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尼罗河",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄河",
+                    "icon": false
+                },
+                {
+                    "wordId": "长江",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "职责",
+                    "icon": false
+                },
+                {
+                    "wordId": "会议",
+                    "icon": false
+                },
+                {
+                    "wordId": "专案",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "护目镜",
+        "滑梯",
+        "树干",
+        "神话",
+        "榴莲",
+        "上",
+        "单片眼镜",
+        "下",
+        "种子",
+        "花瓣",
+        "热带",
+        "根",
+        "专案",
+        "万神殿",
+        "半身裙",
+        "大富翁",
+        "棕榈树",
+        "黄河",
+        "花蕾",
+        "工作",
+        "椰子",
+        "树枝",
+        "职责",
+        "珊瑚",
+        "拼图",
+        "左",
+        "女式衬衫",
+        "右",
+        "太阳镜",
+        "套头衫",
+        "跷跷板",
+        "长江",
+        "不朽的",
+        "奥林匹斯",
+        "眼镜",
+        "前",
+        "山",
+        "东",
+        "植物结构",
+        "后",
+        "夹克",
+        "宙斯"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "河流",
+                "飞镖",
+                "多米诺骨牌",
+                "牛仔裤"
+            ]
+        },
+        {
+            "cards": [
+                "毛衣",
+                "北",
+                "衣物",
+                "宾果游戏",
+                "叶子"
+            ]
+        },
+        {
+            "cards": [
+                "休闲娱乐",
+                "飞盘",
+                "尼罗河",
+                "方位",
+                "优诺牌",
+                "众神"
+            ]
+        },
+        {
+            "cards": [
+                "会议",
+                "庭院",
+                "老花镜",
+                "麻将",
+                "秋千",
+                "嫩芽",
+                "沙坑"
+            ]
+        }
+    ]
+}

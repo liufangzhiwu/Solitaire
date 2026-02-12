@@ -1,0 +1,369 @@
+{
+    "levelId": 324,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "学校",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小学",
+                    "icon": false
+                },
+                {
+                    "wordId": "初中",
+                    "icon": false
+                },
+                {
+                    "wordId": "高中",
+                    "icon": false
+                },
+                {
+                    "wordId": "初中生",
+                    "icon": false
+                },
+                {
+                    "wordId": "高中生",
+                    "icon": false
+                },
+                {
+                    "wordId": "公立学校",
+                    "icon": false
+                },
+                {
+                    "wordId": "私立学校",
+                    "icon": false
+                },
+                {
+                    "wordId": "特许学校",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "迷宫结构",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "走廊",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "死胡同",
+                    "icon": false
+                },
+                {
+                    "wordId": "交叉口",
+                    "icon": false
+                },
+                {
+                    "wordId": "弯道",
+                    "icon": false
+                },
+                {
+                    "wordId": "歧路",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛头怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "入口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "缎带",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缎面",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪纺",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅绒",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧根纱",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔夫绸",
+                    "icon": false
+                },
+                {
+                    "wordId": "绉纱",
+                    "icon": false
+                },
+                {
+                    "wordId": "方格布",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄纱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜡烛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜡",
+                    "icon": false
+                },
+                {
+                    "wordId": "烛芯",
+                    "icon": false
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                },
+                {
+                    "wordId": "细蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "香味",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔化的蜡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法棍",
+                    "icon": true
+                },
+                {
+                    "wordId": "巧巴达",
+                    "icon": true
+                },
+                {
+                    "wordId": "皮塔饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑麦面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "肖蒂面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "布里欧修",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "气体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氩气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氖气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氦气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氙气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄昏",
+                    "icon": false
+                },
+                {
+                    "wordId": "夜晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "白天",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "泳池",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浅水区",
+                    "icon": false
+                },
+                {
+                    "wordId": "泳道",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳水池",
+                    "icon": false
+                },
+                {
+                    "wordId": "氯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瑜伽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "体式",
+                    "icon": false
+                },
+                {
+                    "wordId": "古鲁",
+                    "icon": false
+                },
+                {
+                    "wordId": "手印",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "养生",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "健康",
+                    "icon": false
+                },
+                {
+                    "wordId": "美丽",
+                    "icon": false
+                },
+                {
+                    "wordId": "免疫力",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "公立学校",
+        "牛头怪",
+        "火焰",
+        "特许学校",
+        "绉纱",
+        "薄纱",
+        "高中生",
+        "肖蒂面包",
+        "烛芯",
+        "高中",
+        "免疫力",
+        "健康",
+        "气体",
+        "夜晚",
+        "方格布",
+        "美丽",
+        "手印",
+        "塔夫绸",
+        "学校",
+        "氖气",
+        "氦气",
+        "巧巴达",
+        "通道",
+        "欧根纱",
+        "浅水区",
+        "白天",
+        "小学",
+        "天鹅绒",
+        "熔化的蜡",
+        "面包",
+        "私立学校",
+        "氯",
+        "死胡同",
+        "氙气",
+        "布里欧修",
+        "瑜伽",
+        "黑麦面包",
+        "古鲁",
+        "泳道",
+        "初中生",
+        "泳池",
+        "跳水池"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "初中",
+                "歧路",
+                "入口",
+                "走廊"
+            ]
+        },
+        {
+            "cards": [
+                "蜡",
+                "迷宫结构",
+                "缎带",
+                "雪纺",
+                "交叉口"
+            ]
+        },
+        {
+            "cards": [
+                "养生",
+                "时间",
+                "弯道",
+                "香味",
+                "体式",
+                "氩气"
+            ]
+        },
+        {
+            "cards": [
+                "皮塔饼",
+                "蜡烛",
+                "黄昏",
+                "细蜡烛",
+                "缎面",
+                "法棍",
+                "黎明"
+            ]
+        }
+    ]
+}

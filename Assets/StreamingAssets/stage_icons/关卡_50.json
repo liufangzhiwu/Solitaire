@@ -1,0 +1,369 @@
+{
+    "levelId": 50,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "修理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "维修",
+                    "icon": false
+                },
+                {
+                    "wordId": "修复",
+                    "icon": false
+                },
+                {
+                    "wordId": "重置",
+                    "icon": false
+                },
+                {
+                    "wordId": "修补",
+                    "icon": false
+                },
+                {
+                    "wordId": "翻新",
+                    "icon": false
+                },
+                {
+                    "wordId": "重制",
+                    "icon": false
+                },
+                {
+                    "wordId": "补救",
+                    "icon": false
+                },
+                {
+                    "wordId": "重建",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蛇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毒蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蟒蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼镜蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "水蚺",
+                    "icon": false
+                },
+                {
+                    "wordId": "王蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁头蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "太攀蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "爬行动物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "姜",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏红花",
+                    "icon": false
+                },
+                {
+                    "wordId": "红椒粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛至",
+                    "icon": false
+                },
+                {
+                    "wordId": "孜然",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "马科动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "驴",
+                    "icon": true
+                },
+                {
+                    "wordId": "骡",
+                    "icon": true
+                },
+                {
+                    "wordId": "野马",
+                    "icon": true
+                },
+                {
+                    "wordId": "马",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "小马",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "裤子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛仔裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "打底裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢跑裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "斜纹棉布裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "阔腿裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "西裤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "帐篷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圆锥帐篷",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙古包",
+                    "icon": false
+                },
+                {
+                    "wordId": "天篷",
+                    "icon": false
+                },
+                {
+                    "wordId": "庇护所",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气候",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "干旱",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿润",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋性",
+                    "icon": false
+                },
+                {
+                    "wordId": "热带",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时钟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "数字钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "日晷",
+                    "icon": false
+                },
+                {
+                    "wordId": "石英钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "摆钟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "皮革",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "磨砂皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "麂皮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "油",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橄榄",
+                    "icon": true
+                },
+                {
+                    "wordId": "棕榈",
+                    "icon": true
+                },
+                {
+                    "wordId": "椰子",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "打底裤",
+        "重制",
+        "裤子",
+        "维修",
+        "斜纹棉布裤",
+        "牛皮",
+        "毒蛇",
+        "摆钟",
+        "湿润",
+        "罗勒",
+        "蒙古包",
+        "阔腿裤",
+        "胡椒",
+        "马",
+        "爬行动物",
+        "干旱",
+        "皮革",
+        "藏红花",
+        "红椒粉",
+        "野马",
+        "重置",
+        "重建",
+        "王蛇",
+        "橄榄",
+        "牛仔裤",
+        "蛇",
+        "水蚺",
+        "孜然",
+        "修复",
+        "日晷",
+        "棕榈",
+        "磨砂皮",
+        "补救",
+        "铁头蛇",
+        "时钟",
+        "丁香",
+        "姜",
+        "天篷",
+        "马科动物",
+        "慢跑裤",
+        "数字钟",
+        "圆锥帐篷"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "翻新",
+                "修理",
+                "庇护所",
+                "香料"
+            ]
+        },
+        {
+            "cards": [
+                "驴",
+                "斑马",
+                "牛至",
+                "海洋性",
+                "修补"
+            ]
+        },
+        {
+            "cards": [
+                "石英钟",
+                "眼镜蛇",
+                "油",
+                "椰子",
+                "太攀蛇",
+                "气候"
+            ]
+        },
+        {
+            "cards": [
+                "帐篷",
+                "麂皮",
+                "热带",
+                "骡",
+                "西裤",
+                "蟒蛇",
+                "小马"
+            ]
+        }
+    ]
+}

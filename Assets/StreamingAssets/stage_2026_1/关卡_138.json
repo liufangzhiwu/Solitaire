@@ -1,0 +1,369 @@
+{
+    "levelId": 138,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "啮齿动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "河狸",
+                    "icon": true
+                },
+                {
+                    "wordId": "老鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "松鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "豪猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "仓鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "土拨鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "跳鼠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "旋律",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "曲调",
+                    "icon": false
+                },
+                {
+                    "wordId": "人声",
+                    "icon": false
+                },
+                {
+                    "wordId": "动机",
+                    "icon": false
+                },
+                {
+                    "wordId": "音高",
+                    "icon": false
+                },
+                {
+                    "wordId": "音程",
+                    "icon": false
+                },
+                {
+                    "wordId": "节奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "序列",
+                    "icon": false
+                },
+                {
+                    "wordId": "速度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "工资",
+                    "icon": false
+                },
+                {
+                    "wordId": "建筑工人",
+                    "icon": false
+                },
+                {
+                    "wordId": "工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "车工",
+                    "icon": false
+                },
+                {
+                    "wordId": "焊工",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥瓦匠",
+                    "icon": false
+                },
+                {
+                    "wordId": "工厂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "可怕的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毛骨悚然的",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐怖的",
+                    "icon": false
+                },
+                {
+                    "wordId": "令人畏惧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊悚的",
+                    "icon": false
+                },
+                {
+                    "wordId": "邪恶的",
+                    "icon": false
+                },
+                {
+                    "wordId": "令人不寒而栗的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "果酱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "果胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "吐司",
+                    "icon": false
+                },
+                {
+                    "wordId": "罐子",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "三明治",
+                    "icon": false
+                },
+                {
+                    "wordId": "馅饼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行李箱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "把手",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉链",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮子",
+                    "icon": false
+                },
+                {
+                    "wordId": "锁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "易碎品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸡蛋",
+                    "icon": true
+                },
+                {
+                    "wordId": "镜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "葡萄酒杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯泡",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "青蛙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蟾蜍",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝌蚪",
+                    "icon": false
+                },
+                {
+                    "wordId": "幼虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "呱呱叫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巴黎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塞纳河",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢浮宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "法国",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "苦味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "芥末",
+                    "icon": false
+                },
+                {
+                    "wordId": "菊苣",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖啡",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "工具",
+        "曲调",
+        "幼虫",
+        "令人畏惧的",
+        "锁",
+        "果酱",
+        "三明治",
+        "啮齿动物",
+        "法国",
+        "音高",
+        "恐怖的",
+        "音程",
+        "龙猫",
+        "馅饼",
+        "拉链",
+        "序列",
+        "毛骨悚然的",
+        "葡萄酒杯",
+        "仓鼠",
+        "鸡蛋",
+        "咖啡",
+        "把手",
+        "令人不寒而栗的",
+        "土拨鼠",
+        "行李箱",
+        "邪恶的",
+        "蝌蚪",
+        "松鼠",
+        "焊工",
+        "安全帽",
+        "菊苣",
+        "灯泡",
+        "动机",
+        "呱呱叫",
+        "易碎品",
+        "老鼠",
+        "轮子",
+        "建筑工人",
+        "工人",
+        "蟾蜍",
+        "人声",
+        "工厂"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "糖",
+                "苦味",
+                "罐子",
+                "卢浮宫"
+            ]
+        },
+        {
+            "cards": [
+                "芥末",
+                "跳鼠",
+                "惊悚的",
+                "塞纳河",
+                "吐司"
+            ]
+        },
+        {
+            "cards": [
+                "工资",
+                "镜子",
+                "车工",
+                "泥瓦匠",
+                "果胶",
+                "节奏"
+            ]
+        },
+        {
+            "cards": [
+                "旋律",
+                "可怕的",
+                "豪猪",
+                "巴黎",
+                "速度",
+                "河狸",
+                "青蛙"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "levelId": 52,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "棒球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "球",
+                    "icon": false
+                },
+                {
+                    "wordId": "球棒",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕手",
+                    "icon": false
+                },
+                {
+                    "wordId": "手套",
+                    "icon": false
+                },
+                {
+                    "wordId": "球衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "投手",
+                    "icon": false
+                },
+                {
+                    "wordId": "垒",
+                    "icon": false
+                },
+                {
+                    "wordId": "好球",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "合奏团体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "六重奏",
+                    "icon": true
+                },
+                {
+                    "wordId": "四重奏",
+                    "icon": true
+                },
+                {
+                    "wordId": "三重奏",
+                    "icon": true
+                },
+                {
+                    "wordId": "二重奏",
+                    "icon": true
+                },
+                {
+                    "wordId": "五重奏",
+                    "icon": true
+                },
+                {
+                    "wordId": "合唱团",
+                    "icon": true
+                },
+                {
+                    "wordId": "七重奏",
+                    "icon": true
+                },
+                {
+                    "wordId": "八重奏",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "烧瓶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "倾倒",
+                    "icon": false
+                },
+                {
+                    "wordId": "装满",
+                    "icon": false
+                },
+                {
+                    "wordId": "稀释",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇晃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梯子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "上升",
+                    "icon": false
+                },
+                {
+                    "wordId": "下降",
+                    "icon": false
+                },
+                {
+                    "wordId": "升高",
+                    "icon": false
+                },
+                {
+                    "wordId": "攀爬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "运气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "机会",
+                    "icon": false
+                },
+                {
+                    "wordId": "天赐之物",
+                    "icon": false
+                },
+                {
+                    "wordId": "好运",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "狂人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "暴怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "天赐之物",
+        "下降",
+        "倾倒",
+        "好运",
+        "狂怒",
+        "五重奏",
+        "攀爬",
+        "装满",
+        "摇晃",
+        "三重奏",
+        "升高",
+        "狂人",
+        "球",
+        "烧瓶",
+        "二重奏",
+        "七重奏",
+        "梯子",
+        "垒",
+        "合唱团",
+        "四重奏",
+        "手套",
+        "暴怒",
+        "八重奏",
+        "六重奏"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "合奏团体",
+                "稀释",
+                "好球"
+            ]
+        },
+        {
+            "cards": [
+                "捕手",
+                "运气",
+                "球衣",
+                "棒球"
+            ]
+        },
+        {
+            "cards": [
+                "投手",
+                "机会",
+                "上升",
+                "球棒",
+                "愤怒"
+            ]
+        }
+    ]
+}

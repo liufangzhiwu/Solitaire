@@ -1,0 +1,369 @@
+{
+    "levelId": 269,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "王权",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "王权标志",
+                    "icon": false
+                },
+                {
+                    "wordId": "小冠冕",
+                    "icon": false
+                },
+                {
+                    "wordId": "头带",
+                    "icon": false
+                },
+                {
+                    "wordId": "权杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝球",
+                    "icon": false
+                },
+                {
+                    "wordId": "王冠",
+                    "icon": false
+                },
+                {
+                    "wordId": "加冕袍",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽章",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谷神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "智神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "灶神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "婚神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "健神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "韶神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "义神星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "无人机",
+                    "icon": true
+                },
+                {
+                    "wordId": "相机",
+                    "icon": true
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": true
+                },
+                {
+                    "wordId": "路由器",
+                    "icon": true
+                },
+                {
+                    "wordId": "键盘",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳机",
+                    "icon": true
+                },
+                {
+                    "wordId": "电脑鼠标",
+                    "icon": true
+                },
+                {
+                    "wordId": "充电器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "天气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙卷风",
+                    "icon": false
+                },
+                {
+                    "wordId": "气旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "季风",
+                    "icon": false
+                },
+                {
+                    "wordId": "细雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰雹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法国",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑞典",
+                    "icon": false
+                },
+                {
+                    "wordId": "伯利兹",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩纳哥",
+                    "icon": false
+                },
+                {
+                    "wordId": "挪威",
+                    "icon": false
+                },
+                {
+                    "wordId": "波兰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "解剖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "股骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "肩胛骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "胫骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "尺骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谜团",
+                    "icon": false
+                },
+                {
+                    "wordId": "悖论",
+                    "icon": false
+                },
+                {
+                    "wordId": "字谜",
+                    "icon": false
+                },
+                {
+                    "wordId": "急转弯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "实验室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "移液管",
+                    "icon": true
+                },
+                {
+                    "wordId": "烧瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "本生灯",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "公制",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米",
+                    "icon": false
+                },
+                {
+                    "wordId": "升",
+                    "icon": false
+                },
+                {
+                    "wordId": "克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "菊石",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙形石",
+                    "icon": false
+                },
+                {
+                    "wordId": "海百合",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "气旋",
+        "瑞典",
+        "相机",
+        "海百合",
+        "小行星",
+        "键盘",
+        "波兰",
+        "充电器",
+        "韶神星",
+        "扬声器",
+        "实验室",
+        "智神星",
+        "谜团",
+        "爱神星",
+        "天气",
+        "细雨",
+        "健神星",
+        "克",
+        "权杖",
+        "菊石",
+        "暴风",
+        "急转弯",
+        "公制",
+        "挪威",
+        "路由器",
+        "头带",
+        "小冠冕",
+        "耳机",
+        "龙卷风",
+        "加冕袍",
+        "王冠",
+        "冰雹",
+        "谷神星",
+        "升",
+        "谜题",
+        "烧杯",
+        "季风",
+        "米",
+        "胫骨",
+        "肩胛骨",
+        "法国",
+        "烧瓶"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "小工具",
+                "电脑鼠标",
+                "悖论",
+                "徽章"
+            ]
+        },
+        {
+            "cards": [
+                "灶神星",
+                "化石",
+                "伯利兹",
+                "婚神星",
+                "国家"
+            ]
+        },
+        {
+            "cards": [
+                "摩纳哥",
+                "无人机",
+                "义神星",
+                "移液管",
+                "宝球",
+                "解剖"
+            ]
+        },
+        {
+            "cards": [
+                "尺骨",
+                "股骨",
+                "牙形石",
+                "王权标志",
+                "字谜",
+                "王权",
+                "本生灯"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 356,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "雪人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "大脚怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "野兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "足迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛茸茸的",
+                    "icon": false
+                },
+                {
+                    "wordId": "神话",
+                    "icon": false
+                },
+                {
+                    "wordId": "爪子",
+                    "icon": false
+                },
+                {
+                    "wordId": "高山的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "声音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "女低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "音域",
+                    "icon": false
+                },
+                {
+                    "wordId": "音高",
+                    "icon": false
+                },
+                {
+                    "wordId": "男中音",
+                    "icon": false
+                },
+                {
+                    "wordId": "假声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "后院",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "露台",
+                    "icon": false
+                },
+                {
+                    "wordId": "栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "草坪",
+                    "icon": false
+                },
+                {
+                    "wordId": "花园",
+                    "icon": false
+                },
+                {
+                    "wordId": "秋千",
+                    "icon": false
+                },
+                {
+                    "wordId": "棚屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧烤架",
+                    "icon": false
+                },
+                {
+                    "wordId": "池塘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丛林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泰山",
+                    "icon": false
+                },
+                {
+                    "wordId": "藤蔓",
+                    "icon": false
+                },
+                {
+                    "wordId": "藤本植物",
+                    "icon": false
+                },
+                {
+                    "wordId": "兰花",
+                    "icon": false
+                },
+                {
+                    "wordId": "蕨类",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔藓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图书馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书籍",
+                    "icon": false
+                },
+                {
+                    "wordId": "书架",
+                    "icon": false
+                },
+                {
+                    "wordId": "学习",
+                    "icon": false
+                },
+                {
+                    "wordId": "借阅",
+                    "icon": false
+                },
+                {
+                    "wordId": "归还",
+                    "icon": false
+                },
+                {
+                    "wordId": "目录",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "市场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "小贩",
+                    "icon": false
+                },
+                {
+                    "wordId": "讨价还价",
+                    "icon": false
+                },
+                {
+                    "wordId": "排队",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "咖啡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拿铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式浓缩",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖啡馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩卡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "极光",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                },
+                {
+                    "wordId": "辐射的",
+                    "icon": false
+                },
+                {
+                    "wordId": "光谱的",
+                    "icon": false
+                },
+                {
+                    "wordId": "光",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海边",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "海岸",
+                    "icon": false
+                },
+                {
+                    "wordId": "岸边",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "士兵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长矛",
+                    "icon": true
+                },
+                {
+                    "wordId": "矛",
+                    "icon": true
+                },
+                {
+                    "wordId": "弩",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大脚怪",
+        "苔藓",
+        "排队",
+        "小贩",
+        "拿铁",
+        "藤蔓",
+        "女低音",
+        "棚屋",
+        "野兽",
+        "摩卡",
+        "声音",
+        "藤本植物",
+        "雪人",
+        "海岸",
+        "男高音",
+        "足迹",
+        "光",
+        "摊位",
+        "兰花",
+        "书籍",
+        "市场",
+        "光谱的",
+        "蕨类",
+        "高山的",
+        "意式浓缩",
+        "秋千",
+        "池塘",
+        "男低音",
+        "学习",
+        "草坪",
+        "咖啡馆",
+        "栅栏",
+        "假声",
+        "神话",
+        "士兵",
+        "咖啡",
+        "讨价还价",
+        "海滩",
+        "弩",
+        "泰山",
+        "长矛",
+        "雪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "音域",
+                "归还",
+                "后院",
+                "男中音"
+            ]
+        },
+        {
+            "cards": [
+                "图书馆",
+                "矛",
+                "黎明",
+                "毛茸茸的",
+                "丛林"
+            ]
+        },
+        {
+            "cards": [
+                "辐射的",
+                "花园",
+                "极光",
+                "目录",
+                "女高音",
+                "书架"
+            ]
+        },
+        {
+            "cards": [
+                "烧烤架",
+                "音高",
+                "露台",
+                "爪子",
+                "岸边",
+                "借阅",
+                "海边"
+            ]
+        }
+    ]
+}

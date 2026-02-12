@@ -1,0 +1,553 @@
+{
+    "levelId": 51,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 245,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "大型猫科动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "猎豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "美洲豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "美洲狮",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮子",
+                    "icon": true
+                },
+                {
+                    "wordId": "老虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "山狮",
+                    "icon": true
+                },
+                {
+                    "wordId": "短尾猫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "信件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邮票",
+                    "icon": false
+                },
+                {
+                    "wordId": "信封",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮递员",
+                    "icon": false
+                },
+                {
+                    "wordId": "火漆印章",
+                    "icon": false
+                },
+                {
+                    "wordId": "投递",
+                    "icon": false
+                },
+                {
+                    "wordId": "快递员",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮戳",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮箱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恐龙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "霸王龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "迅猛龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷前龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "重爪龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜥脚类恐龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "皱褶龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "伤齿龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳足龙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "城堡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "护城河",
+                    "icon": false
+                },
+                {
+                    "wordId": "地牢",
+                    "icon": false
+                },
+                {
+                    "wordId": "棱堡",
+                    "icon": false
+                },
+                {
+                    "wordId": "城墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "角楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "护墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "碉堡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "显示器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "LCD",
+                    "icon": false
+                },
+                {
+                    "wordId": "LED",
+                    "icon": false
+                },
+                {
+                    "wordId": "OLED",
+                    "icon": false
+                },
+                {
+                    "wordId": "CRT",
+                    "icon": false
+                },
+                {
+                    "wordId": "等离子",
+                    "icon": false
+                },
+                {
+                    "wordId": "AMOLED",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文化",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玛雅人",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿兹特克人",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗马人",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊人",
+                    "icon": false
+                },
+                {
+                    "wordId": "凯尔特人",
+                    "icon": false
+                },
+                {
+                    "wordId": "维京人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "外套",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双排扣短大衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "派克大衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "带风帽夹克",
+                    "icon": false
+                },
+                {
+                    "wordId": "大衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "雨衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "斗篷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "支付方式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "现金",
+                    "icon": true
+                },
+                {
+                    "wordId": "银行卡",
+                    "icon": true
+                },
+                {
+                    "wordId": "硬币",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸币",
+                    "icon": true
+                },
+                {
+                    "wordId": "加密货币",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "骰子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "掷",
+                    "icon": false
+                },
+                {
+                    "wordId": "抛",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇",
+                    "icon": false
+                },
+                {
+                    "wordId": "投",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇晃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诸子百家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "道家",
+                    "icon": false
+                },
+                {
+                    "wordId": "儒家",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨家",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴阳家",
+                    "icon": false
+                },
+                {
+                    "wordId": "法家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谎言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "欺骗",
+                    "icon": false
+                },
+                {
+                    "wordId": "哄骗",
+                    "icon": false
+                },
+                {
+                    "wordId": "伪造",
+                    "icon": false
+                },
+                {
+                    "wordId": "误导",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "花瓶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陶瓷",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "粘土",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "极限运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跑酷",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "蹦极",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂流",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "检查",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "调查",
+                    "icon": false
+                },
+                {
+                    "wordId": "测验",
+                    "icon": false
+                },
+                {
+                    "wordId": "测试",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "可爱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "萌",
+                    "icon": false
+                },
+                {
+                    "wordId": "俏皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷人",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "掷",
+        "阿兹特克人",
+        "塔楼",
+        "斗篷",
+        "阴阳家",
+        "诸子百家",
+        "雨衣",
+        "邮票",
+        "派克大衣",
+        "加密货币",
+        "双排扣短大衣",
+        "角楼",
+        "测试",
+        "摇晃",
+        "带风帽夹克",
+        "豹",
+        "调查",
+        "老虎",
+        "山狮",
+        "水晶",
+        "邮递员",
+        "欺骗",
+        "投",
+        "误导",
+        "伤齿龙",
+        "文化",
+        "护墙",
+        "CRT",
+        "快递员",
+        "银行卡",
+        "邮箱",
+        "玻璃",
+        "跳足龙",
+        "纸币",
+        "护城河",
+        "邮戳",
+        "法家",
+        "地牢",
+        "信件",
+        "谎言",
+        "狮子",
+        "美洲狮",
+        "短尾猫",
+        "玛雅人",
+        "可爱",
+        "重爪龙",
+        "OLED",
+        "儒家",
+        "跑酷",
+        "碉堡",
+        "恐龙",
+        "大型猫科动物",
+        "摇",
+        "硬币",
+        "道家",
+        "大衣",
+        "LED",
+        "现金",
+        "城墙",
+        "粘土",
+        "凯尔特人",
+        "伪造",
+        "AMOLED"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "萌",
+                "花瓶",
+                "罗马人",
+                "外套",
+                "皱褶龙"
+            ]
+        },
+        {
+            "cards": [
+                "信封",
+                "城堡",
+                "投递",
+                "雷前龙",
+                "霸王龙",
+                "支付方式"
+            ]
+        },
+        {
+            "cards": [
+                "抛",
+                "极限运动",
+                "猎豹",
+                "测验",
+                "冲浪",
+                "显示器",
+                "美洲豹"
+            ]
+        },
+        {
+            "cards": [
+                "陶瓷",
+                "漂流",
+                "希腊人",
+                "等离子",
+                "检查",
+                "LCD",
+                "火漆印章",
+                "迷人"
+            ]
+        },
+        {
+            "cards": [
+                "迅猛龙",
+                "哄骗",
+                "俏皮",
+                "蜥脚类恐龙",
+                "维京人",
+                "骰子",
+                "墨家",
+                "棱堡",
+                "蹦极"
+            ]
+        }
+    ]
+}

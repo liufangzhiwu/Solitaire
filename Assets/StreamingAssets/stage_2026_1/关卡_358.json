@@ -1,0 +1,369 @@
+{
+    "levelId": 358,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "蜡烛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石蜡蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "发光蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "香薰蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮水蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "祭坛蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂蜡蜡烛",
+                    "icon": false
+                },
+                {
+                    "wordId": "烛芯",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔蜡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "折纸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "千纸鹤",
+                    "icon": true
+                },
+                {
+                    "wordId": "青蛙折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "小船折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸飞机",
+                    "icon": true
+                },
+                {
+                    "wordId": "天鹅折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "花朵折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "盒子折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "爱心折纸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "编织",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纱线",
+                    "icon": false
+                },
+                {
+                    "wordId": "织针",
+                    "icon": false
+                },
+                {
+                    "wordId": "针法",
+                    "icon": false
+                },
+                {
+                    "wordId": "反针",
+                    "icon": false
+                },
+                {
+                    "wordId": "线圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "花样",
+                    "icon": false
+                },
+                {
+                    "wordId": "重复段",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗纹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "戏剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                },
+                {
+                    "wordId": "演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧本",
+                    "icon": false
+                },
+                {
+                    "wordId": "观众",
+                    "icon": false
+                },
+                {
+                    "wordId": "场景",
+                    "icon": false
+                },
+                {
+                    "wordId": "幕布",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "车站",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "月台",
+                    "icon": false
+                },
+                {
+                    "wordId": "站牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "搬运工",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "候车区",
+                    "icon": false
+                },
+                {
+                    "wordId": "时钟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "砖块",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黏土",
+                    "icon": false
+                },
+                {
+                    "wordId": "窑",
+                    "icon": false
+                },
+                {
+                    "wordId": "模具",
+                    "icon": false
+                },
+                {
+                    "wordId": "砂浆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电压",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "安培",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧姆",
+                    "icon": false
+                },
+                {
+                    "wordId": "库仑",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏特",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "轴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "车轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "转子",
+                    "icon": false
+                },
+                {
+                    "wordId": "传动轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮毂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "栖息地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "森林",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙漠",
+                    "icon": true
+                },
+                {
+                    "wordId": "苔原",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "方言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "俚语",
+                    "icon": false
+                },
+                {
+                    "wordId": "行话",
+                    "icon": false
+                },
+                {
+                    "wordId": "口音",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "祭坛蜡烛",
+        "车站",
+        "纸飞机",
+        "车轴",
+        "伏特",
+        "小船折纸",
+        "青蛙折纸",
+        "口音",
+        "浮水蜡烛",
+        "石蜡蜡烛",
+        "爱心折纸",
+        "剧本",
+        "电压",
+        "花朵折纸",
+        "窑",
+        "纱线",
+        "演员",
+        "欧姆",
+        "信号",
+        "针法",
+        "舞台",
+        "线圈",
+        "候车区",
+        "行话",
+        "模具",
+        "砂浆",
+        "场景",
+        "重复段",
+        "蜂蜡蜡烛",
+        "罗纹",
+        "轴",
+        "发光蜡烛",
+        "织针",
+        "沙漠",
+        "森林",
+        "香薰蜡烛",
+        "蜡烛",
+        "俚语",
+        "烛芯",
+        "月台",
+        "砖块",
+        "盒子折纸"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "千纸鹤",
+                "传动轴",
+                "黏土",
+                "花样"
+            ]
+        },
+        {
+            "cards": [
+                "编织",
+                "反针",
+                "安培",
+                "观众",
+                "时钟"
+            ]
+        },
+        {
+            "cards": [
+                "戏剧",
+                "站牌",
+                "库仑",
+                "熔蜡",
+                "栖息地",
+                "苔原"
+            ]
+        },
+        {
+            "cards": [
+                "幕布",
+                "方言",
+                "天鹅折纸",
+                "轮毂",
+                "折纸",
+                "搬运工",
+                "转子"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 139,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "四轮物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "无轨电车",
+                    "icon": true
+                },
+                {
+                    "wordId": "救护车",
+                    "icon": true
+                },
+                {
+                    "wordId": "卡车",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑板",
+                    "icon": true
+                },
+                {
+                    "wordId": "四轮摩托车",
+                    "icon": true
+                },
+                {
+                    "wordId": "敞篷车",
+                    "icon": true
+                },
+                {
+                    "wordId": "马车",
+                    "icon": true
+                },
+                {
+                    "wordId": "婴儿车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宠物用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笼子",
+                    "icon": true
+                },
+                {
+                    "wordId": "狗窝",
+                    "icon": true
+                },
+                {
+                    "wordId": "狗项圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "水族箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "狗碗",
+                    "icon": true
+                },
+                {
+                    "wordId": "狗床",
+                    "icon": true
+                },
+                {
+                    "wordId": "仓鼠跑轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "猫爬架",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "热带的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "季风",
+                    "icon": false
+                },
+                {
+                    "wordId": "岛屿",
+                    "icon": false
+                },
+                {
+                    "wordId": "气候",
+                    "icon": false
+                },
+                {
+                    "wordId": "水果",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟类",
+                    "icon": false
+                },
+                {
+                    "wordId": "台风",
+                    "icon": false
+                },
+                {
+                    "wordId": "森林",
+                    "icon": false
+                },
+                {
+                    "wordId": "花卉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绅士风度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骑士精神",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "谦恭",
+                    "icon": false
+                },
+                {
+                    "wordId": "荣誉",
+                    "icon": false
+                },
+                {
+                    "wordId": "贵族气质",
+                    "icon": false
+                },
+                {
+                    "wordId": "得体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "雕像",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "自由女神像",
+                    "icon": false
+                },
+                {
+                    "wordId": "大卫像",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮身人面像",
+                    "icon": false
+                },
+                {
+                    "wordId": "思想者",
+                    "icon": false
+                },
+                {
+                    "wordId": "林肯像",
+                    "icon": false
+                },
+                {
+                    "wordId": "佛像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "耳环",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圈式耳环",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳钉",
+                    "icon": false
+                },
+                {
+                    "wordId": "垂坠耳环",
+                    "icon": false
+                },
+                {
+                    "wordId": "吊坠耳环",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "浴袍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水疗中心",
+                    "icon": false
+                },
+                {
+                    "wordId": "游泳池",
+                    "icon": false
+                },
+                {
+                    "wordId": "浴室",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑拿房",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "针叶树",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柏树",
+                    "icon": false
+                },
+                {
+                    "wordId": "冷杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "杜松",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫杉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沥青",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混凝土",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏油路面",
+                    "icon": false
+                },
+                {
+                    "wordId": "铺面",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "赞美",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鼓掌称赞",
+                    "icon": false
+                },
+                {
+                    "wordId": "颂扬",
+                    "icon": false
+                },
+                {
+                    "wordId": "吹捧",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "四轮摩托车",
+        "季风",
+        "笼子",
+        "耳环",
+        "柏树",
+        "骑士精神",
+        "狗项圈",
+        "紫杉",
+        "狗碗",
+        "桑拿房",
+        "吊坠耳环",
+        "杜松",
+        "滑板",
+        "无轨电车",
+        "狮身人面像",
+        "自由女神像",
+        "礼仪",
+        "台风",
+        "狗床",
+        "仓鼠跑轮",
+        "马车",
+        "贵族气质",
+        "颂扬",
+        "混凝土",
+        "针叶树",
+        "救护车",
+        "垂坠耳环",
+        "卡车",
+        "气候",
+        "大卫像",
+        "热带的",
+        "佛像",
+        "宠物用品",
+        "耳钉",
+        "水族箱",
+        "花卉",
+        "吹捧",
+        "林肯像",
+        "猫爬架",
+        "沥青",
+        "鸟类",
+        "思想者"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "四轮物",
+                "水疗中心",
+                "浴室",
+                "游泳池"
+            ]
+        },
+        {
+            "cards": [
+                "冷杉",
+                "得体",
+                "荣誉",
+                "雕像",
+                "铺面"
+            ]
+        },
+        {
+            "cards": [
+                "狗窝",
+                "岛屿",
+                "鼓掌称赞",
+                "婴儿车",
+                "敞篷车",
+                "绅士风度"
+            ]
+        },
+        {
+            "cards": [
+                "森林",
+                "圈式耳环",
+                "水果",
+                "柏油路面",
+                "浴袍",
+                "谦恭",
+                "赞美"
+            ]
+        }
+    ]
+}

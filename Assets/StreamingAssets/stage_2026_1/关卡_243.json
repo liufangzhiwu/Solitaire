@@ -1,0 +1,453 @@
+{
+    "levelId": 243,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 180,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "佛教",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "业",
+                    "icon": false
+                },
+                {
+                    "wordId": "涅槃",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮回",
+                    "icon": false
+                },
+                {
+                    "wordId": "法",
+                    "icon": false
+                },
+                {
+                    "wordId": "转世",
+                    "icon": false
+                },
+                {
+                    "wordId": "真言",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞察",
+                    "icon": false
+                },
+                {
+                    "wordId": "曼荼罗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "方案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "计划",
+                    "icon": false
+                },
+                {
+                    "wordId": "大纲",
+                    "icon": false
+                },
+                {
+                    "wordId": "专案",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴谋",
+                    "icon": false
+                },
+                {
+                    "wordId": "密谋",
+                    "icon": false
+                },
+                {
+                    "wordId": "策略",
+                    "icon": false
+                },
+                {
+                    "wordId": "设计",
+                    "icon": false
+                },
+                {
+                    "wordId": "程式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "包装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "罐",
+                    "icon": false
+                },
+                {
+                    "wordId": "桶",
+                    "icon": false
+                },
+                {
+                    "wordId": "小袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "包装纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "板条箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "罐子",
+                    "icon": false
+                },
+                {
+                    "wordId": "泡罩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旋转",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "自旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "转动",
+                    "icon": false
+                },
+                {
+                    "wordId": "绕转",
+                    "icon": false
+                },
+                {
+                    "wordId": "回旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "枢转",
+                    "icon": false
+                },
+                {
+                    "wordId": "滚动",
+                    "icon": false
+                },
+                {
+                    "wordId": "撚转",
+                    "icon": false
+                },
+                {
+                    "wordId": "转体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "啤酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麦芽酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉格啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "波特啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "世涛啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮尔森啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉比克啤酒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "杂交生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斯芬克斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "喀迈拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "半人马",
+                    "icon": false
+                },
+                {
+                    "wordId": "骡子",
+                    "icon": false
+                },
+                {
+                    "wordId": "狼狗",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮虎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灌木",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "夹竹桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "桃金娘",
+                    "icon": false
+                },
+                {
+                    "wordId": "冬青",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬钩子",
+                    "icon": false
+                },
+                {
+                    "wordId": "杜鹃花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鲸豚类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海豚",
+                    "icon": true
+                },
+                {
+                    "wordId": "白鲸",
+                    "icon": true
+                },
+                {
+                    "wordId": "须鲸",
+                    "icon": true
+                },
+                {
+                    "wordId": "虎鲸",
+                    "icon": true
+                },
+                {
+                    "wordId": "独角鲸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "棕榈类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椰子",
+                    "icon": true
+                },
+                {
+                    "wordId": "藤条",
+                    "icon": true
+                },
+                {
+                    "wordId": "西米椰",
+                    "icon": true
+                },
+                {
+                    "wordId": "椰枣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "喷雾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "发胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻腔喷雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡椒喷雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "气雾剂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丁香",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "康乃馨",
+                    "icon": true
+                },
+                {
+                    "wordId": "香料",
+                    "icon": true
+                },
+                {
+                    "wordId": "蒜瓣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地毯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小地毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "地垫",
+                    "icon": false
+                },
+                {
+                    "wordId": "挂毯",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "骡子",
+        "须鲸",
+        "洞察",
+        "方案",
+        "海豚",
+        "拉格啤酒",
+        "法",
+        "悬钩子",
+        "滚动",
+        "桃金娘",
+        "胡椒喷雾",
+        "夹竹桃",
+        "桶",
+        "鲸豚类",
+        "椰子",
+        "包装纸",
+        "康乃馨",
+        "皮尔森啤酒",
+        "转体",
+        "小瓶",
+        "大纲",
+        "罐子",
+        "罐",
+        "涅槃",
+        "虎鲸",
+        "蒜瓣",
+        "专案",
+        "密谋",
+        "斯芬克斯",
+        "自旋",
+        "地垫",
+        "棕榈类",
+        "绕转",
+        "丁香",
+        "板条箱",
+        "策略",
+        "世涛啤酒",
+        "冬青",
+        "西米椰",
+        "白鲸",
+        "曼荼罗",
+        "椰枣",
+        "转世",
+        "喀迈拉",
+        "业",
+        "狼狗",
+        "阴谋",
+        "波特啤酒",
+        "喷雾",
+        "狮虎",
+        "佛教",
+        "真言",
+        "小袋",
+        "转动"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "程式",
+                "旋转",
+                "杂交生物",
+                "半人马",
+                "计划"
+            ]
+        },
+        {
+            "cards": [
+                "枢转",
+                "设计",
+                "拉比克啤酒",
+                "啤酒",
+                "包装",
+                "泡罩"
+            ]
+        },
+        {
+            "cards": [
+                "藤条",
+                "小地毯",
+                "挂毯",
+                "麦芽酒",
+                "地毯",
+                "回旋",
+                "发胶"
+            ]
+        },
+        {
+            "cards": [
+                "独角鲸",
+                "灌木",
+                "香料",
+                "气雾剂",
+                "鼻腔喷雾",
+                "撚转",
+                "轮回",
+                "杜鹃花"
+            ]
+        }
+    ]
+}

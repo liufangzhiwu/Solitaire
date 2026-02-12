@@ -1,0 +1,369 @@
+{
+    "levelId": 20,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "爱好",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "编织",
+                    "icon": false
+                },
+                {
+                    "wordId": "钓鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "跑步",
+                    "icon": false
+                },
+                {
+                    "wordId": "写博客",
+                    "icon": false
+                },
+                {
+                    "wordId": "阅读",
+                    "icon": false
+                },
+                {
+                    "wordId": "烹饪",
+                    "icon": false
+                },
+                {
+                    "wordId": "远足",
+                    "icon": false
+                },
+                {
+                    "wordId": "烘焙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜜蜂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜂蜡",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "花蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂巢",
+                    "icon": false
+                },
+                {
+                    "wordId": "养蜂场",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂群",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗡嗡声",
+                    "icon": false
+                },
+                {
+                    "wordId": "花粉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蔬菜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西兰花",
+                    "icon": true
+                },
+                {
+                    "wordId": "卷心菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "土豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "胡萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜菜根",
+                    "icon": true
+                },
+                {
+                    "wordId": "黄瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "洋葱",
+                    "icon": true
+                },
+                {
+                    "wordId": "茄子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "非遗专案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮影戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "川剧变脸",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏绣",
+                    "icon": false
+                },
+                {
+                    "wordId": "京剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "昆曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "针灸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蘑菇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鹅膏菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛肝菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "红菇",
+                    "icon": false
+                },
+                {
+                    "wordId": "松露",
+                    "icon": false
+                },
+                {
+                    "wordId": "金针菇",
+                    "icon": false
+                },
+                {
+                    "wordId": "香菇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "景点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日月潭",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿里山",
+                    "icon": false
+                },
+                {
+                    "wordId": "太鲁阁",
+                    "icon": false
+                },
+                {
+                    "wordId": "合欢山",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "北极动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海象",
+                    "icon": true
+                },
+                {
+                    "wordId": "北极熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "雪鸮",
+                    "icon": true
+                },
+                {
+                    "wordId": "驯鹿",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "婴儿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尿布",
+                    "icon": false
+                },
+                {
+                    "wordId": "婴儿车",
+                    "icon": false
+                },
+                {
+                    "wordId": "婴儿床",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇铃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "滑雪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雪地",
+                    "icon": false
+                },
+                {
+                    "wordId": "单板",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪杖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "帮助",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "协助",
+                    "icon": false
+                },
+                {
+                    "wordId": "支持",
+                    "icon": false
+                },
+                {
+                    "wordId": "捐赠",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "北极熊",
+        "驯鹿",
+        "红菇",
+        "蜂群",
+        "川剧变脸",
+        "西兰花",
+        "京剧",
+        "香菇",
+        "爱好",
+        "花粉",
+        "阅读",
+        "雪鸮",
+        "蜂蜜",
+        "蜂巢",
+        "洋葱",
+        "编织",
+        "太鲁阁",
+        "远足",
+        "养蜂场",
+        "针灸",
+        "协助",
+        "写博客",
+        "胡萝卜",
+        "蜂蜡",
+        "金针菇",
+        "合欢山",
+        "婴儿",
+        "烘焙",
+        "蔬菜",
+        "支持",
+        "茄子",
+        "景点",
+        "日月潭",
+        "皮影戏",
+        "捐赠",
+        "黄瓜",
+        "雪地",
+        "海象",
+        "摇铃",
+        "土豆",
+        "非遗专案",
+        "烹饪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "嗡嗡声",
+                "松露",
+                "牛肝菌",
+                "尿布"
+            ]
+        },
+        {
+            "cards": [
+                "鹅膏菌",
+                "蜜蜂",
+                "花蜜",
+                "蘑菇",
+                "卷心菜"
+            ]
+        },
+        {
+            "cards": [
+                "北极动物",
+                "钓鱼",
+                "昆曲",
+                "甜菜根",
+                "滑雪杖",
+                "单板"
+            ]
+        },
+        {
+            "cards": [
+                "阿里山",
+                "婴儿床",
+                "滑雪",
+                "婴儿车",
+                "帮助",
+                "跑步",
+                "苏绣"
+            ]
+        }
+    ]
+}

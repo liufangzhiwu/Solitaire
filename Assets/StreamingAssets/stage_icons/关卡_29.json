@@ -1,0 +1,369 @@
+{
+    "levelId": 29,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 150,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "发声动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喵",
+                    "icon": true
+                },
+                {
+                    "wordId": "尖叫",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸦叫声",
+                    "icon": true
+                },
+                {
+                    "wordId": "咩",
+                    "icon": true
+                },
+                {
+                    "wordId": "嘎",
+                    "icon": true
+                },
+                {
+                    "wordId": "呱",
+                    "icon": true
+                },
+                {
+                    "wordId": "嚎叫",
+                    "icon": true
+                },
+                {
+                    "wordId": "吠叫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地板材料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "油毡",
+                    "icon": false
+                },
+                {
+                    "wordId": "竹地板",
+                    "icon": false
+                },
+                {
+                    "wordId": "硬木",
+                    "icon": false
+                },
+                {
+                    "wordId": "复合地板",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓷砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼花地板",
+                    "icon": false
+                },
+                {
+                    "wordId": "软木",
+                    "icon": false
+                },
+                {
+                    "wordId": "乙烯基",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "合金",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铝镍钴",
+                    "icon": false
+                },
+                {
+                    "wordId": "汞齐",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "青铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "镍铬合金",
+                    "icon": false
+                },
+                {
+                    "wordId": "钨",
+                    "icon": false
+                },
+                {
+                    "wordId": "铝合金",
+                    "icon": false
+                },
+                {
+                    "wordId": "不锈钢",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "百里香",
+                    "icon": true
+                },
+                {
+                    "wordId": "迷迭香",
+                    "icon": true
+                },
+                {
+                    "wordId": "细香葱",
+                    "icon": true
+                },
+                {
+                    "wordId": "莳萝",
+                    "icon": true
+                },
+                {
+                    "wordId": "欧芹",
+                    "icon": true
+                },
+                {
+                    "wordId": "鼠尾草",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "道路施工",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "耙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "沥青",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "混凝土",
+                    "icon": false
+                },
+                {
+                    "wordId": "人行道",
+                    "icon": false
+                },
+                {
+                    "wordId": "研磨机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肺部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吸入",
+                    "icon": false
+                },
+                {
+                    "wordId": "支气管",
+                    "icon": false
+                },
+                {
+                    "wordId": "气管",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼出",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猛犸象",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尾巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛发",
+                    "icon": false
+                },
+                {
+                    "wordId": "象鼻",
+                    "icon": false
+                },
+                {
+                    "wordId": "象牙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "寒性水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柿子",
+                    "icon": false
+                },
+                {
+                    "wordId": "柚子",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑葚",
+                    "icon": false
+                },
+                {
+                    "wordId": "猕猴桃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "端午节",
+                    "icon": false
+                },
+                {
+                    "wordId": "中秋节",
+                    "icon": false
+                },
+                {
+                    "wordId": "泼水节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气象",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雷声",
+                    "icon": false
+                },
+                {
+                    "wordId": "热浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雪",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "鸦叫声",
+        "柚子",
+        "耙子",
+        "咩",
+        "合金",
+        "吠叫",
+        "端午节",
+        "迷迭香",
+        "喵",
+        "嚎叫",
+        "细香葱",
+        "拼花地板",
+        "百里香",
+        "硬木",
+        "雷声",
+        "肺部",
+        "油毡",
+        "瓷砖",
+        "铝合金",
+        "混凝土",
+        "节日",
+        "乙烯基",
+        "呼出",
+        "暴风雪",
+        "中秋节",
+        "莳萝",
+        "人行道",
+        "研磨机",
+        "象牙",
+        "尖叫",
+        "复合地板",
+        "不锈钢",
+        "香草",
+        "泼水节",
+        "呱",
+        "欧芹",
+        "软木",
+        "发声动物",
+        "铝镍钴",
+        "尾巴",
+        "支气管",
+        "鼠尾草"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "柿子",
+                "道路施工",
+                "气象",
+                "镍铬合金"
+            ]
+        },
+        {
+            "cards": [
+                "寒性水果",
+                "桑葚",
+                "吸入",
+                "气管",
+                "热浪"
+            ]
+        },
+        {
+            "cards": [
+                "钨",
+                "沥青",
+                "竹地板",
+                "地板材料",
+                "汞齐",
+                "象鼻"
+            ]
+        },
+        {
+            "cards": [
+                "青铜",
+                "猛犸象",
+                "黄铜",
+                "毛发",
+                "嘎",
+                "沙子",
+                "猕猴桃"
+            ]
+        }
+    ]
+}

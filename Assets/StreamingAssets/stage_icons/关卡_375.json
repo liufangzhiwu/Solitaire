@@ -1,0 +1,369 @@
+{
+    "levelId": 375,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "格式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "PDF",
+                    "icon": false
+                },
+                {
+                    "wordId": "JPEG",
+                    "icon": false
+                },
+                {
+                    "wordId": "PNG",
+                    "icon": false
+                },
+                {
+                    "wordId": "GIF",
+                    "icon": false
+                },
+                {
+                    "wordId": "MP3",
+                    "icon": false
+                },
+                {
+                    "wordId": "WAV",
+                    "icon": false
+                },
+                {
+                    "wordId": "TIFF",
+                    "icon": false
+                },
+                {
+                    "wordId": "SVG",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小径",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "步道",
+                    "icon": false
+                },
+                {
+                    "wordId": "路线",
+                    "icon": false
+                },
+                {
+                    "wordId": "巷径",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡同",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "走廊",
+                    "icon": false
+                },
+                {
+                    "wordId": "人行道",
+                    "icon": false
+                },
+                {
+                    "wordId": "路径",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "关节",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肘部",
+                    "icon": false
+                },
+                {
+                    "wordId": "膝盖",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚踝",
+                    "icon": false
+                },
+                {
+                    "wordId": "手腕",
+                    "icon": false
+                },
+                {
+                    "wordId": "肩膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "髋部",
+                    "icon": false
+                },
+                {
+                    "wordId": "手指",
+                    "icon": false
+                },
+                {
+                    "wordId": "颈部",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宁芙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树精",
+                    "icon": false
+                },
+                {
+                    "wordId": "山精",
+                    "icon": false
+                },
+                {
+                    "wordId": "水泽仙女",
+                    "icon": false
+                },
+                {
+                    "wordId": "水妖",
+                    "icon": false
+                },
+                {
+                    "wordId": "气精",
+                    "icon": false
+                },
+                {
+                    "wordId": "水之女神",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "折纸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "千纸鹤",
+                    "icon": true
+                },
+                {
+                    "wordId": "荷花折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "天鹅折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸽子折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "郁金香折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鸦折纸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "雕塑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黏土",
+                    "icon": false
+                },
+                {
+                    "wordId": "凿子",
+                    "icon": false
+                },
+                {
+                    "wordId": "半身像",
+                    "icon": false
+                },
+                {
+                    "wordId": "石膏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "同位素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "碘",
+                    "icon": false
+                },
+                {
+                    "wordId": "铀",
+                    "icon": false
+                },
+                {
+                    "wordId": "锕",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "埃及",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法老",
+                    "icon": true
+                },
+                {
+                    "wordId": "安卡",
+                    "icon": true
+                },
+                {
+                    "wordId": "阿努比斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸莎草",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "坟墓",
+                    "icon": false
+                },
+                {
+                    "wordId": "地下墓穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨灰堂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幻景",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薄雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "热浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "黏土",
+        "通道",
+        "幻景",
+        "PNG",
+        "荷花折纸",
+        "WAV",
+        "鸽子折纸",
+        "手指",
+        "热浪",
+        "关节",
+        "乌鸦折纸",
+        "巷径",
+        "折纸",
+        "千纸鹤",
+        "肘部",
+        "地穴",
+        "JPEG",
+        "薄雾",
+        "地下墓穴",
+        "TIFF",
+        "骨灰堂",
+        "石膏",
+        "锕",
+        "雕塑",
+        "水之女神",
+        "镭",
+        "水泽仙女",
+        "纸莎草",
+        "阿努比斯",
+        "颈部",
+        "天鹅折纸",
+        "坟墓",
+        "碘",
+        "走廊",
+        "山精",
+        "半身像",
+        "膝盖",
+        "人行道",
+        "安卡",
+        "水妖",
+        "路线",
+        "胡同"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "宁芙",
+                "气精",
+                "MP3",
+                "铀"
+            ]
+        },
+        {
+            "cards": [
+                "郁金香折纸",
+                "小径",
+                "法老",
+                "同位素",
+                "肩膀"
+            ]
+        },
+        {
+            "cards": [
+                "路径",
+                "步道",
+                "脚踝",
+                "凿子",
+                "PDF",
+                "SVG"
+            ]
+        },
+        {
+            "cards": [
+                "闪烁",
+                "埃及",
+                "手腕",
+                "髋部",
+                "GIF",
+                "树精",
+                "格式"
+            ]
+        }
+    ]
+}

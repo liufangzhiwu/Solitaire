@@ -1,0 +1,369 @@
+{
+    "levelId": 253,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "猫毛色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双色",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "三花",
+                    "icon": false
+                },
+                {
+                    "wordId": "虎斑玳瑁",
+                    "icon": false
+                },
+                {
+                    "wordId": "虎斑",
+                    "icon": false
+                },
+                {
+                    "wordId": "重点色",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟色",
+                    "icon": false
+                },
+                {
+                    "wordId": "斑点",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "炖菜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肉",
+                    "icon": true
+                },
+                {
+                    "wordId": "土豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "胡萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "洋葱",
+                    "icon": true
+                },
+                {
+                    "wordId": "豆类",
+                    "icon": true
+                },
+                {
+                    "wordId": "蘑菇",
+                    "icon": true
+                },
+                {
+                    "wordId": "大蒜",
+                    "icon": true
+                },
+                {
+                    "wordId": "盐",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "演出",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戏剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "音乐会",
+                    "icon": false
+                },
+                {
+                    "wordId": "时装秀",
+                    "icon": false
+                },
+                {
+                    "wordId": "脱口秀",
+                    "icon": false
+                },
+                {
+                    "wordId": "电视节目",
+                    "icon": false
+                },
+                {
+                    "wordId": "综艺秀",
+                    "icon": false
+                },
+                {
+                    "wordId": "马戏团",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡巴莱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "高脚杯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白兰地杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "雪利酒杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "香槟杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "葡萄酒杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "马提尼杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "玛格丽塔杯",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "顾问",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "向导",
+                    "icon": false
+                },
+                {
+                    "wordId": "导师",
+                    "icon": false
+                },
+                {
+                    "wordId": "教练",
+                    "icon": false
+                },
+                {
+                    "wordId": "家庭教师",
+                    "icon": false
+                },
+                {
+                    "wordId": "古鲁",
+                    "icon": false
+                },
+                {
+                    "wordId": "助手",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "滑雪装备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑雪板",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪服",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑雪裤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "三明治",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鲁宾三明治",
+                    "icon": false
+                },
+                {
+                    "wordId": "穷小子三明治",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式帕尼尼",
+                    "icon": false
+                },
+                {
+                    "wordId": "法拉费三明治",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "可爱的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "俏皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "可爱",
+                    "icon": false
+                },
+                {
+                    "wordId": "讨喜",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "类别",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "类型",
+                    "icon": false
+                },
+                {
+                    "wordId": "种类",
+                    "icon": false
+                },
+                {
+                    "wordId": "等级",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肢体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "腿",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "爪子",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "翅膀",
+        "蘑菇",
+        "迷人",
+        "土豆",
+        "可爱",
+        "等级",
+        "穷小子三明治",
+        "豆类",
+        "烟色",
+        "爪子",
+        "种类",
+        "高脚杯",
+        "古鲁",
+        "演出",
+        "玛格丽塔杯",
+        "导师",
+        "顾问",
+        "大蒜",
+        "盐",
+        "肉",
+        "麻纹",
+        "雪利酒杯",
+        "戏剧",
+        "马提尼杯",
+        "猫毛色",
+        "斑点",
+        "虎斑",
+        "滑雪板",
+        "家庭教师",
+        "卡巴莱",
+        "滑雪杖",
+        "虎斑玳瑁",
+        "脱口秀",
+        "白兰地杯",
+        "马戏团",
+        "类型",
+        "滑雪裤",
+        "香槟杯",
+        "洋葱",
+        "葡萄酒杯",
+        "滑雪服",
+        "肢体"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "重点色",
+                "教练",
+                "三明治",
+                "音乐会"
+            ]
+        },
+        {
+            "cards": [
+                "意式帕尼尼",
+                "腿",
+                "向导",
+                "胡萝卜",
+                "综艺秀"
+            ]
+        },
+        {
+            "cards": [
+                "滑雪装备",
+                "讨喜",
+                "电视节目",
+                "鲁宾三明治",
+                "炖菜",
+                "俏皮"
+            ]
+        },
+        {
+            "cards": [
+                "双色",
+                "法拉费三明治",
+                "助手",
+                "类别",
+                "三花",
+                "时装秀",
+                "可爱的"
+            ]
+        }
+    ]
+}

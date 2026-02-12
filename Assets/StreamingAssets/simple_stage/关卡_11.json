@@ -1,0 +1,453 @@
+{
+    "levelId": 11,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 180,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "演员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "林青霞",
+                    "icon": false
+                },
+                {
+                    "wordId": "舒淇",
+                    "icon": false
+                },
+                {
+                    "wordId": "彭于晏",
+                    "icon": false
+                },
+                {
+                    "wordId": "阮经天",
+                    "icon": false
+                },
+                {
+                    "wordId": "贾静雯",
+                    "icon": false
+                },
+                {
+                    "wordId": "陈妍希",
+                    "icon": false
+                },
+                {
+                    "wordId": "陈乔恩",
+                    "icon": false
+                },
+                {
+                    "wordId": "张震",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水星",
+                    "icon": false
+                },
+                {
+                    "wordId": "木星",
+                    "icon": false
+                },
+                {
+                    "wordId": "土星",
+                    "icon": false
+                },
+                {
+                    "wordId": "天王星",
+                    "icon": false
+                },
+                {
+                    "wordId": "海王星",
+                    "icon": false
+                },
+                {
+                    "wordId": "火星",
+                    "icon": false
+                },
+                {
+                    "wordId": "地球",
+                    "icon": false
+                },
+                {
+                    "wordId": "金星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "经典歌曲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甜蜜蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "夜来香",
+                    "icon": false
+                },
+                {
+                    "wordId": "后来",
+                    "icon": false
+                },
+                {
+                    "wordId": "童年",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞女",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱拼才会赢",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄树",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒干倘卖无",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "脸部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脸颊",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘴唇",
+                    "icon": false
+                },
+                {
+                    "wordId": "眉毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻子",
+                    "icon": false
+                },
+                {
+                    "wordId": "下巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼睛",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘴巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻孔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "早餐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "煎蛋卷",
+                    "icon": false
+                },
+                {
+                    "wordId": "培根",
+                    "icon": false
+                },
+                {
+                    "wordId": "华夫饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "麦片",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸡蛋",
+                    "icon": false
+                },
+                {
+                    "wordId": "吐司",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "课程",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生物",
+                    "icon": false
+                },
+                {
+                    "wordId": "物理",
+                    "icon": false
+                },
+                {
+                    "wordId": "几何",
+                    "icon": false
+                },
+                {
+                    "wordId": "代数",
+                    "icon": false
+                },
+                {
+                    "wordId": "历史",
+                    "icon": false
+                },
+                {
+                    "wordId": "微积分",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "服装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "套头衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛仔裤",
+                    "icon": true
+                },
+                {
+                    "wordId": "裤子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "交通工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "直升机",
+                    "icon": true
+                },
+                {
+                    "wordId": "火车",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞机",
+                    "icon": true
+                },
+                {
+                    "wordId": "计程车",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑板车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "感官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嗅觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "触觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "味觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "视觉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诗人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "李白",
+                    "icon": false
+                },
+                {
+                    "wordId": "覃子豪",
+                    "icon": false
+                },
+                {
+                    "wordId": "杜甫",
+                    "icon": false
+                },
+                {
+                    "wordId": "余光中",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "药片",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "片剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "胶囊",
+                    "icon": false
+                },
+                {
+                    "wordId": "含片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "雨天",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "云",
+                    "icon": false
+                },
+                {
+                    "wordId": "阵雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "水坑",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "飞机",
+        "水星",
+        "下巴",
+        "代数",
+        "含片",
+        "陈乔恩",
+        "眉毛",
+        "张震",
+        "裤子",
+        "雨天",
+        "水坑",
+        "鼻子",
+        "土星",
+        "夹克",
+        "夜来香",
+        "彭于晏",
+        "牛仔裤",
+        "物理",
+        "童年",
+        "微积分",
+        "火星",
+        "培根",
+        "套头衫",
+        "行星",
+        "眼睛",
+        "几何",
+        "滑板车",
+        "云",
+        "海王星",
+        "天王星",
+        "橄榄树",
+        "麦片",
+        "交通工具",
+        "杜甫",
+        "脸部",
+        "舒淇",
+        "舞女",
+        "嗅觉",
+        "火车",
+        "金星",
+        "鸡蛋",
+        "味觉",
+        "甜蜜蜜",
+        "煎蛋卷",
+        "覃子豪",
+        "毛衣",
+        "早餐",
+        "余光中",
+        "华夫饼",
+        "课程",
+        "嘴唇",
+        "陈妍希",
+        "脸颊",
+        "李白",
+        "胶囊",
+        "后来",
+        "片剂",
+        "酒干倘卖无",
+        "计程车",
+        "生物",
+        "阵雨",
+        "触觉"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "吐司",
+                "阮经天",
+                "历史"
+            ]
+        },
+        {
+            "cards": [
+                "木星",
+                "诗人",
+                "经典歌曲",
+                "嘴巴"
+            ]
+        },
+        {
+            "cards": [
+                "直升机",
+                "药片",
+                "视觉",
+                "感官",
+                "爱拼才会赢"
+            ]
+        },
+        {
+            "cards": [
+                "地球",
+                "演员",
+                "鼻孔",
+                "林青霞",
+                "服装",
+                "贾静雯"
+            ]
+        }
+    ]
+}

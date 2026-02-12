@@ -1,0 +1,369 @@
+{
+    "levelId": 89,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "八",
+                    "icon": true
+                },
+                {
+                    "wordId": "七",
+                    "icon": true
+                },
+                {
+                    "wordId": "五",
+                    "icon": true
+                },
+                {
+                    "wordId": "六",
+                    "icon": true
+                },
+                {
+                    "wordId": "三",
+                    "icon": true
+                },
+                {
+                    "wordId": "二",
+                    "icon": true
+                },
+                {
+                    "wordId": "零",
+                    "icon": true
+                },
+                {
+                    "wordId": "九",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "赞同",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "好的",
+                    "icon": false
+                },
+                {
+                    "wordId": "很好",
+                    "icon": false
+                },
+                {
+                    "wordId": "不错",
+                    "icon": false
+                },
+                {
+                    "wordId": "行",
+                    "icon": false
+                },
+                {
+                    "wordId": "好",
+                    "icon": false
+                },
+                {
+                    "wordId": "可以",
+                    "icon": false
+                },
+                {
+                    "wordId": "支持",
+                    "icon": false
+                },
+                {
+                    "wordId": "同意",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地质学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "岩浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "化石",
+                    "icon": false
+                },
+                {
+                    "wordId": "地幔",
+                    "icon": false
+                },
+                {
+                    "wordId": "断层",
+                    "icon": false
+                },
+                {
+                    "wordId": "海脊",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": false
+                },
+                {
+                    "wordId": "侵蚀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "年龄段",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "成年人",
+                    "icon": true
+                },
+                {
+                    "wordId": "青少年",
+                    "icon": true
+                },
+                {
+                    "wordId": "儿童",
+                    "icon": true
+                },
+                {
+                    "wordId": "幼儿",
+                    "icon": true
+                },
+                {
+                    "wordId": "新生儿",
+                    "icon": true
+                },
+                {
+                    "wordId": "老年人",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "时间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "秒",
+                    "icon": false
+                },
+                {
+                    "wordId": "分钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "小时",
+                    "icon": false
+                },
+                {
+                    "wordId": "周",
+                    "icon": false
+                },
+                {
+                    "wordId": "月",
+                    "icon": false
+                },
+                {
+                    "wordId": "年",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宝石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红宝石",
+                    "icon": true
+                },
+                {
+                    "wordId": "钻石",
+                    "icon": true
+                },
+                {
+                    "wordId": "祖母绿",
+                    "icon": true
+                },
+                {
+                    "wordId": "珍珠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "眼睛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼泪",
+                    "icon": false
+                },
+                {
+                    "wordId": "眨眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "使眼色",
+                    "icon": false
+                },
+                {
+                    "wordId": "凝视",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烹饪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "煎",
+                    "icon": false
+                },
+                {
+                    "wordId": "煮",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤",
+                    "icon": false
+                },
+                {
+                    "wordId": "烘烤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "邮政",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邮票",
+                    "icon": true
+                },
+                {
+                    "wordId": "包裹",
+                    "icon": true
+                },
+                {
+                    "wordId": "信件",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "商店",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "超市",
+                    "icon": false
+                },
+                {
+                    "wordId": "折扣店",
+                    "icon": false
+                },
+                {
+                    "wordId": "购物中心",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "岩浆",
+        "九",
+        "零",
+        "八",
+        "七",
+        "同意",
+        "幼儿",
+        "邮政",
+        "月",
+        "煮",
+        "眼睛",
+        "信件",
+        "钻石",
+        "三",
+        "包裹",
+        "眨眼",
+        "小时",
+        "火山",
+        "海脊",
+        "成年人",
+        "珍珠",
+        "五",
+        "断层",
+        "烤",
+        "侵蚀",
+        "红宝石",
+        "新生儿",
+        "行",
+        "很好",
+        "二",
+        "超市",
+        "邮票",
+        "眼泪",
+        "好",
+        "青少年",
+        "数字",
+        "年龄段",
+        "凝视",
+        "好的",
+        "六",
+        "宝石",
+        "祖母绿"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "秒",
+                "烹饪",
+                "赞同",
+                "化石"
+            ]
+        },
+        {
+            "cards": [
+                "年",
+                "不错",
+                "地幔",
+                "购物中心",
+                "儿童"
+            ]
+        },
+        {
+            "cards": [
+                "时间",
+                "分钟",
+                "可以",
+                "商店",
+                "使眼色",
+                "老年人"
+            ]
+        },
+        {
+            "cards": [
+                "折扣店",
+                "烘烤",
+                "冰川",
+                "地质学",
+                "支持",
+                "煎",
+                "周"
+            ]
+        }
+    ]
+}

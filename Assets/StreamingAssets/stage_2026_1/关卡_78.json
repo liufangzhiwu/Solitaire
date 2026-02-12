@@ -1,0 +1,369 @@
+{
+    "levelId": 78,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "沙丘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海市蜃楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "日落",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙坑",
+                    "icon": false
+                },
+                {
+                    "wordId": "足迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "头巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "热空气",
+                    "icon": false
+                },
+                {
+                    "wordId": "游牧者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "符文",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神秘的",
+                    "icon": false
+                },
+                {
+                    "wordId": "失落的",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐藏的",
+                    "icon": false
+                },
+                {
+                    "wordId": "古老的",
+                    "icon": false
+                },
+                {
+                    "wordId": "褪色的",
+                    "icon": false
+                },
+                {
+                    "wordId": "神圣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "秘密的",
+                    "icon": false
+                },
+                {
+                    "wordId": "有标记的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "马赛克",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瓷砖",
+                    "icon": true
+                },
+                {
+                    "wordId": "装饰",
+                    "icon": true
+                },
+                {
+                    "wordId": "镜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "纹理",
+                    "icon": true
+                },
+                {
+                    "wordId": "壁画",
+                    "icon": true
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": true
+                },
+                {
+                    "wordId": "画框",
+                    "icon": true
+                },
+                {
+                    "wordId": "网格",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "脉搏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳动",
+                    "icon": false
+                },
+                {
+                    "wordId": "疾跳",
+                    "icon": false
+                },
+                {
+                    "wordId": "搏动",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏跳",
+                    "icon": false
+                },
+                {
+                    "wordId": "颤动",
+                    "icon": false
+                },
+                {
+                    "wordId": "涌动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "回声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "声音",
+                    "icon": false
+                },
+                {
+                    "wordId": "混响",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼喊",
+                    "icon": false
+                },
+                {
+                    "wordId": "噪音",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "钟声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "市场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "袋子",
+                    "icon": true
+                },
+                {
+                    "wordId": "商品",
+                    "icon": true
+                },
+                {
+                    "wordId": "水果",
+                    "icon": true
+                },
+                {
+                    "wordId": "标签",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "钱包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮革",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡片",
+                    "icon": false
+                },
+                {
+                    "wordId": "现金",
+                    "icon": false
+                },
+                {
+                    "wordId": "收纳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水手",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "旗帜",
+                    "icon": true
+                },
+                {
+                    "wordId": "风暴",
+                    "icon": true
+                },
+                {
+                    "wordId": "绳结",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "可可",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巧克力",
+                    "icon": false
+                },
+                {
+                    "wordId": "豆荚",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉末",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "歌剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "角色",
+                    "icon": false
+                },
+                {
+                    "wordId": "首席女歌手",
+                    "icon": false
+                },
+                {
+                    "wordId": "幕",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "袋子",
+        "壁画",
+        "游牧者",
+        "符文",
+        "跳动",
+        "钟声",
+        "神圣的",
+        "沙坑",
+        "马赛克",
+        "收纳",
+        "纹理",
+        "瓷砖",
+        "热空气",
+        "粉末",
+        "隐藏的",
+        "首席女歌手",
+        "绿洲",
+        "水果",
+        "幕",
+        "可可",
+        "混响",
+        "网格",
+        "海市蜃楼",
+        "巧克力",
+        "标签",
+        "绳结",
+        "回声",
+        "风暴",
+        "褪色的",
+        "涌动",
+        "现金",
+        "角色",
+        "装饰",
+        "噪音",
+        "卡片",
+        "失落的",
+        "秘密的",
+        "颤动",
+        "商品",
+        "歌剧",
+        "疾跳",
+        "神秘的"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "日落",
+                "皮革",
+                "绳子",
+                "水手"
+            ]
+        },
+        {
+            "cards": [
+                "有标记的",
+                "钱包",
+                "声音",
+                "旗帜",
+                "足迹"
+            ]
+        },
+        {
+            "cards": [
+                "头巾",
+                "拼图",
+                "脉搏",
+                "镜子",
+                "画框",
+                "洞穴"
+            ]
+        },
+        {
+            "cards": [
+                "市场",
+                "豆荚",
+                "漏跳",
+                "呼喊",
+                "古老的",
+                "搏动",
+                "沙丘"
+            ]
+        }
+    ]
+}

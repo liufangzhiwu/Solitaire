@@ -1,0 +1,521 @@
+{
+    "levelId": 177,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "李子",
+                    "icon": true
+                },
+                {
+                    "wordId": "无花果",
+                    "icon": true
+                },
+                {
+                    "wordId": "柠檬",
+                    "icon": true
+                },
+                {
+                    "wordId": "番石榴",
+                    "icon": true
+                },
+                {
+                    "wordId": "杏",
+                    "icon": true
+                },
+                {
+                    "wordId": "梨",
+                    "icon": true
+                },
+                {
+                    "wordId": "青柠",
+                    "icon": true
+                },
+                {
+                    "wordId": "枇杷",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "海滩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邦迪海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "威基基海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊帕内玛海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "马里布海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔里法海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "布莱顿海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "代托纳海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "坎昆海滩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "形状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椭圆",
+                    "icon": true
+                },
+                {
+                    "wordId": "正方形",
+                    "icon": true
+                },
+                {
+                    "wordId": "七边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "菱形",
+                    "icon": true
+                },
+                {
+                    "wordId": "九边形",
+                    "icon": true
+                },
+                {
+                    "wordId": "星形",
+                    "icon": true
+                },
+                {
+                    "wordId": "钻石形",
+                    "icon": true
+                },
+                {
+                    "wordId": "棱柱形",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "向下",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羽绒",
+                    "icon": false
+                },
+                {
+                    "wordId": "坠落",
+                    "icon": false
+                },
+                {
+                    "wordId": "绒毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "沮丧",
+                    "icon": false
+                },
+                {
+                    "wordId": "放下",
+                    "icon": false
+                },
+                {
+                    "wordId": "下跌",
+                    "icon": false
+                },
+                {
+                    "wordId": "击倒",
+                    "icon": false
+                },
+                {
+                    "wordId": "关闭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "质感",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "粗糙的",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛茸茸的",
+                    "icon": false
+                },
+                {
+                    "wordId": "有颗粒感的",
+                    "icon": false
+                },
+                {
+                    "wordId": "凹凸不平的",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅绒般",
+                    "icon": false
+                },
+                {
+                    "wordId": "光滑的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "哺乳动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "老虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "考拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "兔子",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "獾",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄鼠狼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谜语",
+                    "icon": false
+                },
+                {
+                    "wordId": "悖论",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "智力题",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜团",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐谜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "五重奏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "长号",
+                    "icon": true
+                },
+                {
+                    "wordId": "双簧管",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢琴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "器官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胰腺",
+                    "icon": false
+                },
+                {
+                    "wordId": "大脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "肝脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "肺",
+                    "icon": false
+                },
+                {
+                    "wordId": "肾脏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牙形石",
+                    "icon": false
+                },
+                {
+                    "wordId": "海百合",
+                    "icon": false
+                },
+                {
+                    "wordId": "介形虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "海胆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "符文",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔符",
+                    "icon": false
+                },
+                {
+                    "wordId": "图示",
+                    "icon": false
+                },
+                {
+                    "wordId": "标记",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "药水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "血清",
+                    "icon": false
+                },
+                {
+                    "wordId": "草药浸剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "酿造物",
+                    "icon": false
+                },
+                {
+                    "wordId": "长生不老药",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "隧道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "竖井",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "咒语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "诅咒",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄运",
+                    "icon": false
+                },
+                {
+                    "wordId": "魅惑",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大脑",
+        "邦迪海滩",
+        "魅惑",
+        "通道",
+        "星形",
+        "伊帕内玛海滩",
+        "黄鼠狼",
+        "咒语",
+        "谜题",
+        "布莱顿海滩",
+        "肺",
+        "钻石形",
+        "洞穴",
+        "羽绒",
+        "草药浸剂",
+        "老虎",
+        "兔子",
+        "器官",
+        "考拉",
+        "梨",
+        "光滑的",
+        "粗糙的",
+        "獾",
+        "击倒",
+        "智力题",
+        "隐谜",
+        "肝脏",
+        "密码",
+        "坎昆海滩",
+        "诅咒",
+        "放下",
+        "化石",
+        "大提琴",
+        "标记",
+        "长生不老药",
+        "毛茸茸的",
+        "李子",
+        "钢琴",
+        "介形虫",
+        "沮丧",
+        "枇杷",
+        "柠檬",
+        "绒毛",
+        "无花果",
+        "向下",
+        "下跌",
+        "有颗粒感的",
+        "厄运",
+        "青柠",
+        "符号",
+        "悖论",
+        "哺乳动物",
+        "威基基海滩",
+        "小提琴",
+        "马里布海滩",
+        "图示",
+        "双簧管"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "七边形",
+                "海滩",
+                "五重奏",
+                "杏",
+                "九边形"
+            ]
+        },
+        {
+            "cards": [
+                "隧道",
+                "血清",
+                "凹凸不平的",
+                "番石榴",
+                "海百合",
+                "长号"
+            ]
+        },
+        {
+            "cards": [
+                "药水",
+                "谜语",
+                "牙形石",
+                "酿造物",
+                "竖井",
+                "棱柱形",
+                "美洲虎"
+            ]
+        },
+        {
+            "cards": [
+                "正方形",
+                "关闭",
+                "形状",
+                "谜团",
+                "代托纳海滩",
+                "水果",
+                "魔符",
+                "天鹅绒般"
+            ]
+        },
+        {
+            "cards": [
+                "坠落",
+                "肾脏",
+                "质感",
+                "海胆",
+                "胰腺",
+                "塔里法海滩",
+                "符文",
+                "菱形",
+                "椭圆"
+            ]
+        }
+    ]
+}

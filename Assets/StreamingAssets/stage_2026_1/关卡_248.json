@@ -1,0 +1,553 @@
+{
+    "levelId": 248,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "有毒的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毛地黄",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹竹桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "砷",
+                    "icon": false
+                },
+                {
+                    "wordId": "氰化物",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶意评论",
+                    "icon": false
+                },
+                {
+                    "wordId": "氯气",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶毒的人",
+                    "icon": false
+                },
+                {
+                    "wordId": "有毒废物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "船帆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "前帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "索具",
+                    "icon": false
+                },
+                {
+                    "wordId": "支索帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "斜桁帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉丁帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "主帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "基因帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "风暴帆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神职人员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉比",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊玛目",
+                    "icon": false
+                },
+                {
+                    "wordId": "教皇",
+                    "icon": false
+                },
+                {
+                    "wordId": "执事",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "主教",
+                    "icon": false
+                },
+                {
+                    "wordId": "红衣主教",
+                    "icon": false
+                },
+                {
+                    "wordId": "诵经员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "视力",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "角膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "近视",
+                    "icon": false
+                },
+                {
+                    "wordId": "晶状体",
+                    "icon": false
+                },
+                {
+                    "wordId": "视网膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "屈光度",
+                    "icon": false
+                },
+                {
+                    "wordId": "巩膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "瞳孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼球",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "陆禽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雉鸡",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹌鹑",
+                    "icon": false
+                },
+                {
+                    "wordId": "松鸡",
+                    "icon": false
+                },
+                {
+                    "wordId": "凤冠雉",
+                    "icon": false
+                },
+                {
+                    "wordId": "孔雀",
+                    "icon": false
+                },
+                {
+                    "wordId": "冢雉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "玄妙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "深奥",
+                    "icon": false
+                },
+                {
+                    "wordId": "晦涩",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄学",
+                    "icon": false
+                },
+                {
+                    "wordId": "秘术",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐秘",
+                    "icon": false
+                },
+                {
+                    "wordId": "费解",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "六足昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苍蝇",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜻蜓",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜜蜂",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚂蚁",
+                    "icon": true
+                },
+                {
+                    "wordId": "甲虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "瓢虫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "国际棋子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "王",
+                    "icon": true
+                },
+                {
+                    "wordId": "后",
+                    "icon": true
+                },
+                {
+                    "wordId": "车",
+                    "icon": true
+                },
+                {
+                    "wordId": "马",
+                    "icon": true
+                },
+                {
+                    "wordId": "兵",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "梗犬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猎狐梗",
+                    "icon": false
+                },
+                {
+                    "wordId": "边境梗",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩具梗",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏格兰梗",
+                    "icon": false
+                },
+                {
+                    "wordId": "约克夏梗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饼干",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薄脆饼干",
+                    "icon": false
+                },
+                {
+                    "wordId": "小饼干",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式脆饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "马卡龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙地饼干",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粉尘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尘卷风",
+                    "icon": false
+                },
+                {
+                    "wordId": "宇宙尘",
+                    "icon": false
+                },
+                {
+                    "wordId": "尘螨",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤尘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "铁相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熨斗",
+                    "icon": false
+                },
+                {
+                    "wordId": "红细胞",
+                    "icon": false
+                },
+                {
+                    "wordId": "工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "元素",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "土星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星环",
+                    "icon": false
+                },
+                {
+                    "wordId": "小卫星",
+                    "icon": false
+                },
+                {
+                    "wordId": "土卫六",
+                    "icon": false
+                },
+                {
+                    "wordId": "土卫五",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "斯芬克斯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人头",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮身",
+                    "icon": true
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "极乐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幸福",
+                    "icon": false
+                },
+                {
+                    "wordId": "欣快",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂喜",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "斜桁帆",
+        "鹌鹑",
+        "尘卷风",
+        "孔雀",
+        "风暴帆",
+        "毛地黄",
+        "伊玛目",
+        "基因帆",
+        "人头",
+        "毛拉",
+        "土卫六",
+        "夹竹桃",
+        "粉尘",
+        "红衣主教",
+        "极乐",
+        "玩具梗",
+        "狮身",
+        "陆禽",
+        "欣快",
+        "蜻蜓",
+        "国际棋子",
+        "车",
+        "小卫星",
+        "小饼干",
+        "薄脆饼干",
+        "教皇",
+        "猎狐梗",
+        "玄学",
+        "瞳孔",
+        "瓢虫",
+        "翅膀",
+        "斯芬克斯",
+        "有毒废物",
+        "甲虫",
+        "宇宙尘",
+        "支索帆",
+        "视网膜",
+        "红细胞",
+        "诵经员",
+        "狂喜",
+        "巩膜",
+        "费解",
+        "神职人员",
+        "晶状体",
+        "冢雉",
+        "沙地饼干",
+        "熨斗",
+        "土卫五",
+        "马卡龙",
+        "后",
+        "兵",
+        "边境梗",
+        "梗犬",
+        "眼球",
+        "蚂蚁",
+        "星环",
+        "角膜",
+        "砷",
+        "王",
+        "主教",
+        "深奥",
+        "主帆",
+        "幸福"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "凤冠雉",
+                "苍蝇",
+                "氯气",
+                "近视",
+                "六足昆虫"
+            ]
+        },
+        {
+            "cards": [
+                "土星",
+                "约克夏梗",
+                "玄妙",
+                "隐秘",
+                "工具",
+                "屈光度"
+            ]
+        },
+        {
+            "cards": [
+                "饼干",
+                "索具",
+                "前帆",
+                "执事",
+                "松鸡",
+                "意式脆饼",
+                "拉比"
+            ]
+        },
+        {
+            "cards": [
+                "视力",
+                "尘螨",
+                "氰化物",
+                "恶毒的人",
+                "恶意评论",
+                "秘术",
+                "船帆",
+                "拉丁帆"
+            ]
+        },
+        {
+            "cards": [
+                "铁相关",
+                "苏格兰梗",
+                "煤尘",
+                "雉鸡",
+                "元素",
+                "蜜蜂",
+                "有毒的",
+                "晦涩",
+                "马"
+            ]
+        }
+    ]
+}

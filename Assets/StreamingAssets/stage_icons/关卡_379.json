@@ -1,0 +1,369 @@
+{
+    "levelId": 379,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "航海",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船锚",
+                    "icon": false
+                },
+                {
+                    "wordId": "船尾",
+                    "icon": false
+                },
+                {
+                    "wordId": "左舷",
+                    "icon": false
+                },
+                {
+                    "wordId": "甲板",
+                    "icon": false
+                },
+                {
+                    "wordId": "桅杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "船首三角帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "方向舵",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "浆果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "越橘",
+                    "icon": false
+                },
+                {
+                    "wordId": "醋栗",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑葚",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏牛花",
+                    "icon": false
+                },
+                {
+                    "wordId": "枸杞",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰莓",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙龙白珠树",
+                    "icon": false
+                },
+                {
+                    "wordId": "露莓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纸牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "A牌",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心3",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心Q",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心J",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心10",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心9",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心8",
+                    "icon": true
+                },
+                {
+                    "wordId": "红心7",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "热气球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "压舱物",
+                    "icon": false
+                },
+                {
+                    "wordId": "气囊",
+                    "icon": false
+                },
+                {
+                    "wordId": "吊篮",
+                    "icon": false
+                },
+                {
+                    "wordId": "燃烧器",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷嘴",
+                    "icon": false
+                },
+                {
+                    "wordId": "空气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幻兽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狮鹫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛇怪",
+                    "icon": true
+                },
+                {
+                    "wordId": "双足飞龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "水鬼马",
+                    "icon": true
+                },
+                {
+                    "wordId": "奇美拉",
+                    "icon": true
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "调式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伊奥尼亚调式",
+                    "icon": false
+                },
+                {
+                    "wordId": "多利亚调式",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗里吉亚调式",
+                    "icon": false
+                },
+                {
+                    "wordId": "利底亚调式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砷",
+                    "icon": false
+                },
+                {
+                    "wordId": "氰化物",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌头",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓖麻毒素",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "隘口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山口",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "山隘",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞍部",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "杂草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蓟",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛蒡",
+                    "icon": false
+                },
+                {
+                    "wordId": "荨麻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "峭壁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "孤峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脊",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖峰",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "航海",
+        "泰莓",
+        "醋栗",
+        "燃烧器",
+        "山口",
+        "水鬼马",
+        "左舷",
+        "鞍部",
+        "船锚",
+        "调式",
+        "露莓",
+        "红心J",
+        "多利亚调式",
+        "枸杞",
+        "毒物",
+        "红心Q",
+        "沙龙白珠树",
+        "空气",
+        "荨麻",
+        "红心7",
+        "伏牛花",
+        "红心3",
+        "方向舵",
+        "峭壁",
+        "喷嘴",
+        "狮鹫",
+        "吊篮",
+        "甲板",
+        "桅杆",
+        "热气球",
+        "山隘",
+        "龙骨",
+        "压舱物",
+        "伊奥尼亚调式",
+        "尖峰",
+        "孤峰",
+        "砷",
+        "桑葚",
+        "A牌",
+        "蛇怪",
+        "奇美拉",
+        "牛蒡"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "蓖麻毒素",
+                "双足飞龙",
+                "山脊",
+                "蓟"
+            ]
+        },
+        {
+            "cards": [
+                "利底亚调式",
+                "船首三角帆",
+                "浆果",
+                "红心10",
+                "北海巨妖"
+            ]
+        },
+        {
+            "cards": [
+                "红心9",
+                "幻兽",
+                "红心8",
+                "隘口",
+                "气囊",
+                "弗里吉亚调式"
+            ]
+        },
+        {
+            "cards": [
+                "船尾",
+                "乌头",
+                "纸牌",
+                "峡谷",
+                "杂草",
+                "越橘",
+                "氰化物"
+            ]
+        }
+    ]
+}

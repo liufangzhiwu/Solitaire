@@ -1,0 +1,369 @@
+{
+    "levelId": 28,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "僵尸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爆发",
+                    "icon": false
+                },
+                {
+                    "wordId": "咬伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "尸群",
+                    "icon": false
+                },
+                {
+                    "wordId": "不死生物",
+                    "icon": false
+                },
+                {
+                    "wordId": "变异",
+                    "icon": false
+                },
+                {
+                    "wordId": "病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "幸存者",
+                    "icon": false
+                },
+                {
+                    "wordId": "行尸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "矿物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "方解石",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝铜矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "云母",
+                    "icon": false
+                },
+                {
+                    "wordId": "大理石",
+                    "icon": false
+                },
+                {
+                    "wordId": "石英",
+                    "icon": false
+                },
+                {
+                    "wordId": "石灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿柱石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "西餐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "比萨",
+                    "icon": true
+                },
+                {
+                    "wordId": "汉堡",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛排",
+                    "icon": true
+                },
+                {
+                    "wordId": "意大利面",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹅肝",
+                    "icon": true
+                },
+                {
+                    "wordId": "法式焗蜗牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "罗宋汤",
+                    "icon": true
+                },
+                {
+                    "wordId": "提拉米苏",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "雨伞相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛毛雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "倾盆大雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "降雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "阵雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "雨滴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "头衔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苏丹",
+                    "icon": true
+                },
+                {
+                    "wordId": "埃米尔",
+                    "icon": true
+                },
+                {
+                    "wordId": "伯爵",
+                    "icon": true
+                },
+                {
+                    "wordId": "男爵",
+                    "icon": true
+                },
+                {
+                    "wordId": "酋长",
+                    "icon": true
+                },
+                {
+                    "wordId": "王子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "辐射",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "衰变",
+                    "icon": false
+                },
+                {
+                    "wordId": "辐射尘",
+                    "icon": false
+                },
+                {
+                    "wordId": "居里",
+                    "icon": false
+                },
+                {
+                    "wordId": "X射线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "警报",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "警报器",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽笛",
+                    "icon": false
+                },
+                {
+                    "wordId": "哨子",
+                    "icon": false
+                },
+                {
+                    "wordId": "电喇叭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "激素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胰高血糖素",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮质醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "胰岛素",
+                    "icon": false
+                },
+                {
+                    "wordId": "胃泌素",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "眼睛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "虹膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "瞳孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "视网膜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "铲子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "挖掘",
+                    "icon": false
+                },
+                {
+                    "wordId": "发掘",
+                    "icon": false
+                },
+                {
+                    "wordId": "掘出",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "石膏",
+        "意大利面",
+        "降雨",
+        "居里",
+        "云母",
+        "不死生物",
+        "胰岛素",
+        "尸群",
+        "变异",
+        "比萨",
+        "矿物",
+        "石英",
+        "激素",
+        "视网膜",
+        "幸存者",
+        "罗宋汤",
+        "鹅肝",
+        "雨伞相关",
+        "伯爵",
+        "阵雨",
+        "汽笛",
+        "毛毛雨",
+        "病毒",
+        "大理石",
+        "倾盆大雨",
+        "虹膜",
+        "僵尸",
+        "汉堡",
+        "哨子",
+        "瞳孔",
+        "提拉米苏",
+        "衰变",
+        "挖掘",
+        "警报器",
+        "雨滴",
+        "胃泌素",
+        "西餐",
+        "X射线",
+        "爆发",
+        "王子",
+        "发掘",
+        "蓝铜矿"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "辐射",
+                "牛排",
+                "电喇叭",
+                "咬伤"
+            ]
+        },
+        {
+            "cards": [
+                "雨",
+                "男爵",
+                "铲子",
+                "皮质醇",
+                "胰高血糖素"
+            ]
+        },
+        {
+            "cards": [
+                "警报",
+                "眼睛",
+                "苏丹",
+                "辐射尘",
+                "掘出",
+                "法式焗蜗牛"
+            ]
+        },
+        {
+            "cards": [
+                "埃米尔",
+                "头衔",
+                "行尸",
+                "方解石",
+                "绿柱石",
+                "酋长",
+                "石灰"
+            ]
+        }
+    ]
+}

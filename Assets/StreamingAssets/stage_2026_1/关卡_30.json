@@ -1,0 +1,369 @@
+{
+    "levelId": 30,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 150,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "锌",
+                    "icon": false
+                },
+                {
+                    "wordId": "金",
+                    "icon": false
+                },
+                {
+                    "wordId": "银",
+                    "icon": false
+                },
+                {
+                    "wordId": "锡",
+                    "icon": false
+                },
+                {
+                    "wordId": "镍",
+                    "icon": false
+                },
+                {
+                    "wordId": "铬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蹄类动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "曲角羚",
+                    "icon": true
+                },
+                {
+                    "wordId": "长颈鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊驼",
+                    "icon": true
+                },
+                {
+                    "wordId": "羚羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "驼鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "霍加皮",
+                    "icon": true
+                },
+                {
+                    "wordId": "野牛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "放松",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水疗",
+                    "icon": false
+                },
+                {
+                    "wordId": "沐浴",
+                    "icon": false
+                },
+                {
+                    "wordId": "采耳",
+                    "icon": false
+                },
+                {
+                    "wordId": "按摩",
+                    "icon": false
+                },
+                {
+                    "wordId": "揉捏",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼吸",
+                    "icon": false
+                },
+                {
+                    "wordId": "艾灸",
+                    "icon": false
+                },
+                {
+                    "wordId": "推拿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "关系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邻居",
+                    "icon": false
+                },
+                {
+                    "wordId": "配偶",
+                    "icon": false
+                },
+                {
+                    "wordId": "家庭",
+                    "icon": false
+                },
+                {
+                    "wordId": "伴侣",
+                    "icon": false
+                },
+                {
+                    "wordId": "朋友",
+                    "icon": false
+                },
+                {
+                    "wordId": "亲戚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "三国典故",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苦肉计",
+                    "icon": false
+                },
+                {
+                    "wordId": "空城计",
+                    "icon": false
+                },
+                {
+                    "wordId": "草船借箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "美人计",
+                    "icon": false
+                },
+                {
+                    "wordId": "三顾茅庐",
+                    "icon": false
+                },
+                {
+                    "wordId": "借东风",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "防御",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "警卫",
+                    "icon": false
+                },
+                {
+                    "wordId": "闭路电视",
+                    "icon": false
+                },
+                {
+                    "wordId": "安保",
+                    "icon": false
+                },
+                {
+                    "wordId": "巡逻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "耳鼻喉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喉咙",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻窦",
+                    "icon": false
+                },
+                {
+                    "wordId": "扁桃体",
+                    "icon": false
+                },
+                {
+                    "wordId": "腺样体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "时刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "瞬间",
+                    "icon": false
+                },
+                {
+                    "wordId": "期限",
+                    "icon": false
+                },
+                {
+                    "wordId": "周期",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "作家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鲁迅",
+                    "icon": false
+                },
+                {
+                    "wordId": "高尔基",
+                    "icon": false
+                },
+                {
+                    "wordId": "余华",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粒子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "原子",
+                    "icon": false
+                },
+                {
+                    "wordId": "电子",
+                    "icon": false
+                },
+                {
+                    "wordId": "中子",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "三顾茅庐",
+        "呼吸",
+        "中子",
+        "三国典故",
+        "扁桃体",
+        "蹄类动物",
+        "羚羊",
+        "沐浴",
+        "警卫",
+        "闭路电视",
+        "巡逻",
+        "金",
+        "艾灸",
+        "邻居",
+        "铬",
+        "曲角羚",
+        "水疗",
+        "作家",
+        "期限",
+        "锡",
+        "苦肉计",
+        "喉咙",
+        "野牛",
+        "揉捏",
+        "驼鹿",
+        "鼻窦",
+        "采耳",
+        "余华",
+        "伴侣",
+        "铜",
+        "美人计",
+        "斑马",
+        "放松",
+        "腺样体",
+        "草船借箭",
+        "安保",
+        "借东风",
+        "关系",
+        "鲁迅",
+        "电子",
+        "镍",
+        "推拿"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "周期",
+                "银",
+                "亲戚",
+                "家庭"
+            ]
+        },
+        {
+            "cards": [
+                "耳鼻喉",
+                "朋友",
+                "高尔基",
+                "按摩",
+                "时间"
+            ]
+        },
+        {
+            "cards": [
+                "铁",
+                "粒子",
+                "金属",
+                "羊驼",
+                "锌",
+                "霍加皮"
+            ]
+        },
+        {
+            "cards": [
+                "瞬间",
+                "时刻",
+                "长颈鹿",
+                "空城计",
+                "原子",
+                "配偶",
+                "防御"
+            ]
+        }
+    ]
+}

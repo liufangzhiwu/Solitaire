@@ -1,0 +1,553 @@
+{
+    "levelId": 363,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "资讯技术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "代码",
+                    "icon": false
+                },
+                {
+                    "wordId": "系统",
+                    "icon": false
+                },
+                {
+                    "wordId": "电脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "服务器",
+                    "icon": false
+                },
+                {
+                    "wordId": "调制解调器",
+                    "icon": false
+                },
+                {
+                    "wordId": "后端",
+                    "icon": false
+                },
+                {
+                    "wordId": "前端",
+                    "icon": false
+                },
+                {
+                    "wordId": "语法",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "票务",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "入场",
+                    "icon": false
+                },
+                {
+                    "wordId": "通行证",
+                    "icon": false
+                },
+                {
+                    "wordId": "票根",
+                    "icon": false
+                },
+                {
+                    "wordId": "代金券",
+                    "icon": false
+                },
+                {
+                    "wordId": "优惠券",
+                    "icon": false
+                },
+                {
+                    "wordId": "许可证",
+                    "icon": false
+                },
+                {
+                    "wordId": "入口",
+                    "icon": false
+                },
+                {
+                    "wordId": "存根",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地板",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "油毡",
+                    "icon": false
+                },
+                {
+                    "wordId": "地毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼花地板",
+                    "icon": false
+                },
+                {
+                    "wordId": "复合地板",
+                    "icon": false
+                },
+                {
+                    "wordId": "大理石",
+                    "icon": false
+                },
+                {
+                    "wordId": "软木",
+                    "icon": false
+                },
+                {
+                    "wordId": "乙烯基",
+                    "icon": false
+                },
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "窗帘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "垂帘",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "帷幔",
+                    "icon": false
+                },
+                {
+                    "wordId": "挂毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "帘盒",
+                    "icon": false
+                },
+                {
+                    "wordId": "遮阳帘",
+                    "icon": false
+                },
+                {
+                    "wordId": "百叶窗",
+                    "icon": false
+                },
+                {
+                    "wordId": "百叶帘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "贝壳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "扇贝",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸟蛤",
+                    "icon": true
+                },
+                {
+                    "wordId": "滨螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "牡蛎",
+                    "icon": true
+                },
+                {
+                    "wordId": "帽贝",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "瓶子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "小瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "罐子",
+                    "icon": false
+                },
+                {
+                    "wordId": "醒酒器",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻璃瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "双耳瓶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卷轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "账簿",
+                    "icon": false
+                },
+                {
+                    "wordId": "记录",
+                    "icon": false
+                },
+                {
+                    "wordId": "大本书",
+                    "icon": false
+                },
+                {
+                    "wordId": "日志",
+                    "icon": false
+                },
+                {
+                    "wordId": "登记册",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "楼梯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梯级",
+                    "icon": false
+                },
+                {
+                    "wordId": "栏杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "台阶",
+                    "icon": false
+                },
+                {
+                    "wordId": "踏面",
+                    "icon": false
+                },
+                {
+                    "wordId": "楼梯柱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "链条",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镣铐",
+                    "icon": false
+                },
+                {
+                    "wordId": "链节",
+                    "icon": false
+                },
+                {
+                    "wordId": "环",
+                    "icon": false
+                },
+                {
+                    "wordId": "捆绑",
+                    "icon": false
+                },
+                {
+                    "wordId": "系绳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "螺栓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螺母",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "钉书钉",
+                    "icon": false
+                },
+                {
+                    "wordId": "销",
+                    "icon": false
+                },
+                {
+                    "wordId": "钉子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "窗户",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "窗格",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗框",
+                    "icon": false
+                },
+                {
+                    "wordId": "框架",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖框",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙漠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "新月形沙丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "骆驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "灼烧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电缆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "以太网",
+                    "icon": false
+                },
+                {
+                    "wordId": "光纤",
+                    "icon": false
+                },
+                {
+                    "wordId": "HDMI",
+                    "icon": false
+                },
+                {
+                    "wordId": "USB",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "支付",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "银行卡",
+                    "icon": true
+                },
+                {
+                    "wordId": "现金",
+                    "icon": true
+                },
+                {
+                    "wordId": "加密货币",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "喷雾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薄雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "露水",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "档案",
+        "栏杆",
+        "链条",
+        "登记册",
+        "新月形沙丘",
+        "螺母",
+        "帷幔",
+        "现金",
+        "海螺",
+        "记录",
+        "楼梯",
+        "销",
+        "地毯",
+        "卷轴",
+        "调制解调器",
+        "大本书",
+        "双耳瓶",
+        "踏面",
+        "票务",
+        "捆绑",
+        "系统",
+        "存根",
+        "露水",
+        "罐子",
+        "软木",
+        "代金券",
+        "以太网",
+        "语法",
+        "灼烧",
+        "环",
+        "帽贝",
+        "烧瓶",
+        "代码",
+        "日志",
+        "遮阳帘",
+        "竖框",
+        "沙漠",
+        "入口",
+        "加密货币",
+        "鸟蛤",
+        "镣铐",
+        "光纤",
+        "账簿",
+        "大理石",
+        "入场",
+        "通行证",
+        "百叶窗",
+        "梯级",
+        "螺栓",
+        "链节",
+        "票根",
+        "HDMI",
+        "油毡",
+        "服务器",
+        "薄雾",
+        "优惠券",
+        "后端",
+        "牡蛎",
+        "雾",
+        "拼花地板",
+        "支付",
+        "框架",
+        "扣眼"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "骆驼",
+                "USB",
+                "钉子",
+                "楼梯柱",
+                "醒酒器"
+            ]
+        },
+        {
+            "cards": [
+                "螺丝",
+                "台阶",
+                "沙丘",
+                "电缆",
+                "窗帘",
+                "扇贝"
+            ]
+        },
+        {
+            "cards": [
+                "百叶帘",
+                "系绳",
+                "电脑",
+                "喷雾",
+                "窗格",
+                "贝壳",
+                "资讯技术"
+            ]
+        },
+        {
+            "cards": [
+                "复合地板",
+                "挂毯",
+                "窗户",
+                "滨螺",
+                "前端",
+                "银行卡",
+                "乙烯基",
+                "玻璃瓶"
+            ]
+        },
+        {
+            "cards": [
+                "花岗岩",
+                "垂帘",
+                "帘盒",
+                "钉书钉",
+                "瓶子",
+                "地板",
+                "许可证",
+                "小瓶",
+                "窗框"
+            ]
+        }
+    ]
+}

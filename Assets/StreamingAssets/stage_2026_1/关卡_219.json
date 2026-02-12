@@ -1,0 +1,369 @@
+{
+    "levelId": 219,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "东方",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "东方的",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": false
+                },
+                {
+                    "wordId": "升起",
+                    "icon": false
+                },
+                {
+                    "wordId": "中国",
+                    "icon": false
+                },
+                {
+                    "wordId": "日本",
+                    "icon": false
+                },
+                {
+                    "wordId": "印度",
+                    "icon": false
+                },
+                {
+                    "wordId": "西藏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "哭泣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼泪",
+                    "icon": false
+                },
+                {
+                    "wordId": "啜泣",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽泣",
+                    "icon": false
+                },
+                {
+                    "wordId": "嚎啕",
+                    "icon": false
+                },
+                {
+                    "wordId": "哀号",
+                    "icon": false
+                },
+                {
+                    "wordId": "喊叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "呻吟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "移动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞",
+                    "icon": false
+                },
+                {
+                    "wordId": "猛冲",
+                    "icon": false
+                },
+                {
+                    "wordId": "走",
+                    "icon": false
+                },
+                {
+                    "wordId": "爬",
+                    "icon": false
+                },
+                {
+                    "wordId": "单脚跳",
+                    "icon": false
+                },
+                {
+                    "wordId": "跛行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "度量",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "克",
+                    "icon": false
+                },
+                {
+                    "wordId": "千克",
+                    "icon": false
+                },
+                {
+                    "wordId": "磅",
+                    "icon": false
+                },
+                {
+                    "wordId": "盎司",
+                    "icon": false
+                },
+                {
+                    "wordId": "公顷",
+                    "icon": false
+                },
+                {
+                    "wordId": "米",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绿色物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "草",
+                    "icon": true
+                },
+                {
+                    "wordId": "青蛙",
+                    "icon": true
+                },
+                {
+                    "wordId": "仙人掌",
+                    "icon": true
+                },
+                {
+                    "wordId": "芹菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "蕨类",
+                    "icon": true
+                },
+                {
+                    "wordId": "鬣蜥",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水管工",
+                    "icon": true
+                },
+                {
+                    "wordId": "服务员",
+                    "icon": true
+                },
+                {
+                    "wordId": "建筑工人",
+                    "icon": true
+                },
+                {
+                    "wordId": "法官",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "目标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "目的",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦点",
+                    "icon": false
+                },
+                {
+                    "wordId": "靶子",
+                    "icon": false
+                },
+                {
+                    "wordId": "计划",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "高的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "压力",
+                    "icon": false
+                },
+                {
+                    "wordId": "位置",
+                    "icon": false
+                },
+                {
+                    "wordId": "音量",
+                    "icon": false
+                },
+                {
+                    "wordId": "水准",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "作曲家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴赫",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫扎特",
+                    "icon": false
+                },
+                {
+                    "wordId": "肖邦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "下雨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雨伞",
+                    "icon": true
+                },
+                {
+                    "wordId": "水坑",
+                    "icon": true
+                },
+                {
+                    "wordId": "雨衣",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "法官",
+        "爬",
+        "莫扎特",
+        "雨伞",
+        "磅",
+        "移动",
+        "飞",
+        "太阳",
+        "肖邦",
+        "单脚跳",
+        "东方的",
+        "跛行",
+        "草",
+        "抽泣",
+        "亚洲",
+        "度量",
+        "啜泣",
+        "米",
+        "靶子",
+        "目的",
+        "水坑",
+        "职业",
+        "嚎啕",
+        "高的",
+        "哀号",
+        "盎司",
+        "呻吟",
+        "绿色物",
+        "水准",
+        "走",
+        "升起",
+        "蕨类",
+        "印度",
+        "公顷",
+        "压力",
+        "克",
+        "建筑工人",
+        "喊叫",
+        "千克",
+        "呼叫",
+        "跑",
+        "猛冲"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "下雨",
+                "东方",
+                "西藏",
+                "水管工"
+            ]
+        },
+        {
+            "cards": [
+                "中国",
+                "计划",
+                "日本",
+                "青蛙",
+                "眼泪"
+            ]
+        },
+        {
+            "cards": [
+                "哭泣",
+                "跳",
+                "作曲家",
+                "雨衣",
+                "芹菜",
+                "焦点"
+            ]
+        },
+        {
+            "cards": [
+                "位置",
+                "鬣蜥",
+                "巴赫",
+                "目标",
+                "仙人掌",
+                "音量",
+                "服务员"
+            ]
+        }
+    ]
+}

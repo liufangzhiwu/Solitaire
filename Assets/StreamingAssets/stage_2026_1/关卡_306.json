@@ -1,0 +1,369 @@
+{
+    "levelId": 306,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "家庭成员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "母亲",
+                    "icon": false
+                },
+                {
+                    "wordId": "父亲",
+                    "icon": false
+                },
+                {
+                    "wordId": "姐妹",
+                    "icon": false
+                },
+                {
+                    "wordId": "兄弟",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿姨",
+                    "icon": false
+                },
+                {
+                    "wordId": "叔叔",
+                    "icon": false
+                },
+                {
+                    "wordId": "表亲",
+                    "icon": false
+                },
+                {
+                    "wordId": "侄女",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "座椅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椅子",
+                    "icon": true
+                },
+                {
+                    "wordId": "凳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "长沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "脚凳",
+                    "icon": true
+                },
+                {
+                    "wordId": "豆袋椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "吊床",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狗",
+                    "icon": false
+                },
+                {
+                    "wordId": "猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "猪",
+                    "icon": false
+                },
+                {
+                    "wordId": "山羊",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹿",
+                    "icon": false
+                },
+                {
+                    "wordId": "狐狸",
+                    "icon": false
+                },
+                {
+                    "wordId": "狼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "餐食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "午餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "晚餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "早午餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "小吃",
+                    "icon": false
+                },
+                {
+                    "wordId": "晚饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "野餐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蔬菜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "芹菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "生菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜椒",
+                    "icon": true
+                },
+                {
+                    "wordId": "菠菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "西兰花",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "星期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星期一",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期二",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期五",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期日",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "护士",
+                    "icon": false
+                },
+                {
+                    "wordId": "医生",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行员",
+                    "icon": false
+                },
+                {
+                    "wordId": "面包师",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "池塘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "百合",
+                    "icon": false
+                },
+                {
+                    "wordId": "藻类",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥",
+                    "icon": false
+                },
+                {
+                    "wordId": "芦苇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英寸",
+                    "icon": false
+                },
+                {
+                    "wordId": "英里",
+                    "icon": false
+                },
+                {
+                    "wordId": "码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "连接物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "链条",
+                    "icon": true
+                },
+                {
+                    "wordId": "环圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "圆环",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "脚凳",
+        "圆环",
+        "兄弟",
+        "狐狸",
+        "狗",
+        "长沙发",
+        "父亲",
+        "午餐",
+        "餐食",
+        "池塘",
+        "星期五",
+        "泥",
+        "环圈",
+        "芦苇",
+        "凳子",
+        "护士",
+        "连接物",
+        "侄女",
+        "单位",
+        "吊床",
+        "长凳",
+        "阿姨",
+        "面包师",
+        "菠菜",
+        "英里",
+        "藻类",
+        "星期",
+        "山羊",
+        "姐妹",
+        "星期一",
+        "小吃",
+        "野餐",
+        "早午餐",
+        "胡萝卜",
+        "链条",
+        "表亲",
+        "甜椒",
+        "医生",
+        "豆袋椅",
+        "母亲",
+        "晚餐",
+        "椅子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "家庭成员",
+                "码",
+                "动物",
+                "牛"
+            ]
+        },
+        {
+            "cards": [
+                "叔叔",
+                "百合",
+                "狼",
+                "鹿",
+                "星期日"
+            ]
+        },
+        {
+            "cards": [
+                "星期二",
+                "蔬菜",
+                "飞行员",
+                "猫",
+                "英寸",
+                "西兰花"
+            ]
+        },
+        {
+            "cards": [
+                "沙发",
+                "晚饭",
+                "职业",
+                "芹菜",
+                "猪",
+                "座椅",
+                "生菜"
+            ]
+        }
+    ]
+}

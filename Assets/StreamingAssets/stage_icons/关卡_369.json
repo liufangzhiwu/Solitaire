@@ -1,0 +1,453 @@
+{
+    "levelId": 369,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 160,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "露营",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "庇护所",
+                    "icon": false
+                },
+                {
+                    "wordId": "独木舟",
+                    "icon": false
+                },
+                {
+                    "wordId": "指南针",
+                    "icon": false
+                },
+                {
+                    "wordId": "防水布",
+                    "icon": false
+                },
+                {
+                    "wordId": "火塘",
+                    "icon": false
+                },
+                {
+                    "wordId": "徒步者",
+                    "icon": false
+                },
+                {
+                    "wordId": "绳索",
+                    "icon": false
+                },
+                {
+                    "wordId": "背包",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恐龙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "霸王龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿氏盗龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "始盗龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "灭绝的",
+                    "icon": false
+                },
+                {
+                    "wordId": "侏罗纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "中生代",
+                    "icon": false
+                },
+                {
+                    "wordId": "白垩纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "化石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "岩石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "燧石",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮石",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄武岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "板岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "打火石",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑曜石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酒店",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "豪华房",
+                    "icon": false
+                },
+                {
+                    "wordId": "套房",
+                    "icon": false
+                },
+                {
+                    "wordId": "平房",
+                    "icon": false
+                },
+                {
+                    "wordId": "露台",
+                    "icon": false
+                },
+                {
+                    "wordId": "泳池",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒廊",
+                    "icon": false
+                },
+                {
+                    "wordId": "大堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "浴袍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "财富",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宝箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "王冠",
+                    "icon": false
+                },
+                {
+                    "wordId": "钱币",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝藏",
+                    "icon": false
+                },
+                {
+                    "wordId": "珠宝",
+                    "icon": false
+                },
+                {
+                    "wordId": "锭块",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "管件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弯头",
+                    "icon": false
+                },
+                {
+                    "wordId": "三通",
+                    "icon": false
+                },
+                {
+                    "wordId": "联轴器",
+                    "icon": false
+                },
+                {
+                    "wordId": "异径管",
+                    "icon": false
+                },
+                {
+                    "wordId": "法兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "活接",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "武士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "武士刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "武士道",
+                    "icon": false
+                },
+                {
+                    "wordId": "铠甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "切腹",
+                    "icon": false
+                },
+                {
+                    "wordId": "老师",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "车站",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "月台",
+                    "icon": false
+                },
+                {
+                    "wordId": "车票",
+                    "icon": false
+                },
+                {
+                    "wordId": "时刻表",
+                    "icon": false
+                },
+                {
+                    "wordId": "车厂",
+                    "icon": false
+                },
+                {
+                    "wordId": "检票口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卷轴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手卷",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸莎草纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "犊皮纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "抄本",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机器人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "机器狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "无人机",
+                    "icon": true
+                },
+                {
+                    "wordId": "扫地机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "机械臂",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "仙子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牙仙",
+                    "icon": true
+                },
+                {
+                    "wordId": "魔杖",
+                    "icon": true
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "烘焙坊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝果",
+                    "icon": true
+                },
+                {
+                    "wordId": "小圆面包",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "套房",
+        "锭块",
+        "酒廊",
+        "贝果",
+        "化石",
+        "徒步者",
+        "小圆面包",
+        "车厂",
+        "铠甲",
+        "切腹",
+        "露台",
+        "板岩",
+        "机械臂",
+        "中生代",
+        "王冠",
+        "绳索",
+        "三通",
+        "豪华房",
+        "纸莎草纸",
+        "宝藏",
+        "酒店",
+        "岩石",
+        "宝箱",
+        "始盗龙",
+        "老师",
+        "浮石",
+        "恐龙",
+        "火塘",
+        "独木舟",
+        "机器狗",
+        "犊皮纸",
+        "月台",
+        "叶岩",
+        "霸王龙",
+        "弯头",
+        "牙仙",
+        "花岗岩",
+        "烘焙坊",
+        "灭绝的",
+        "扫地机器人",
+        "泳池",
+        "管件",
+        "时刻表",
+        "浴袍",
+        "活接",
+        "阿氏盗龙",
+        "财富",
+        "抄本",
+        "联轴器",
+        "翅膀",
+        "侏罗纪",
+        "指南针",
+        "白垩纪",
+        "手卷"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "仙子",
+                "机器人",
+                "无人机",
+                "钱币",
+                "平房"
+            ]
+        },
+        {
+            "cards": [
+                "车票",
+                "武士道",
+                "珠宝",
+                "魔杖",
+                "玄武岩",
+                "法兰"
+            ]
+        },
+        {
+            "cards": [
+                "异径管",
+                "打火石",
+                "防水布",
+                "露营",
+                "背包",
+                "武士刀",
+                "卷轴"
+            ]
+        },
+        {
+            "cards": [
+                "黑曜石",
+                "车站",
+                "大堂",
+                "燧石",
+                "武士",
+                "检票口",
+                "庇护所",
+                "面包"
+            ]
+        }
+    ]
+}

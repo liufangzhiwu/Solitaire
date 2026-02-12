@@ -1,0 +1,369 @@
+{
+    "levelId": 69,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 150,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "密码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "访问",
+                    "icon": false
+                },
+                {
+                    "wordId": "登录",
+                    "icon": false
+                },
+                {
+                    "wordId": "密钥",
+                    "icon": false
+                },
+                {
+                    "wordId": "用户",
+                    "icon": false
+                },
+                {
+                    "wordId": "骇客",
+                    "icon": false
+                },
+                {
+                    "wordId": "秘密",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈希值",
+                    "icon": false
+                },
+                {
+                    "wordId": "符号",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "铅笔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "标记",
+                    "icon": false
+                },
+                {
+                    "wordId": "绘画",
+                    "icon": false
+                },
+                {
+                    "wordId": "书写",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂画",
+                    "icon": false
+                },
+                {
+                    "wordId": "勾勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "素描",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂鸦",
+                    "icon": false
+                },
+                {
+                    "wordId": "签名",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "假期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闲暇",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行",
+                    "icon": false
+                },
+                {
+                    "wordId": "出游",
+                    "icon": false
+                },
+                {
+                    "wordId": "假日",
+                    "icon": false
+                },
+                {
+                    "wordId": "度假村",
+                    "icon": false
+                },
+                {
+                    "wordId": "海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒店",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅游业",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "搜索",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流览",
+                    "icon": false
+                },
+                {
+                    "wordId": "扫描",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "翻找",
+                    "icon": false
+                },
+                {
+                    "wordId": "检查",
+                    "icon": false
+                },
+                {
+                    "wordId": "寻找",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "愿景",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幻想",
+                    "icon": false
+                },
+                {
+                    "wordId": "白日梦",
+                    "icon": false
+                },
+                {
+                    "wordId": "想法",
+                    "icon": false
+                },
+                {
+                    "wordId": "概念",
+                    "icon": false
+                },
+                {
+                    "wordId": "图像",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞察力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魅惑",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫术",
+                    "icon": false
+                },
+                {
+                    "wordId": "结界",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "番茄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "果汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "酱料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乌龟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "列奥那多",
+                    "icon": true
+                },
+                {
+                    "wordId": "多纳泰罗",
+                    "icon": true
+                },
+                {
+                    "wordId": "拉斐尔",
+                    "icon": true
+                },
+                {
+                    "wordId": "米开朗基罗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "气球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "充气",
+                    "icon": false
+                },
+                {
+                    "wordId": "膨胀",
+                    "icon": false
+                },
+                {
+                    "wordId": "扩张",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "古老的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "古玩",
+                    "icon": false
+                },
+                {
+                    "wordId": "久远的",
+                    "icon": false
+                },
+                {
+                    "wordId": "过时的",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "扫描",
+        "巫术",
+        "标记",
+        "勾勒",
+        "铅笔",
+        "出游",
+        "假期",
+        "书写",
+        "结界",
+        "酒店",
+        "魅惑",
+        "气球",
+        "洞察力",
+        "幻想",
+        "想法",
+        "签名",
+        "哈希值",
+        "涂画",
+        "冲浪",
+        "诅咒",
+        "符号",
+        "骇客",
+        "假日",
+        "翻找",
+        "列奥那多",
+        "寻找",
+        "图像",
+        "概念",
+        "法术",
+        "白日梦",
+        "素描",
+        "多纳泰罗",
+        "度假村",
+        "登录",
+        "访问",
+        "米开朗基罗",
+        "检查",
+        "密钥",
+        "乌龟",
+        "绘画",
+        "红色",
+        "古玩"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "旅行",
+                "沙拉",
+                "搜索",
+                "愿景"
+            ]
+        },
+        {
+            "cards": [
+                "涂鸦",
+                "番茄",
+                "闲暇",
+                "旅游业",
+                "充气"
+            ]
+        },
+        {
+            "cards": [
+                "扩张",
+                "古老的",
+                "拉斐尔",
+                "用户",
+                "秘密",
+                "酱料"
+            ]
+        },
+        {
+            "cards": [
+                "膨胀",
+                "过时的",
+                "密码",
+                "久远的",
+                "流览",
+                "果汁",
+                "海滩"
+            ]
+        }
+    ]
+}

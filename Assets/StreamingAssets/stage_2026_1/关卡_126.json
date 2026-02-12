@@ -1,0 +1,517 @@
+{
+    "levelId": 126,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 195,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "玩具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "搂抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "拥抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "抓取",
+                    "icon": false
+                },
+                {
+                    "wordId": "享受",
+                    "icon": false
+                },
+                {
+                    "wordId": "技能",
+                    "icon": false
+                },
+                {
+                    "wordId": "情感",
+                    "icon": false
+                },
+                {
+                    "wordId": "运动",
+                    "icon": false
+                },
+                {
+                    "wordId": "思考",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "发亮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "放射",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                },
+                {
+                    "wordId": "发光",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪耀",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇曳",
+                    "icon": false
+                },
+                {
+                    "wordId": "耀眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "星星",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "惊险活动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳伞者",
+                    "icon": true
+                },
+                {
+                    "wordId": "过山车",
+                    "icon": true
+                },
+                {
+                    "wordId": "登山者",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲨鱼潜水者",
+                    "icon": true
+                },
+                {
+                    "wordId": "蹦极者",
+                    "icon": true
+                },
+                {
+                    "wordId": "冲浪者",
+                    "icon": true
+                },
+                {
+                    "wordId": "骑行者",
+                    "icon": true
+                },
+                {
+                    "wordId": "漂流者",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "梦境",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "彩虹",
+                    "icon": true
+                },
+                {
+                    "wordId": "儿童床",
+                    "icon": true
+                },
+                {
+                    "wordId": "睡眠",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞行的男孩",
+                    "icon": true
+                },
+                {
+                    "wordId": "梦游者",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "枕头",
+                    "icon": true
+                },
+                {
+                    "wordId": "考试",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "花盆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "香菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷迭香",
+                    "icon": false
+                },
+                {
+                    "wordId": "莳萝",
+                    "icon": false
+                },
+                {
+                    "wordId": "百里香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "达成",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "目标",
+                    "icon": false
+                },
+                {
+                    "wordId": "靶子",
+                    "icon": false
+                },
+                {
+                    "wordId": "目的",
+                    "icon": false
+                },
+                {
+                    "wordId": "终点",
+                    "icon": false
+                },
+                {
+                    "wordId": "需求",
+                    "icon": false
+                },
+                {
+                    "wordId": "抱负",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "表演",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "四重奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌手",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞者",
+                    "icon": false
+                },
+                {
+                    "wordId": "合唱团",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢琴家",
+                    "icon": false
+                },
+                {
+                    "wordId": "体操运动员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "选择",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "挑选",
+                    "icon": false
+                },
+                {
+                    "wordId": "偏爱",
+                    "icon": false
+                },
+                {
+                    "wordId": "选取",
+                    "icon": false
+                },
+                {
+                    "wordId": "选定",
+                    "icon": false
+                },
+                {
+                    "wordId": "确定",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "观察",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双筒望远镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "门铃摄像头",
+                    "icon": true
+                },
+                {
+                    "wordId": "监控",
+                    "icon": true
+                },
+                {
+                    "wordId": "望远镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "显微镜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "鹰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "隼",
+                    "icon": false
+                },
+                {
+                    "wordId": "苍鹰",
+                    "icon": false
+                },
+                {
+                    "wordId": "海鹰",
+                    "icon": false
+                },
+                {
+                    "wordId": "兀鹫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "零售",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "产品",
+                    "icon": false
+                },
+                {
+                    "wordId": "价格",
+                    "icon": false
+                },
+                {
+                    "wordId": "地点",
+                    "icon": false
+                },
+                {
+                    "wordId": "促销",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "咸的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼泪",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "血液",
+                    "icon": false
+                },
+                {
+                    "wordId": "大海",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "步骤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "向前",
+                    "icon": false
+                },
+                {
+                    "wordId": "后退",
+                    "icon": false
+                },
+                {
+                    "wordId": "采取",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "标签",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "商标",
+                    "icon": true
+                },
+                {
+                    "wordId": "条码",
+                    "icon": true
+                },
+                {
+                    "wordId": "贴纸",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "零售",
+        "采取",
+        "考试",
+        "后退",
+        "玩具",
+        "目标",
+        "促销",
+        "歌手",
+        "思考",
+        "需求",
+        "迷迭香",
+        "靶子",
+        "飞行的男孩",
+        "漂流者",
+        "监控",
+        "冲浪者",
+        "隼",
+        "四重奏",
+        "放射",
+        "门铃摄像头",
+        "眼泪",
+        "蹦极者",
+        "花",
+        "香菜",
+        "抱负",
+        "摇曳",
+        "海鹰",
+        "目的",
+        "海洋",
+        "显微镜",
+        "步骤",
+        "大海",
+        "价格",
+        "拥抱",
+        "终点",
+        "登山者",
+        "标签",
+        "偏爱",
+        "向前",
+        "过山车",
+        "钢琴家",
+        "望远镜",
+        "耀眼",
+        "百里香",
+        "闪耀",
+        "挑选",
+        "选择",
+        "商标",
+        "贴纸",
+        "闪烁",
+        "产品",
+        "确定",
+        "枕头",
+        "双筒望远镜",
+        "鹰",
+        "羊",
+        "血液",
+        "体操运动员",
+        "发亮",
+        "兀鹫",
+        "选取",
+        "太阳",
+        "骑行者",
+        "选定",
+        "抓取",
+        "搂抱"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "舞者",
+                "跳伞者",
+                "梦境",
+                "苍鹰",
+                "惊险活动"
+            ]
+        },
+        {
+            "cards": [
+                "地点",
+                "表演",
+                "儿童床",
+                "咸的",
+                "享受",
+                "梦游者"
+            ]
+        },
+        {
+            "cards": [
+                "达成",
+                "星星",
+                "彩虹",
+                "莳萝",
+                "花盆",
+                "观察",
+                "发光"
+            ]
+        },
+        {
+            "cards": [
+                "情感",
+                "合唱团",
+                "鲨鱼潜水者",
+                "条码",
+                "罗勒",
+                "睡眠",
+                "运动",
+                "技能"
+            ]
+        }
+    ]
+}

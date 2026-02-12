@@ -1,0 +1,553 @@
+{
+    "levelId": 215,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "花瓶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瓶颈",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓶口",
+                    "icon": false
+                },
+                {
+                    "wordId": "形状",
+                    "icon": false
+                },
+                {
+                    "wordId": "水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓶茎",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁炉台",
+                    "icon": false
+                },
+                {
+                    "wordId": "双耳瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "带柄瓶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "露营",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帐篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "营火",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": true
+                },
+                {
+                    "wordId": "折叠椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "睡袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "吊床",
+                    "icon": true
+                },
+                {
+                    "wordId": "煮锅",
+                    "icon": true
+                },
+                {
+                    "wordId": "徒步靴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "蠕虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "体节",
+                    "icon": false
+                },
+                {
+                    "wordId": "刚毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾部",
+                    "icon": false
+                },
+                {
+                    "wordId": "土壤",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "蠕动",
+                    "icon": false
+                },
+                {
+                    "wordId": "爬行",
+                    "icon": false
+                },
+                {
+                    "wordId": "寄生虫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "语气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "充满希望的",
+                    "icon": false
+                },
+                {
+                    "wordId": "苦涩的",
+                    "icon": false
+                },
+                {
+                    "wordId": "温和的",
+                    "icon": false
+                },
+                {
+                    "wordId": "刺耳的",
+                    "icon": false
+                },
+                {
+                    "wordId": "流畅的",
+                    "icon": false
+                },
+                {
+                    "wordId": "清晰的",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔和的",
+                    "icon": false
+                },
+                {
+                    "wordId": "充满爱意的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砌块",
+                    "icon": false
+                },
+                {
+                    "wordId": "砂浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂层",
+                    "icon": false
+                },
+                {
+                    "wordId": "层",
+                    "icon": false
+                },
+                {
+                    "wordId": "砖块",
+                    "icon": false
+                },
+                {
+                    "wordId": "角落",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "视觉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "视力",
+                    "icon": false
+                },
+                {
+                    "wordId": "屈光度",
+                    "icon": false
+                },
+                {
+                    "wordId": "光谱",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "眩光",
+                    "icon": false
+                },
+                {
+                    "wordId": "角膜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "静脉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "血管",
+                    "icon": false
+                },
+                {
+                    "wordId": "动脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "血液",
+                    "icon": false
+                },
+                {
+                    "wordId": "血浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "血压",
+                    "icon": false
+                },
+                {
+                    "wordId": "导管",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珊瑚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钙质",
+                    "icon": false
+                },
+                {
+                    "wordId": "海床",
+                    "icon": false
+                },
+                {
+                    "wordId": "环礁",
+                    "icon": false
+                },
+                {
+                    "wordId": "海绵",
+                    "icon": false
+                },
+                {
+                    "wordId": "群落",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墨西哥卷饼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玉米薄饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "馅料",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "豆类",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔可店",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "包袋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "储物",
+                    "icon": false
+                },
+                {
+                    "wordId": "背包",
+                    "icon": false
+                },
+                {
+                    "wordId": "帆布背包",
+                    "icon": false
+                },
+                {
+                    "wordId": "购物袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "时尚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "咏叹调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "歌词",
+                    "icon": false
+                },
+                {
+                    "wordId": "女中音",
+                    "icon": false
+                },
+                {
+                    "wordId": "颤音",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈巴涅拉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "炎热",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闷热的",
+                    "icon": false
+                },
+                {
+                    "wordId": "强烈的",
+                    "icon": false
+                },
+                {
+                    "wordId": "令人窒息的",
+                    "icon": false
+                },
+                {
+                    "wordId": "沸腾的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "土壤类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "粉土",
+                    "icon": true
+                },
+                {
+                    "wordId": "腐殖质",
+                    "icon": true
+                },
+                {
+                    "wordId": "壤土",
+                    "icon": true
+                },
+                {
+                    "wordId": "泥炭",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "毛皮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "貂皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "海狸皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "猞猁皮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珍珠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牡蛎",
+                    "icon": true
+                },
+                {
+                    "wordId": "珠子",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝石",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "歌词",
+        "泥炭",
+        "带柄瓶",
+        "涂层",
+        "猞猁皮",
+        "珊瑚",
+        "储物",
+        "充满爱意的",
+        "双耳瓶",
+        "粉土",
+        "时尚",
+        "瓶口",
+        "令人窒息的",
+        "层",
+        "宝石",
+        "动脉",
+        "屈光度",
+        "煮锅",
+        "海狸皮",
+        "咏叹调",
+        "导管",
+        "包袋",
+        "塔可店",
+        "壁炉台",
+        "蠕动",
+        "血液",
+        "土壤类型",
+        "豆类",
+        "徒步靴",
+        "瓶茎",
+        "馅料",
+        "砌块",
+        "购物袋",
+        "腐殖质",
+        "女中音",
+        "闷热的",
+        "颤音",
+        "语气",
+        "形状",
+        "群落",
+        "爬行",
+        "体节",
+        "灯笼",
+        "钙质",
+        "海绵",
+        "哈巴涅拉",
+        "流畅的",
+        "瓶颈",
+        "牛肉",
+        "充满希望的",
+        "光谱",
+        "砖块",
+        "砂浆",
+        "温和的",
+        "血管",
+        "营火",
+        "蠕虫",
+        "刺耳的",
+        "貂皮",
+        "视力",
+        "花瓶",
+        "寄生虫",
+        "苦涩的"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "沸腾的",
+                "珍珠",
+                "牡蛎",
+                "珠子",
+                "墨西哥卷饼"
+            ]
+        },
+        {
+            "cards": [
+                "眼镜",
+                "清晰的",
+                "强烈的",
+                "土壤",
+                "刚毛",
+                "角落"
+            ]
+        },
+        {
+            "cards": [
+                "毛皮",
+                "炎热",
+                "海床",
+                "墙",
+                "水晶",
+                "静脉",
+                "玉米薄饼"
+            ]
+        },
+        {
+            "cards": [
+                "壤土",
+                "帆布背包",
+                "视觉",
+                "血压",
+                "尾部",
+                "洞穴",
+                "折叠椅",
+                "吊床"
+            ]
+        },
+        {
+            "cards": [
+                "血浆",
+                "眩光",
+                "帐篷",
+                "环礁",
+                "露营",
+                "柔和的",
+                "角膜",
+                "睡袋",
+                "背包"
+            ]
+        }
+    ]
+}

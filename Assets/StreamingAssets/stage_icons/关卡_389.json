@@ -1,0 +1,369 @@
+{
+    "levelId": 389,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "希腊字母",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿尔法",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "伽玛",
+                    "icon": true
+                },
+                {
+                    "wordId": "德尔塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "伊普西龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "泽塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "西塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "拉姆达",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "帝国",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "罗马",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥斯曼",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿兹特克",
+                    "icon": false
+                },
+                {
+                    "wordId": "印加",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛雅",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃及",
+                    "icon": false
+                },
+                {
+                    "wordId": "秦",
+                    "icon": false
+                },
+                {
+                    "wordId": "波斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绿色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "翡翠",
+                    "icon": false
+                },
+                {
+                    "wordId": "蕨类植物",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄",
+                    "icon": false
+                },
+                {
+                    "wordId": "硬玉",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄瓜",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔藓",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳄梨",
+                    "icon": false
+                },
+                {
+                    "wordId": "青柠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砷",
+                    "icon": false
+                },
+                {
+                    "wordId": "氰化物",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓖麻毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "汞",
+                    "icon": false
+                },
+                {
+                    "wordId": "铅",
+                    "icon": false
+                },
+                {
+                    "wordId": "铀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "吉他",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "原声吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "电吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝斯吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "尤克里里",
+                    "icon": true
+                },
+                {
+                    "wordId": "曼陀林",
+                    "icon": true
+                },
+                {
+                    "wordId": "班卓琴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "裂隙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冰裂隙",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂缝",
+                    "icon": false
+                },
+                {
+                    "wordId": "深渊",
+                    "icon": false
+                },
+                {
+                    "wordId": "缝隙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烈酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苦艾酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "威士卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉基亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "清酒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旗帜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三角旗",
+                    "icon": false
+                },
+                {
+                    "wordId": "横幅",
+                    "icon": false
+                },
+                {
+                    "wordId": "舰旗",
+                    "icon": false
+                },
+                {
+                    "wordId": "三色旗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "棱镜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "光谱",
+                    "icon": false
+                },
+                {
+                    "wordId": "彩虹",
+                    "icon": false
+                },
+                {
+                    "wordId": "分光",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "史诗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伊利亚特",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥德赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃涅阿斯纪",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "埃及",
+        "鳄梨",
+        "贝斯吉他",
+        "旗帜",
+        "三色旗",
+        "分光",
+        "翡翠",
+        "裂隙",
+        "黄瓜",
+        "彩虹",
+        "绿色",
+        "埃涅阿斯纪",
+        "拉基亚",
+        "烈酒",
+        "伊利亚特",
+        "原声吉他",
+        "苦艾酒",
+        "贝塔",
+        "蕨类植物",
+        "缝隙",
+        "裂缝",
+        "玛雅",
+        "砷",
+        "电吉他",
+        "曼陀林",
+        "班卓琴",
+        "印加",
+        "铅",
+        "奥德赛",
+        "奥斯曼",
+        "深渊",
+        "横幅",
+        "汞",
+        "帝国",
+        "硬玉",
+        "德尔塔",
+        "秦",
+        "伽玛",
+        "铀",
+        "罗马",
+        "尤克里里",
+        "波斯"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "拉姆达",
+                "三角旗",
+                "青柠",
+                "伊普西龙"
+            ]
+        },
+        {
+            "cards": [
+                "阿尔法",
+                "毒物",
+                "光谱",
+                "清酒",
+                "橄榄"
+            ]
+        },
+        {
+            "cards": [
+                "威士卡",
+                "棱镜",
+                "希腊字母",
+                "西塔",
+                "泽塔",
+                "苔藓"
+            ]
+        },
+        {
+            "cards": [
+                "冰裂隙",
+                "蓖麻毒素",
+                "舰旗",
+                "氰化物",
+                "史诗",
+                "阿兹特克",
+                "吉他"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 319,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "动力学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "惯性",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩擦力",
+                    "icon": false
+                },
+                {
+                    "wordId": "扭矩",
+                    "icon": false
+                },
+                {
+                    "wordId": "环流",
+                    "icon": false
+                },
+                {
+                    "wordId": "运动",
+                    "icon": false
+                },
+                {
+                    "wordId": "动量",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲量",
+                    "icon": false
+                },
+                {
+                    "wordId": "速度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "微积分",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "极限",
+                    "icon": false
+                },
+                {
+                    "wordId": "级数",
+                    "icon": false
+                },
+                {
+                    "wordId": "积分",
+                    "icon": false
+                },
+                {
+                    "wordId": "梯度",
+                    "icon": false
+                },
+                {
+                    "wordId": "正切",
+                    "icon": false
+                },
+                {
+                    "wordId": "下确界",
+                    "icon": false
+                },
+                {
+                    "wordId": "上确界",
+                    "icon": false
+                },
+                {
+                    "wordId": "函数",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "同位素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "放射性的",
+                    "icon": false
+                },
+                {
+                    "wordId": "稳定的",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿尔法衰变",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝塔衰变",
+                    "icon": false
+                },
+                {
+                    "wordId": "伽马辐射",
+                    "icon": false
+                },
+                {
+                    "wordId": "中子",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳14",
+                    "icon": false
+                },
+                {
+                    "wordId": "氧18",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "流星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火流星",
+                    "icon": false
+                },
+                {
+                    "wordId": "火球",
+                    "icon": false
+                },
+                {
+                    "wordId": "光痕",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪耀",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卫星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木卫二",
+                    "icon": false
+                },
+                {
+                    "wordId": "土卫六",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫三",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫一",
+                    "icon": false
+                },
+                {
+                    "wordId": "木卫四",
+                    "icon": false
+                },
+                {
+                    "wordId": "土卫五",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "光学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "反射",
+                    "icon": false
+                },
+                {
+                    "wordId": "折射",
+                    "icon": false
+                },
+                {
+                    "wordId": "棱镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "透镜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "扑克花色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红心",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "梅花",
+                    "icon": false
+                },
+                {
+                    "wordId": "方块",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "五金件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螺栓",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺母",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "铆钉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美德",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英勇",
+                    "icon": false
+                },
+                {
+                    "wordId": "谨慎",
+                    "icon": false
+                },
+                {
+                    "wordId": "正义",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电路元件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电阻器",
+                    "icon": true
+                },
+                {
+                    "wordId": "电感器",
+                    "icon": true
+                },
+                {
+                    "wordId": "二极管",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "伽马辐射",
+        "同位素",
+        "极限",
+        "梅花",
+        "梯度",
+        "扑克花色",
+        "木卫一",
+        "铆钉",
+        "美德",
+        "下确界",
+        "二极管",
+        "尾迹",
+        "火球",
+        "碎片",
+        "贝塔衰变",
+        "木卫二",
+        "环流",
+        "阿尔法衰变",
+        "方块",
+        "速度",
+        "电路元件",
+        "螺丝",
+        "火流星",
+        "放射性的",
+        "折射",
+        "稳定的",
+        "运动",
+        "木卫三",
+        "螺母",
+        "五金件",
+        "摩擦力",
+        "透镜",
+        "电阻器",
+        "闪耀",
+        "红心",
+        "螺栓",
+        "积分",
+        "上确界",
+        "正义",
+        "中子",
+        "木卫四",
+        "棱镜"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "英勇",
+                "土卫五",
+                "冲量",
+                "微积分"
+            ]
+        },
+        {
+            "cards": [
+                "碳14",
+                "反射",
+                "电感器",
+                "光痕",
+                "惯性"
+            ]
+        },
+        {
+            "cards": [
+                "正切",
+                "动力学",
+                "动量",
+                "土卫六",
+                "级数",
+                "光学"
+            ]
+        },
+        {
+            "cards": [
+                "黑桃",
+                "流星",
+                "函数",
+                "氧18",
+                "谨慎",
+                "卫星",
+                "扭矩"
+            ]
+        }
+    ]
+}

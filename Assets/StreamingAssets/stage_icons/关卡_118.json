@@ -1,0 +1,369 @@
+{
+    "levelId": 118,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "切割",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砍",
+                    "icon": false
+                },
+                {
+                    "wordId": "切片",
+                    "icon": false
+                },
+                {
+                    "wordId": "猛砍",
+                    "icon": false
+                },
+                {
+                    "wordId": "切断",
+                    "icon": false
+                },
+                {
+                    "wordId": "乱砍",
+                    "icon": false
+                },
+                {
+                    "wordId": "划出深口",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪断",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动物叫声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吠叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "驴叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘶嘶声",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛙鸣",
+                    "icon": false
+                },
+                {
+                    "wordId": "猪叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "马嘶",
+                    "icon": false
+                },
+                {
+                    "wordId": "火鸡咯咯叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "嚎叫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "标志",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "箭头",
+                    "icon": true
+                },
+                {
+                    "wordId": "十字",
+                    "icon": true
+                },
+                {
+                    "wordId": "云朵",
+                    "icon": true
+                },
+                {
+                    "wordId": "示意图",
+                    "icon": true
+                },
+                {
+                    "wordId": "饼图",
+                    "icon": true
+                },
+                {
+                    "wordId": "回收标志",
+                    "icon": true
+                },
+                {
+                    "wordId": "停止标志",
+                    "icon": true
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "实验室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "液体",
+                    "icon": false
+                },
+                {
+                    "wordId": "培养皿",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "科学",
+                    "icon": false
+                },
+                {
+                    "wordId": "化学家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "周期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "每日",
+                    "icon": false
+                },
+                {
+                    "wordId": "每周",
+                    "icon": false
+                },
+                {
+                    "wordId": "每月",
+                    "icon": false
+                },
+                {
+                    "wordId": "每两周",
+                    "icon": false
+                },
+                {
+                    "wordId": "每年",
+                    "icon": false
+                },
+                {
+                    "wordId": "每小时",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "模糊词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "某人",
+                    "icon": false
+                },
+                {
+                    "wordId": "没有人",
+                    "icon": false
+                },
+                {
+                    "wordId": "任何人",
+                    "icon": false
+                },
+                {
+                    "wordId": "每个人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粉末",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑石粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "化妆品",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰尘",
+                    "icon": false
+                },
+                {
+                    "wordId": "面粉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "复制",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "克隆",
+                    "icon": false
+                },
+                {
+                    "wordId": "双胞胎",
+                    "icon": false
+                },
+                {
+                    "wordId": "复制品",
+                    "icon": false
+                },
+                {
+                    "wordId": "替身",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "清晰度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "明晰",
+                    "icon": false
+                },
+                {
+                    "wordId": "纯净",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦点",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "De-首码词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "低因咖啡",
+                    "icon": false
+                },
+                {
+                    "wordId": "调试",
+                    "icon": false
+                },
+                {
+                    "wordId": "汇报",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "纯净",
+        "科学",
+        "焦点",
+        "De-首码词",
+        "每周",
+        "粉末",
+        "火鸡咯咯叫",
+        "双胞胎",
+        "复制品",
+        "培养皿",
+        "调试",
+        "十字",
+        "明晰",
+        "示意图",
+        "每个人",
+        "化学家",
+        "马嘶",
+        "液体",
+        "某人",
+        "猛砍",
+        "每月",
+        "停止标志",
+        "每小时",
+        "克隆",
+        "嚎叫",
+        "剪断",
+        "没有人",
+        "砍",
+        "汇报",
+        "划出深口",
+        "切断",
+        "嘶嘶声",
+        "模糊词",
+        "蛙鸣",
+        "烧杯",
+        "化妆品",
+        "雕刻",
+        "切割",
+        "驴叫",
+        "吠叫",
+        "烧瓶",
+        "复制"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "面粉",
+                "切片",
+                "云朵",
+                "每日"
+            ]
+        },
+        {
+            "cards": [
+                "动物叫声",
+                "标志",
+                "滑石粉",
+                "每年",
+                "回收标志"
+            ]
+        },
+        {
+            "cards": [
+                "火焰",
+                "饼图",
+                "箭头",
+                "任何人",
+                "清晰度",
+                "乱砍"
+            ]
+        },
+        {
+            "cards": [
+                "每两周",
+                "猪叫",
+                "替身",
+                "周期",
+                "实验室",
+                "灰尘",
+                "低因咖啡"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 265,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "音乐术语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快板",
+                    "icon": false
+                },
+                {
+                    "wordId": "延长记号",
+                    "icon": false
+                },
+                {
+                    "wordId": "连奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "断奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "托卡塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "前奏曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "琶音",
+                    "icon": false
+                },
+                {
+                    "wordId": "有节奏的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法老",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "图特摩斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡夫拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "孟卡拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "左塞尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯尼夫鲁",
+                    "icon": false
+                },
+                {
+                    "wordId": "美尼斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉美西斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿肯那顿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烷烃",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甲烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "乙烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "戊烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "己烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "庚烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛烷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甜点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闪电泡芙",
+                    "icon": true
+                },
+                {
+                    "wordId": "马卡龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "太妃糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "布朗尼",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸杯蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜甜圈",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "编程",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Python",
+                    "icon": false
+                },
+                {
+                    "wordId": "程式",
+                    "icon": false
+                },
+                {
+                    "wordId": "电脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "逻辑",
+                    "icon": false
+                },
+                {
+                    "wordId": "二进制",
+                    "icon": false
+                },
+                {
+                    "wordId": "数据",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颜料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "油画颜料",
+                    "icon": false
+                },
+                {
+                    "wordId": "水粉颜料",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烯颜料",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋彩画颜料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罗马皇帝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奥古斯都",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼禄",
+                    "icon": false
+                },
+                {
+                    "wordId": "图拉真",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈德良",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "构造",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "板块",
+                    "icon": false
+                },
+                {
+                    "wordId": "断层",
+                    "icon": false
+                },
+                {
+                    "wordId": "俯冲",
+                    "icon": false
+                },
+                {
+                    "wordId": "隆起",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "力",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "重力",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩擦力",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "怪物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "报丧女妖",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛇发女妖",
+                    "icon": true
+                },
+                {
+                    "wordId": "独眼巨人",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "马卡龙",
+        "琶音",
+        "力",
+        "托卡塔",
+        "甜点",
+        "闪电泡芙",
+        "报丧女妖",
+        "断奏",
+        "隆起",
+        "前奏曲",
+        "哈德良",
+        "板块",
+        "二进制",
+        "逻辑",
+        "俯冲",
+        "独眼巨人",
+        "丙烷",
+        "奥古斯都",
+        "图拉真",
+        "编程",
+        "重力",
+        "快板",
+        "阿肯那顿",
+        "斯尼夫鲁",
+        "音乐术语",
+        "纸杯蛋糕",
+        "丁烷",
+        "连奏",
+        "法老",
+        "摩擦力",
+        "左塞尔",
+        "甲烷",
+        "布朗尼",
+        "卡夫拉",
+        "Python",
+        "水粉颜料",
+        "戊烷",
+        "图特摩斯",
+        "蛋彩画颜料",
+        "电脑",
+        "辛烷",
+        "浮力"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "乙烷",
+                "怪物",
+                "丙烯颜料",
+                "烷烃"
+            ]
+        },
+        {
+            "cards": [
+                "数据",
+                "美尼斯",
+                "拉美西斯",
+                "尼禄",
+                "孟卡拉"
+            ]
+        },
+        {
+            "cards": [
+                "断层",
+                "延长记号",
+                "有节奏的",
+                "颜料",
+                "罗马皇帝",
+                "蛇发女妖"
+            ]
+        },
+        {
+            "cards": [
+                "构造",
+                "庚烷",
+                "油画颜料",
+                "太妃糖",
+                "己烷",
+                "程式",
+                "甜甜圈"
+            ]
+        }
+    ]
+}

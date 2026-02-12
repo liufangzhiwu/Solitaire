@@ -1,0 +1,217 @@
+{
+    "levelId": 279,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "蔬菜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "土豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "生菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "菠菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "洋葱",
+                    "icon": true
+                },
+                {
+                    "wordId": "卷心菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜椒",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "厨房",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烤箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "平底锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "叉子",
+                    "icon": false
+                },
+                {
+                    "wordId": "勺子",
+                    "icon": false
+                },
+                {
+                    "wordId": "碗",
+                    "icon": false
+                },
+                {
+                    "wordId": "盘子",
+                    "icon": false
+                },
+                {
+                    "wordId": "杯子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "岩石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄武岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "大理石",
+                    "icon": false
+                },
+                {
+                    "wordId": "板岩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "字体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Arial字体",
+                    "icon": false
+                },
+                {
+                    "wordId": "Courier字体",
+                    "icon": false
+                },
+                {
+                    "wordId": "Verdana字体",
+                    "icon": false
+                },
+                {
+                    "wordId": "Tahoma字体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "物理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "力",
+                    "icon": false
+                },
+                {
+                    "wordId": "能量",
+                    "icon": false
+                },
+                {
+                    "wordId": "运动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烘焙食品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "贝果",
+                    "icon": true
+                },
+                {
+                    "wordId": "玛芬蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "椒盐卷饼",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "土豆",
+        "蔬菜",
+        "杯子",
+        "平底锅",
+        "花岗岩",
+        "甜椒",
+        "玛芬蛋糕",
+        "Verdana字体",
+        "运动",
+        "玄武岩",
+        "物理",
+        "烤箱",
+        "烘焙食品",
+        "Tahoma字体",
+        "贝果",
+        "生菜",
+        "椒盐卷饼",
+        "板岩",
+        "番茄",
+        "卷心菜",
+        "Courier字体",
+        "叉子",
+        "力",
+        "Arial字体"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "勺子",
+                "洋葱",
+                "岩石"
+            ]
+        },
+        {
+            "cards": [
+                "刀",
+                "字体",
+                "胡萝卜",
+                "菠菜"
+            ]
+        },
+        {
+            "cards": [
+                "厨房",
+                "能量",
+                "碗",
+                "大理石",
+                "盘子"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 65,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "薄荷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爽快的",
+                    "icon": false
+                },
+                {
+                    "wordId": "清新的",
+                    "icon": false
+                },
+                {
+                    "wordId": "芳香的",
+                    "icon": false
+                },
+                {
+                    "wordId": "草本的",
+                    "icon": false
+                },
+                {
+                    "wordId": "凉爽的",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰冷的",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色的",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄荷味的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奥斯卡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "提名者",
+                    "icon": false
+                },
+                {
+                    "wordId": "导演",
+                    "icon": false
+                },
+                {
+                    "wordId": "男演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "女演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖项",
+                    "icon": false
+                },
+                {
+                    "wordId": "影片",
+                    "icon": false
+                },
+                {
+                    "wordId": "音效",
+                    "icon": false
+                },
+                {
+                    "wordId": "典礼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "教育学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教授",
+                    "icon": false
+                },
+                {
+                    "wordId": "学习",
+                    "icon": false
+                },
+                {
+                    "wordId": "指教",
+                    "icon": false
+                },
+                {
+                    "wordId": "培训",
+                    "icon": false
+                },
+                {
+                    "wordId": "指导",
+                    "icon": false
+                },
+                {
+                    "wordId": "教练",
+                    "icon": false
+                },
+                {
+                    "wordId": "辅导",
+                    "icon": false
+                },
+                {
+                    "wordId": "技能",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "企鹅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帝企鹅",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴布亚企鹅",
+                    "icon": false
+                },
+                {
+                    "wordId": "王企鹅",
+                    "icon": false
+                },
+                {
+                    "wordId": "马可罗尼企鹅",
+                    "icon": false
+                },
+                {
+                    "wordId": "洪氏环企鹅",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯岛黄眉企鹅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拒绝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "否认",
+                    "icon": false
+                },
+                {
+                    "wordId": "回绝",
+                    "icon": false
+                },
+                {
+                    "wordId": "回避",
+                    "icon": false
+                },
+                {
+                    "wordId": "婉拒",
+                    "icon": false
+                },
+                {
+                    "wordId": "避免",
+                    "icon": false
+                },
+                {
+                    "wordId": "冷落",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "复古",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "复古的",
+                    "icon": false
+                },
+                {
+                    "wordId": "经典的",
+                    "icon": false
+                },
+                {
+                    "wordId": "老旧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "别致的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "字母系统",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉丁字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "西里尔字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "希伯来字母",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甲虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣甲虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "象鼻虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "犀牛甲虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "织工甲虫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "重生",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凤凰",
+                    "icon": false
+                },
+                {
+                    "wordId": "更新",
+                    "icon": false
+                },
+                {
+                    "wordId": "复兴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "反派",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "背叛",
+                    "icon": false
+                },
+                {
+                    "wordId": "复仇",
+                    "icon": false
+                },
+                {
+                    "wordId": "叛国",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "凤凰",
+        "薄荷味的",
+        "老旧的",
+        "音效",
+        "王企鹅",
+        "婉拒",
+        "圣甲虫",
+        "更新",
+        "回避",
+        "芳香的",
+        "企鹅",
+        "重生",
+        "教授",
+        "冷落",
+        "绿色的",
+        "回绝",
+        "别致的",
+        "巴布亚企鹅",
+        "辅导",
+        "甲虫",
+        "草本的",
+        "奥斯卡",
+        "冰冷的",
+        "奖项",
+        "复兴",
+        "犀牛甲虫",
+        "技能",
+        "避免",
+        "清新的",
+        "男演员",
+        "培训",
+        "拉丁字母",
+        "导演",
+        "教育学",
+        "经典的",
+        "影片",
+        "洪氏环企鹅",
+        "爽快的",
+        "否认",
+        "指教",
+        "象鼻虫",
+        "典礼"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "薄荷",
+                "织工甲虫",
+                "指导",
+                "希伯来字母"
+            ]
+        },
+        {
+            "cards": [
+                "学习",
+                "教练",
+                "帝企鹅",
+                "拒绝",
+                "复仇"
+            ]
+        },
+        {
+            "cards": [
+                "斯岛黄眉企鹅",
+                "女演员",
+                "叛国",
+                "字母系统",
+                "凉爽的",
+                "反派"
+            ]
+        },
+        {
+            "cards": [
+                "希腊字母",
+                "背叛",
+                "西里尔字母",
+                "提名者",
+                "复古",
+                "马可罗尼企鹅",
+                "复古的"
+            ]
+        }
+    ]
+}

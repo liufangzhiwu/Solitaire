@@ -1,0 +1,354 @@
+{
+    "levelId": 3,
+    "slotsDefault": 4,
+    "slotsRewarded": 4,
+    "movesLimit": 125,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "博物馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "图画",
+                    "icon": false
+                },
+                {
+                    "wordId": "展品",
+                    "icon": false
+                },
+                {
+                    "wordId": "文物",
+                    "icon": false
+                },
+                {
+                    "wordId": "展厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "陈列",
+                    "icon": false
+                },
+                {
+                    "wordId": "馆长",
+                    "icon": false
+                },
+                {
+                    "wordId": "艺术品",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "织物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法兰绒",
+                    "icon": false
+                },
+                {
+                    "wordId": "棉",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝绸",
+                    "icon": false
+                },
+                {
+                    "wordId": "缎子",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅绒",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚麻布",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛毡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "名著",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红楼梦",
+                    "icon": false
+                },
+                {
+                    "wordId": "三国演义",
+                    "icon": false
+                },
+                {
+                    "wordId": "呐喊",
+                    "icon": false
+                },
+                {
+                    "wordId": "史记",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈姆雷特",
+                    "icon": false
+                },
+                {
+                    "wordId": "战争与和平",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴黎圣母院",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宠物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "仓鼠",
+                    "icon": false
+                },
+                {
+                    "wordId": "猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "狗",
+                    "icon": false
+                },
+                {
+                    "wordId": "兔子",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪貂",
+                    "icon": false
+                },
+                {
+                    "wordId": "八齿鼠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "天气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "晴朗",
+                    "icon": false
+                },
+                {
+                    "wordId": "有雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "下雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "下雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "刮风",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饮料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苏打水",
+                    "icon": true
+                },
+                {
+                    "wordId": "意式浓缩咖啡",
+                    "icon": true
+                },
+                {
+                    "wordId": "柠檬水",
+                    "icon": true
+                },
+                {
+                    "wordId": "果汁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "国际象棋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兵",
+                    "icon": true
+                },
+                {
+                    "wordId": "车",
+                    "icon": true
+                },
+                {
+                    "wordId": "象",
+                    "icon": true
+                },
+                {
+                    "wordId": "后",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "季节",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "春季",
+                    "icon": false
+                },
+                {
+                    "wordId": "秋季",
+                    "icon": false
+                },
+                {
+                    "wordId": "冬季",
+                    "icon": false
+                },
+                {
+                    "wordId": "夏季",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸟类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸟喙",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾巴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钓鱼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钓竿",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮漂",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼饵",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "文物",
+        "法兰绒",
+        "柠檬水",
+        "八齿鼠",
+        "呐喊",
+        "毛毡",
+        "冬季",
+        "夏季",
+        "陈列",
+        "织物",
+        "馆长",
+        "图画",
+        "下雨",
+        "缎子",
+        "后",
+        "刮风",
+        "天气",
+        "苏打水",
+        "象",
+        "仓鼠",
+        "艺术品",
+        "宠物",
+        "晴朗",
+        "有雾",
+        "翅膀",
+        "季节",
+        "尾巴",
+        "狗",
+        "钓竿",
+        "暴风雨",
+        "红楼梦",
+        "车",
+        "猫",
+        "兵",
+        "棉",
+        "史记",
+        "名著",
+        "丝绸",
+        "兔子",
+        "意式浓缩咖啡",
+        "三国演义",
+        "秋季",
+        "浮漂"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "巴黎圣母院",
+                "饮料",
+                "展品"
+            ]
+        },
+        {
+            "cards": [
+                "钓鱼",
+                "博物馆",
+                "展厅",
+                "鸟喙"
+            ]
+        },
+        {
+            "cards": [
+                "战争与和平",
+                "下雪",
+                "果汁",
+                "天鹅绒",
+                "鸟类"
+            ]
+        },
+        {
+            "cards": [
+                "哈姆雷特",
+                "鱼饵",
+                "春季",
+                "国际象棋",
+                "亚麻布",
+                "雪貂"
+            ]
+        }
+    ]
+}

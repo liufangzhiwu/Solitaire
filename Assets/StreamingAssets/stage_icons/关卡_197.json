@@ -1,0 +1,369 @@
+{
+    "levelId": 197,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "谜语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "问题",
+                    "icon": false
+                },
+                {
+                    "wordId": "转折",
+                    "icon": false
+                },
+                {
+                    "wordId": "文字游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "答案",
+                    "icon": false
+                },
+                {
+                    "wordId": "诡计",
+                    "icon": false
+                },
+                {
+                    "wordId": "线索",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜团",
+                    "icon": false
+                },
+                {
+                    "wordId": "尤里卡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神谕",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幻象",
+                    "icon": false
+                },
+                {
+                    "wordId": "未来",
+                    "icon": false
+                },
+                {
+                    "wordId": "预测",
+                    "icon": false
+                },
+                {
+                    "wordId": "迹象",
+                    "icon": false
+                },
+                {
+                    "wordId": "命运",
+                    "icon": false
+                },
+                {
+                    "wordId": "天命",
+                    "icon": false
+                },
+                {
+                    "wordId": "预兆",
+                    "icon": false
+                },
+                {
+                    "wordId": "预言",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "精神",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幻影",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬼魂",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵魂",
+                    "icon": false
+                },
+                {
+                    "wordId": "光环",
+                    "icon": false
+                },
+                {
+                    "wordId": "本质",
+                    "icon": false
+                },
+                {
+                    "wordId": "能量",
+                    "icon": false
+                },
+                {
+                    "wordId": "存在",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴影",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "代词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "我的",
+                    "icon": false
+                },
+                {
+                    "wordId": "你的",
+                    "icon": false
+                },
+                {
+                    "wordId": "他的",
+                    "icon": false
+                },
+                {
+                    "wordId": "她的",
+                    "icon": false
+                },
+                {
+                    "wordId": "它的",
+                    "icon": false
+                },
+                {
+                    "wordId": "我们的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "实验室工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "显微镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "磁力搅拌器",
+                    "icon": true
+                },
+                {
+                    "wordId": "烧杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "棱镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "天平",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "山谷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盆地",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷地",
+                    "icon": false
+                },
+                {
+                    "wordId": "沟壑",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "铜管乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阀门",
+                    "icon": true
+                },
+                {
+                    "wordId": "铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "锣",
+                    "icon": true
+                },
+                {
+                    "wordId": "小号",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "海岸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "裂缝",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐的",
+                    "icon": false
+                },
+                {
+                    "wordId": "沿海的",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙质的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "光",
+                    "icon": false
+                },
+                {
+                    "wordId": "船",
+                    "icon": false
+                },
+                {
+                    "wordId": "尘埃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "团队合作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "团结",
+                    "icon": false
+                },
+                {
+                    "wordId": "信任",
+                    "icon": false
+                },
+                {
+                    "wordId": "支持",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "实验室工具",
+        "信任",
+        "我的",
+        "存在",
+        "文字游戏",
+        "峡谷",
+        "小号",
+        "尤里卡",
+        "你的",
+        "我们的",
+        "线索",
+        "磁力搅拌器",
+        "铜管乐器",
+        "沿海的",
+        "转折",
+        "盆地",
+        "裂缝",
+        "谷地",
+        "她的",
+        "船",
+        "谜语",
+        "尘埃",
+        "海岸",
+        "诡计",
+        "支持",
+        "烧瓶",
+        "光",
+        "潮汐的",
+        "天平",
+        "答案",
+        "烧杯",
+        "阴影",
+        "锣",
+        "阀门",
+        "山谷",
+        "预言",
+        "他的",
+        "预兆",
+        "能量",
+        "天命",
+        "幻影",
+        "鬼魂"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "光环",
+                "精神",
+                "显微镜",
+                "沙质的"
+            ]
+        },
+        {
+            "cards": [
+                "代词",
+                "迹象",
+                "星星",
+                "团结",
+                "它的"
+            ]
+        },
+        {
+            "cards": [
+                "神谕",
+                "铃",
+                "灵魂",
+                "本质",
+                "问题",
+                "命运"
+            ]
+        },
+        {
+            "cards": [
+                "幻象",
+                "预测",
+                "棱镜",
+                "未来",
+                "团队合作",
+                "谜团",
+                "沟壑"
+            ]
+        }
+    ]
+}

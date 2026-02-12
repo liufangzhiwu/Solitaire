@@ -1,0 +1,369 @@
+{
+    "levelId": 328,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "解剖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肝脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "大脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "肺部",
+                    "icon": false
+                },
+                {
+                    "wordId": "脊柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "头骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "肋骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "股骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "视网膜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时尚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魅力",
+                    "icon": false
+                },
+                {
+                    "wordId": "时髦",
+                    "icon": false
+                },
+                {
+                    "wordId": "高级定制",
+                    "icon": false
+                },
+                {
+                    "wordId": "T台",
+                    "icon": false
+                },
+                {
+                    "wordId": "别致",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮流",
+                    "icon": false
+                },
+                {
+                    "wordId": "潇洒",
+                    "icon": false
+                },
+                {
+                    "wordId": "复古",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化妆品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "口红",
+                    "icon": false
+                },
+                {
+                    "wordId": "腮红",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼影",
+                    "icon": false
+                },
+                {
+                    "wordId": "睫毛膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "修容",
+                    "icon": false
+                },
+                {
+                    "wordId": "古铜粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼线笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜜粉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "播客",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主播",
+                    "icon": false
+                },
+                {
+                    "wordId": "下载",
+                    "icon": false
+                },
+                {
+                    "wordId": "剧集",
+                    "icon": false
+                },
+                {
+                    "wordId": "预告片",
+                    "icon": false
+                },
+                {
+                    "wordId": "节目音效",
+                    "icon": false
+                },
+                {
+                    "wordId": "流媒体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镍",
+                    "icon": false
+                },
+                {
+                    "wordId": "钴",
+                    "icon": false
+                },
+                {
+                    "wordId": "锌",
+                    "icon": false
+                },
+                {
+                    "wordId": "钛",
+                    "icon": false
+                },
+                {
+                    "wordId": "锡",
+                    "icon": false
+                },
+                {
+                    "wordId": "铅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "徽章",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "勋章",
+                    "icon": false
+                },
+                {
+                    "wordId": "纹章",
+                    "icon": false
+                },
+                {
+                    "wordId": "印章",
+                    "icon": false
+                },
+                {
+                    "wordId": "标识",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谷物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "大麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "燕麦",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "恒星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天狼星",
+                    "icon": false
+                },
+                {
+                    "wordId": "织女星",
+                    "icon": false
+                },
+                {
+                    "wordId": "北极星",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛郎星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "道路",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "街道",
+                    "icon": false
+                },
+                {
+                    "wordId": "大道",
+                    "icon": false
+                },
+                {
+                    "wordId": "小巷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "山谷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "裂谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "溪谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽谷",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "股骨",
+        "流媒体",
+        "大脑",
+        "街道",
+        "裂谷",
+        "高级定制",
+        "勋章",
+        "别致",
+        "视网膜",
+        "节目音效",
+        "肺部",
+        "腮红",
+        "时尚",
+        "大道",
+        "钴",
+        "时髦",
+        "黑麦",
+        "锡",
+        "潇洒",
+        "牛郎星",
+        "镍",
+        "标识",
+        "剧集",
+        "肋骨",
+        "眼线笔",
+        "魅力",
+        "天狼星",
+        "徽章",
+        "北极星",
+        "织女星",
+        "钛",
+        "预告片",
+        "金属",
+        "潮流",
+        "幽谷",
+        "溪谷",
+        "头骨",
+        "印章",
+        "恒星",
+        "解剖",
+        "脊柱",
+        "锌"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "修容",
+                "口红",
+                "古铜粉",
+                "蜜粉"
+            ]
+        },
+        {
+            "cards": [
+                "主播",
+                "大麦",
+                "燕麦",
+                "眼影",
+                "小麦"
+            ]
+        },
+        {
+            "cards": [
+                "肝脏",
+                "铅",
+                "小巷",
+                "化妆品",
+                "下载",
+                "复古"
+            ]
+        },
+        {
+            "cards": [
+                "道路",
+                "谷物",
+                "山谷",
+                "播客",
+                "纹章",
+                "睫毛膏",
+                "T台"
+            ]
+        }
+    ]
+}

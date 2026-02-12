@@ -1,0 +1,521 @@
+{
+    "levelId": 146,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "公司",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "初创企业",
+                    "icon": false
+                },
+                {
+                    "wordId": "商行",
+                    "icon": false
+                },
+                {
+                    "wordId": "员工",
+                    "icon": false
+                },
+                {
+                    "wordId": "生产",
+                    "icon": false
+                },
+                {
+                    "wordId": "会议",
+                    "icon": false
+                },
+                {
+                    "wordId": "专案",
+                    "icon": false
+                },
+                {
+                    "wordId": "战略",
+                    "icon": false
+                },
+                {
+                    "wordId": "增长",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "设计",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "草图",
+                    "icon": true
+                },
+                {
+                    "wordId": "画笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "剪刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "素描本",
+                    "icon": true
+                },
+                {
+                    "wordId": "色彩",
+                    "icon": true
+                },
+                {
+                    "wordId": "草稿",
+                    "icon": true
+                },
+                {
+                    "wordId": "调色板",
+                    "icon": true
+                },
+                {
+                    "wordId": "家俱",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "耳朵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "耳膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳垂",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳塞",
+                    "icon": false
+                },
+                {
+                    "wordId": "声音",
+                    "icon": false
+                },
+                {
+                    "wordId": "低语",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳廓",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳机",
+                    "icon": false
+                },
+                {
+                    "wordId": "耳环",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "教堂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小教堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "祭坛",
+                    "icon": false
+                },
+                {
+                    "wordId": "中殿",
+                    "icon": false
+                },
+                {
+                    "wordId": "长椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "祈祷",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "祝福",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "数据",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "收集",
+                    "icon": false
+                },
+                {
+                    "wordId": "存储",
+                    "icon": false
+                },
+                {
+                    "wordId": "分析",
+                    "icon": false
+                },
+                {
+                    "wordId": "检索",
+                    "icon": false
+                },
+                {
+                    "wordId": "传输",
+                    "icon": false
+                },
+                {
+                    "wordId": "加密",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱",
+                    "icon": true
+                },
+                {
+                    "wordId": "高兴",
+                    "icon": true
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": true
+                },
+                {
+                    "wordId": "悲伤",
+                    "icon": true
+                },
+                {
+                    "wordId": "恐惧",
+                    "icon": true
+                },
+                {
+                    "wordId": "惊讶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "手工艺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "编织",
+                    "icon": false
+                },
+                {
+                    "wordId": "陶艺",
+                    "icon": false
+                },
+                {
+                    "wordId": "珠饰",
+                    "icon": false
+                },
+                {
+                    "wordId": "钩针",
+                    "icon": false
+                },
+                {
+                    "wordId": "绗缝",
+                    "icon": false
+                },
+                {
+                    "wordId": "木工",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "书桌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书写",
+                    "icon": false
+                },
+                {
+                    "wordId": "学校",
+                    "icon": false
+                },
+                {
+                    "wordId": "职员",
+                    "icon": false
+                },
+                {
+                    "wordId": "学习",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽屉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "错误",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "程式错误",
+                    "icon": false
+                },
+                {
+                    "wordId": "故障",
+                    "icon": false
+                },
+                {
+                    "wordId": "犯错",
+                    "icon": false
+                },
+                {
+                    "wordId": "过失",
+                    "icon": false
+                },
+                {
+                    "wordId": "印刷错误",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文化",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风俗",
+                    "icon": false
+                },
+                {
+                    "wordId": "身份认同",
+                    "icon": false
+                },
+                {
+                    "wordId": "仪式",
+                    "icon": false
+                },
+                {
+                    "wordId": "遗产",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "深度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "井",
+                    "icon": false
+                },
+                {
+                    "wordId": "睡眠",
+                    "icon": false
+                },
+                {
+                    "wordId": "感受",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "健身",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "踏步机",
+                    "icon": false
+                },
+                {
+                    "wordId": "杠铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "健腹轮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "飞行物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风筝",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸飞机",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "目标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "定义",
+                    "icon": false
+                },
+                {
+                    "wordId": "设定",
+                    "icon": false
+                },
+                {
+                    "wordId": "追求",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "过失",
+        "剪刀",
+        "惊讶",
+        "耳膜",
+        "钩针",
+        "风俗",
+        "低语",
+        "耳朵",
+        "学习",
+        "职员",
+        "祝福",
+        "印刷错误",
+        "风筝",
+        "程式错误",
+        "小教堂",
+        "素描本",
+        "仪式",
+        "草图",
+        "耳廓",
+        "犯错",
+        "定义",
+        "员工",
+        "高兴",
+        "设定",
+        "色彩",
+        "身份认同",
+        "深度",
+        "耳环",
+        "教堂",
+        "耳垂",
+        "书桌",
+        "加密",
+        "悲伤",
+        "草稿",
+        "收集",
+        "增长",
+        "中殿",
+        "健腹轮",
+        "书写",
+        "声音",
+        "木工",
+        "洗礼",
+        "尖塔",
+        "错误",
+        "祈祷",
+        "飞鸟",
+        "飞行物",
+        "存储",
+        "绗缝",
+        "陶艺",
+        "耳塞",
+        "专案",
+        "分析",
+        "设计",
+        "海洋",
+        "追求",
+        "战略"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "井",
+                "爱",
+                "愤怒",
+                "数据",
+                "检索"
+            ]
+        },
+        {
+            "cards": [
+                "生产",
+                "祭坛",
+                "杠铃",
+                "传输",
+                "情绪",
+                "商行"
+            ]
+        },
+        {
+            "cards": [
+                "学校",
+                "故障",
+                "恐惧",
+                "公司",
+                "调色板",
+                "手工艺",
+                "编织"
+            ]
+        },
+        {
+            "cards": [
+                "抽屉",
+                "会议",
+                "目标",
+                "踏步机",
+                "珠饰",
+                "家俱",
+                "初创企业",
+                "遗产"
+            ]
+        },
+        {
+            "cards": [
+                "睡眠",
+                "长椅",
+                "跳箱",
+                "耳机",
+                "健身",
+                "感受",
+                "纸飞机",
+                "文化",
+                "画笔"
+            ]
+        }
+    ]
+}

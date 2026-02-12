@@ -1,0 +1,369 @@
+{
+    "levelId": 160,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "锤子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钉子",
+                    "icon": false
+                },
+                {
+                    "wordId": "敲击",
+                    "icon": false
+                },
+                {
+                    "wordId": "工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "木头",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "握柄",
+                    "icon": false
+                },
+                {
+                    "wordId": "羊角锤",
+                    "icon": false
+                },
+                {
+                    "wordId": "锻造",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "桥梁类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拱桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "桁架桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "系杆拱桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "塔桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "悬索桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "斜拉桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "梁桥",
+                    "icon": true
+                },
+                {
+                    "wordId": "索桥",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "信仰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "不可知论者",
+                    "icon": false
+                },
+                {
+                    "wordId": "无神论者",
+                    "icon": false
+                },
+                {
+                    "wordId": "浸信会信徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "佛教徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "天主教徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "东正教徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "犹太教徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "穆斯林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "雷达",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扫描",
+                    "icon": false
+                },
+                {
+                    "wordId": "波",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "回波",
+                    "icon": false
+                },
+                {
+                    "wordId": "光点",
+                    "icon": false
+                },
+                {
+                    "wordId": "声纳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动物足迹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熊的足迹",
+                    "icon": true
+                },
+                {
+                    "wordId": "狼的足迹",
+                    "icon": true
+                },
+                {
+                    "wordId": "驼鹿的足迹",
+                    "icon": true
+                },
+                {
+                    "wordId": "兔子的足迹",
+                    "icon": true
+                },
+                {
+                    "wordId": "浣熊的足迹",
+                    "icon": true
+                },
+                {
+                    "wordId": "野猪的足迹",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "豌豆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "豆荚",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "微小",
+                    "icon": false
+                },
+                {
+                    "wordId": "豌豆公主",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法庭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "上诉",
+                    "icon": false
+                },
+                {
+                    "wordId": "裁决",
+                    "icon": false
+                },
+                {
+                    "wordId": "陪审团",
+                    "icon": false
+                },
+                {
+                    "wordId": "审判",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "众多",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸟群",
+                    "icon": false
+                },
+                {
+                    "wordId": "兽群",
+                    "icon": false
+                },
+                {
+                    "wordId": "虫群",
+                    "icon": false
+                },
+                {
+                    "wordId": "人群",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "贵金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黄金",
+                    "icon": false
+                },
+                {
+                    "wordId": "白银",
+                    "icon": false
+                },
+                {
+                    "wordId": "铂金",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "街道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大道",
+                    "icon": false
+                },
+                {
+                    "wordId": "小巷",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡同",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "白银",
+        "波",
+        "狼的足迹",
+        "锻造",
+        "胡同",
+        "穆斯林",
+        "回波",
+        "雷达",
+        "铁",
+        "桁架桥",
+        "熊的足迹",
+        "羊角锤",
+        "系杆拱桥",
+        "虫群",
+        "绿色",
+        "索桥",
+        "兔子的足迹",
+        "信号",
+        "东正教徒",
+        "扫描",
+        "上诉",
+        "桥梁类型",
+        "佛教徒",
+        "微小",
+        "驼鹿的足迹",
+        "裁决",
+        "街道",
+        "浣熊的足迹",
+        "大道",
+        "天主教徒",
+        "锤子",
+        "敲击",
+        "铂金",
+        "人群",
+        "信仰",
+        "豆荚",
+        "浸信会信徒",
+        "黄金",
+        "鸟群",
+        "野猪的足迹",
+        "拱桥",
+        "声纳"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "法庭",
+                "豌豆公主",
+                "众多",
+                "悬索桥"
+            ]
+        },
+        {
+            "cards": [
+                "工具",
+                "塔桥",
+                "审判",
+                "不可知论者",
+                "钉子"
+            ]
+        },
+        {
+            "cards": [
+                "小巷",
+                "无神论者",
+                "犹太教徒",
+                "动物足迹",
+                "陪审团",
+                "光点"
+            ]
+        },
+        {
+            "cards": [
+                "梁桥",
+                "木头",
+                "斜拉桥",
+                "握柄",
+                "贵金属",
+                "兽群",
+                "豌豆"
+            ]
+        }
+    ]
+}

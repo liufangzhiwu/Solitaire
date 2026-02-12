@@ -1,0 +1,369 @@
+{
+    "levelId": 44,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "器官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肺",
+                    "icon": false
+                },
+                {
+                    "wordId": "肾脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "胃",
+                    "icon": false
+                },
+                {
+                    "wordId": "肝脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "膀胱",
+                    "icon": false
+                },
+                {
+                    "wordId": "脾脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "心脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "胰腺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水生动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鲸鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "海马",
+                    "icon": true
+                },
+                {
+                    "wordId": "水獭",
+                    "icon": true
+                },
+                {
+                    "wordId": "虎鲸",
+                    "icon": true
+                },
+                {
+                    "wordId": "海豚",
+                    "icon": true
+                },
+                {
+                    "wordId": "章鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "儒艮",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲨鱼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "音乐会",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "粉丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌手",
+                    "icon": false
+                },
+                {
+                    "wordId": "门票",
+                    "icon": false
+                },
+                {
+                    "wordId": "返场",
+                    "icon": false
+                },
+                {
+                    "wordId": "喝彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "音响",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐队",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞蹈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "分类学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "界",
+                    "icon": false
+                },
+                {
+                    "wordId": "门",
+                    "icon": false
+                },
+                {
+                    "wordId": "纲",
+                    "icon": false
+                },
+                {
+                    "wordId": "目",
+                    "icon": false
+                },
+                {
+                    "wordId": "科",
+                    "icon": false
+                },
+                {
+                    "wordId": "属",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "教学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "家庭作业",
+                    "icon": false
+                },
+                {
+                    "wordId": "练习",
+                    "icon": false
+                },
+                {
+                    "wordId": "教程",
+                    "icon": false
+                },
+                {
+                    "wordId": "研讨会",
+                    "icon": false
+                },
+                {
+                    "wordId": "讲座",
+                    "icon": false
+                },
+                {
+                    "wordId": "网络研讨会",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "塔罗牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愚者",
+                    "icon": true
+                },
+                {
+                    "wordId": "月亮",
+                    "icon": true
+                },
+                {
+                    "wordId": "魔术师",
+                    "icon": true
+                },
+                {
+                    "wordId": "女皇",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "薯片",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脆片",
+                    "icon": false
+                },
+                {
+                    "wordId": "口味",
+                    "icon": false
+                },
+                {
+                    "wordId": "包装",
+                    "icon": false
+                },
+                {
+                    "wordId": "油炸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电子邮件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "收件箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "已发送",
+                    "icon": true
+                },
+                {
+                    "wordId": "草稿",
+                    "icon": true
+                },
+                {
+                    "wordId": "垃圾箱",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "实习生",
+                    "icon": false
+                },
+                {
+                    "wordId": "经理",
+                    "icon": false
+                },
+                {
+                    "wordId": "总监",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "第一次",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "起步",
+                    "icon": false
+                },
+                {
+                    "wordId": "初吻",
+                    "icon": false
+                },
+                {
+                    "wordId": "初恋",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "喝彩",
+        "愚者",
+        "海马",
+        "第一次",
+        "教程",
+        "界",
+        "研讨会",
+        "海豚",
+        "肺",
+        "膀胱",
+        "科",
+        "鲸鱼",
+        "塔罗牌",
+        "起步",
+        "脆片",
+        "水獭",
+        "总监",
+        "乐队",
+        "返场",
+        "门票",
+        "音乐会",
+        "水生动物",
+        "目",
+        "讲座",
+        "儒艮",
+        "虎鲸",
+        "粉丝",
+        "胃",
+        "练习",
+        "魔术师",
+        "歌手",
+        "初恋",
+        "口味",
+        "舞蹈",
+        "女皇",
+        "胰腺",
+        "网络研讨会",
+        "包装",
+        "薯片",
+        "心脏",
+        "肝脏",
+        "草稿"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "门",
+                "实习生",
+                "职业",
+                "油炸"
+            ]
+        },
+        {
+            "cards": [
+                "属",
+                "章鱼",
+                "音响",
+                "教学",
+                "收件箱"
+            ]
+        },
+        {
+            "cards": [
+                "脾脏",
+                "分类学",
+                "垃圾箱",
+                "已发送",
+                "纲",
+                "经理"
+            ]
+        },
+        {
+            "cards": [
+                "月亮",
+                "鲨鱼",
+                "器官",
+                "初吻",
+                "电子邮件",
+                "家庭作业",
+                "肾脏"
+            ]
+        }
+    ]
+}

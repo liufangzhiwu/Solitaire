@@ -1,0 +1,369 @@
+{
+    "levelId": 234,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "禁止",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "禁令",
+                    "icon": false
+                },
+                {
+                    "wordId": "否决",
+                    "icon": false
+                },
+                {
+                    "wordId": "禁忌",
+                    "icon": false
+                },
+                {
+                    "wordId": "暂停",
+                    "icon": false
+                },
+                {
+                    "wordId": "阻止",
+                    "icon": false
+                },
+                {
+                    "wordId": "防止",
+                    "icon": false
+                },
+                {
+                    "wordId": "封锁",
+                    "icon": false
+                },
+                {
+                    "wordId": "不准",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恶作剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玩耍",
+                    "icon": false
+                },
+                {
+                    "wordId": "咯咯笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "诡计",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐趣",
+                    "icon": false
+                },
+                {
+                    "wordId": "淘气的",
+                    "icon": false
+                },
+                {
+                    "wordId": "浩劫",
+                    "icon": false
+                },
+                {
+                    "wordId": "混乱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "容器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平底杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "高脚杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "罐子",
+                    "icon": true
+                },
+                {
+                    "wordId": "壶",
+                    "icon": true
+                },
+                {
+                    "wordId": "马提尼杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "瓶子",
+                    "icon": true
+                },
+                {
+                    "wordId": "杯子",
+                    "icon": true
+                },
+                {
+                    "wordId": "玻璃瓶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "奇迹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奇事",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇观",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法",
+                    "icon": false
+                },
+                {
+                    "wordId": "预兆",
+                    "icon": false
+                },
+                {
+                    "wordId": "神话",
+                    "icon": false
+                },
+                {
+                    "wordId": "恩惠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "湿滑的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地板",
+                    "icon": true
+                },
+                {
+                    "wordId": "道路",
+                    "icon": true
+                },
+                {
+                    "wordId": "斜坡",
+                    "icon": true
+                },
+                {
+                    "wordId": "香蕉皮",
+                    "icon": true
+                },
+                {
+                    "wordId": "摔倒",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "应用程序",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "程式",
+                    "icon": false
+                },
+                {
+                    "wordId": "软件",
+                    "icon": false
+                },
+                {
+                    "wordId": "实用工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "工具",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拉面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面条",
+                    "icon": false
+                },
+                {
+                    "wordId": "高汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "海苔",
+                    "icon": false
+                },
+                {
+                    "wordId": "青葱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "意大利特色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "意式霜淇淋",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式脆饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡普里沙拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "青酱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "东方特色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "香气",
+                    "icon": false
+                },
+                {
+                    "wordId": "香料",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜肴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "智商",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "门萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "测试",
+                    "icon": false
+                },
+                {
+                    "wordId": "分数",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "意大利特色",
+        "意式脆饼",
+        "卡普里沙拉",
+        "魔法",
+        "诡计",
+        "测试",
+        "青酱",
+        "香蕉皮",
+        "高脚杯",
+        "玩耍",
+        "玩笑",
+        "禁止",
+        "地板",
+        "禁忌",
+        "容器",
+        "高汤",
+        "玻璃瓶",
+        "摔倒",
+        "冰",
+        "拉面",
+        "奇事",
+        "香料",
+        "神话",
+        "预兆",
+        "杯子",
+        "瓶子",
+        "香气",
+        "否决",
+        "实用工具",
+        "壶",
+        "程式",
+        "不准",
+        "恩惠",
+        "青葱",
+        "平底杯",
+        "道路",
+        "淘气的",
+        "海苔",
+        "斜坡",
+        "防止",
+        "封锁",
+        "奇迹"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "东方特色",
+                "应用程序",
+                "面条",
+                "奇观"
+            ]
+        },
+        {
+            "cards": [
+                "软件",
+                "暂停",
+                "工具",
+                "马提尼杯",
+                "阻止"
+            ]
+        },
+        {
+            "cards": [
+                "恶作剧",
+                "菜肴",
+                "混乱",
+                "咯咯笑",
+                "禁令",
+                "智商"
+            ]
+        },
+        {
+            "cards": [
+                "浩劫",
+                "意式霜淇淋",
+                "乐趣",
+                "分数",
+                "门萨",
+                "罐子",
+                "湿滑的"
+            ]
+        }
+    ]
+}

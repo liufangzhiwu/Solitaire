@@ -1,0 +1,369 @@
+{
+    "levelId": 185,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "糖果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "太妃糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳脂软糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉太妃糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹心糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "棒棒糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "杏仁糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛轧糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "果仁糖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化学元素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氧",
+                    "icon": false
+                },
+                {
+                    "wordId": "氮",
+                    "icon": false
+                },
+                {
+                    "wordId": "氦",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳",
+                    "icon": false
+                },
+                {
+                    "wordId": "氖",
+                    "icon": false
+                },
+                {
+                    "wordId": "氩",
+                    "icon": false
+                },
+                {
+                    "wordId": "钙",
+                    "icon": false
+                },
+                {
+                    "wordId": "硫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烈酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "威士卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "干邑",
+                    "icon": false
+                },
+                {
+                    "wordId": "苦艾酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "白兰地",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙舌兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏特加",
+                    "icon": false
+                },
+                {
+                    "wordId": "朗姆酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "金酒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珠宝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戒指",
+                    "icon": true
+                },
+                {
+                    "wordId": "胸针",
+                    "icon": true
+                },
+                {
+                    "wordId": "吊坠",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳环",
+                    "icon": true
+                },
+                {
+                    "wordId": "手镯",
+                    "icon": true
+                },
+                {
+                    "wordId": "项链",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "小行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谷神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "灶神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "婚神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "智神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "健神星",
+                    "icon": false
+                },
+                {
+                    "wordId": "司法星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "树木",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "猴面包树",
+                    "icon": false
+                },
+                {
+                    "wordId": "银杏",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏树",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "花卉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牡丹",
+                    "icon": true
+                },
+                {
+                    "wordId": "大丽花",
+                    "icon": true
+                },
+                {
+                    "wordId": "紫苑",
+                    "icon": true
+                },
+                {
+                    "wordId": "丁香",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "月份",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三月",
+                    "icon": false
+                },
+                {
+                    "wordId": "四月",
+                    "icon": false
+                },
+                {
+                    "wordId": "五月",
+                    "icon": false
+                },
+                {
+                    "wordId": "六月",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "药水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长生不老药",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔药",
+                    "icon": false
+                },
+                {
+                    "wordId": "滋补剂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "板球",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰壶",
+                    "icon": false
+                },
+                {
+                    "wordId": "冬季两项",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "四月",
+        "乳脂软糖",
+        "冬季两项",
+        "糖果",
+        "白兰地",
+        "三月",
+        "威士卡",
+        "项链",
+        "大丽花",
+        "干邑",
+        "烈酒",
+        "运动",
+        "牛轧糖",
+        "硫",
+        "冰壶",
+        "化学元素",
+        "牡丹",
+        "司法星",
+        "耳环",
+        "灶神星",
+        "智神星",
+        "猴面包树",
+        "板球",
+        "健神星",
+        "长生不老药",
+        "金酒",
+        "胸针",
+        "拉太妃糖",
+        "夹心糖",
+        "六月",
+        "戒指",
+        "红杉",
+        "氦",
+        "滋补剂",
+        "氩",
+        "药水",
+        "伏特加",
+        "龙舌兰",
+        "手镯",
+        "魔药",
+        "杏仁糖",
+        "谷神星"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "氧",
+                "苦艾酒",
+                "丁香",
+                "银杏"
+            ]
+        },
+        {
+            "cards": [
+                "钙",
+                "紫苑",
+                "棒棒糖",
+                "小行星",
+                "氮"
+            ]
+        },
+        {
+            "cards": [
+                "太妃糖",
+                "氖",
+                "吊坠",
+                "月份",
+                "柏树",
+                "婚神星"
+            ]
+        },
+        {
+            "cards": [
+                "果仁糖",
+                "朗姆酒",
+                "珠宝",
+                "碳",
+                "花卉",
+                "五月",
+                "树木"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,342 @@
+{
+    "levelId": 367,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "歌曲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "民谣",
+                    "icon": false
+                },
+                {
+                    "wordId": "颂歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇篮曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "小夜曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "颂诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "哀歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "叠句",
+                    "icon": false
+                },
+                {
+                    "wordId": "副歌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水湾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小海湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "溪湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "河口湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "支流",
+                    "icon": false
+                },
+                {
+                    "wordId": "新月湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "河口",
+                    "icon": false
+                },
+                {
+                    "wordId": "港口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "条纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "格子",
+                    "icon": true
+                },
+                {
+                    "wordId": "人字形",
+                    "icon": true
+                },
+                {
+                    "wordId": "波点",
+                    "icon": true
+                },
+                {
+                    "wordId": "漩涡纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "方格纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "菱形纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "马赛克",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "长凳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "板条",
+                    "icon": false
+                },
+                {
+                    "wordId": "凳腿",
+                    "icon": false
+                },
+                {
+                    "wordId": "座面",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶手",
+                    "icon": false
+                },
+                {
+                    "wordId": "靠背",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚凳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "凹地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "岩洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "渗坑",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "深坑",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂隙",
+                    "icon": false
+                },
+                {
+                    "wordId": "空洞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "英雄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "游侠",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫师",
+                    "icon": false
+                },
+                {
+                    "wordId": "德鲁伊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鼓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "军鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "低音鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "骑钹",
+                    "icon": true
+                },
+                {
+                    "wordId": "知音镲",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "光束",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镭射",
+                    "icon": false
+                },
+                {
+                    "wordId": "射线",
+                    "icon": false
+                },
+                {
+                    "wordId": "红外线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "节拍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拍手",
+                    "icon": false
+                },
+                {
+                    "wordId": "响指",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻叩",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "歌曲",
+        "小海湾",
+        "空洞",
+        "游侠",
+        "港口",
+        "峡谷",
+        "溪湾",
+        "摇篮曲",
+        "鼓",
+        "板条",
+        "扶手",
+        "镭射",
+        "光束",
+        "新月湾",
+        "凹地",
+        "人字形",
+        "红外线",
+        "知音镲",
+        "波点",
+        "格子",
+        "河口湖",
+        "靠背",
+        "德鲁伊",
+        "巫师",
+        "响指",
+        "脚凳",
+        "小夜曲",
+        "渗坑",
+        "颂诗",
+        "条纹",
+        "菱形纹",
+        "深坑",
+        "副歌",
+        "圣骑士",
+        "哀歌",
+        "岩洞",
+        "民谣"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "英雄",
+                "支流",
+                "河口",
+                "水湾"
+            ]
+        },
+        {
+            "cards": [
+                "轻叩",
+                "图案",
+                "低音鼓",
+                "射线",
+                "方格纹"
+            ]
+        },
+        {
+            "cards": [
+                "拍手",
+                "长凳",
+                "峡湾",
+                "节拍",
+                "骑钹",
+                "马赛克"
+            ]
+        },
+        {
+            "cards": [
+                "裂隙",
+                "漩涡纹",
+                "凳腿",
+                "颂歌",
+                "军鼓",
+                "座面",
+                "叠句"
+            ]
+        }
+    ]
+}

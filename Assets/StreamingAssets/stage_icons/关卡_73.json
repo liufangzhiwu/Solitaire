@@ -1,0 +1,369 @@
+{
+    "levelId": 73,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "三明治",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吐司",
+                    "icon": true
+                },
+                {
+                    "wordId": "乳酪",
+                    "icon": true
+                },
+                {
+                    "wordId": "火腿",
+                    "icon": true
+                },
+                {
+                    "wordId": "生菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛋黄酱",
+                    "icon": true
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": true
+                },
+                {
+                    "wordId": "腌黄瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "香肠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "观赏鱼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斗鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝足鲈",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "慈鲷",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲶鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "七彩神仙",
+                    "icon": false
+                },
+                {
+                    "wordId": "锦鲤",
+                    "icon": false
+                },
+                {
+                    "wordId": "孔雀鱼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "聊天",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谈话",
+                    "icon": false
+                },
+                {
+                    "wordId": "交谈",
+                    "icon": false
+                },
+                {
+                    "wordId": "讨论",
+                    "icon": false
+                },
+                {
+                    "wordId": "闲聊",
+                    "icon": false
+                },
+                {
+                    "wordId": "喋喋不休",
+                    "icon": false
+                },
+                {
+                    "wordId": "空谈",
+                    "icon": false
+                },
+                {
+                    "wordId": "戏谑",
+                    "icon": false
+                },
+                {
+                    "wordId": "漫谈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恒星",
+                    "icon": false
+                },
+                {
+                    "wordId": "行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "类星体",
+                    "icon": false
+                },
+                {
+                    "wordId": "彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星尘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "朋友",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伙伴",
+                    "icon": false
+                },
+                {
+                    "wordId": "兄弟",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩伴",
+                    "icon": false
+                },
+                {
+                    "wordId": "盟友",
+                    "icon": false
+                },
+                {
+                    "wordId": "同志",
+                    "icon": false
+                },
+                {
+                    "wordId": "忠诚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "长度单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英尺",
+                    "icon": false
+                },
+                {
+                    "wordId": "英寸",
+                    "icon": false
+                },
+                {
+                    "wordId": "码",
+                    "icon": false
+                },
+                {
+                    "wordId": "英里",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "十亿美元",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "独角兽公司",
+                    "icon": false
+                },
+                {
+                    "wordId": "基金",
+                    "icon": false
+                },
+                {
+                    "wordId": "金钱",
+                    "icon": false
+                },
+                {
+                    "wordId": "美元",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "问题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "解决方案",
+                    "icon": false
+                },
+                {
+                    "wordId": "困境",
+                    "icon": false
+                },
+                {
+                    "wordId": "障碍",
+                    "icon": false
+                },
+                {
+                    "wordId": "阻碍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "静音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寂静的",
+                    "icon": false
+                },
+                {
+                    "wordId": "无声的",
+                    "icon": false
+                },
+                {
+                    "wordId": "安静的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "唤醒方式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闹钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "日出",
+                    "icon": true
+                },
+                {
+                    "wordId": "公鸡",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "行星",
+        "闲聊",
+        "斗鱼",
+        "类星体",
+        "交谈",
+        "金钱",
+        "基金",
+        "番茄",
+        "香肠",
+        "蛋黄酱",
+        "鲶鱼",
+        "丝足鲈",
+        "喋喋不休",
+        "观赏鱼",
+        "日出",
+        "孔雀鱼",
+        "戏谑",
+        "谈话",
+        "寂静的",
+        "唤醒方式",
+        "灯鱼",
+        "独角兽公司",
+        "生菜",
+        "忠诚",
+        "解决方案",
+        "星系",
+        "玩伴",
+        "障碍",
+        "朋友",
+        "阻碍",
+        "腌黄瓜",
+        "码",
+        "闹钟",
+        "英寸",
+        "慈鲷",
+        "英里",
+        "火腿",
+        "兄弟",
+        "乳酪",
+        "聊天",
+        "星尘",
+        "漫谈"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "问题",
+                "伙伴",
+                "美元",
+                "十亿美元"
+            ]
+        },
+        {
+            "cards": [
+                "吐司",
+                "同志",
+                "静音",
+                "无声的",
+                "困境"
+            ]
+        },
+        {
+            "cards": [
+                "七彩神仙",
+                "锦鲤",
+                "恒星",
+                "三明治",
+                "盟友",
+                "讨论"
+            ]
+        },
+        {
+            "cards": [
+                "长度单位",
+                "星云",
+                "彗星",
+                "英尺",
+                "安静的",
+                "公鸡",
+                "空谈"
+            ]
+        }
+    ]
+}

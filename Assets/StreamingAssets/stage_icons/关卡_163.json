@@ -1,0 +1,369 @@
+{
+    "levelId": 163,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苹果",
+                    "icon": true
+                },
+                {
+                    "wordId": "香蕉",
+                    "icon": true
+                },
+                {
+                    "wordId": "葡萄",
+                    "icon": true
+                },
+                {
+                    "wordId": "樱桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "木瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "芒果",
+                    "icon": true
+                },
+                {
+                    "wordId": "桃子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "颜色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄色",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫色",
+                    "icon": false
+                },
+                {
+                    "wordId": "橙色",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉色",
+                    "icon": false
+                },
+                {
+                    "wordId": "棕色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "交通工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽车",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡车",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴士",
+                    "icon": false
+                },
+                {
+                    "wordId": "火车",
+                    "icon": false
+                },
+                {
+                    "wordId": "有轨电车",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮船",
+                    "icon": false
+                },
+                {
+                    "wordId": "地铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "踏板车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甜点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛋糕",
+                    "icon": false
+                },
+                {
+                    "wordId": "曲奇",
+                    "icon": false
+                },
+                {
+                    "wordId": "布朗尼",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛芬蛋糕",
+                    "icon": false
+                },
+                {
+                    "wordId": "布丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "挞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "悲伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜悦的",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐惧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "孤独的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "天气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "风暴",
+                    "icon": false
+                },
+                {
+                    "wordId": "风",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "形状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圆形",
+                    "icon": true
+                },
+                {
+                    "wordId": "正方形",
+                    "icon": true
+                },
+                {
+                    "wordId": "三角形",
+                    "icon": true
+                },
+                {
+                    "wordId": "椭圆形",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "足球",
+                    "icon": true
+                },
+                {
+                    "wordId": "网球",
+                    "icon": true
+                },
+                {
+                    "wordId": "棒球",
+                    "icon": true
+                },
+                {
+                    "wordId": "高尔夫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宝石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "祖母绿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸟类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鹰",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻雀",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹦鹉",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "棕色",
+        "布朗尼",
+        "紫色",
+        "曲奇",
+        "火车",
+        "蓝色",
+        "快乐",
+        "麻雀",
+        "风",
+        "橙色",
+        "恐惧的",
+        "正方形",
+        "甜点",
+        "情绪",
+        "形状",
+        "黄色",
+        "孤独的",
+        "巴士",
+        "网球",
+        "地铁",
+        "汽车",
+        "椭圆形",
+        "祖母绿",
+        "喜悦的",
+        "颜色",
+        "宝石",
+        "挞",
+        "卡车",
+        "樱桃",
+        "绿色",
+        "粉色",
+        "鹰",
+        "桃子",
+        "布丁",
+        "愤怒",
+        "棒球",
+        "甜瓜",
+        "鹦鹉",
+        "圆形",
+        "红色",
+        "踏板车",
+        "三角形"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "木瓜",
+                "交通工具",
+                "鸟类",
+                "雨"
+            ]
+        },
+        {
+            "cards": [
+                "轮船",
+                "有轨电车",
+                "足球",
+                "天气",
+                "悲伤"
+            ]
+        },
+        {
+            "cards": [
+                "水果",
+                "葡萄",
+                "雪",
+                "苹果",
+                "芒果",
+                "蓝宝石"
+            ]
+        },
+        {
+            "cards": [
+                "风暴",
+                "运动",
+                "香蕉",
+                "蛋糕",
+                "红宝石",
+                "玛芬蛋糕",
+                "高尔夫"
+            ]
+        }
+    ]
+}

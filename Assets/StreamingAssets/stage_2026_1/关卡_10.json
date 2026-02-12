@@ -1,0 +1,369 @@
+{
+    "levelId": 10,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "数学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "加号",
+                    "icon": false
+                },
+                {
+                    "wordId": "向量",
+                    "icon": false
+                },
+                {
+                    "wordId": "减号",
+                    "icon": false
+                },
+                {
+                    "wordId": "百分比",
+                    "icon": false
+                },
+                {
+                    "wordId": "除法",
+                    "icon": false
+                },
+                {
+                    "wordId": "矩阵",
+                    "icon": false
+                },
+                {
+                    "wordId": "积分",
+                    "icon": false
+                },
+                {
+                    "wordId": "定理",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸽子",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹰",
+                    "icon": true
+                },
+                {
+                    "wordId": "天鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "猫头鹰",
+                    "icon": true
+                },
+                {
+                    "wordId": "苍鹭",
+                    "icon": true
+                },
+                {
+                    "wordId": "知更鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "雀",
+                    "icon": true
+                },
+                {
+                    "wordId": "秃鹫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "音乐流派",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "说唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇滚",
+                    "icon": false
+                },
+                {
+                    "wordId": "流行",
+                    "icon": false
+                },
+                {
+                    "wordId": "爵士",
+                    "icon": false
+                },
+                {
+                    "wordId": "乡村",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝调",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷鬼",
+                    "icon": false
+                },
+                {
+                    "wordId": "迪斯可",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "学科",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "语文",
+                    "icon": false
+                },
+                {
+                    "wordId": "数学",
+                    "icon": false
+                },
+                {
+                    "wordId": "英语",
+                    "icon": false
+                },
+                {
+                    "wordId": "物理",
+                    "icon": false
+                },
+                {
+                    "wordId": "化学",
+                    "icon": false
+                },
+                {
+                    "wordId": "生物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "房间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阁楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "浴室",
+                    "icon": false
+                },
+                {
+                    "wordId": "厨房",
+                    "icon": false
+                },
+                {
+                    "wordId": "卧室",
+                    "icon": false
+                },
+                {
+                    "wordId": "地窖",
+                    "icon": false
+                },
+                {
+                    "wordId": "客厅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旅行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "观光",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅程",
+                    "icon": false
+                },
+                {
+                    "wordId": "航行",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮轮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "名茶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乌龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "大红袍",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁观音",
+                    "icon": false
+                },
+                {
+                    "wordId": "碧螺春",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "曲棍球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冰球",
+                    "icon": false
+                },
+                {
+                    "wordId": "处罚",
+                    "icon": false
+                },
+                {
+                    "wordId": "进球",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰球场",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "约会",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "情侣",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼服",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲜花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锯子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锯齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "锯片",
+                    "icon": false
+                },
+                {
+                    "wordId": "锯条",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "处罚",
+        "冰球",
+        "加号",
+        "数学",
+        "摇滚",
+        "雀",
+        "乡村",
+        "除法",
+        "大红袍",
+        "旅程",
+        "进球",
+        "知更鸟",
+        "说唱",
+        "锯齿",
+        "鲜花",
+        "学科",
+        "矩阵",
+        "定理",
+        "铁观音",
+        "英语",
+        "乌龙",
+        "雷鬼",
+        "天鹅",
+        "蓝调",
+        "语文",
+        "苍鹭",
+        "鸽子",
+        "爵士",
+        "音乐流派",
+        "冰球场",
+        "厨房",
+        "化学",
+        "卧室",
+        "锯条",
+        "房间",
+        "迪斯可",
+        "秃鹫",
+        "生物",
+        "阁楼",
+        "鸟",
+        "减号",
+        "数学",
+        "碧螺春",
+        "客厅",
+        "流行",
+        "邮轮"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "名茶",
+                "鹰",
+                "航行"
+            ]
+        },
+        {
+            "cards": [
+                "猫头鹰",
+                "观光",
+                "约会",
+                "曲棍球"
+            ]
+        },
+        {
+            "cards": [
+                "积分",
+                "锯子",
+                "物理",
+                "礼服",
+                "地窖"
+            ]
+        },
+        {
+            "cards": [
+                "向量",
+                "浴室",
+                "旅行",
+                "百分比",
+                "情侣",
+                "锯片"
+            ]
+        }
+    ]
+}

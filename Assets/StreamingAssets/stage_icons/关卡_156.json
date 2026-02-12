@@ -1,0 +1,453 @@
+{
+    "levelId": 156,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 175,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "盛宴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宴会",
+                    "icon": false
+                },
+                {
+                    "wordId": "大浅盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜肴",
+                    "icon": false
+                },
+                {
+                    "wordId": "餐食",
+                    "icon": false
+                },
+                {
+                    "wordId": "客人",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞蹈",
+                    "icon": false
+                },
+                {
+                    "wordId": "神圣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "皇家的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大银幕",
+                    "icon": true
+                },
+                {
+                    "wordId": "胶片相机",
+                    "icon": true
+                },
+                {
+                    "wordId": "柔光箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "电影奖项",
+                    "icon": true
+                },
+                {
+                    "wordId": "电影导演",
+                    "icon": true
+                },
+                {
+                    "wordId": "场记板",
+                    "icon": true
+                },
+                {
+                    "wordId": "领夹麦克风",
+                    "icon": true
+                },
+                {
+                    "wordId": "调音台",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "上升",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "楼梯",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "凤凰",
+                    "icon": false
+                },
+                {
+                    "wordId": "高度",
+                    "icon": false
+                },
+                {
+                    "wordId": "反抗",
+                    "icon": false
+                },
+                {
+                    "wordId": "面团",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "眉毛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "民谣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗意的",
+                    "icon": false
+                },
+                {
+                    "wordId": "吟游诗人",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲁特琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "史诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗句",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宁芙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女神",
+                    "icon": false
+                },
+                {
+                    "wordId": "少女",
+                    "icon": false
+                },
+                {
+                    "wordId": "树精",
+                    "icon": false
+                },
+                {
+                    "wordId": "水泽仙女",
+                    "icon": false
+                },
+                {
+                    "wordId": "山岳仙女",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋仙女",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纪元",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "年代",
+                    "icon": false
+                },
+                {
+                    "wordId": "时期",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间",
+                    "icon": false
+                },
+                {
+                    "wordId": "阶段",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "俄罗斯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "莫斯科",
+                    "icon": false
+                },
+                {
+                    "wordId": "克里姆林宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙皇",
+                    "icon": false
+                },
+                {
+                    "wordId": "西伯利亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶炊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "储物柜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "上锁的",
+                    "icon": false
+                },
+                {
+                    "wordId": "关闭的",
+                    "icon": false
+                },
+                {
+                    "wordId": "编号的",
+                    "icon": false
+                },
+                {
+                    "wordId": "个人的",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海神",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三叉戟",
+                    "icon": true
+                },
+                {
+                    "wordId": "海王星",
+                    "icon": true
+                },
+                {
+                    "wordId": "波浪",
+                    "icon": true
+                },
+                {
+                    "wordId": "海马",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "猕猴桃",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水果",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色的",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛茸茸的",
+                    "icon": false
+                },
+                {
+                    "wordId": "异国的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钱包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扣子",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉链",
+                    "icon": false
+                },
+                {
+                    "wordId": "手柄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游艇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "豪华",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛舟会",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂浮的",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "赛舟会",
+        "安全的",
+        "吟游诗人",
+        "面团",
+        "水泽仙女",
+        "扣子",
+        "调音台",
+        "海王星",
+        "波浪",
+        "诗意的",
+        "西伯利亚",
+        "山岳仙女",
+        "大浅盘",
+        "少女",
+        "凤凰",
+        "神圣的",
+        "沙皇",
+        "菜肴",
+        "树精",
+        "豪华",
+        "拉链",
+        "关闭的",
+        "时间",
+        "岩浆",
+        "电影导演",
+        "莫斯科",
+        "年代",
+        "皇家的",
+        "舞蹈",
+        "上升",
+        "民谣",
+        "故事",
+        "大银幕",
+        "反抗",
+        "游艇",
+        "诗人",
+        "盛宴",
+        "楼梯",
+        "电影奖项",
+        "克里姆林宫",
+        "个人的",
+        "竖琴",
+        "史诗",
+        "鲁特琴",
+        "海洋仙女",
+        "柔光箱",
+        "客人",
+        "绿色的",
+        "俄罗斯",
+        "三叉戟",
+        "漂浮的",
+        "手柄",
+        "毛茸茸的",
+        "上锁的",
+        "高度",
+        "阶段",
+        "诗句",
+        "时代",
+        "山脉",
+        "领夹麦克风",
+        "海神",
+        "餐食"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "胶片相机",
+                "眉毛",
+                "编号的"
+            ]
+        },
+        {
+            "cards": [
+                "时期",
+                "宁芙",
+                "异国的",
+                "时间线"
+            ]
+        },
+        {
+            "cards": [
+                "储物柜",
+                "水果",
+                "茶炊",
+                "猕猴桃",
+                "海马"
+            ]
+        },
+        {
+            "cards": [
+                "宴会",
+                "电影",
+                "钱包",
+                "场记板",
+                "纪元",
+                "女神"
+            ]
+        }
+    ]
+}

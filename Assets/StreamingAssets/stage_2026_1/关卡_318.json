@@ -1,0 +1,217 @@
+{
+    "levelId": 318,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "村庄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "城堡",
+                    "icon": false
+                },
+                {
+                    "wordId": "郡",
+                    "icon": false
+                },
+                {
+                    "wordId": "农庄",
+                    "icon": false
+                },
+                {
+                    "wordId": "公社",
+                    "icon": false
+                },
+                {
+                    "wordId": "教区",
+                    "icon": false
+                },
+                {
+                    "wordId": "庄园",
+                    "icon": false
+                },
+                {
+                    "wordId": "村落",
+                    "icon": false
+                },
+                {
+                    "wordId": "聚落",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拓扑学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "环面",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫比乌斯环",
+                    "icon": false
+                },
+                {
+                    "wordId": "同伦",
+                    "icon": false
+                },
+                {
+                    "wordId": "克莱因瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "亏格",
+                    "icon": false
+                },
+                {
+                    "wordId": "流形",
+                    "icon": false
+                },
+                {
+                    "wordId": "同调",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧拉示性数",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "船坞",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑道",
+                    "icon": false
+                },
+                {
+                    "wordId": "泊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "驳岸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "量子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玻色子",
+                    "icon": false
+                },
+                {
+                    "wordId": "费米子",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻子",
+                    "icon": false
+                },
+                {
+                    "wordId": "光子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "航海",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船首",
+                    "icon": false
+                },
+                {
+                    "wordId": "船尾",
+                    "icon": false
+                },
+                {
+                    "wordId": "船上厨房",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "分形",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "门格海绵",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴恩斯利蕨",
+                    "icon": true
+                },
+                {
+                    "wordId": "希尔伯特曲线",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "教区",
+        "欧拉示性数",
+        "船坞",
+        "克莱因瓶",
+        "同调",
+        "玻色子",
+        "泊位",
+        "郡",
+        "村落",
+        "城堡",
+        "亏格",
+        "农庄",
+        "巴恩斯利蕨",
+        "轻子",
+        "村庄",
+        "船上厨房",
+        "流形",
+        "拓扑学",
+        "费米子",
+        "驳岸",
+        "环面",
+        "龙骨",
+        "公社",
+        "希尔伯特曲线"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "聚落",
+                "莫比乌斯环",
+                "滑道"
+            ]
+        },
+        {
+            "cards": [
+                "庄园",
+                "船尾",
+                "分形",
+                "门格海绵"
+            ]
+        },
+        {
+            "cards": [
+                "航海",
+                "同伦",
+                "船首",
+                "量子",
+                "光子"
+            ]
+        }
+    ]
+}

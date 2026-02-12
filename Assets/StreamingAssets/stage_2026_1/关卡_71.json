@@ -1,0 +1,553 @@
+{
+    "levelId": 71,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "煎饼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "面粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "面糊",
+                    "icon": false
+                },
+                {
+                    "wordId": "枫糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "果酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉桂",
+                    "icon": false
+                },
+                {
+                    "wordId": "煎锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "食谱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "科技",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "机器人技术",
+                    "icon": false
+                },
+                {
+                    "wordId": "互联网",
+                    "icon": false
+                },
+                {
+                    "wordId": "无线网络",
+                    "icon": false
+                },
+                {
+                    "wordId": "硬件",
+                    "icon": false
+                },
+                {
+                    "wordId": "初创公司",
+                    "icon": false
+                },
+                {
+                    "wordId": "专利",
+                    "icon": false
+                },
+                {
+                    "wordId": "进步",
+                    "icon": false
+                },
+                {
+                    "wordId": "大数据",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "社交媒体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "话题标签",
+                    "icon": false
+                },
+                {
+                    "wordId": "转发",
+                    "icon": false
+                },
+                {
+                    "wordId": "不喜欢",
+                    "icon": false
+                },
+                {
+                    "wordId": "点赞",
+                    "icon": false
+                },
+                {
+                    "wordId": "分享",
+                    "icon": false
+                },
+                {
+                    "wordId": "表情符号",
+                    "icon": false
+                },
+                {
+                    "wordId": "资讯流",
+                    "icon": false
+                },
+                {
+                    "wordId": "个人资料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爵士乐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "低音提琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌手",
+                    "icon": false
+                },
+                {
+                    "wordId": "小号",
+                    "icon": false
+                },
+                {
+                    "wordId": "观众",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝调",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冲浪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲浪板",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚绳",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿式潜水服",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲浪者",
+                    "icon": false
+                },
+                {
+                    "wordId": "落水",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "实验服",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "口袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "衣领",
+                    "icon": false
+                },
+                {
+                    "wordId": "袖子",
+                    "icon": false
+                },
+                {
+                    "wordId": "纽扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "耐腐蚀",
+                    "icon": false
+                },
+                {
+                    "wordId": "化学家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "营养素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "维生素",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白质",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿物质",
+                    "icon": false
+                },
+                {
+                    "wordId": "纤维",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸收",
+                    "icon": false
+                },
+                {
+                    "wordId": "健康",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "老人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弯腰",
+                    "icon": false
+                },
+                {
+                    "wordId": "拐杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "智慧",
+                    "icon": false
+                },
+                {
+                    "wordId": "爷爷",
+                    "icon": false
+                },
+                {
+                    "wordId": "长者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有胡须的动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "海豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "海象",
+                    "icon": true
+                },
+                {
+                    "wordId": "水獭",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "洗衣物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "连帽衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "女式衬衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "裙子",
+                    "icon": true
+                },
+                {
+                    "wordId": "裤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "背心",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "冲击",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "力",
+                    "icon": false
+                },
+                {
+                    "wordId": "震动",
+                    "icon": false
+                },
+                {
+                    "wordId": "打击",
+                    "icon": false
+                },
+                {
+                    "wordId": "影响",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "关节",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肘关节",
+                    "icon": false
+                },
+                {
+                    "wordId": "膝关节",
+                    "icon": false
+                },
+                {
+                    "wordId": "踝关节",
+                    "icon": false
+                },
+                {
+                    "wordId": "腕关节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小屋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泥土",
+                    "icon": false
+                },
+                {
+                    "wordId": "黏土",
+                    "icon": false
+                },
+                {
+                    "wordId": "茅草",
+                    "icon": false
+                },
+                {
+                    "wordId": "木材",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幻觉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海市蜃楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "全息影像",
+                    "icon": false
+                },
+                {
+                    "wordId": "诡计",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "室内",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "内部",
+                    "icon": false
+                },
+                {
+                    "wordId": "里面",
+                    "icon": false
+                },
+                {
+                    "wordId": "内部的",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大数据",
+        "背心",
+        "冲浪板",
+        "裤子",
+        "社交媒体",
+        "初创公司",
+        "打击",
+        "硬件",
+        "脚绳",
+        "低音提琴",
+        "表情符号",
+        "食谱",
+        "烟雾",
+        "点赞",
+        "进步",
+        "猫",
+        "肘关节",
+        "煎饼",
+        "肉桂",
+        "营养素",
+        "转发",
+        "腕关节",
+        "耐腐蚀",
+        "专利",
+        "面糊",
+        "袖子",
+        "煎锅",
+        "弯腰",
+        "影响",
+        "纽扣",
+        "茅草",
+        "维生素",
+        "化学家",
+        "观众",
+        "泥土",
+        "话题标签",
+        "海市蜃楼",
+        "内部的",
+        "裙子",
+        "果酱",
+        "拐杖",
+        "智慧",
+        "木材",
+        "海浪",
+        "枫糖",
+        "钢琴",
+        "落水",
+        "实验服",
+        "糖浆",
+        "衣领",
+        "冲浪",
+        "无线网络",
+        "里面",
+        "震动",
+        "面粉",
+        "内部",
+        "湿式潜水服",
+        "资讯流",
+        "互联网",
+        "室内",
+        "个人资料",
+        "冲击",
+        "女式衬衫"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "老人",
+                "蓝调",
+                "水獭",
+                "不喜欢",
+                "全息影像"
+            ]
+        },
+        {
+            "cards": [
+                "歌手",
+                "幻觉",
+                "关节",
+                "机器人技术",
+                "舞台",
+                "膝关节"
+            ]
+        },
+        {
+            "cards": [
+                "狗",
+                "连帽衫",
+                "健康",
+                "吸收",
+                "洗衣物",
+                "纤维",
+                "海象"
+            ]
+        },
+        {
+            "cards": [
+                "小号",
+                "黏土",
+                "海豹",
+                "科技",
+                "力",
+                "爵士乐",
+                "口袋",
+                "分享"
+            ]
+        },
+        {
+            "cards": [
+                "爷爷",
+                "蛋白质",
+                "矿物质",
+                "长者",
+                "诡计",
+                "踝关节",
+                "有胡须的动物",
+                "小屋",
+                "冲浪者"
+            ]
+        }
+    ]
+}

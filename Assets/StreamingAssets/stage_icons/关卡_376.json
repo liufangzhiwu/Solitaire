@@ -1,0 +1,521 @@
+{
+    "levelId": 376,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "皮革",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞣制",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "缝线",
+                    "icon": false
+                },
+                {
+                    "wordId": "染色",
+                    "icon": false
+                },
+                {
+                    "wordId": "熟化",
+                    "icon": false
+                },
+                {
+                    "wordId": "削薄",
+                    "icon": false
+                },
+                {
+                    "wordId": "麂皮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "嘉年华",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玉米热狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": true
+                },
+                {
+                    "wordId": "高跷",
+                    "icon": true
+                },
+                {
+                    "wordId": "旋转木马",
+                    "icon": true
+                },
+                {
+                    "wordId": "五彩纸屑",
+                    "icon": true
+                },
+                {
+                    "wordId": "气球",
+                    "icon": true
+                },
+                {
+                    "wordId": "杂耍演员",
+                    "icon": true
+                },
+                {
+                    "wordId": "独轮车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "水手",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甲板员",
+                    "icon": false
+                },
+                {
+                    "wordId": "舵手",
+                    "icon": false
+                },
+                {
+                    "wordId": "海员",
+                    "icon": false
+                },
+                {
+                    "wordId": "瞭望员",
+                    "icon": false
+                },
+                {
+                    "wordId": "水手长",
+                    "icon": false
+                },
+                {
+                    "wordId": "炮手",
+                    "icon": false
+                },
+                {
+                    "wordId": "艇长",
+                    "icon": false
+                },
+                {
+                    "wordId": "乘务员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海贝壳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "扇贝",
+                    "icon": true
+                },
+                {
+                    "wordId": "牡蛎",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛤蜊",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛾螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲍鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "骨螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹦鹉螺",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "酒馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麦酒馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂蜜酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒吧间",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒桶",
+                    "icon": false
+                },
+                {
+                    "wordId": "品脱杯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "护身符",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "护符",
+                    "icon": false
+                },
+                {
+                    "wordId": "咒符",
+                    "icon": false
+                },
+                {
+                    "wordId": "信物",
+                    "icon": false
+                },
+                {
+                    "wordId": "物神",
+                    "icon": false
+                },
+                {
+                    "wordId": "小饰物",
+                    "icon": false
+                },
+                {
+                    "wordId": "图腾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "港口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船坞",
+                    "icon": false
+                },
+                {
+                    "wordId": "码头",
+                    "icon": false
+                },
+                {
+                    "wordId": "突堤",
+                    "icon": false
+                },
+                {
+                    "wordId": "泊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "环礁湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "游艇港",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "马赛克",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镶嵌块",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓷砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼片",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜绿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒药",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砒霜",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓖麻毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "氰化物",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌头堿",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒参",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神谕",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "占卜者",
+                    "icon": false
+                },
+                {
+                    "wordId": "先知",
+                    "icon": false
+                },
+                {
+                    "wordId": "梦幻",
+                    "icon": false
+                },
+                {
+                    "wordId": "预兆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幻影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "怨灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "亡魂",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻象",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽灵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谚语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "格言",
+                    "icon": false
+                },
+                {
+                    "wordId": "古训",
+                    "icon": false
+                },
+                {
+                    "wordId": "箴言",
+                    "icon": false
+                },
+                {
+                    "wordId": "歇后语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诅咒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巫术",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄运",
+                    "icon": false
+                },
+                {
+                    "wordId": "灾祸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "典礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "誓言",
+                    "icon": false
+                },
+                {
+                    "wordId": "誓约",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "嘉年华",
+        "誓言",
+        "甲板员",
+        "牡蛎",
+        "幻影",
+        "占卜者",
+        "港口",
+        "扇贝",
+        "灾祸",
+        "鞣制",
+        "艇长",
+        "格言",
+        "船坞",
+        "氰化物",
+        "先知",
+        "高跷",
+        "咒符",
+        "舵手",
+        "梦幻",
+        "杂耍演员",
+        "蛾螺",
+        "黑啤酒",
+        "护身符",
+        "古训",
+        "瓷砖",
+        "物神",
+        "箴言",
+        "酒吧间",
+        "信物",
+        "玉米热狗",
+        "小饰物",
+        "环礁湖",
+        "熟化",
+        "缝线",
+        "鹦鹉螺",
+        "染色",
+        "泊位",
+        "品脱杯",
+        "铜绿",
+        "乌头堿",
+        "水手长",
+        "拼片",
+        "骨螺",
+        "旋转木马",
+        "神谕",
+        "气球",
+        "砒霜",
+        "马赛克",
+        "独轮车",
+        "厄运",
+        "怨灵",
+        "预兆",
+        "皮革",
+        "誓约",
+        "乘务员",
+        "码头",
+        "灰浆"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "仪式",
+                "谚语",
+                "游艇港",
+                "小丑",
+                "炮手"
+            ]
+        },
+        {
+            "cards": [
+                "鲍鱼",
+                "亡魂",
+                "典礼",
+                "海螺",
+                "诅咒",
+                "幽灵"
+            ]
+        },
+        {
+            "cards": [
+                "海员",
+                "蛤蜊",
+                "蓖麻毒素",
+                "毒参",
+                "镶嵌块",
+                "图腾",
+                "护符"
+            ]
+        },
+        {
+            "cards": [
+                "歇后语",
+                "海贝壳",
+                "蜂蜜酒",
+                "麂皮",
+                "酒桶",
+                "剪毛",
+                "酒馆",
+                "五彩纸屑"
+            ]
+        },
+        {
+            "cards": [
+                "生皮",
+                "水手",
+                "麦酒馆",
+                "毒药",
+                "幻象",
+                "削薄",
+                "突堤",
+                "巫术",
+                "瞭望员"
+            ]
+        }
+    ]
+}

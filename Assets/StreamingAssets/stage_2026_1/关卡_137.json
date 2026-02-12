@@ -1,0 +1,217 @@
+{
+    "levelId": 137,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "巫术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扫帚",
+                    "icon": false
+                },
+                {
+                    "wordId": "药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "大锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法书",
+                    "icon": false
+                },
+                {
+                    "wordId": "女巫集会",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫魔会",
+                    "icon": false
+                },
+                {
+                    "wordId": "五角星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "壳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牡蛎",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛋",
+                    "icon": true
+                },
+                {
+                    "wordId": "坚果",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌龟",
+                    "icon": true
+                },
+                {
+                    "wordId": "犰狳",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜗牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "螃蟹",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹦鹉螺",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "弦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "小提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "弓弦",
+                    "icon": true
+                },
+                {
+                    "wordId": "项链",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "波兰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兹罗提",
+                    "icon": false
+                },
+                {
+                    "wordId": "华沙",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛祖卡舞",
+                    "icon": false
+                },
+                {
+                    "wordId": "肖邦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "长颈鹿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑点",
+                    "icon": false
+                },
+                {
+                    "wordId": "角状结构",
+                    "icon": false
+                },
+                {
+                    "wordId": "蹄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日出",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                },
+                {
+                    "wordId": "早晨",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸡鸣",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "吉他",
+        "弓弦",
+        "鸡鸣",
+        "坚果",
+        "玛祖卡舞",
+        "乌龟",
+        "早晨",
+        "鹦鹉螺",
+        "弦",
+        "蜗牛",
+        "项链",
+        "扫帚",
+        "牡蛎",
+        "五角星",
+        "肖邦",
+        "角状结构",
+        "日出",
+        "诅咒",
+        "长颈鹿",
+        "兹罗提",
+        "螃蟹",
+        "华沙",
+        "斑点",
+        "大锅"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "壳",
+                "巫术",
+                "犰狳"
+            ]
+        },
+        {
+            "cards": [
+                "蹄",
+                "蛋",
+                "药水",
+                "巫魔会"
+            ]
+        },
+        {
+            "cards": [
+                "小提琴",
+                "魔法书",
+                "波兰",
+                "女巫集会",
+                "黎明"
+            ]
+        }
+    ]
+}

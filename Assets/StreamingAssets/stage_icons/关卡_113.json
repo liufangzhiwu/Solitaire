@@ -1,0 +1,369 @@
+{
+    "levelId": 113,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "合唱团",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "无伴奏合唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "合唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "声部",
+                    "icon": false
+                },
+                {
+                    "wordId": "女高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "女低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "福音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "液体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛奶",
+                    "icon": true
+                },
+                {
+                    "wordId": "油",
+                    "icon": true
+                },
+                {
+                    "wordId": "纯净水",
+                    "icon": true
+                },
+                {
+                    "wordId": "糖浆",
+                    "icon": true
+                },
+                {
+                    "wordId": "醋",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜂蜜",
+                    "icon": true
+                },
+                {
+                    "wordId": "血液",
+                    "icon": true
+                },
+                {
+                    "wordId": "汽油",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "桑巴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘉年华",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴西",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞蹈",
+                    "icon": false
+                },
+                {
+                    "wordId": "里约",
+                    "icon": false
+                },
+                {
+                    "wordId": "裸露的",
+                    "icon": false
+                },
+                {
+                    "wordId": "臀部",
+                    "icon": false
+                },
+                {
+                    "wordId": "游行",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纪念品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "磁贴",
+                    "icon": true
+                },
+                {
+                    "wordId": "T恤",
+                    "icon": true
+                },
+                {
+                    "wordId": "钥匙扣",
+                    "icon": true
+                },
+                {
+                    "wordId": "马克杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "明信片",
+                    "icon": true
+                },
+                {
+                    "wordId": "玩具",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "讽刺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戏仿",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘲弄",
+                    "icon": false
+                },
+                {
+                    "wordId": "反讽",
+                    "icon": false
+                },
+                {
+                    "wordId": "闹剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "挖苦",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘲笑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸣叫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "唧唧叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘎嘎叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "吹口哨",
+                    "icon": false
+                },
+                {
+                    "wordId": "颤音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "四人组",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "保罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "林戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔治",
+                    "icon": false
+                },
+                {
+                    "wordId": "约翰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化学式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水",
+                    "icon": true
+                },
+                {
+                    "wordId": "二氧化碳",
+                    "icon": true
+                },
+                {
+                    "wordId": "氯化钠",
+                    "icon": true
+                },
+                {
+                    "wordId": "硫酸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "金色的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "王冠",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄金比例",
+                    "icon": false
+                },
+                {
+                    "wordId": "金发",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "流行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玉米",
+                    "icon": false
+                },
+                {
+                    "wordId": "文化",
+                    "icon": false
+                },
+                {
+                    "wordId": "音乐",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "玉米",
+        "磁贴",
+        "硫酸",
+        "黄金比例",
+        "里约",
+        "桑巴",
+        "血液",
+        "纪念品",
+        "声部",
+        "二氧化碳",
+        "液体",
+        "音乐",
+        "牛奶",
+        "林戈",
+        "合唱",
+        "舞蹈",
+        "巴西",
+        "汽油",
+        "马克杯",
+        "糖浆",
+        "流行",
+        "醋",
+        "戏仿",
+        "臀部",
+        "嘎嘎叫",
+        "男低音",
+        "无伴奏合唱",
+        "反讽",
+        "女低音",
+        "挖苦",
+        "吹口哨",
+        "玩具",
+        "氯化钠",
+        "游行",
+        "羽毛",
+        "水",
+        "王冠",
+        "唧唧叫",
+        "蜂蜜",
+        "纯净水",
+        "明信片",
+        "金色的"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "四人组",
+                "钥匙扣",
+                "嘲笑",
+                "嘲弄"
+            ]
+        },
+        {
+            "cards": [
+                "男高音",
+                "裸露的",
+                "保罗",
+                "化学式",
+                "鸣叫"
+            ]
+        },
+        {
+            "cards": [
+                "福音",
+                "T恤",
+                "闹剧",
+                "嘉年华",
+                "文化",
+                "约翰"
+            ]
+        },
+        {
+            "cards": [
+                "合唱团",
+                "乔治",
+                "颤音",
+                "油",
+                "金发",
+                "讽刺",
+                "女高音"
+            ]
+        }
+    ]
+}

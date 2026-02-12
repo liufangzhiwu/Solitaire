@@ -1,0 +1,369 @@
+{
+    "levelId": 316,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "路径",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小巷",
+                    "icon": false
+                },
+                {
+                    "wordId": "小径",
+                    "icon": false
+                },
+                {
+                    "wordId": "路线",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "大道",
+                    "icon": false
+                },
+                {
+                    "wordId": "走廊",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "车道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "度量单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "坎德拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "安培",
+                    "icon": false
+                },
+                {
+                    "wordId": "盎司",
+                    "icon": false
+                },
+                {
+                    "wordId": "磅",
+                    "icon": false
+                },
+                {
+                    "wordId": "开尔文",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦耳",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓦特",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "山峰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠穆朗玛峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "德纳里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄尔布鲁士峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "富士山",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔戈里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷尼尔山",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡德山",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛根峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电路元件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "二极管",
+                    "icon": true
+                },
+                {
+                    "wordId": "电阻器",
+                    "icon": true
+                },
+                {
+                    "wordId": "电感器",
+                    "icon": true
+                },
+                {
+                    "wordId": "保险丝",
+                    "icon": true
+                },
+                {
+                    "wordId": "继电器",
+                    "icon": true
+                },
+                {
+                    "wordId": "感测器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "派系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卡特尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "联盟",
+                    "icon": false
+                },
+                {
+                    "wordId": "盟约",
+                    "icon": false
+                },
+                {
+                    "wordId": "军团",
+                    "icon": false
+                },
+                {
+                    "wordId": "行会",
+                    "icon": false
+                },
+                {
+                    "wordId": "氏族",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手工艺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雕刻",
+                    "icon": true
+                },
+                {
+                    "wordId": "编织",
+                    "icon": true
+                },
+                {
+                    "wordId": "陶艺",
+                    "icon": true
+                },
+                {
+                    "wordId": "缝纫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "格式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "PDF",
+                    "icon": false
+                },
+                {
+                    "wordId": "JPEG",
+                    "icon": false
+                },
+                {
+                    "wordId": "MP3",
+                    "icon": false
+                },
+                {
+                    "wordId": "DOCX",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "音符",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Do",
+                    "icon": false
+                },
+                {
+                    "wordId": "Re",
+                    "icon": false
+                },
+                {
+                    "wordId": "Mi",
+                    "icon": false
+                },
+                {
+                    "wordId": "Fa",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "向量",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "X轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "Y轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "Z轴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小圆面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "法棍",
+                    "icon": true
+                },
+                {
+                    "wordId": "吐司",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "音符",
+        "轨道",
+        "联盟",
+        "法棍",
+        "开尔文",
+        "PDF",
+        "Z轴",
+        "磅",
+        "缝纫",
+        "安培",
+        "乔戈里峰",
+        "Do",
+        "JPEG",
+        "焦耳",
+        "小径",
+        "盟约",
+        "卡特尔",
+        "继电器",
+        "车道",
+        "面包",
+        "盎司",
+        "X轴",
+        "德纳里峰",
+        "军团",
+        "胡德山",
+        "MP3",
+        "电路元件",
+        "坎德拉",
+        "路径",
+        "感测器",
+        "富士山",
+        "Y轴",
+        "珠穆朗玛峰",
+        "路线",
+        "洛根峰",
+        "度量单位",
+        "行会",
+        "氏族",
+        "厄尔布鲁士峰",
+        "电阻器",
+        "走廊",
+        "电感器"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "通道",
+                "雷尼尔山",
+                "瓦特",
+                "吐司"
+            ]
+        },
+        {
+            "cards": [
+                "山峰",
+                "小圆面包",
+                "DOCX",
+                "手工艺",
+                "派系"
+            ]
+        },
+        {
+            "cards": [
+                "Mi",
+                "大道",
+                "格式",
+                "二极管",
+                "陶艺",
+                "保险丝"
+            ]
+        },
+        {
+            "cards": [
+                "编织",
+                "雕刻",
+                "向量",
+                "Fa",
+                "牛顿",
+                "Re",
+                "小巷"
+            ]
+        }
+    ]
+}

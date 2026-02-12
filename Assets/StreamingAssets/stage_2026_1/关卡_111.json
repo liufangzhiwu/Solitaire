@@ -1,0 +1,553 @@
+{
+    "levelId": 111,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "星云",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "云",
+                    "icon": false
+                },
+                {
+                    "wordId": "尘埃",
+                    "icon": false
+                },
+                {
+                    "wordId": "气体",
+                    "icon": false
+                },
+                {
+                    "wordId": "反射",
+                    "icon": false
+                },
+                {
+                    "wordId": "暗星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "氢气",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎户座",
+                    "icon": false
+                },
+                {
+                    "wordId": "美国国家航空航天局",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时间副词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "近来",
+                    "icon": false
+                },
+                {
+                    "wordId": "从未",
+                    "icon": false
+                },
+                {
+                    "wordId": "现在",
+                    "icon": false
+                },
+                {
+                    "wordId": "以前",
+                    "icon": false
+                },
+                {
+                    "wordId": "之后",
+                    "icon": false
+                },
+                {
+                    "wordId": "不久",
+                    "icon": false
+                },
+                {
+                    "wordId": "已经",
+                    "icon": false
+                },
+                {
+                    "wordId": "今天",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "企鹅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "极地",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟类",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟喙",
+                    "icon": false
+                },
+                {
+                    "wordId": "潜水",
+                    "icon": false
+                },
+                {
+                    "wordId": "游泳",
+                    "icon": false
+                },
+                {
+                    "wordId": "群",
+                    "icon": false
+                },
+                {
+                    "wordId": "皇帝企鹅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罪恶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嫉妒",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴食",
+                    "icon": false
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "色欲",
+                    "icon": false
+                },
+                {
+                    "wordId": "自负",
+                    "icon": false
+                },
+                {
+                    "wordId": "懒惰",
+                    "icon": false
+                },
+                {
+                    "wordId": "憎恨",
+                    "icon": false
+                },
+                {
+                    "wordId": "贪婪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "作家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狄更斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "德莱塞",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱伦·坡",
+                    "icon": false
+                },
+                {
+                    "wordId": "马克·吐温",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥威尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "福克纳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水星",
+                    "icon": true
+                },
+                {
+                    "wordId": "土星",
+                    "icon": true
+                },
+                {
+                    "wordId": "天王星",
+                    "icon": true
+                },
+                {
+                    "wordId": "地球",
+                    "icon": true
+                },
+                {
+                    "wordId": "金星",
+                    "icon": true
+                },
+                {
+                    "wordId": "木星",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "欧洲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "比利时",
+                    "icon": false
+                },
+                {
+                    "wordId": "法国",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊",
+                    "icon": false
+                },
+                {
+                    "wordId": "意大利",
+                    "icon": false
+                },
+                {
+                    "wordId": "挪威",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄牙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "命运",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "运气",
+                    "icon": false
+                },
+                {
+                    "wordId": "机会",
+                    "icon": false
+                },
+                {
+                    "wordId": "命运之轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "天命",
+                    "icon": false
+                },
+                {
+                    "wordId": "幸运草",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "未来",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "计划",
+                    "icon": false
+                },
+                {
+                    "wordId": "预测",
+                    "icon": false
+                },
+                {
+                    "wordId": "希望",
+                    "icon": false
+                },
+                {
+                    "wordId": "目标",
+                    "icon": false
+                },
+                {
+                    "wordId": "梦想",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "过去",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "记忆",
+                    "icon": false
+                },
+                {
+                    "wordId": "影响",
+                    "icon": false
+                },
+                {
+                    "wordId": "逝去的",
+                    "icon": false
+                },
+                {
+                    "wordId": "历史",
+                    "icon": false
+                },
+                {
+                    "wordId": "褪色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "意大利面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尖管面",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝴蝶面",
+                    "icon": true
+                },
+                {
+                    "wordId": "螺旋面",
+                    "icon": true
+                },
+                {
+                    "wordId": "粗通心粉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "编织",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纱线",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "针",
+                    "icon": true
+                },
+                {
+                    "wordId": "钩针",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "窗户",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "窗框",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "彩绘玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗帘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "晚餐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "餐食",
+                    "icon": false
+                },
+                {
+                    "wordId": "餐巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼仪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仙人掌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "花",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "法国",
+        "群",
+        "极地",
+        "云",
+        "命运",
+        "现在",
+        "粗通心粉",
+        "花",
+        "马克·吐温",
+        "鸟类",
+        "近来",
+        "计划",
+        "懒惰",
+        "希望",
+        "金星",
+        "逝去的",
+        "过去",
+        "美国国家航空航天局",
+        "爱伦·坡",
+        "希腊",
+        "自负",
+        "钩针",
+        "尘埃",
+        "今天",
+        "幸运草",
+        "暴食",
+        "褪色",
+        "记忆",
+        "色欲",
+        "愤怒",
+        "窗帘",
+        "意大利",
+        "憎恨",
+        "已经",
+        "欧洲",
+        "意大利面",
+        "窗框",
+        "绿色",
+        "葡萄牙",
+        "气体",
+        "福克纳",
+        "从未",
+        "玻璃",
+        "毛衣",
+        "比利时",
+        "企鹅",
+        "之后",
+        "挪威",
+        "针",
+        "螺旋面",
+        "蝴蝶面",
+        "星云",
+        "礼仪",
+        "奥威尔",
+        "狄更斯",
+        "纱线",
+        "窗户",
+        "地球",
+        "猎户座",
+        "鸟喙",
+        "尖管面",
+        "木星",
+        "暗星云"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "晚餐",
+                "梦想",
+                "机会",
+                "土星",
+                "罪恶"
+            ]
+        },
+        {
+            "cards": [
+                "彩绘玻璃",
+                "目标",
+                "反射",
+                "天王星",
+                "不久",
+                "水星"
+            ]
+        },
+        {
+            "cards": [
+                "时间副词",
+                "编织",
+                "影响",
+                "作家",
+                "游泳",
+                "行星",
+                "餐食"
+            ]
+        },
+        {
+            "cards": [
+                "德莱塞",
+                "贪婪",
+                "皇帝企鹅",
+                "以前",
+                "刺",
+                "嫉妒",
+                "预测",
+                "潜水"
+            ]
+        },
+        {
+            "cards": [
+                "历史",
+                "仙人掌",
+                "天命",
+                "餐巾",
+                "命运之轮",
+                "翅膀",
+                "未来",
+                "运气",
+                "氢气"
+            ]
+        }
+    ]
+}

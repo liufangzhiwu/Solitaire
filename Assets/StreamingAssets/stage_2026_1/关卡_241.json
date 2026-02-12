@@ -1,0 +1,369 @@
+{
+    "levelId": 241,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "文本",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "字体",
+                    "icon": false
+                },
+                {
+                    "wordId": "句子",
+                    "icon": false
+                },
+                {
+                    "wordId": "短文",
+                    "icon": false
+                },
+                {
+                    "wordId": "论文",
+                    "icon": false
+                },
+                {
+                    "wordId": "资讯",
+                    "icon": false
+                },
+                {
+                    "wordId": "报告",
+                    "icon": false
+                },
+                {
+                    "wordId": "故事",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "屋顶类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "单坡屋顶",
+                    "icon": true
+                },
+                {
+                    "wordId": "穹顶",
+                    "icon": true
+                },
+                {
+                    "wordId": "锥形顶",
+                    "icon": true
+                },
+                {
+                    "wordId": "人字顶",
+                    "icon": true
+                },
+                {
+                    "wordId": "塔顶",
+                    "icon": true
+                },
+                {
+                    "wordId": "尖顶",
+                    "icon": true
+                },
+                {
+                    "wordId": "马戏团帐篷顶",
+                    "icon": true
+                },
+                {
+                    "wordId": "风向标",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "大量的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "许多",
+                    "icon": false
+                },
+                {
+                    "wordId": "多个",
+                    "icon": false
+                },
+                {
+                    "wordId": "无数",
+                    "icon": false
+                },
+                {
+                    "wordId": "多种多样",
+                    "icon": false
+                },
+                {
+                    "wordId": "丰富的",
+                    "icon": false
+                },
+                {
+                    "wordId": "无限的",
+                    "icon": false
+                },
+                {
+                    "wordId": "大批",
+                    "icon": false
+                },
+                {
+                    "wordId": "几个",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "啤酒厂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生啤",
+                    "icon": false
+                },
+                {
+                    "wordId": "大麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "自酿酒吧",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒桶",
+                    "icon": false
+                },
+                {
+                    "wordId": "小桶",
+                    "icon": false
+                },
+                {
+                    "wordId": "啤酒花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "土耳其",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "安卡拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "果仁蜜饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "土耳其软糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "清真寺",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤肉串",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊斯坦布尔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有趣的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑稽",
+                    "icon": false
+                },
+                {
+                    "wordId": "诙谐",
+                    "icon": false
+                },
+                {
+                    "wordId": "好笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "迷人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毯子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羽绒被",
+                    "icon": false
+                },
+                {
+                    "wordId": "被子",
+                    "icon": false
+                },
+                {
+                    "wordId": "床罩",
+                    "icon": false
+                },
+                {
+                    "wordId": "地毯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "调音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽车",
+                    "icon": true
+                },
+                {
+                    "wordId": "收音机",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉他",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "证明",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "事实",
+                    "icon": false
+                },
+                {
+                    "wordId": "理由",
+                    "icon": false
+                },
+                {
+                    "wordId": "证据",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卷曲的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "贵宾犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "绵羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "小天使",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "啤酒花",
+        "短文",
+        "无数",
+        "证据",
+        "啤酒厂",
+        "羽绒被",
+        "论文",
+        "小天使",
+        "自酿酒吧",
+        "床罩",
+        "被子",
+        "资讯",
+        "塔顶",
+        "收音机",
+        "清真寺",
+        "理由",
+        "诙谐",
+        "汽车",
+        "人字顶",
+        "土耳其软糖",
+        "生啤",
+        "多个",
+        "多种多样",
+        "大批",
+        "调音",
+        "小桶",
+        "锥形顶",
+        "大麦",
+        "毯子",
+        "马戏团帐篷顶",
+        "有趣的",
+        "果仁蜜饼",
+        "故事",
+        "绵羊",
+        "吉他",
+        "穹顶",
+        "许多",
+        "好笑",
+        "卷曲的",
+        "句子",
+        "酒桶",
+        "钢琴"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "字母",
+                "丰富的",
+                "报告",
+                "几个"
+            ]
+        },
+        {
+            "cards": [
+                "滑稽",
+                "单坡屋顶",
+                "事实",
+                "安卡拉",
+                "大量的"
+            ]
+        },
+        {
+            "cards": [
+                "字体",
+                "伊斯坦布尔",
+                "烤肉串",
+                "尖顶",
+                "文本",
+                "风向标"
+            ]
+        },
+        {
+            "cards": [
+                "屋顶类型",
+                "贵宾犬",
+                "证明",
+                "迷人",
+                "地毯",
+                "无限的",
+                "土耳其"
+            ]
+        }
+    ]
+}

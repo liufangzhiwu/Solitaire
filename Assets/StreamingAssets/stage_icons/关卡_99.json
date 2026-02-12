@@ -1,0 +1,369 @@
+{
+    "levelId": 99,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "昵称",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绰号",
+                    "icon": false
+                },
+                {
+                    "wordId": "简称",
+                    "icon": false
+                },
+                {
+                    "wordId": "别称",
+                    "icon": false
+                },
+                {
+                    "wordId": "雅号",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳名",
+                    "icon": false
+                },
+                {
+                    "wordId": "花名",
+                    "icon": false
+                },
+                {
+                    "wordId": "化名",
+                    "icon": false
+                },
+                {
+                    "wordId": "假名",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "睡眠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摇篮曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "床",
+                    "icon": false
+                },
+                {
+                    "wordId": "休息",
+                    "icon": false
+                },
+                {
+                    "wordId": "夜晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "梦",
+                    "icon": false
+                },
+                {
+                    "wordId": "睡衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "枕头",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "管乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "军号",
+                    "icon": true
+                },
+                {
+                    "wordId": "大号",
+                    "icon": true
+                },
+                {
+                    "wordId": "长笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "萨克斯风",
+                    "icon": true
+                },
+                {
+                    "wordId": "口琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "风笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "单簧管",
+                    "icon": true
+                },
+                {
+                    "wordId": "小号",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "火星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "红色的",
+                    "icon": false
+                },
+                {
+                    "wordId": "火卫一",
+                    "icon": false
+                },
+                {
+                    "wordId": "火卫二",
+                    "icon": false
+                },
+                {
+                    "wordId": "地形",
+                    "icon": false
+                },
+                {
+                    "wordId": "探索",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "保龄球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "全中",
+                    "icon": false
+                },
+                {
+                    "wordId": "边沟",
+                    "icon": false
+                },
+                {
+                    "wordId": "球瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "补中",
+                    "icon": false
+                },
+                {
+                    "wordId": "球道",
+                    "icon": false
+                },
+                {
+                    "wordId": "分瓶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "迪斯可",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "节奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "节拍",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞者",
+                    "icon": false
+                },
+                {
+                    "wordId": "俱乐部",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电影类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "惊悚片",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜剧片",
+                    "icon": false
+                },
+                {
+                    "wordId": "动作片",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱情片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爬虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜘蛛",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜈蚣",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝎子",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜱虫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "海岸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冲浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬崖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美人鱼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鱼尾",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "传说",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "夜晚",
+        "悬崖",
+        "全中",
+        "摇篮曲",
+        "补中",
+        "保龄球",
+        "行星",
+        "冲浪",
+        "简称",
+        "单簧管",
+        "长笛",
+        "管乐器",
+        "花名",
+        "蝎子",
+        "蜱虫",
+        "绰号",
+        "蜈蚣",
+        "乳名",
+        "球道",
+        "节奏",
+        "海滩",
+        "假名",
+        "舞者",
+        "化名",
+        "分瓶",
+        "床",
+        "传说",
+        "火卫二",
+        "边沟",
+        "黑暗",
+        "电影类型",
+        "俱乐部",
+        "海洋",
+        "别称",
+        "小号",
+        "睡眠",
+        "雅号",
+        "鱼尾",
+        "球瓶",
+        "萨克斯风",
+        "迪斯可",
+        "风笛"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "地形",
+                "大号",
+                "探索",
+                "爱情片"
+            ]
+        },
+        {
+            "cards": [
+                "昵称",
+                "喜剧片",
+                "火星",
+                "枕头",
+                "梦"
+            ]
+        },
+        {
+            "cards": [
+                "惊悚片",
+                "动作片",
+                "美人鱼",
+                "睡衣",
+                "海岸",
+                "节拍"
+            ]
+        },
+        {
+            "cards": [
+                "红色的",
+                "爬虫",
+                "口琴",
+                "休息",
+                "火卫一",
+                "蜘蛛",
+                "军号"
+            ]
+        }
+    ]
+}

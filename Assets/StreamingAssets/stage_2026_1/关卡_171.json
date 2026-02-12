@@ -1,0 +1,369 @@
+{
+    "levelId": 171,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "天体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恒星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉冲星",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "小行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系",
+                    "icon": false
+                },
+                {
+                    "wordId": "星尘",
+                    "icon": false
+                },
+                {
+                    "wordId": "类星体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "王朝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "君主",
+                    "icon": false
+                },
+                {
+                    "wordId": "摄政王",
+                    "icon": false
+                },
+                {
+                    "wordId": "权杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "王座",
+                    "icon": false
+                },
+                {
+                    "wordId": "加冕",
+                    "icon": false
+                },
+                {
+                    "wordId": "继承权",
+                    "icon": false
+                },
+                {
+                    "wordId": "总督",
+                    "icon": false
+                },
+                {
+                    "wordId": "陛下",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丛林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "老虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "猴子",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹦鹉",
+                    "icon": true
+                },
+                {
+                    "wordId": "毒蛇",
+                    "icon": true
+                },
+                {
+                    "wordId": "巨嘴鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "兰花",
+                    "icon": true
+                },
+                {
+                    "wordId": "藤蔓",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑豹",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "阴影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "本影",
+                    "icon": false
+                },
+                {
+                    "wordId": "半影",
+                    "icon": false
+                },
+                {
+                    "wordId": "荫蔽",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "昏暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "晦暗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海港",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "码头",
+                    "icon": false
+                },
+                {
+                    "wordId": "船只",
+                    "icon": false
+                },
+                {
+                    "wordId": "突堤",
+                    "icon": false
+                },
+                {
+                    "wordId": "货物",
+                    "icon": false
+                },
+                {
+                    "wordId": "信标",
+                    "icon": false
+                },
+                {
+                    "wordId": "泊位",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图书馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书籍",
+                    "icon": true
+                },
+                {
+                    "wordId": "书架",
+                    "icon": true
+                },
+                {
+                    "wordId": "书堆",
+                    "icon": true
+                },
+                {
+                    "wordId": "杂志",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地铁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "隧道",
+                    "icon": false
+                },
+                {
+                    "wordId": "月台",
+                    "icon": false
+                },
+                {
+                    "wordId": "车厢",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "降雨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薄雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛毛雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "倾盆大雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "阵雨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吟诵",
+                    "icon": false
+                },
+                {
+                    "wordId": "熏香",
+                    "icon": false
+                },
+                {
+                    "wordId": "祭坛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洋流",
+                    "icon": false
+                },
+                {
+                    "wordId": "深渊",
+                    "icon": false
+                },
+                {
+                    "wordId": "珊瑚",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "深渊",
+        "书籍",
+        "荫蔽",
+        "杂志",
+        "轨迹",
+        "半影",
+        "兰花",
+        "倾盆大雨",
+        "继承权",
+        "码头",
+        "隧道",
+        "权杖",
+        "丛林",
+        "天体",
+        "突堤",
+        "月台",
+        "船只",
+        "熏香",
+        "信标",
+        "小行星",
+        "总督",
+        "祭坛",
+        "王朝",
+        "车厢",
+        "毛毛雨",
+        "恒星",
+        "星系",
+        "阴影",
+        "鹦鹉",
+        "晦暗",
+        "轨道",
+        "巨嘴鸟",
+        "星云",
+        "加冕",
+        "脉冲星",
+        "君主",
+        "王座",
+        "幽灵",
+        "毒蛇",
+        "海洋",
+        "老虎",
+        "猴子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "藤蔓",
+                "图书馆",
+                "摄政王",
+                "本影"
+            ]
+        },
+        {
+            "cards": [
+                "黑豹",
+                "仪式",
+                "货物",
+                "薄雾",
+                "降雨"
+            ]
+        },
+        {
+            "cards": [
+                "吟诵",
+                "昏暗",
+                "类星体",
+                "星尘",
+                "泊位",
+                "书堆"
+            ]
+        },
+        {
+            "cards": [
+                "珊瑚",
+                "书架",
+                "地铁",
+                "海港",
+                "陛下",
+                "阵雨",
+                "洋流"
+            ]
+        }
+    ]
+}

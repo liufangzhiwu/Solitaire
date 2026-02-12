@@ -1,0 +1,369 @@
+{
+    "levelId": 237,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "音乐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旋律",
+                    "icon": false
+                },
+                {
+                    "wordId": "和声",
+                    "icon": false
+                },
+                {
+                    "wordId": "节拍",
+                    "icon": false
+                },
+                {
+                    "wordId": "节奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "琶音",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌词",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "小提琴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风味",
+                    "icon": false
+                },
+                {
+                    "wordId": "食谱",
+                    "icon": false
+                },
+                {
+                    "wordId": "酥皮点心",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式烩饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "法拉费",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔可",
+                    "icon": false
+                },
+                {
+                    "wordId": "煎蛋卷",
+                    "icon": false
+                },
+                {
+                    "wordId": "寿司",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蝉",
+                    "icon": false
+                },
+                {
+                    "wordId": "螳螂",
+                    "icon": false
+                },
+                {
+                    "wordId": "甲虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蠼螋",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚜虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝗虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "白蚁",
+                    "icon": false
+                },
+                {
+                    "wordId": "萤火虫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愤怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "羞愧",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐惧",
+                    "icon": false
+                },
+                {
+                    "wordId": "快乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊讶",
+                    "icon": false
+                },
+                {
+                    "wordId": "自豪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "织物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丝绸",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛仔布",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅绒",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧根纱",
+                    "icon": false
+                },
+                {
+                    "wordId": "平纹细布",
+                    "icon": false
+                },
+                {
+                    "wordId": "针织布",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "车辆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "自行车",
+                    "icon": false
+                },
+                {
+                    "wordId": "计程车",
+                    "icon": false
+                },
+                {
+                    "wordId": "有轨电车",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑板车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "花卉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "万寿菊",
+                    "icon": true
+                },
+                {
+                    "wordId": "丁香",
+                    "icon": true
+                },
+                {
+                    "wordId": "报春花",
+                    "icon": true
+                },
+                {
+                    "wordId": "兰花",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棒球",
+                    "icon": false
+                },
+                {
+                    "wordId": "板球",
+                    "icon": false
+                },
+                {
+                    "wordId": "射箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "击剑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平板电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "相机",
+                    "icon": true
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "树木",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雪松",
+                    "icon": true
+                },
+                {
+                    "wordId": "桦树",
+                    "icon": true
+                },
+                {
+                    "wordId": "枫树",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "羞愧",
+        "牛仔布",
+        "车辆",
+        "针织布",
+        "风味",
+        "塔可",
+        "寿司",
+        "射箭",
+        "意式烩饭",
+        "小提琴",
+        "丁香",
+        "板球",
+        "报春花",
+        "枫树",
+        "平纹细布",
+        "和声",
+        "螳螂",
+        "蠼螋",
+        "法拉费",
+        "萤火虫",
+        "惊讶",
+        "煎蛋卷",
+        "食谱",
+        "欧根纱",
+        "白蚁",
+        "棒球",
+        "平板电脑",
+        "快乐",
+        "蝗虫",
+        "击剑",
+        "滑板车",
+        "旋律",
+        "恐惧",
+        "甲虫",
+        "昆虫",
+        "雪松",
+        "天鹅绒",
+        "相机",
+        "琶音",
+        "花卉",
+        "小工具",
+        "美食"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "节拍",
+                "歌词",
+                "音乐",
+                "丝绸"
+            ]
+        },
+        {
+            "cards": [
+                "计程车",
+                "树木",
+                "酥皮点心",
+                "蚜虫",
+                "节奏"
+            ]
+        },
+        {
+            "cards": [
+                "桦树",
+                "愤怒",
+                "自行车",
+                "蝉",
+                "扬声器",
+                "织物"
+            ]
+        },
+        {
+            "cards": [
+                "万寿菊",
+                "运动",
+                "情绪",
+                "有轨电车",
+                "自豪",
+                "吉他",
+                "兰花"
+            ]
+        }
+    ]
+}

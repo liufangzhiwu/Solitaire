@@ -1,0 +1,369 @@
+{
+    "levelId": 74,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "野餐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毯子",
+                    "icon": true
+                },
+                {
+                    "wordId": "篮子",
+                    "icon": true
+                },
+                {
+                    "wordId": "三明治",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚂蚁",
+                    "icon": true
+                },
+                {
+                    "wordId": "果汁",
+                    "icon": true
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": true
+                },
+                {
+                    "wordId": "草",
+                    "icon": true
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "票",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "彩票",
+                    "icon": false
+                },
+                {
+                    "wordId": "伫列",
+                    "icon": false
+                },
+                {
+                    "wordId": "通行证",
+                    "icon": false
+                },
+                {
+                    "wordId": "活动",
+                    "icon": false
+                },
+                {
+                    "wordId": "季票",
+                    "icon": false
+                },
+                {
+                    "wordId": "售票亭",
+                    "icon": false
+                },
+                {
+                    "wordId": "持有者",
+                    "icon": false
+                },
+                {
+                    "wordId": "经纪人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "玩具箱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "积木",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩偶",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩具车",
+                    "icon": false
+                },
+                {
+                    "wordId": "球",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰迪熊",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩具火车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "使命",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "任务",
+                    "icon": false
+                },
+                {
+                    "wordId": "目的",
+                    "icon": false
+                },
+                {
+                    "wordId": "职责",
+                    "icon": false
+                },
+                {
+                    "wordId": "目标",
+                    "icon": false
+                },
+                {
+                    "wordId": "天职",
+                    "icon": false
+                },
+                {
+                    "wordId": "差事",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旗帜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "颜色",
+                    "icon": false
+                },
+                {
+                    "wordId": "布",
+                    "icon": false
+                },
+                {
+                    "wordId": "旗杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "国家",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱国者",
+                    "icon": false
+                },
+                {
+                    "wordId": "实体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宝箱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "财宝",
+                    "icon": false
+                },
+                {
+                    "wordId": "珠宝",
+                    "icon": false
+                },
+                {
+                    "wordId": "硬币",
+                    "icon": false
+                },
+                {
+                    "wordId": "海盗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "服务员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "服务",
+                    "icon": false
+                },
+                {
+                    "wordId": "点单",
+                    "icon": false
+                },
+                {
+                    "wordId": "记事本",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜单",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "波浪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洪水",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐",
+                    "icon": false
+                },
+                {
+                    "wordId": "泛滥",
+                    "icon": false
+                },
+                {
+                    "wordId": "海啸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阴阳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平衡",
+                    "icon": false
+                },
+                {
+                    "wordId": "对立",
+                    "icon": false
+                },
+                {
+                    "wordId": "和谐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "哨子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水壶",
+                    "icon": true
+                },
+                {
+                    "wordId": "裁判",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸟",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "菜单",
+        "草",
+        "售票亭",
+        "爱国者",
+        "天职",
+        "布",
+        "哨子",
+        "毯子",
+        "太阳",
+        "机器人",
+        "彩票",
+        "篮子",
+        "平衡",
+        "对立",
+        "使命",
+        "珠宝",
+        "季票",
+        "通行证",
+        "和谐",
+        "服务员",
+        "财宝",
+        "积木",
+        "潮汐",
+        "活动",
+        "点单",
+        "三明治",
+        "野餐",
+        "玩具火车",
+        "实体",
+        "果汁",
+        "目的",
+        "任务",
+        "海盗",
+        "玩偶",
+        "目标",
+        "服务",
+        "经纪人",
+        "颜色",
+        "差事",
+        "拼图",
+        "阴阳",
+        "球"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "鸟",
+                "泛滥",
+                "饼干",
+                "职责"
+            ]
+        },
+        {
+            "cards": [
+                "记事本",
+                "硬币",
+                "波浪",
+                "海啸",
+                "泰迪熊"
+            ]
+        },
+        {
+            "cards": [
+                "伫列",
+                "洪水",
+                "蚂蚁",
+                "裁判",
+                "票",
+                "玩具车"
+            ]
+        },
+        {
+            "cards": [
+                "玩具箱",
+                "持有者",
+                "宝箱",
+                "国家",
+                "水壶",
+                "旗杆",
+                "旗帜"
+            ]
+        }
+    ]
+}

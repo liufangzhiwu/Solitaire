@@ -1,0 +1,369 @@
+{
+    "levelId": 189,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "绳带",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绳索",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝带",
+                    "icon": false
+                },
+                {
+                    "wordId": "绳线",
+                    "icon": false
+                },
+                {
+                    "wordId": "线条",
+                    "icon": false
+                },
+                {
+                    "wordId": "细线",
+                    "icon": false
+                },
+                {
+                    "wordId": "电缆",
+                    "icon": false
+                },
+                {
+                    "wordId": "系带",
+                    "icon": false
+                },
+                {
+                    "wordId": "带子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "微生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "类病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "细菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "病菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "朊病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "真菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "藻类",
+                    "icon": false
+                },
+                {
+                    "wordId": "寄生虫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墨西哥",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔可",
+                    "icon": false
+                },
+                {
+                    "wordId": "恩潘纳达",
+                    "icon": false
+                },
+                {
+                    "wordId": "梅斯卡尔酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔马利",
+                    "icon": false
+                },
+                {
+                    "wordId": "快速便餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "平地皮凉鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "玉米粥",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂烩汤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游艇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "桅杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "船员",
+                    "icon": false
+                },
+                {
+                    "wordId": "泊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "游艇港",
+                    "icon": false
+                },
+                {
+                    "wordId": "帆船赛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "策略",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "计划",
+                    "icon": false
+                },
+                {
+                    "wordId": "政策",
+                    "icon": false
+                },
+                {
+                    "wordId": "方案",
+                    "icon": false
+                },
+                {
+                    "wordId": "设想",
+                    "icon": false
+                },
+                {
+                    "wordId": "计谋",
+                    "icon": false
+                },
+                {
+                    "wordId": "方法",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "种子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "籽",
+                    "icon": false
+                },
+                {
+                    "wordId": "坚果",
+                    "icon": false
+                },
+                {
+                    "wordId": "果核",
+                    "icon": false
+                },
+                {
+                    "wordId": "谷粒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "擦拭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "擦洗",
+                    "icon": false
+                },
+                {
+                    "wordId": "清洁",
+                    "icon": false
+                },
+                {
+                    "wordId": "拖地",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩擦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "针织品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "针织背心",
+                    "icon": true
+                },
+                {
+                    "wordId": "袜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "连指手套",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑雪面罩",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "印章",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邮票",
+                    "icon": true
+                },
+                {
+                    "wordId": "橡皮图章",
+                    "icon": true
+                },
+                {
+                    "wordId": "护照印章",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "忠诚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "忠实",
+                    "icon": false
+                },
+                {
+                    "wordId": "奉献",
+                    "icon": false
+                },
+                {
+                    "wordId": "效忠",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "种子",
+        "方法",
+        "类病毒",
+        "籽",
+        "设想",
+        "忠实",
+        "计谋",
+        "绳索",
+        "系带",
+        "奉献",
+        "梅斯卡尔酒",
+        "带子",
+        "游艇港",
+        "平地皮凉鞋",
+        "邮票",
+        "擦洗",
+        "船员",
+        "谷粒",
+        "方案",
+        "丝带",
+        "藻类",
+        "护照印章",
+        "滑雪面罩",
+        "印章",
+        "政策",
+        "玉米粥",
+        "绳带",
+        "袜子",
+        "策略",
+        "细线",
+        "病毒",
+        "恩潘纳达",
+        "杂烩汤",
+        "线条",
+        "朊病毒",
+        "拖地",
+        "龙骨",
+        "连指手套",
+        "病菌",
+        "塔马利",
+        "真菌",
+        "擦拭"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "摩擦",
+                "泊位",
+                "橡皮图章",
+                "忠诚"
+            ]
+        },
+        {
+            "cards": [
+                "微生物",
+                "效忠",
+                "墨西哥",
+                "游艇",
+                "桅杆"
+            ]
+        },
+        {
+            "cards": [
+                "清洁",
+                "塔可",
+                "绳线",
+                "果核",
+                "针织品",
+                "计划"
+            ]
+        },
+        {
+            "cards": [
+                "帆船赛",
+                "寄生虫",
+                "针织背心",
+                "细菌",
+                "电缆",
+                "坚果",
+                "快速便餐"
+            ]
+        }
+    ]
+}

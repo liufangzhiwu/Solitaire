@@ -1,0 +1,369 @@
+{
+    "levelId": 145,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "文章",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "标题",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂志",
+                    "icon": false
+                },
+                {
+                    "wordId": "专栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "编辑",
+                    "icon": false
+                },
+                {
+                    "wordId": "记者",
+                    "icon": false
+                },
+                {
+                    "wordId": "博客",
+                    "icon": false
+                },
+                {
+                    "wordId": "特写",
+                    "icon": false
+                },
+                {
+                    "wordId": "主题",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盒子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纸盒",
+                    "icon": false
+                },
+                {
+                    "wordId": "罐子",
+                    "icon": false
+                },
+                {
+                    "wordId": "包裹",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼物",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮包",
+                    "icon": false
+                },
+                {
+                    "wordId": "储物",
+                    "icon": false
+                },
+                {
+                    "wordId": "货件",
+                    "icon": false
+                },
+                {
+                    "wordId": "储物柜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羽毛",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡蛋",
+                    "icon": true
+                },
+                {
+                    "wordId": "公鸡",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡腿",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡舍",
+                    "icon": true
+                },
+                {
+                    "wordId": "谷粒",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡喙",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡翅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "观众",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "观看者",
+                    "icon": false
+                },
+                {
+                    "wordId": "听众",
+                    "icon": false
+                },
+                {
+                    "wordId": "掌声",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                },
+                {
+                    "wordId": "反应",
+                    "icon": false
+                },
+                {
+                    "wordId": "演讲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "资本",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "资产",
+                    "icon": false
+                },
+                {
+                    "wordId": "财富",
+                    "icon": false
+                },
+                {
+                    "wordId": "股权",
+                    "icon": false
+                },
+                {
+                    "wordId": "股票",
+                    "icon": false
+                },
+                {
+                    "wordId": "风险投资",
+                    "icon": false
+                },
+                {
+                    "wordId": "市场",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爸爸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "父亲",
+                    "icon": false
+                },
+                {
+                    "wordId": "家长",
+                    "icon": false
+                },
+                {
+                    "wordId": "祖先",
+                    "icon": false
+                },
+                {
+                    "wordId": "爷爷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "尝试",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "试图",
+                    "icon": false
+                },
+                {
+                    "wordId": "努力",
+                    "icon": false
+                },
+                {
+                    "wordId": "寻求",
+                    "icon": false
+                },
+                {
+                    "wordId": "尽力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "男孩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玩具",
+                    "icon": false
+                },
+                {
+                    "wordId": "帽子",
+                    "icon": false
+                },
+                {
+                    "wordId": "溜冰鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "自行车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "服装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Polo衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "外套",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛衣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "合同",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "签署",
+                    "icon": false
+                },
+                {
+                    "wordId": "到期",
+                    "icon": false
+                },
+                {
+                    "wordId": "续签",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "爸爸",
+        "续签",
+        "储物柜",
+        "资本",
+        "盒子",
+        "听众",
+        "邮包",
+        "服装",
+        "祖先",
+        "市场",
+        "股权",
+        "Polo衫",
+        "鸡腿",
+        "到期",
+        "公鸡",
+        "尽力",
+        "股票",
+        "观看者",
+        "专栏",
+        "罐子",
+        "礼物",
+        "寻求",
+        "包裹",
+        "记者",
+        "主题",
+        "父亲",
+        "财富",
+        "鸡舍",
+        "标题",
+        "试图",
+        "自行车",
+        "文章",
+        "资产",
+        "反应",
+        "签署",
+        "特写",
+        "爷爷",
+        "外套",
+        "溜冰鞋",
+        "演讲",
+        "家长",
+        "鸡翅"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "风险投资",
+                "编辑",
+                "鸡喙",
+                "舞台"
+            ]
+        },
+        {
+            "cards": [
+                "男孩",
+                "帽子",
+                "纸盒",
+                "合同",
+                "毛衣"
+            ]
+        },
+        {
+            "cards": [
+                "货件",
+                "储物",
+                "鸡蛋",
+                "杂志",
+                "观众",
+                "博客"
+            ]
+        },
+        {
+            "cards": [
+                "玩具",
+                "鸡",
+                "谷粒",
+                "羽毛",
+                "尝试",
+                "努力",
+                "掌声"
+            ]
+        }
+    ]
+}

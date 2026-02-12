@@ -1,0 +1,217 @@
+{
+    "levelId": 293,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "希腊神祇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿尔忒弥斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿瑞斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "波塞冬",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈迪斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "德墨忒尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "雅典娜",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿波罗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "矿物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿柱石",
+                    "icon": false
+                },
+                {
+                    "wordId": "云母",
+                    "icon": false
+                },
+                {
+                    "wordId": "缟玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "长石",
+                    "icon": false
+                },
+                {
+                    "wordId": "方解石",
+                    "icon": false
+                },
+                {
+                    "wordId": "石盐",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑石",
+                    "icon": false
+                },
+                {
+                    "wordId": "石膏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "表情符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笑脸",
+                    "icon": true
+                },
+                {
+                    "wordId": "眨眼",
+                    "icon": true
+                },
+                {
+                    "wordId": "露齿笑",
+                    "icon": true
+                },
+                {
+                    "wordId": "哭脸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "零食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薯片",
+                    "icon": false
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": false
+                },
+                {
+                    "wordId": "椒盐卷饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "爆米花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "公制",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米",
+                    "icon": false
+                },
+                {
+                    "wordId": "升",
+                    "icon": false
+                },
+                {
+                    "wordId": "克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "软体动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "章鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱿鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛤蜊",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "软体动物",
+        "露齿笑",
+        "克",
+        "米",
+        "缟玛瑙",
+        "零食",
+        "矿物",
+        "哭脸",
+        "鱿鱼",
+        "雅典娜",
+        "笑脸",
+        "方解石",
+        "饼干",
+        "滑石",
+        "波塞冬",
+        "赫拉",
+        "椒盐卷饼",
+        "升",
+        "德墨忒尔",
+        "爆米花",
+        "哈迪斯",
+        "长石",
+        "阿波罗",
+        "绿柱石"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "公制",
+                "云母",
+                "希腊神祇"
+            ]
+        },
+        {
+            "cards": [
+                "章鱼",
+                "蛤蜊",
+                "石盐",
+                "阿尔忒弥斯"
+            ]
+        },
+        {
+            "cards": [
+                "阿瑞斯",
+                "薯片",
+                "表情符号",
+                "眨眼",
+                "石膏"
+            ]
+        }
+    ]
+}

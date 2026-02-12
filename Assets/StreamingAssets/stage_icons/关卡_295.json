@@ -1,0 +1,369 @@
+{
+    "levelId": 295,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "洗护用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洗发水",
+                    "icon": false
+                },
+                {
+                    "wordId": "肥皂",
+                    "icon": false
+                },
+                {
+                    "wordId": "棉签",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳液",
+                    "icon": false
+                },
+                {
+                    "wordId": "剃须刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "润唇膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "防晒霜",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黑暗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "夜晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "停电",
+                    "icon": false
+                },
+                {
+                    "wordId": "日食",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴影",
+                    "icon": false
+                },
+                {
+                    "wordId": "昏暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄昏",
+                    "icon": false
+                },
+                {
+                    "wordId": "暗黑",
+                    "icon": false
+                },
+                {
+                    "wordId": "遮阴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火山岩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浮石",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄武岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑曜石",
+                    "icon": false
+                },
+                {
+                    "wordId": "安山岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪长岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "流纹岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宫殿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "托普卡帕宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "布达拉宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "霍夫堡宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢浮宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃斯科里亚尔宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿尔罕布拉宫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瓶子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奶瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "啤酒瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄酒瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "水壶",
+                    "icon": false
+                },
+                {
+                    "wordId": "醒酒器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "感官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "视觉",
+                    "icon": true
+                },
+                {
+                    "wordId": "听觉",
+                    "icon": true
+                },
+                {
+                    "wordId": "嗅觉",
+                    "icon": true
+                },
+                {
+                    "wordId": "味觉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "热水浴缸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "按摩浴缸",
+                    "icon": false
+                },
+                {
+                    "wordId": "气泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "水疗中心",
+                    "icon": false
+                },
+                {
+                    "wordId": "按摩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奥古普古",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神秘生物",
+                    "icon": false
+                },
+                {
+                    "wordId": "加拿大",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥肯那根",
+                    "icon": false
+                },
+                {
+                    "wordId": "水怪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "滑行工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "溜冰鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "轮滑鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑板",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "位数",
+                    "icon": false
+                },
+                {
+                    "wordId": "形状",
+                    "icon": false
+                },
+                {
+                    "wordId": "总和",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "形状",
+        "听觉",
+        "闪长岩",
+        "花岗岩",
+        "布达拉宫",
+        "葡萄酒瓶",
+        "奥古普古",
+        "停电",
+        "啤酒瓶",
+        "肥皂",
+        "热水浴缸",
+        "视觉",
+        "按摩",
+        "阴影",
+        "滑板",
+        "宫殿",
+        "日食",
+        "奥肯那根",
+        "轮滑鞋",
+        "火山渣",
+        "瓶子",
+        "气泡",
+        "埃斯科里亚尔宫",
+        "托普卡帕宫",
+        "阿尔罕布拉宫",
+        "溜冰鞋",
+        "浮石",
+        "水壶",
+        "烧瓶",
+        "神秘生物",
+        "霍夫堡宫",
+        "流纹岩",
+        "滑行工具",
+        "位数",
+        "奶瓶",
+        "嗅觉",
+        "加拿大",
+        "总和",
+        "夜晚",
+        "玄武岩",
+        "味觉",
+        "剃须刀"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "洗护用品",
+                "黄昏",
+                "按摩浴缸",
+                "防晒霜"
+            ]
+        },
+        {
+            "cards": [
+                "感官",
+                "数字",
+                "火山岩",
+                "牙线",
+                "卢浮宫"
+            ]
+        },
+        {
+            "cards": [
+                "暗黑",
+                "醒酒器",
+                "乳液",
+                "黑暗",
+                "安山岩",
+                "水疗中心"
+            ]
+        },
+        {
+            "cards": [
+                "昏暗",
+                "润唇膏",
+                "棉签",
+                "遮阴",
+                "水怪",
+                "洗发水",
+                "黑曜石"
+            ]
+        }
+    ]
+}

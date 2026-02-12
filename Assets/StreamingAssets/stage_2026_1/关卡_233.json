@@ -1,0 +1,369 @@
+{
+    "levelId": 233,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "时装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "T台",
+                    "icon": true
+                },
+                {
+                    "wordId": "高跟鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "连衣裙",
+                    "icon": true
+                },
+                {
+                    "wordId": "衣架",
+                    "icon": true
+                },
+                {
+                    "wordId": "人台模特",
+                    "icon": true
+                },
+                {
+                    "wordId": "模特",
+                    "icon": true
+                },
+                {
+                    "wordId": "帽子",
+                    "icon": true
+                },
+                {
+                    "wordId": "相机",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "社会",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "网络",
+                    "icon": false
+                },
+                {
+                    "wordId": "行为",
+                    "icon": false
+                },
+                {
+                    "wordId": "群体",
+                    "icon": false
+                },
+                {
+                    "wordId": "俱乐部",
+                    "icon": false
+                },
+                {
+                    "wordId": "技能",
+                    "icon": false
+                },
+                {
+                    "wordId": "媒体",
+                    "icon": false
+                },
+                {
+                    "wordId": "规范",
+                    "icon": false
+                },
+                {
+                    "wordId": "地位",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "赞扬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "好样的",
+                    "icon": false
+                },
+                {
+                    "wordId": "做得好",
+                    "icon": false
+                },
+                {
+                    "wordId": "完美",
+                    "icon": false
+                },
+                {
+                    "wordId": "一流的",
+                    "icon": false
+                },
+                {
+                    "wordId": "太棒了",
+                    "icon": false
+                },
+                {
+                    "wordId": "极好的",
+                    "icon": false
+                },
+                {
+                    "wordId": "喝彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "好极了",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "发动机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蒸汽机",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽油机",
+                    "icon": false
+                },
+                {
+                    "wordId": "转子发动机",
+                    "icon": false
+                },
+                {
+                    "wordId": "混合动力",
+                    "icon": false
+                },
+                {
+                    "wordId": "柴油机",
+                    "icon": false
+                },
+                {
+                    "wordId": "气缸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酥脆的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "培根",
+                    "icon": false
+                },
+                {
+                    "wordId": "薯片",
+                    "icon": false
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄脆饼干",
+                    "icon": false
+                },
+                {
+                    "wordId": "威化饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "麦片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "真理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "真实",
+                    "icon": false
+                },
+                {
+                    "wordId": "事实",
+                    "icon": false
+                },
+                {
+                    "wordId": "现实",
+                    "icon": false
+                },
+                {
+                    "wordId": "准确性",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阴郁的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "严肃",
+                    "icon": false
+                },
+                {
+                    "wordId": "认真",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "忧郁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "枫属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "枫树",
+                    "icon": true
+                },
+                {
+                    "wordId": "枫叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "加拿大",
+                    "icon": true
+                },
+                {
+                    "wordId": "枫糖浆",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "草稿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "草图",
+                    "icon": false
+                },
+                {
+                    "wordId": "计划",
+                    "icon": false
+                },
+                {
+                    "wordId": "档",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肥沃的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "土壤",
+                    "icon": false
+                },
+                {
+                    "wordId": "女性",
+                    "icon": false
+                },
+                {
+                    "wordId": "头脑",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "社会",
+        "高跟鞋",
+        "计划",
+        "衣架",
+        "规范",
+        "饼干",
+        "事实",
+        "黑暗",
+        "草稿",
+        "女性",
+        "头脑",
+        "时装",
+        "准确性",
+        "真理",
+        "人台模特",
+        "薄脆饼干",
+        "地位",
+        "土壤",
+        "模特",
+        "档",
+        "太棒了",
+        "混合动力",
+        "忧郁",
+        "枫糖浆",
+        "一流的",
+        "枫树",
+        "发动机",
+        "连衣裙",
+        "气缸",
+        "严肃",
+        "草图",
+        "加拿大",
+        "极好的",
+        "汽油机",
+        "帽子",
+        "转子发动机",
+        "媒体",
+        "认真",
+        "网络",
+        "枫叶",
+        "柴油机",
+        "俱乐部"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "相机",
+                "薯片",
+                "做得好",
+                "现实"
+            ]
+        },
+        {
+            "cards": [
+                "完美",
+                "好极了",
+                "蒸汽机",
+                "威化饼",
+                "阴郁的"
+            ]
+        },
+        {
+            "cards": [
+                "培根",
+                "喝彩",
+                "好样的",
+                "酥脆的",
+                "T台",
+                "行为"
+            ]
+        },
+        {
+            "cards": [
+                "枫属",
+                "麦片",
+                "技能",
+                "真实",
+                "赞扬",
+                "肥沃的",
+                "群体"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 299,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "卡通角色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米老鼠",
+                    "icon": false
+                },
+                {
+                    "wordId": "汤姆",
+                    "icon": false
+                },
+                {
+                    "wordId": "杰瑞",
+                    "icon": false
+                },
+                {
+                    "wordId": "米妮",
+                    "icon": false
+                },
+                {
+                    "wordId": "唐老鸭",
+                    "icon": false
+                },
+                {
+                    "wordId": "小卡斯珀",
+                    "icon": false
+                },
+                {
+                    "wordId": "大力水手",
+                    "icon": false
+                },
+                {
+                    "wordId": "布鲁托",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神祇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宙斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "索尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿努比斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊西斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "迦梨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蚂蚁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "昆虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "群落",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚁丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "觅食",
+                    "icon": false
+                },
+                {
+                    "wordId": "兵蚁",
+                    "icon": false
+                },
+                {
+                    "wordId": "侦察蚁",
+                    "icon": false
+                },
+                {
+                    "wordId": "工蚁",
+                    "icon": false
+                },
+                {
+                    "wordId": "幼虫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "延迟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迟到",
+                    "icon": false
+                },
+                {
+                    "wordId": "等待",
+                    "icon": false
+                },
+                {
+                    "wordId": "暂停",
+                    "icon": false
+                },
+                {
+                    "wordId": "拖延",
+                    "icon": false
+                },
+                {
+                    "wordId": "徘徊",
+                    "icon": false
+                },
+                {
+                    "wordId": "磨蹭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "节日装饰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "彩灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "圣诞老人",
+                    "icon": true
+                },
+                {
+                    "wordId": "花环",
+                    "icon": true
+                },
+                {
+                    "wordId": "花冠",
+                    "icon": true
+                },
+                {
+                    "wordId": "彩球",
+                    "icon": true
+                },
+                {
+                    "wordId": "杉树",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "龙类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蠕虫龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼德霍格",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电影类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剧情片",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜剧片",
+                    "icon": false
+                },
+                {
+                    "wordId": "动作片",
+                    "icon": false
+                },
+                {
+                    "wordId": "惊悚片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "轨道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椭圆",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆形",
+                    "icon": false
+                },
+                {
+                    "wordId": "抛物线",
+                    "icon": false
+                },
+                {
+                    "wordId": "近地点",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诗歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "颂诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "十四行诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "俳句",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纹章学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盾牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "纹章描述",
+                    "icon": false
+                },
+                {
+                    "wordId": "座右铭",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "唐老鸭",
+        "惊悚片",
+        "汤姆",
+        "迦梨",
+        "轨道",
+        "花冠",
+        "花环",
+        "抛物线",
+        "纹章学",
+        "群落",
+        "十四行诗",
+        "尼德霍格",
+        "奥丁",
+        "伊西斯",
+        "昆虫",
+        "蠕虫龙",
+        "龙",
+        "盾牌",
+        "圣诞老人",
+        "座右铭",
+        "暂停",
+        "布鲁托",
+        "纹章描述",
+        "椭圆",
+        "兵蚁",
+        "喜剧片",
+        "俳句",
+        "诗歌",
+        "阿努比斯",
+        "等待",
+        "龙类",
+        "索尔",
+        "拖延",
+        "工蚁",
+        "觅食",
+        "蚁丘",
+        "拉",
+        "神祇",
+        "磨蹭",
+        "侦察蚁",
+        "米妮",
+        "徘徊"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "圆形",
+                "彩球",
+                "幼虫",
+                "宙斯"
+            ]
+        },
+        {
+            "cards": [
+                "彩灯",
+                "杰瑞",
+                "赫拉",
+                "蚂蚁",
+                "米老鼠"
+            ]
+        },
+        {
+            "cards": [
+                "电影类型",
+                "大力水手",
+                "延迟",
+                "飞龙",
+                "颂诗",
+                "卡通角色"
+            ]
+        },
+        {
+            "cards": [
+                "近地点",
+                "小卡斯珀",
+                "动作片",
+                "杉树",
+                "剧情片",
+                "迟到",
+                "节日装饰"
+            ]
+        }
+    ]
+}

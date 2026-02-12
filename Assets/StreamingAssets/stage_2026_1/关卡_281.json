@@ -1,0 +1,369 @@
+{
+    "levelId": 281,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "购物者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神秘顾客",
+                    "icon": false
+                },
+                {
+                    "wordId": "零售",
+                    "icon": false
+                },
+                {
+                    "wordId": "购物中心",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂货店",
+                    "icon": false
+                },
+                {
+                    "wordId": "集市",
+                    "icon": false
+                },
+                {
+                    "wordId": "购买",
+                    "icon": false
+                },
+                {
+                    "wordId": "供应商",
+                    "icon": false
+                },
+                {
+                    "wordId": "折扣店",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电脑相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笔记本电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "台式机",
+                    "icon": true
+                },
+                {
+                    "wordId": "显示器",
+                    "icon": true
+                },
+                {
+                    "wordId": "路由器",
+                    "icon": true
+                },
+                {
+                    "wordId": "内存",
+                    "icon": true
+                },
+                {
+                    "wordId": "网络摄像头",
+                    "icon": true
+                },
+                {
+                    "wordId": "打印机",
+                    "icon": true
+                },
+                {
+                    "wordId": "平板电脑",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "九夜节",
+                    "icon": false
+                },
+                {
+                    "wordId": "宽扎节",
+                    "icon": false
+                },
+                {
+                    "wordId": "排灯节",
+                    "icon": false
+                },
+                {
+                    "wordId": "劳动节",
+                    "icon": false
+                },
+                {
+                    "wordId": "斋月",
+                    "icon": false
+                },
+                {
+                    "wordId": "光明节",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂欢节",
+                    "icon": false
+                },
+                {
+                    "wordId": "共和国日",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "桥梁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "桥跨",
+                    "icon": false
+                },
+                {
+                    "wordId": "高架桥",
+                    "icon": false
+                },
+                {
+                    "wordId": "桥塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "栈桥",
+                    "icon": false
+                },
+                {
+                    "wordId": "渡槽",
+                    "icon": false
+                },
+                {
+                    "wordId": "主梁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毒素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肉毒毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓖麻毒素",
+                    "icon": false
+                },
+                {
+                    "wordId": "砷",
+                    "icon": false
+                },
+                {
+                    "wordId": "汞",
+                    "icon": false
+                },
+                {
+                    "wordId": "氰化物",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神秘生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "本耶普",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼斯湖水怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "大脚怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手语",
+                    "icon": false
+                },
+                {
+                    "wordId": "爪哇语言",
+                    "icon": false
+                },
+                {
+                    "wordId": "字母",
+                    "icon": false
+                },
+                {
+                    "wordId": "统一码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绳结",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "单套结",
+                    "icon": false
+                },
+                {
+                    "wordId": "普鲁士结",
+                    "icon": false
+                },
+                {
+                    "wordId": "克林奇结",
+                    "icon": false
+                },
+                {
+                    "wordId": "平结",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阿曼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塞拉莱",
+                    "icon": false
+                },
+                {
+                    "wordId": "马斯喀特",
+                    "icon": false
+                },
+                {
+                    "wordId": "佐法尔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骑士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣殿骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻骑兵",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "购物者",
+        "塞拉莱",
+        "文字",
+        "主梁",
+        "供应商",
+        "网络摄像头",
+        "路由器",
+        "零售",
+        "共和国日",
+        "汞",
+        "劳动节",
+        "栈桥",
+        "内存",
+        "单套结",
+        "桥跨",
+        "平结",
+        "砷",
+        "斋月",
+        "高架桥",
+        "杂货店",
+        "桥塔",
+        "光明节",
+        "排灯节",
+        "佐法尔",
+        "渡槽",
+        "大脚怪",
+        "字母",
+        "马斯喀特",
+        "节日",
+        "台式机",
+        "毒素",
+        "购物中心",
+        "普鲁士结",
+        "统一码",
+        "爪哇语言",
+        "克林奇结",
+        "电脑相关",
+        "本耶普",
+        "神秘顾客",
+        "肉毒毒素",
+        "笔记本电脑",
+        "轻骑兵"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "沙林",
+                "狂欢节",
+                "宽扎节",
+                "氰化物"
+            ]
+        },
+        {
+            "cards": [
+                "阿曼",
+                "显示器",
+                "骑士",
+                "桥梁",
+                "平板电脑"
+            ]
+        },
+        {
+            "cards": [
+                "折扣店",
+                "蓖麻毒素",
+                "尼斯湖水怪",
+                "圣骑士",
+                "圣殿骑士",
+                "集市"
+            ]
+        },
+        {
+            "cards": [
+                "北海巨妖",
+                "九夜节",
+                "购买",
+                "手语",
+                "绳结",
+                "神秘生物",
+                "打印机"
+            ]
+        }
+    ]
+}

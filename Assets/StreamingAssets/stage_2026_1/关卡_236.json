@@ -1,0 +1,217 @@
+{
+    "levelId": 236,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "山丘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "开阔的高地",
+                    "icon": false
+                },
+                {
+                    "wordId": "高地",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼹鼠丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "地貌",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬崖",
+                    "icon": false
+                },
+                {
+                    "wordId": "斜坡",
+                    "icon": false
+                },
+                {
+                    "wordId": "小丘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "需求",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "想要",
+                    "icon": false
+                },
+                {
+                    "wordId": "期望",
+                    "icon": false
+                },
+                {
+                    "wordId": "要求",
+                    "icon": false
+                },
+                {
+                    "wordId": "渴望",
+                    "icon": false
+                },
+                {
+                    "wordId": "剥夺",
+                    "icon": false
+                },
+                {
+                    "wordId": "满足",
+                    "icon": false
+                },
+                {
+                    "wordId": "需要",
+                    "icon": false
+                },
+                {
+                    "wordId": "渴求",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游艇港",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "游艇",
+                    "icon": false
+                },
+                {
+                    "wordId": "泊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "码头",
+                    "icon": false
+                },
+                {
+                    "wordId": "坡道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "风暴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闪电",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙卷风",
+                    "icon": true
+                },
+                {
+                    "wordId": "沉船",
+                    "icon": true
+                },
+                {
+                    "wordId": "阵风",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "袋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "茶叶袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "T恤包装袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "粉袋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "公用事业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "燃气",
+                    "icon": false
+                },
+                {
+                    "wordId": "供暖",
+                    "icon": false
+                },
+                {
+                    "wordId": "资费",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "要求",
+        "码头",
+        "粉袋",
+        "斜坡",
+        "渴望",
+        "想要",
+        "山丘",
+        "满足",
+        "期望",
+        "沉船",
+        "剥夺",
+        "山脉",
+        "资费",
+        "供暖",
+        "坡道",
+        "鼹鼠丘",
+        "开阔的高地",
+        "游艇港",
+        "燃气",
+        "悬崖",
+        "渴求",
+        "袋",
+        "需要",
+        "闪电"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "需求",
+                "地貌",
+                "小丘"
+            ]
+        },
+        {
+            "cards": [
+                "风暴",
+                "龙卷风",
+                "泊位",
+                "茶叶袋"
+            ]
+        },
+        {
+            "cards": [
+                "公用事业",
+                "高地",
+                "T恤包装袋",
+                "游艇",
+                "阵风"
+            ]
+        }
+    ]
+}

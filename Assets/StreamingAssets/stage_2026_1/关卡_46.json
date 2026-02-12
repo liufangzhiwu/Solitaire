@@ -1,0 +1,521 @@
+{
+    "levelId": 46,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "商店",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "讨价还价",
+                    "icon": false
+                },
+                {
+                    "wordId": "结账",
+                    "icon": false
+                },
+                {
+                    "wordId": "购物篮",
+                    "icon": false
+                },
+                {
+                    "wordId": "产品",
+                    "icon": false
+                },
+                {
+                    "wordId": "价格",
+                    "icon": false
+                },
+                {
+                    "wordId": "收据",
+                    "icon": false
+                },
+                {
+                    "wordId": "促销",
+                    "icon": false
+                },
+                {
+                    "wordId": "交易",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "交通",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "信号灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "道路",
+                    "icon": false
+                },
+                {
+                    "wordId": "拥堵",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸣笛",
+                    "icon": false
+                },
+                {
+                    "wordId": "高速公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "堵塞",
+                    "icon": false
+                },
+                {
+                    "wordId": "车辆",
+                    "icon": false
+                },
+                {
+                    "wordId": "交通瘫痪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鞋子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "靴子",
+                    "icon": true
+                },
+                {
+                    "wordId": "高跟鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "平底鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛津鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "坡跟鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "僧侣鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "布洛克鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "德比鞋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "家园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巢穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "兽穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "地洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏身处",
+                    "icon": false
+                },
+                {
+                    "wordId": "马厩",
+                    "icon": false
+                },
+                {
+                    "wordId": "狗窝",
+                    "icon": false
+                },
+                {
+                    "wordId": "小屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "兔窟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日食/月食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "本影",
+                    "icon": false
+                },
+                {
+                    "wordId": "半影",
+                    "icon": false
+                },
+                {
+                    "wordId": "伪本影",
+                    "icon": false
+                },
+                {
+                    "wordId": "影子",
+                    "icon": false
+                },
+                {
+                    "wordId": "全食",
+                    "icon": false
+                },
+                {
+                    "wordId": "偏食",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "几何",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "点",
+                    "icon": false
+                },
+                {
+                    "wordId": "线",
+                    "icon": false
+                },
+                {
+                    "wordId": "角",
+                    "icon": false
+                },
+                {
+                    "wordId": "对角线",
+                    "icon": false
+                },
+                {
+                    "wordId": "平行",
+                    "icon": false
+                },
+                {
+                    "wordId": "半径",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小船",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "独木舟",
+                    "icon": false
+                },
+                {
+                    "wordId": "木筏",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮划艇",
+                    "icon": false
+                },
+                {
+                    "wordId": "单桅帆船",
+                    "icon": false
+                },
+                {
+                    "wordId": "小艇",
+                    "icon": false
+                },
+                {
+                    "wordId": "划艇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "人声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男中音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "女低音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诗歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "十四行诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "俳句",
+                    "icon": false
+                },
+                {
+                    "wordId": "颂诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "民谣",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏头诗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饮食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脂肪",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳水化合物",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白质",
+                    "icon": false
+                },
+                {
+                    "wordId": "维生素",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "龙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爪子",
+                    "icon": false
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳞片",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾巴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "零食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布朗尼",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸杯蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉事果",
+                    "icon": true
+                },
+                {
+                    "wordId": "棒棒糖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "餐食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "晚餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "午餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "正餐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "炼金术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "长生不老药",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔药",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "独木舟",
+        "藏身处",
+        "对角线",
+        "纸杯蛋糕",
+        "零食",
+        "午餐",
+        "马厩",
+        "偏食",
+        "鸣笛",
+        "炼金术",
+        "讨价还价",
+        "产品",
+        "促销",
+        "牛津鞋",
+        "全食",
+        "正餐",
+        "单桅帆船",
+        "巢穴",
+        "划艇",
+        "藏头诗",
+        "平行",
+        "蛋白质",
+        "维生素",
+        "僧侣鞋",
+        "小船",
+        "魔药",
+        "坡跟鞋",
+        "小屋",
+        "收据",
+        "交通瘫痪",
+        "本影",
+        "拥堵",
+        "女低音",
+        "平底鞋",
+        "男中音",
+        "男低音",
+        "龙",
+        "长生不老药",
+        "鞋子",
+        "信号灯",
+        "脂肪",
+        "半径",
+        "角",
+        "诗歌",
+        "高跟鞋",
+        "兔窟",
+        "德比鞋",
+        "家园",
+        "鳞片",
+        "碳水化合物",
+        "高速公路",
+        "点",
+        "靴子",
+        "半影",
+        "吉事果",
+        "颂诗",
+        "购物篮"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "线",
+                "几何",
+                "交易",
+                "火焰",
+                "人声"
+            ]
+        },
+        {
+            "cards": [
+                "交通",
+                "木筏",
+                "商店",
+                "尾巴",
+                "价格",
+                "大锅"
+            ]
+        },
+        {
+            "cards": [
+                "皮划艇",
+                "晚餐",
+                "饮食",
+                "地洞",
+                "餐食",
+                "十四行诗",
+                "狗窝"
+            ]
+        },
+        {
+            "cards": [
+                "棒棒糖",
+                "结账",
+                "布朗尼",
+                "堵塞",
+                "影子",
+                "爪子",
+                "兽穴",
+                "车辆"
+            ]
+        },
+        {
+            "cards": [
+                "道路",
+                "女高音",
+                "民谣",
+                "俳句",
+                "小艇",
+                "日食/月食",
+                "伪本影",
+                "布洛克鞋",
+                "男高音"
+            ]
+        }
+    ]
+}

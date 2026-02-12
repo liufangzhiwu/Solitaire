@@ -1,0 +1,521 @@
+{
+    "levelId": 347,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "弹珠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猫眼弹珠",
+                    "icon": true
+                },
+                {
+                    "wordId": "漩涡弹珠",
+                    "icon": true
+                },
+                {
+                    "wordId": "条纹弹珠",
+                    "icon": true
+                },
+                {
+                    "wordId": "云纹弹珠",
+                    "icon": true
+                },
+                {
+                    "wordId": "虎纹弹珠",
+                    "icon": true
+                },
+                {
+                    "wordId": "银河弹珠",
+                    "icon": true
+                },
+                {
+                    "wordId": "莱茨弹珠",
+                    "icon": true
+                },
+                {
+                    "wordId": "玛瑙弹珠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "雕像",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "方尖碑",
+                    "icon": false
+                },
+                {
+                    "wordId": "半身像",
+                    "icon": false
+                },
+                {
+                    "wordId": "人物像",
+                    "icon": false
+                },
+                {
+                    "wordId": "肖像",
+                    "icon": false
+                },
+                {
+                    "wordId": "滴水嘴兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕像艺术",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨像",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮身人面像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "条纹的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑马",
+                    "icon": false
+                },
+                {
+                    "wordId": "霍加狓",
+                    "icon": false
+                },
+                {
+                    "wordId": "条码",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭鼬",
+                    "icon": false
+                },
+                {
+                    "wordId": "老虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "人字形图案",
+                    "icon": false
+                },
+                {
+                    "wordId": "獾",
+                    "icon": false
+                },
+                {
+                    "wordId": "囚犯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "琐事",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "数学",
+                    "icon": false
+                },
+                {
+                    "wordId": "历史",
+                    "icon": false
+                },
+                {
+                    "wordId": "科学",
+                    "icon": false
+                },
+                {
+                    "wordId": "文化",
+                    "icon": false
+                },
+                {
+                    "wordId": "艺术",
+                    "icon": false
+                },
+                {
+                    "wordId": "语言",
+                    "icon": false
+                },
+                {
+                    "wordId": "政治",
+                    "icon": false
+                },
+                {
+                    "wordId": "地质学",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "镜头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "微距",
+                    "icon": false
+                },
+                {
+                    "wordId": "变焦",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "广角",
+                    "icon": false
+                },
+                {
+                    "wordId": "相机",
+                    "icon": false
+                },
+                {
+                    "wordId": "长焦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钢琴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "键盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢琴家",
+                    "icon": false
+                },
+                {
+                    "wordId": "踏板",
+                    "icon": false
+                },
+                {
+                    "wordId": "音符",
+                    "icon": false
+                },
+                {
+                    "wordId": "肖邦",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋律",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "路径",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "小巷",
+                    "icon": false
+                },
+                {
+                    "wordId": "小径",
+                    "icon": false
+                },
+                {
+                    "wordId": "车道",
+                    "icon": false
+                },
+                {
+                    "wordId": "路线",
+                    "icon": false
+                },
+                {
+                    "wordId": "道路",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旗帜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "横幅",
+                    "icon": false
+                },
+                {
+                    "wordId": "舰旗",
+                    "icon": false
+                },
+                {
+                    "wordId": "三角旗",
+                    "icon": false
+                },
+                {
+                    "wordId": "旌旗",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖旗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "才能",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "优雅",
+                    "icon": false
+                },
+                {
+                    "wordId": "机智",
+                    "icon": false
+                },
+                {
+                    "wordId": "天赋",
+                    "icon": false
+                },
+                {
+                    "wordId": "悟性",
+                    "icon": false
+                },
+                {
+                    "wordId": "技能",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烟花",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "罗马蜡烛",
+                    "icon": true
+                },
+                {
+                    "wordId": "礼炮",
+                    "icon": true
+                },
+                {
+                    "wordId": "火箭礼炮",
+                    "icon": true
+                },
+                {
+                    "wordId": "喷泉礼炮",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "诺亚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "方舟",
+                    "icon": false
+                },
+                {
+                    "wordId": "洪水",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸽子",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "庄园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哥特式",
+                    "icon": false
+                },
+                {
+                    "wordId": "都铎式",
+                    "icon": false
+                },
+                {
+                    "wordId": "男爵式",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔治亚式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "遗物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "护身符",
+                    "icon": true
+                },
+                {
+                    "wordId": "圣杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "符咒",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "漏斗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喷口",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷嘴",
+                    "icon": false
+                },
+                {
+                    "wordId": "扩散器",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "鸽子",
+        "条纹的",
+        "艺术",
+        "钢琴家",
+        "键盘",
+        "变焦",
+        "数学",
+        "符咒",
+        "橄榄",
+        "弹珠",
+        "圣杯",
+        "囚犯",
+        "罗马蜡烛",
+        "政治",
+        "地质学",
+        "人物像",
+        "霍加狓",
+        "老虎",
+        "广角",
+        "横幅",
+        "人字形图案",
+        "肖像",
+        "科学",
+        "旌旗",
+        "獾",
+        "都铎式",
+        "车道",
+        "优雅",
+        "旋律",
+        "历史",
+        "方舟",
+        "文化",
+        "漏斗",
+        "镜头",
+        "遗物",
+        "语言",
+        "乔治亚式",
+        "漩涡弹珠",
+        "尖旗",
+        "音符",
+        "扩散器",
+        "机智",
+        "云纹弹珠",
+        "相机",
+        "路线",
+        "长焦",
+        "滴水嘴兽",
+        "微距",
+        "琐事",
+        "条码",
+        "礼炮",
+        "喷口",
+        "喷泉礼炮",
+        "旗帜",
+        "天赋",
+        "踏板",
+        "狮身人面像"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "莱茨弹珠",
+                "洪水",
+                "烟花",
+                "虎纹弹珠",
+                "哥特式"
+            ]
+        },
+        {
+            "cards": [
+                "雕像",
+                "玛瑙弹珠",
+                "方尖碑",
+                "轨道",
+                "肖邦",
+                "才能"
+            ]
+        },
+        {
+            "cards": [
+                "舰旗",
+                "猫眼弹珠",
+                "斑马",
+                "半身像",
+                "护身符",
+                "路径",
+                "银河弹珠"
+            ]
+        },
+        {
+            "cards": [
+                "雕像艺术",
+                "喷嘴",
+                "臭鼬",
+                "三角旗",
+                "钢琴",
+                "道路",
+                "火箭礼炮",
+                "男爵式"
+            ]
+        },
+        {
+            "cards": [
+                "巨像",
+                "小径",
+                "诺亚",
+                "技能",
+                "庄园",
+                "悟性",
+                "鱼眼",
+                "小巷",
+                "条纹弹珠"
+            ]
+        }
+    ]
+}

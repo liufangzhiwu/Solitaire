@@ -1,0 +1,369 @@
+{
+    "levelId": 148,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "游戏玩家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "游戏手柄",
+                    "icon": false
+                },
+                {
+                    "wordId": "操纵杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "游戏主机",
+                    "icon": false
+                },
+                {
+                    "wordId": "得分",
+                    "icon": false
+                },
+                {
+                    "wordId": "电子竞技",
+                    "icon": false
+                },
+                {
+                    "wordId": "射击游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "虚拟形象",
+                    "icon": false
+                },
+                {
+                    "wordId": "角色扮演游戏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "骑行者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "定制摩托车",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻便摩托车",
+                    "icon": false
+                },
+                {
+                    "wordId": "踏板车",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉力赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "竞赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "巡航摩托车",
+                    "icon": false
+                },
+                {
+                    "wordId": "速度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "容量单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "升",
+                    "icon": false
+                },
+                {
+                    "wordId": "加仑",
+                    "icon": false
+                },
+                {
+                    "wordId": "品脱",
+                    "icon": false
+                },
+                {
+                    "wordId": "夸脱",
+                    "icon": false
+                },
+                {
+                    "wordId": "箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "容器",
+                    "icon": false
+                },
+                {
+                    "wordId": "桶",
+                    "icon": false
+                },
+                {
+                    "wordId": "立方米",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阻止",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阻碍",
+                    "icon": false
+                },
+                {
+                    "wordId": "防止",
+                    "icon": false
+                },
+                {
+                    "wordId": "挫败",
+                    "icon": false
+                },
+                {
+                    "wordId": "威慑",
+                    "icon": false
+                },
+                {
+                    "wordId": "停止",
+                    "icon": false
+                },
+                {
+                    "wordId": "劝阻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "道路",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小径",
+                    "icon": true
+                },
+                {
+                    "wordId": "公路",
+                    "icon": true
+                },
+                {
+                    "wordId": "足迹",
+                    "icon": true
+                },
+                {
+                    "wordId": "桥梁",
+                    "icon": true
+                },
+                {
+                    "wordId": "行进",
+                    "icon": true
+                },
+                {
+                    "wordId": "路线",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "力",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "重力",
+                    "icon": false
+                },
+                {
+                    "wordId": "张力",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩擦力",
+                    "icon": false
+                },
+                {
+                    "wordId": "惯性",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "条纹图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "美国国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "西瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜜蜂",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "气味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肥皂",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜡烛",
+                    "icon": true
+                },
+                {
+                    "wordId": "茶",
+                    "icon": true
+                },
+                {
+                    "wordId": "香水",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "位置",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "这里",
+                    "icon": false
+                },
+                {
+                    "wordId": "那里",
+                    "icon": false
+                },
+                {
+                    "wordId": "附近",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粉丝群体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "炒作",
+                    "icon": false
+                },
+                {
+                    "wordId": "偶像",
+                    "icon": false
+                },
+                {
+                    "wordId": "热爱",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "行进",
+        "速度",
+        "那里",
+        "桶",
+        "防止",
+        "容器",
+        "加仑",
+        "角色扮演游戏",
+        "轻便摩托车",
+        "肥皂",
+        "游戏手柄",
+        "定制摩托车",
+        "粉丝群体",
+        "力",
+        "阻碍",
+        "容量单位",
+        "劝阻",
+        "重力",
+        "摩擦力",
+        "头盔",
+        "热爱",
+        "炒作",
+        "茶",
+        "威慑",
+        "射击游戏",
+        "这里",
+        "品脱",
+        "路线",
+        "足迹",
+        "电子竞技",
+        "巡航摩托车",
+        "停止",
+        "位置",
+        "小径",
+        "美国国旗",
+        "道路",
+        "惯性",
+        "香水",
+        "挫败",
+        "立方米",
+        "夸脱",
+        "虚拟形象"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "条纹图案",
+                "阻止",
+                "得分",
+                "升"
+            ]
+        },
+        {
+            "cards": [
+                "游戏主机",
+                "竞赛",
+                "公路",
+                "操纵杆",
+                "箱"
+            ]
+        },
+        {
+            "cards": [
+                "蜜蜂",
+                "西瓜",
+                "踏板车",
+                "斑马",
+                "偶像",
+                "骑行者"
+            ]
+        },
+        {
+            "cards": [
+                "气味",
+                "蜡烛",
+                "游戏玩家",
+                "张力",
+                "桥梁",
+                "拉力赛",
+                "附近"
+            ]
+        }
+    ]
+}

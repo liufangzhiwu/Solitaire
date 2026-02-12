@@ -1,0 +1,369 @@
+{
+    "levelId": 88,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "美国州",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缅因州",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙大拿州",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱达荷州",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄勒冈州",
+                    "icon": false
+                },
+                {
+                    "wordId": "犹他州",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚利桑那州",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱荷华州",
+                    "icon": false
+                },
+                {
+                    "wordId": "怀俄明州",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生长",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "发芽",
+                    "icon": false
+                },
+                {
+                    "wordId": "繁殖",
+                    "icon": false
+                },
+                {
+                    "wordId": "扩展",
+                    "icon": false
+                },
+                {
+                    "wordId": "成熟",
+                    "icon": false
+                },
+                {
+                    "wordId": "发育",
+                    "icon": false
+                },
+                {
+                    "wordId": "壮大",
+                    "icon": false
+                },
+                {
+                    "wordId": "萌芽",
+                    "icon": false
+                },
+                {
+                    "wordId": "进化",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "白色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "盐粒",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸张",
+                    "icon": false
+                },
+                {
+                    "wordId": "棉花",
+                    "icon": false
+                },
+                {
+                    "wordId": "云朵",
+                    "icon": false
+                },
+                {
+                    "wordId": "白糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "珍珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "米饭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "气球",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜡烛",
+                    "icon": true
+                },
+                {
+                    "wordId": "派对",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "礼物盒",
+                    "icon": true
+                },
+                {
+                    "wordId": "五彩纸屑",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "船只",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小船",
+                    "icon": true
+                },
+                {
+                    "wordId": "独木舟",
+                    "icon": true
+                },
+                {
+                    "wordId": "驳船",
+                    "icon": true
+                },
+                {
+                    "wordId": "护卫舰",
+                    "icon": true
+                },
+                {
+                    "wordId": "游艇",
+                    "icon": true
+                },
+                {
+                    "wordId": "渡轮",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "熊猫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑点",
+                    "icon": false
+                },
+                {
+                    "wordId": "竹子",
+                    "icon": false
+                },
+                {
+                    "wordId": "大熊猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "中国",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大西洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "太平洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "北冰洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "印度洋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "健康",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卫生",
+                    "icon": false
+                },
+                {
+                    "wordId": "疗法",
+                    "icon": false
+                },
+                {
+                    "wordId": "治愈",
+                    "icon": false
+                },
+                {
+                    "wordId": "免疫力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颜色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "语法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "名词",
+                    "icon": false
+                },
+                {
+                    "wordId": "动词",
+                    "icon": false
+                },
+                {
+                    "wordId": "副词",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "派对",
+        "爱荷华州",
+        "亚利桑那州",
+        "船只",
+        "治愈",
+        "颜色",
+        "萌芽",
+        "斑点",
+        "卫生",
+        "熊猫",
+        "独木舟",
+        "名词",
+        "壮大",
+        "礼物盒",
+        "棉花",
+        "发芽",
+        "渡轮",
+        "俄勒冈州",
+        "五彩纸屑",
+        "大西洋",
+        "免疫力",
+        "盐粒",
+        "副词",
+        "珍珠",
+        "太平洋",
+        "进化",
+        "白糖",
+        "护卫舰",
+        "发育",
+        "缅因州",
+        "绿色",
+        "牛奶",
+        "动词",
+        "大洋",
+        "驳船",
+        "竹子",
+        "生长",
+        "扩展",
+        "蒙大拿州",
+        "气球",
+        "小船",
+        "蜡烛"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "游艇",
+                "大熊猫",
+                "语法",
+                "印度洋"
+            ]
+        },
+        {
+            "cards": [
+                "纸张",
+                "犹他州",
+                "美国州",
+                "白色",
+                "怀俄明州"
+            ]
+        },
+        {
+            "cards": [
+                "云朵",
+                "疗法",
+                "繁殖",
+                "爱达荷州",
+                "中国",
+                "健康"
+            ]
+        },
+        {
+            "cards": [
+                "北冰洋",
+                "生日",
+                "米饭",
+                "蛋糕",
+                "蓝色",
+                "成熟",
+                "黄色"
+            ]
+        }
+    ]
+}

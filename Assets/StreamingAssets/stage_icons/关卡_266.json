@@ -1,0 +1,553 @@
+{
+    "levelId": 266,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "蛇类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蝰蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚺蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蟒蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "水蟒",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼镜蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "曼巴蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "环蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝮蛇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "刀剑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弯刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "短弯刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "细剑",
+                    "icon": false
+                },
+                {
+                    "wordId": "军刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "水手刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗马短剑",
+                    "icon": false
+                },
+                {
+                    "wordId": "砍刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "武士刀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灰色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木炭灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "石墨灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "石板灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰烬",
+                    "icon": false
+                },
+                {
+                    "wordId": "白镴灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸽灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "浅灰蓝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "方言",
+                    "icon": false
+                },
+                {
+                    "wordId": "俚语",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑话",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮钦语",
+                    "icon": false
+                },
+                {
+                    "wordId": "口音",
+                    "icon": false
+                },
+                {
+                    "wordId": "变体",
+                    "icon": false
+                },
+                {
+                    "wordId": "辞汇",
+                    "icon": false
+                },
+                {
+                    "wordId": "术语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "请求",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "要求",
+                    "icon": false
+                },
+                {
+                    "wordId": "需求",
+                    "icon": false
+                },
+                {
+                    "wordId": "乞求",
+                    "icon": false
+                },
+                {
+                    "wordId": "征求",
+                    "icon": false
+                },
+                {
+                    "wordId": "恳求",
+                    "icon": false
+                },
+                {
+                    "wordId": "声称",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "类星体",
+                    "icon": false
+                },
+                {
+                    "wordId": "耀变体",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系核球",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系团",
+                    "icon": false
+                },
+                {
+                    "wordId": "漩涡星系",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "温标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摄氏度",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛顿温标",
+                    "icon": false
+                },
+                {
+                    "wordId": "兰金温标",
+                    "icon": false
+                },
+                {
+                    "wordId": "列氏温标",
+                    "icon": false
+                },
+                {
+                    "wordId": "德利尔温标",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗默温标",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "高耸建筑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电视塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "摩天楼",
+                    "icon": true
+                },
+                {
+                    "wordId": "钟楼",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "风力涡轮机",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "脊柱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "颈部",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸部",
+                    "icon": false
+                },
+                {
+                    "wordId": "腹部",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨盆",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "泰坦",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "克洛诺斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑞亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊阿珀托斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "许珀里翁",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄刻阿诺斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "固件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "BIOS",
+                    "icon": false
+                },
+                {
+                    "wordId": "UEFI",
+                    "icon": false
+                },
+                {
+                    "wordId": "ROM",
+                    "icon": false
+                },
+                {
+                    "wordId": "EPROM",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "泡沫状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洗发水",
+                    "icon": false
+                },
+                {
+                    "wordId": "肥皂",
+                    "icon": false
+                },
+                {
+                    "wordId": "啤酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "波浪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瑞典",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瑞典国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "驼鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "维京长船",
+                    "icon": true
+                },
+                {
+                    "wordId": "维京人",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "命运",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "厄运",
+                    "icon": false
+                },
+                {
+                    "wordId": "天命",
+                    "icon": false
+                },
+                {
+                    "wordId": "运气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "激怒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "惹恼",
+                    "icon": false
+                },
+                {
+                    "wordId": "使烦恼",
+                    "icon": false
+                },
+                {
+                    "wordId": "使厌烦",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "漩涡星系",
+        "BIOS",
+        "颈部",
+        "EPROM",
+        "胸部",
+        "惹恼",
+        "需求",
+        "尾骨",
+        "水蟒",
+        "鸽灰",
+        "高耸建筑",
+        "曼巴蛇",
+        "白镴灰",
+        "牛顿温标",
+        "浅灰蓝",
+        "波浪",
+        "UEFI",
+        "使厌烦",
+        "请求",
+        "蝮蛇",
+        "蝰蛇",
+        "声称",
+        "口音",
+        "洗发水",
+        "辞汇",
+        "恳求",
+        "星系核球",
+        "ROM",
+        "列氏温标",
+        "泡沫状",
+        "风力涡轮机",
+        "兰金温标",
+        "电视塔",
+        "石板灰",
+        "驼鹿",
+        "激怒",
+        "维京长船",
+        "耀变体",
+        "钟楼",
+        "眼镜蛇",
+        "征求",
+        "许珀里翁",
+        "俄刻阿诺斯",
+        "瑞亚",
+        "命运",
+        "星系团",
+        "瑞典国旗",
+        "腹部",
+        "瑞典",
+        "水手刀",
+        "运气",
+        "烟灰",
+        "武士刀",
+        "德利尔温标",
+        "啤酒",
+        "俚语",
+        "星系",
+        "克洛诺斯",
+        "蚺蛇",
+        "细剑",
+        "罗马短剑",
+        "变体",
+        "伊阿珀托斯"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "木炭灰",
+                "军刀",
+                "固件",
+                "要求",
+                "蛇类"
+            ]
+        },
+        {
+            "cards": [
+                "厄运",
+                "泰坦",
+                "星云",
+                "脊柱",
+                "黑话",
+                "环蛇"
+            ]
+        },
+        {
+            "cards": [
+                "使烦恼",
+                "灰烬",
+                "砍刀",
+                "类星体",
+                "石墨灰",
+                "蟒蛇",
+                "皮钦语"
+            ]
+        },
+        {
+            "cards": [
+                "摩天楼",
+                "乞求",
+                "温标",
+                "维京人",
+                "天命",
+                "弯刀",
+                "短弯刀",
+                "行话"
+            ]
+        },
+        {
+            "cards": [
+                "摄氏度",
+                "罗默温标",
+                "骨盆",
+                "方言",
+                "灯塔",
+                "肥皂",
+                "术语",
+                "灰色",
+                "刀剑"
+            ]
+        }
+    ]
+}

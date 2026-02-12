@@ -1,0 +1,369 @@
+{
+    "levelId": 64,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "活动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮划艇",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳绳",
+                    "icon": false
+                },
+                {
+                    "wordId": "划船",
+                    "icon": false
+                },
+                {
+                    "wordId": "骑行",
+                    "icon": false
+                },
+                {
+                    "wordId": "划独木舟",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞蹈",
+                    "icon": false
+                },
+                {
+                    "wordId": "击剑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "箱子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打开",
+                    "icon": false
+                },
+                {
+                    "wordId": "关闭",
+                    "icon": false
+                },
+                {
+                    "wordId": "折叠",
+                    "icon": false
+                },
+                {
+                    "wordId": "递送",
+                    "icon": false
+                },
+                {
+                    "wordId": "搬运",
+                    "icon": false
+                },
+                {
+                    "wordId": "打包",
+                    "icon": false
+                },
+                {
+                    "wordId": "拆包",
+                    "icon": false
+                },
+                {
+                    "wordId": "储存",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "音乐家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杰克逊",
+                    "icon": false
+                },
+                {
+                    "wordId": "普雷斯利",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛纳屈",
+                    "icon": false
+                },
+                {
+                    "wordId": "迪伦",
+                    "icon": false
+                },
+                {
+                    "wordId": "旺德",
+                    "icon": false
+                },
+                {
+                    "wordId": "亨德里克斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "休斯顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔尔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "厨具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "炒锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "炖锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "汤锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "滤锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "炸锅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "桥梁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "栏杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "桥墩",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱",
+                    "icon": false
+                },
+                {
+                    "wordId": "梁",
+                    "icon": false
+                },
+                {
+                    "wordId": "桁架",
+                    "icon": false
+                },
+                {
+                    "wordId": "桩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拖把",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "擦洗",
+                    "icon": false
+                },
+                {
+                    "wordId": "擦拭",
+                    "icon": false
+                },
+                {
+                    "wordId": "抛光",
+                    "icon": false
+                },
+                {
+                    "wordId": "挤压",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珊瑚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脑珊瑚",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹿角珊瑚",
+                    "icon": false
+                },
+                {
+                    "wordId": "麋角珊瑚",
+                    "icon": false
+                },
+                {
+                    "wordId": "海扇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "牛仔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赌徒",
+                    "icon": true
+                },
+                {
+                    "wordId": "马",
+                    "icon": true
+                },
+                {
+                    "wordId": "靴子",
+                    "icon": true
+                },
+                {
+                    "wordId": "套索",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "时尚之都",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伦敦",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴黎",
+                    "icon": false
+                },
+                {
+                    "wordId": "纽约",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "记忆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "追忆",
+                    "icon": false
+                },
+                {
+                    "wordId": "回忆",
+                    "icon": false
+                },
+                {
+                    "wordId": "失忆",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "栏杆",
+        "旺德",
+        "梁",
+        "皮划艇",
+        "划船",
+        "辛纳屈",
+        "靴子",
+        "鹿角珊瑚",
+        "厨具",
+        "击剑",
+        "活动",
+        "划独木舟",
+        "套索",
+        "滤锅",
+        "慢跑",
+        "拱",
+        "搬运",
+        "打包",
+        "储存",
+        "追忆",
+        "箱子",
+        "抛光",
+        "伦敦",
+        "跳绳",
+        "休斯顿",
+        "牛仔",
+        "炒锅",
+        "时尚之都",
+        "回忆",
+        "折叠",
+        "亨德里克斯",
+        "杰克逊",
+        "递送",
+        "炸锅",
+        "汤锅",
+        "桩",
+        "拆包",
+        "脑珊瑚",
+        "普雷斯利",
+        "迪伦",
+        "纽约",
+        "赌徒"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "拖把",
+                "炖锅",
+                "珊瑚",
+                "失忆"
+            ]
+        },
+        {
+            "cards": [
+                "记忆",
+                "舞蹈",
+                "马",
+                "海扇",
+                "蒸锅"
+            ]
+        },
+        {
+            "cards": [
+                "关闭",
+                "打开",
+                "桥梁",
+                "桁架",
+                "桥墩",
+                "擦洗"
+            ]
+        },
+        {
+            "cards": [
+                "巴黎",
+                "擦拭",
+                "挤压",
+                "骑行",
+                "麋角珊瑚",
+                "乔尔",
+                "音乐家"
+            ]
+        }
+    ]
+}

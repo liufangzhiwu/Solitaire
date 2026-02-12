@@ -1,0 +1,369 @@
+{
+    "levelId": 304,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "房间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阁楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "地窖",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "客厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "图书馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "书房",
+                    "icon": false
+                },
+                {
+                    "wordId": "工作室",
+                    "icon": false
+                },
+                {
+                    "wordId": "卧室",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "洞穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洞室",
+                    "icon": false
+                },
+                {
+                    "wordId": "落水洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖井",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿物",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝙蝠",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "方解石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谜团",
+                    "icon": false
+                },
+                {
+                    "wordId": "神秘",
+                    "icon": false
+                },
+                {
+                    "wordId": "悖论",
+                    "icon": false
+                },
+                {
+                    "wordId": "两难",
+                    "icon": false
+                },
+                {
+                    "wordId": "难题",
+                    "icon": false
+                },
+                {
+                    "wordId": "费解之谜",
+                    "icon": false
+                },
+                {
+                    "wordId": "挑逗谜题",
+                    "icon": false
+                },
+                {
+                    "wordId": "字谜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "邮差",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邮票",
+                    "icon": false
+                },
+                {
+                    "wordId": "信封",
+                    "icon": false
+                },
+                {
+                    "wordId": "包裹",
+                    "icon": false
+                },
+                {
+                    "wordId": "信件",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮箱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舞蹈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弗拉门戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨尔萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "探戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "华尔滋",
+                    "icon": false
+                },
+                {
+                    "wordId": "伦巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "梅伦格",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "迷宫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "环路",
+                    "icon": false
+                },
+                {
+                    "wordId": "死胡同",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "墙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "咒语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "附魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫术",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒",
+                    "icon": false
+                },
+                {
+                    "wordId": "魅惑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "传送门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大门",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂隙",
+                    "icon": false
+                },
+                {
+                    "wordId": "门",
+                    "icon": false
+                },
+                {
+                    "wordId": "入口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图示",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "王冠图示",
+                    "icon": true
+                },
+                {
+                    "wordId": "星星图示",
+                    "icon": true
+                },
+                {
+                    "wordId": "骷髅图示",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "回声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混响",
+                    "icon": false
+                },
+                {
+                    "wordId": "回响",
+                    "icon": false
+                },
+                {
+                    "wordId": "涟漪",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "巫术",
+        "地窖",
+        "伦巴",
+        "落水洞",
+        "泥岩",
+        "字谜",
+        "邮袋",
+        "岩洞",
+        "迷宫",
+        "顶楼",
+        "混响",
+        "包裹",
+        "入口",
+        "梅伦格",
+        "魅惑",
+        "难题",
+        "矿物",
+        "诅咒",
+        "裂隙",
+        "回响",
+        "华尔滋",
+        "书房",
+        "信封",
+        "信件",
+        "阁楼",
+        "环路",
+        "王冠图示",
+        "竖井",
+        "墙",
+        "房间",
+        "骷髅图示",
+        "咒语",
+        "神秘",
+        "邮箱",
+        "工作室",
+        "邮差",
+        "费解之谜",
+        "蝙蝠",
+        "方解石",
+        "萨尔萨",
+        "星星图示",
+        "图示"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "邮票",
+                "卧室",
+                "弗拉门戈",
+                "大门"
+            ]
+        },
+        {
+            "cards": [
+                "螺旋",
+                "谜团",
+                "回声",
+                "洞室",
+                "悖论"
+            ]
+        },
+        {
+            "cards": [
+                "洞穴",
+                "附魔",
+                "两难",
+                "挑逗谜题",
+                "死胡同",
+                "谜题"
+            ]
+        },
+        {
+            "cards": [
+                "探戈",
+                "涟漪",
+                "门",
+                "舞蹈",
+                "图书馆",
+                "传送门",
+                "客厅"
+            ]
+        }
+    ]
+}

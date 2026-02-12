@@ -1,0 +1,369 @@
+{
+    "levelId": 104,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "器官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "心脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "卵巢",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸腺",
+                    "icon": false
+                },
+                {
+                    "wordId": "肾脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "阑尾",
+                    "icon": false
+                },
+                {
+                    "wordId": "静脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "动脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "主动脉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "商场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书店",
+                    "icon": true
+                },
+                {
+                    "wordId": "药房",
+                    "icon": true
+                },
+                {
+                    "wordId": "安保",
+                    "icon": true
+                },
+                {
+                    "wordId": "保洁员",
+                    "icon": true
+                },
+                {
+                    "wordId": "信用卡",
+                    "icon": true
+                },
+                {
+                    "wordId": "现金",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "试衣间",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "画廊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绘画",
+                    "icon": false
+                },
+                {
+                    "wordId": "画布",
+                    "icon": false
+                },
+                {
+                    "wordId": "画框",
+                    "icon": false
+                },
+                {
+                    "wordId": "肖像画",
+                    "icon": false
+                },
+                {
+                    "wordId": "风格",
+                    "icon": false
+                },
+                {
+                    "wordId": "观察者",
+                    "icon": false
+                },
+                {
+                    "wordId": "观看者",
+                    "icon": false
+                },
+                {
+                    "wordId": "基座",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "字母",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "字母表",
+                    "icon": false
+                },
+                {
+                    "wordId": "单词",
+                    "icon": false
+                },
+                {
+                    "wordId": "句子",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼写",
+                    "icon": false
+                },
+                {
+                    "wordId": "字体",
+                    "icon": false
+                },
+                {
+                    "wordId": "母音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "指南",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "手册",
+                    "icon": false
+                },
+                {
+                    "wordId": "小册子",
+                    "icon": false
+                },
+                {
+                    "wordId": "导引",
+                    "icon": false
+                },
+                {
+                    "wordId": "图表",
+                    "icon": false
+                },
+                {
+                    "wordId": "示意图",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "部落",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金贝鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "纹身",
+                    "icon": true
+                },
+                {
+                    "wordId": "图腾",
+                    "icon": true
+                },
+                {
+                    "wordId": "护身符",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "导师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主题",
+                    "icon": false
+                },
+                {
+                    "wordId": "练习",
+                    "icon": false
+                },
+                {
+                    "wordId": "课程",
+                    "icon": false
+                },
+                {
+                    "wordId": "家庭作业",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "牧师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神职人员",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣经",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣人",
+                    "icon": false
+                },
+                {
+                    "wordId": "传道者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冲浪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲浪板",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "针",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缝纫",
+                    "icon": false
+                },
+                {
+                    "wordId": "缝线",
+                    "icon": false
+                },
+                {
+                    "wordId": "纺织品",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "冲浪",
+        "现金",
+        "海浪",
+        "地图",
+        "主动脉",
+        "句子",
+        "母音",
+        "主题",
+        "字母",
+        "观察者",
+        "图腾",
+        "金贝鼓",
+        "商场",
+        "练习",
+        "绘画",
+        "拼写",
+        "静脉",
+        "护身符",
+        "字母表",
+        "画布",
+        "肖像画",
+        "器官",
+        "观看者",
+        "手册",
+        "风格",
+        "牧师",
+        "家庭作业",
+        "肾脏",
+        "安保",
+        "画框",
+        "缝纫",
+        "圣人",
+        "图表",
+        "缝线",
+        "动脉",
+        "潮汐",
+        "纹身",
+        "字体",
+        "书店",
+        "示意图",
+        "导引",
+        "试衣间"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "保洁员",
+                "阑尾",
+                "部落",
+                "胸腺"
+            ]
+        },
+        {
+            "cards": [
+                "药房",
+                "课程",
+                "心脏",
+                "针",
+                "纸袋"
+            ]
+        },
+        {
+            "cards": [
+                "小册子",
+                "圣经",
+                "神职人员",
+                "冲浪板",
+                "信用卡",
+                "画廊"
+            ]
+        },
+        {
+            "cards": [
+                "单词",
+                "指南",
+                "基座",
+                "传道者",
+                "导师",
+                "卵巢",
+                "纺织品"
+            ]
+        }
+    ]
+}

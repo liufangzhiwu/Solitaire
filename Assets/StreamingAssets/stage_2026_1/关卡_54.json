@@ -1,0 +1,369 @@
+{
+    "levelId": 54,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "副词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大声地",
+                    "icon": false
+                },
+                {
+                    "wordId": "缓慢地",
+                    "icon": false
+                },
+                {
+                    "wordId": "容易地",
+                    "icon": false
+                },
+                {
+                    "wordId": "很少地",
+                    "icon": false
+                },
+                {
+                    "wordId": "迅速地",
+                    "icon": false
+                },
+                {
+                    "wordId": "快乐地",
+                    "icon": false
+                },
+                {
+                    "wordId": "无声地",
+                    "icon": false
+                },
+                {
+                    "wordId": "安静地",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "非洲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乌干达",
+                    "icon": false
+                },
+                {
+                    "wordId": "乍得",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿尔及利亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "安哥拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "赞比亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "加纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "利比亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "突尼斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "医学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "症状",
+                    "icon": false
+                },
+                {
+                    "wordId": "安慰剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "疗法",
+                    "icon": false
+                },
+                {
+                    "wordId": "疾病",
+                    "icon": false
+                },
+                {
+                    "wordId": "外科手术",
+                    "icon": false
+                },
+                {
+                    "wordId": "健康",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿司匹林",
+                    "icon": false
+                },
+                {
+                    "wordId": "剂量",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丘比特",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱",
+                    "icon": false
+                },
+                {
+                    "wordId": "浪漫",
+                    "icon": false
+                },
+                {
+                    "wordId": "激情",
+                    "icon": false
+                },
+                {
+                    "wordId": "箭袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "心动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海滩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浮标",
+                    "icon": true
+                },
+                {
+                    "wordId": "海鸥",
+                    "icon": true
+                },
+                {
+                    "wordId": "海湾",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙子",
+                    "icon": true
+                },
+                {
+                    "wordId": "波浪",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝壳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "鼓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邦戈鼓",
+                    "icon": false
+                },
+                {
+                    "wordId": "金贝鼓",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔布拉鼓",
+                    "icon": false
+                },
+                {
+                    "wordId": "Ashiko鼓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "儿童",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "婴儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "幼儿",
+                    "icon": false
+                },
+                {
+                    "wordId": "小孩",
+                    "icon": false
+                },
+                {
+                    "wordId": "婴幼儿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电池",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铅酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "碱性",
+                    "icon": false
+                },
+                {
+                    "wordId": "锂电",
+                    "icon": false
+                },
+                {
+                    "wordId": "容量",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轻笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "咯咯笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈哈大笑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "打包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "包裹",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷起",
+                    "icon": false
+                },
+                {
+                    "wordId": "折叠",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "赞比亚",
+        "沙子",
+        "加纳",
+        "邦戈鼓",
+        "无声地",
+        "容量",
+        "小孩",
+        "铅酸",
+        "浮标",
+        "很少地",
+        "阿尔及利亚",
+        "乌干达",
+        "儿童",
+        "剂量",
+        "迅速地",
+        "突尼斯",
+        "Ashiko鼓",
+        "副词",
+        "碱性",
+        "卷起",
+        "打包",
+        "浪漫",
+        "心动",
+        "快乐地",
+        "婴儿",
+        "包裹",
+        "海鸥",
+        "锂电",
+        "大声地",
+        "咯咯笑",
+        "爱",
+        "哈哈大笑",
+        "阿司匹林",
+        "疾病",
+        "乍得",
+        "安哥拉",
+        "利比亚",
+        "鼓",
+        "幼儿",
+        "医学",
+        "健康",
+        "容易地"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "外科手术",
+                "金贝鼓",
+                "海湾",
+                "波浪"
+            ]
+        },
+        {
+            "cards": [
+                "笑",
+                "箭",
+                "非洲",
+                "激情",
+                "折叠"
+            ]
+        },
+        {
+            "cards": [
+                "丘比特",
+                "安慰剂",
+                "贝壳",
+                "疗法",
+                "海滩",
+                "安静地"
+            ]
+        },
+        {
+            "cards": [
+                "箭袋",
+                "塔布拉鼓",
+                "症状",
+                "婴幼儿",
+                "缓慢地",
+                "电池",
+                "轻笑"
+            ]
+        }
+    ]
+}

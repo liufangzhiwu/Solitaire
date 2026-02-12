@@ -1,0 +1,369 @@
+{
+    "levelId": 14,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "猫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斯芬克斯猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "孟加拉猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "短尾猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "波斯猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "异国短毛猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "布偶猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "暹罗猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧西猫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "帽子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法国军帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝雷帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸭舌帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "礼帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "遮阳帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "头巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨西哥宽边帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴拿马帽",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "首都",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雅典",
+                    "icon": false
+                },
+                {
+                    "wordId": "北京",
+                    "icon": false
+                },
+                {
+                    "wordId": "马德里",
+                    "icon": false
+                },
+                {
+                    "wordId": "华盛顿",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫斯科",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗马",
+                    "icon": false
+                },
+                {
+                    "wordId": "曼谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "开罗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化妆品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "散粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉扑",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉底液",
+                    "icon": false
+                },
+                {
+                    "wordId": "精华液",
+                    "icon": false
+                },
+                {
+                    "wordId": "眉笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "腮红",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "格斗术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法式踢打术",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔道",
+                    "icon": false
+                },
+                {
+                    "wordId": "空手道",
+                    "icon": false
+                },
+                {
+                    "wordId": "功夫",
+                    "icon": false
+                },
+                {
+                    "wordId": "相扑",
+                    "icon": false
+                },
+                {
+                    "wordId": "马来武术",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "吉他",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "和弦",
+                    "icon": false
+                },
+                {
+                    "wordId": "拾音器",
+                    "icon": false
+                },
+                {
+                    "wordId": "琴弦",
+                    "icon": false
+                },
+                {
+                    "wordId": "电吉他",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "狩猎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "陷阱",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎物",
+                    "icon": false
+                },
+                {
+                    "wordId": "诱饵",
+                    "icon": false
+                },
+                {
+                    "wordId": "步枪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "竞赛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "失败者",
+                    "icon": false
+                },
+                {
+                    "wordId": "胜利者",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖项",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖牌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "芭蕾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "足尖",
+                    "icon": false
+                },
+                {
+                    "wordId": "芭蕾舞裙",
+                    "icon": false
+                },
+                {
+                    "wordId": "把杆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "团结",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "联盟",
+                    "icon": false
+                },
+                {
+                    "wordId": "同盟",
+                    "icon": false
+                },
+                {
+                    "wordId": "联合会",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "孟加拉猫",
+        "雅典",
+        "遮阳帽",
+        "欧西猫",
+        "礼帽",
+        "功夫",
+        "奖项",
+        "马来武术",
+        "失败者",
+        "猫",
+        "帽子",
+        "曼谷",
+        "空手道",
+        "异国短毛猫",
+        "散粉",
+        "眉笔",
+        "足尖",
+        "相扑",
+        "胜利者",
+        "粉底液",
+        "首都",
+        "精华液",
+        "同盟",
+        "斯芬克斯猫",
+        "柔道",
+        "华盛顿",
+        "芭蕾",
+        "布偶猫",
+        "粉扑",
+        "莫斯科",
+        "暹罗猫",
+        "琴弦",
+        "罗马",
+        "贝雷帽",
+        "吉他",
+        "北京",
+        "法国军帽",
+        "诱饵",
+        "鸭舌帽",
+        "马德里",
+        "和弦",
+        "猎物"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "拾音器",
+                "短尾猫",
+                "电吉他",
+                "联合会"
+            ]
+        },
+        {
+            "cards": [
+                "巴拿马帽",
+                "开罗",
+                "芭蕾舞裙",
+                "狩猎",
+                "头巾"
+            ]
+        },
+        {
+            "cards": [
+                "化妆品",
+                "奖牌",
+                "步枪",
+                "波斯猫",
+                "腮红",
+                "竞赛"
+            ]
+        },
+        {
+            "cards": [
+                "墨西哥宽边帽",
+                "陷阱",
+                "把杆",
+                "联盟",
+                "团结",
+                "法式踢打术",
+                "格斗术"
+            ]
+        }
+    ]
+}

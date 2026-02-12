@@ -1,0 +1,453 @@
+{
+    "levelId": 116,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 160,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "牧场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛群",
+                    "icon": false
+                },
+                {
+                    "wordId": "放牧",
+                    "icon": false
+                },
+                {
+                    "wordId": "土地",
+                    "icon": false
+                },
+                {
+                    "wordId": "干草",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛仔",
+                    "icon": false
+                },
+                {
+                    "wordId": "马",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛仔竞技表演",
+                    "icon": false
+                },
+                {
+                    "wordId": "农场",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手工艺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毡化",
+                    "icon": false
+                },
+                {
+                    "wordId": "陶艺",
+                    "icon": false
+                },
+                {
+                    "wordId": "马赛克",
+                    "icon": false
+                },
+                {
+                    "wordId": "钩针编织",
+                    "icon": false
+                },
+                {
+                    "wordId": "衍纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "珠饰",
+                    "icon": false
+                },
+                {
+                    "wordId": "梭织",
+                    "icon": false
+                },
+                {
+                    "wordId": "编织",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珍贵食材",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鱼子酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "松露",
+                    "icon": false
+                },
+                {
+                    "wordId": "法式蜗牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲍鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "河豚",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥塞特拉鱼子酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "牡蛎",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙虾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "桌子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咖啡桌",
+                    "icon": false
+                },
+                {
+                    "wordId": "餐桌",
+                    "icon": false
+                },
+                {
+                    "wordId": "梳妆台",
+                    "icon": false
+                },
+                {
+                    "wordId": "床头柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "野餐桌",
+                    "icon": false
+                },
+                {
+                    "wordId": "扑克桌",
+                    "icon": false
+                },
+                {
+                    "wordId": "控制台",
+                    "icon": false
+                },
+                {
+                    "wordId": "台球桌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "创意人员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "设计师",
+                    "icon": false
+                },
+                {
+                    "wordId": "艺术家",
+                    "icon": false
+                },
+                {
+                    "wordId": "作曲家",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕塑家",
+                    "icon": false
+                },
+                {
+                    "wordId": "画家",
+                    "icon": false
+                },
+                {
+                    "wordId": "动画师",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "染发剂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金色",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑色",
+                    "icon": false
+                },
+                {
+                    "wordId": "余甘子",
+                    "icon": false
+                },
+                {
+                    "wordId": "海娜花",
+                    "icon": false
+                },
+                {
+                    "wordId": "赤褐色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幸运物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马蹄铁",
+                    "icon": true
+                },
+                {
+                    "wordId": "三叶草",
+                    "icon": true
+                },
+                {
+                    "wordId": "大象",
+                    "icon": true
+                },
+                {
+                    "wordId": "瓢虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "招财猫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "燃烧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "炽烈的",
+                    "icon": false
+                },
+                {
+                    "wordId": "燃烧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁的",
+                    "icon": false
+                },
+                {
+                    "wordId": "着火的",
+                    "icon": false
+                },
+                {
+                    "wordId": "火热的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烤炉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "炉灶",
+                    "icon": false
+                },
+                {
+                    "wordId": "窑",
+                    "icon": false
+                },
+                {
+                    "wordId": "坦杜里烤炉",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔炉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "DNA",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胞嘧啶",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟嘌呤",
+                    "icon": false
+                },
+                {
+                    "wordId": "腺嘌呤",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸腺嘧啶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "球类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "网球",
+                    "icon": true
+                },
+                {
+                    "wordId": "篮球",
+                    "icon": true
+                },
+                {
+                    "wordId": "足球",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "猫头鹰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "利爪",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                },
+                {
+                    "wordId": "喙",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大象",
+        "牧场",
+        "牡蛎",
+        "梭织",
+        "创意人员",
+        "牛仔",
+        "黑色",
+        "龙虾",
+        "胸腺嘧啶",
+        "控制台",
+        "幸运物",
+        "瓢虫",
+        "海娜花",
+        "喙",
+        "台球桌",
+        "艺术家",
+        "奥塞特拉鱼子酱",
+        "鲍鱼",
+        "篮球",
+        "咖啡桌",
+        "雕塑家",
+        "马",
+        "网球",
+        "毡化",
+        "土地",
+        "松露",
+        "坦杜里烤炉",
+        "炉灶",
+        "猫头鹰",
+        "熔炉",
+        "衍纸",
+        "牛群",
+        "燃烧的",
+        "钩针编织",
+        "放牧",
+        "法式蜗牛",
+        "马蹄铁",
+        "三叶草",
+        "珍贵食材",
+        "窑",
+        "野餐桌",
+        "胞嘧啶",
+        "干草",
+        "炽烈的",
+        "闪烁的",
+        "设计师",
+        "足球",
+        "梳妆台",
+        "鸟嘌呤",
+        "染发剂",
+        "火热的",
+        "翅膀",
+        "招财猫",
+        "余甘子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "铜色",
+                "编织",
+                "牛仔竞技表演",
+                "球类",
+                "手工艺"
+            ]
+        },
+        {
+            "cards": [
+                "餐桌",
+                "烤炉",
+                "鱼子酱",
+                "DNA",
+                "利爪",
+                "马赛克"
+            ]
+        },
+        {
+            "cards": [
+                "床头柜",
+                "扑克桌",
+                "动画师",
+                "燃烧",
+                "着火的",
+                "农场",
+                "金色"
+            ]
+        },
+        {
+            "cards": [
+                "画家",
+                "桌子",
+                "作曲家",
+                "赤褐色",
+                "腺嘌呤",
+                "陶艺",
+                "珠饰",
+                "河豚"
+            ]
+        }
+    ]
+}

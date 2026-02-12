@@ -1,0 +1,217 @@
+{
+    "levelId": 22,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "老年人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白发",
+                    "icon": false
+                },
+                {
+                    "wordId": "拐杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "皱纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "老年斑",
+                    "icon": false
+                },
+                {
+                    "wordId": "老花镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "假牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "养老院",
+                    "icon": false
+                },
+                {
+                    "wordId": "保健品",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "马戏团",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杂技演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "高空秋千",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂耍演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": false
+                },
+                {
+                    "wordId": "戏服",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔术师",
+                    "icon": false
+                },
+                {
+                    "wordId": "火圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "彩球",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档操作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "重命名",
+                    "icon": false
+                },
+                {
+                    "wordId": "打开",
+                    "icon": false
+                },
+                {
+                    "wordId": "删除",
+                    "icon": false
+                },
+                {
+                    "wordId": "复制",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "木工",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锤子",
+                    "icon": false
+                },
+                {
+                    "wordId": "直角尺",
+                    "icon": false
+                },
+                {
+                    "wordId": "量规",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺丝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "间谍装备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伪装",
+                    "icon": false
+                },
+                {
+                    "wordId": "窃听器",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码本",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "热狗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "软面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "香肠",
+                    "icon": true
+                },
+                {
+                    "wordId": "番茄酱",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "老年斑",
+        "重命名",
+        "伪装",
+        "香肠",
+        "直角尺",
+        "魔术师",
+        "杂技演员",
+        "螺丝",
+        "老花镜",
+        "密码本",
+        "锤子",
+        "番茄酱",
+        "养老院",
+        "量规",
+        "拐杖",
+        "木工",
+        "假牙",
+        "软面包",
+        "间谍装备",
+        "打开",
+        "复制",
+        "马戏团",
+        "戏服",
+        "保健品"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "小丑",
+                "档操作",
+                "高空秋千"
+            ]
+        },
+        {
+            "cards": [
+                "窃听器",
+                "火圈",
+                "皱纹",
+                "杂耍演员"
+            ]
+        },
+        {
+            "cards": [
+                "白发",
+                "热狗",
+                "彩球",
+                "删除",
+                "老年人"
+            ]
+        }
+    ]
+}

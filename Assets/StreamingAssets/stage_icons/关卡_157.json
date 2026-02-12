@@ -1,0 +1,217 @@
+{
+    "levelId": 157,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "灯具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "壁灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "射灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "台灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": true
+                },
+                {
+                    "wordId": "三脚灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "落地灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "枝形吊灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "书桌灯",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "山峰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "顶端",
+                    "icon": false
+                },
+                {
+                    "wordId": "高度",
+                    "icon": false
+                },
+                {
+                    "wordId": "山丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿尔卑斯山脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩石",
+                    "icon": false
+                },
+                {
+                    "wordId": "攀登",
+                    "icon": false
+                },
+                {
+                    "wordId": "边缘",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸽子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "和平",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟类",
+                    "icon": false
+                },
+                {
+                    "wordId": "白色",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄枝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "回声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "声音",
+                    "icon": false
+                },
+                {
+                    "wordId": "重复",
+                    "icon": false
+                },
+                {
+                    "wordId": "人声",
+                    "icon": false
+                },
+                {
+                    "wordId": "渐弱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "高跟鞋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "穆勒鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "细高跟鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "宫廷鞋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "黄色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柠檬",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛋黄",
+                    "icon": true
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "和平",
+        "山峰",
+        "重复",
+        "高度",
+        "攀登",
+        "声音",
+        "枝形吊灯",
+        "射灯",
+        "蛋黄",
+        "三脚灯",
+        "高跟鞋",
+        "鸟类",
+        "灯笼",
+        "太阳",
+        "橄榄枝",
+        "阿尔卑斯山脉",
+        "壁灯",
+        "灯具",
+        "雪",
+        "落地灯",
+        "边缘",
+        "书桌灯",
+        "白色",
+        "细高跟鞋"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "顶端",
+                "穆勒鞋",
+                "宫廷鞋"
+            ]
+        },
+        {
+            "cards": [
+                "台灯",
+                "黄色",
+                "渐弱",
+                "人声"
+            ]
+        },
+        {
+            "cards": [
+                "岩石",
+                "鸽子",
+                "回声",
+                "柠檬",
+                "山丘"
+            ]
+        }
+    ]
+}

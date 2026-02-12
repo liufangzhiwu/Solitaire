@@ -1,0 +1,369 @@
+{
+    "levelId": 45,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "移动方式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骑行",
+                    "icon": false
+                },
+                {
+                    "wordId": "徒步",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行",
+                    "icon": false
+                },
+                {
+                    "wordId": "游泳",
+                    "icon": false
+                },
+                {
+                    "wordId": "奔跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "行走",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "航行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纹章学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纹章描述",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽章",
+                    "icon": false
+                },
+                {
+                    "wordId": "金圆饰",
+                    "icon": false
+                },
+                {
+                    "wordId": "冠饰",
+                    "icon": false
+                },
+                {
+                    "wordId": "小环",
+                    "icon": false
+                },
+                {
+                    "wordId": "边界",
+                    "icon": false
+                },
+                {
+                    "wordId": "家族标记",
+                    "icon": false
+                },
+                {
+                    "wordId": "人字形",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时尚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "模特",
+                    "icon": false
+                },
+                {
+                    "wordId": "服装",
+                    "icon": false
+                },
+                {
+                    "wordId": "时髦",
+                    "icon": false
+                },
+                {
+                    "wordId": "天桥",
+                    "icon": false
+                },
+                {
+                    "wordId": "T台",
+                    "icon": false
+                },
+                {
+                    "wordId": "魅力",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮流",
+                    "icon": false
+                },
+                {
+                    "wordId": "风格",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手势",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "挥手",
+                    "icon": false
+                },
+                {
+                    "wordId": "比心",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘘声",
+                    "icon": false
+                },
+                {
+                    "wordId": "敬礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶额",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓掌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "朋友",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伙伴",
+                    "icon": false
+                },
+                {
+                    "wordId": "兄弟",
+                    "icon": false
+                },
+                {
+                    "wordId": "友人",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵魂伴侣",
+                    "icon": false
+                },
+                {
+                    "wordId": "闺蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "老友",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肉类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "香肠",
+                    "icon": true
+                },
+                {
+                    "wordId": "培根",
+                    "icon": true
+                },
+                {
+                    "wordId": "西班牙辣香肠",
+                    "icon": true
+                },
+                {
+                    "wordId": "肉排",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地铁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "列车",
+                    "icon": false
+                },
+                {
+                    "wordId": "车站",
+                    "icon": false
+                },
+                {
+                    "wordId": "隧道",
+                    "icon": false
+                },
+                {
+                    "wordId": "月台",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小说",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "叙述者",
+                    "icon": false
+                },
+                {
+                    "wordId": "次要情节",
+                    "icon": false
+                },
+                {
+                    "wordId": "高潮",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲突",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "演说家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "感召力",
+                    "icon": false
+                },
+                {
+                    "wordId": "修辞",
+                    "icon": false
+                },
+                {
+                    "wordId": "演讲术",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水壶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盖子",
+                    "icon": true
+                },
+                {
+                    "wordId": "壶嘴",
+                    "icon": true
+                },
+                {
+                    "wordId": "手柄",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "比心",
+        "天桥",
+        "移动方式",
+        "高潮",
+        "灵魂伴侣",
+        "模特",
+        "纹章学",
+        "潮流",
+        "友人",
+        "骑行",
+        "冠饰",
+        "纹章描述",
+        "朋友",
+        "金圆饰",
+        "奔跑",
+        "徒步",
+        "游泳",
+        "人字形",
+        "盖子",
+        "车站",
+        "修辞",
+        "挥手",
+        "小环",
+        "嘘声",
+        "小说",
+        "手柄",
+        "风格",
+        "家族标记",
+        "边界",
+        "香肠",
+        "肉排",
+        "冲突",
+        "魅力",
+        "感召力",
+        "西班牙辣香肠",
+        "时髦",
+        "航行",
+        "老友",
+        "培根",
+        "演说家",
+        "扶额",
+        "鼓掌"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "手势",
+                "次要情节",
+                "时尚",
+                "飞行"
+            ]
+        },
+        {
+            "cards": [
+                "T台",
+                "徽章",
+                "慢跑",
+                "肉类",
+                "壶嘴"
+            ]
+        },
+        {
+            "cards": [
+                "兄弟",
+                "地铁",
+                "敬礼",
+                "演讲术",
+                "隧道",
+                "闺蜜"
+            ]
+        },
+        {
+            "cards": [
+                "列车",
+                "水壶",
+                "行走",
+                "伙伴",
+                "叙述者",
+                "服装",
+                "月台"
+            ]
+        }
+    ]
+}

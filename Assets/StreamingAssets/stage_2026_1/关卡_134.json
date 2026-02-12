@@ -1,0 +1,369 @@
+{
+    "levelId": 134,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "喜悦的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快乐的",
+                    "icon": false
+                },
+                {
+                    "wordId": "微笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "大笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "愉快的",
+                    "icon": false
+                },
+                {
+                    "wordId": "高兴的",
+                    "icon": false
+                },
+                {
+                    "wordId": "情绪",
+                    "icon": false
+                },
+                {
+                    "wordId": "欢呼",
+                    "icon": false
+                },
+                {
+                    "wordId": "极乐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "喷气机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "飞机",
+                    "icon": false
+                },
+                {
+                    "wordId": "空气",
+                    "icon": false
+                },
+                {
+                    "wordId": "快速",
+                    "icon": false
+                },
+                {
+                    "wordId": "燃料",
+                    "icon": false
+                },
+                {
+                    "wordId": "天空",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "推力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面罩",
+                    "icon": true
+                },
+                {
+                    "wordId": "外科口罩",
+                    "icon": true
+                },
+                {
+                    "wordId": "呼吸器",
+                    "icon": true
+                },
+                {
+                    "wordId": "狂欢节面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑雪面罩",
+                    "icon": true
+                },
+                {
+                    "wordId": "防护面罩",
+                    "icon": true
+                },
+                {
+                    "wordId": "睡眠眼罩",
+                    "icon": true
+                },
+                {
+                    "wordId": "美容面膜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "滋补品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "饮料",
+                    "icon": false
+                },
+                {
+                    "wordId": "草药",
+                    "icon": false
+                },
+                {
+                    "wordId": "水",
+                    "icon": false
+                },
+                {
+                    "wordId": "青柠",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏打水",
+                    "icon": false
+                },
+                {
+                    "wordId": "软饮料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "魔杖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咒语",
+                    "icon": false
+                },
+                {
+                    "wordId": "魅惑",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法",
+                    "icon": false
+                },
+                {
+                    "wordId": "女巫",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈利波特",
+                    "icon": false
+                },
+                {
+                    "wordId": "棍子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "莲花",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "池塘",
+                    "icon": false
+                },
+                {
+                    "wordId": "神圣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "瑜伽",
+                    "icon": false
+                },
+                {
+                    "wordId": "佛陀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盆景",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树",
+                    "icon": false
+                },
+                {
+                    "wordId": "盆",
+                    "icon": false
+                },
+                {
+                    "wordId": "微型的",
+                    "icon": false
+                },
+                {
+                    "wordId": "修剪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "礁石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珊瑚",
+                    "icon": true
+                },
+                {
+                    "wordId": "潜水者",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝壳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "辣椒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛辣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "热的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冲突",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氏族",
+                    "icon": false
+                },
+                {
+                    "wordId": "对手",
+                    "icon": false
+                },
+                {
+                    "wordId": "战斗",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "快乐的",
+        "空气",
+        "胡椒",
+        "草药",
+        "热的",
+        "面罩",
+        "呼吸器",
+        "飞行",
+        "佛陀",
+        "战斗",
+        "软饮料",
+        "极乐",
+        "美容面膜",
+        "对手",
+        "滑雪面罩",
+        "青柠",
+        "面具",
+        "愉快的",
+        "滋补品",
+        "盆",
+        "棍子",
+        "贝壳",
+        "氏族",
+        "神圣的",
+        "哈利波特",
+        "瑜伽",
+        "潜水者",
+        "尾迹",
+        "辣椒",
+        "水",
+        "飞机",
+        "莲花",
+        "睡眠眼罩",
+        "鱼",
+        "狂欢节面具",
+        "情绪",
+        "微型的",
+        "喜悦的",
+        "女巫",
+        "快速",
+        "欢呼",
+        "魔法"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "辛辣的",
+                "树",
+                "喷气机",
+                "礁石"
+            ]
+        },
+        {
+            "cards": [
+                "微笑",
+                "盆景",
+                "苏打水",
+                "高兴的",
+                "池塘"
+            ]
+        },
+        {
+            "cards": [
+                "修剪",
+                "魔杖",
+                "推力",
+                "饮料",
+                "天空",
+                "冲突"
+            ]
+        },
+        {
+            "cards": [
+                "魅惑",
+                "大笑",
+                "防护面罩",
+                "燃料",
+                "外科口罩",
+                "咒语",
+                "珊瑚"
+            ]
+        }
+    ]
+}

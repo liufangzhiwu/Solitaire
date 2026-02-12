@@ -1,0 +1,369 @@
+{
+    "levelId": 276,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "游戏室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "积木",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩偶",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "地垫",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "帐篷",
+                    "icon": false
+                },
+                {
+                    "wordId": "堡垒",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛绒玩具",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "过往的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "过时的",
+                    "icon": false
+                },
+                {
+                    "wordId": "古代的",
+                    "icon": false
+                },
+                {
+                    "wordId": "古老的",
+                    "icon": false
+                },
+                {
+                    "wordId": "古董的",
+                    "icon": false
+                },
+                {
+                    "wordId": "旧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "陈旧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "已失效的",
+                    "icon": false
+                },
+                {
+                    "wordId": "复古的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幼儿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "婴儿车",
+                    "icon": false
+                },
+                {
+                    "wordId": "幼儿便盆",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "尿布",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗澡玩具",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽车座椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "围兜",
+                    "icon": false
+                },
+                {
+                    "wordId": "三轮车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爱尔兰象征",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三叶草",
+                    "icon": true
+                },
+                {
+                    "wordId": "小矮妖",
+                    "icon": true
+                },
+                {
+                    "wordId": "竖琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "爱尔兰国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "克拉达戒指",
+                    "icon": true
+                },
+                {
+                    "wordId": "凯尔特结",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "混合物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "混凝土",
+                    "icon": false
+                },
+                {
+                    "wordId": "合金",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸡尾酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "土壤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日程",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "议程",
+                    "icon": false
+                },
+                {
+                    "wordId": "日历",
+                    "icon": false
+                },
+                {
+                    "wordId": "事件",
+                    "icon": false
+                },
+                {
+                    "wordId": "程式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "箭头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "向上",
+                    "icon": false
+                },
+                {
+                    "wordId": "向右",
+                    "icon": false
+                },
+                {
+                    "wordId": "向左",
+                    "icon": false
+                },
+                {
+                    "wordId": "向下",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "未驯服的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "野生",
+                    "icon": false
+                },
+                {
+                    "wordId": "野性",
+                    "icon": false
+                },
+                {
+                    "wordId": "野蛮",
+                    "icon": false
+                },
+                {
+                    "wordId": "凶猛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "真社会性动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蚂蚁",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜜蜂",
+                    "icon": true
+                },
+                {
+                    "wordId": "白蚁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "恐惧症",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恐慌",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐惧",
+                    "icon": false
+                },
+                {
+                    "wordId": "厌恶",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "向右",
+        "议程",
+        "克拉达戒指",
+        "沙拉",
+        "古董的",
+        "婴儿车",
+        "汤",
+        "未驯服的",
+        "拼图",
+        "向下",
+        "过往的",
+        "已失效的",
+        "真社会性动物",
+        "小矮妖",
+        "爱尔兰国旗",
+        "事件",
+        "玩偶",
+        "爱尔兰象征",
+        "洗澡玩具",
+        "三叶草",
+        "三轮车",
+        "蚂蚁",
+        "汽车座椅",
+        "土壤",
+        "鸡尾酒",
+        "过时的",
+        "古老的",
+        "摇铃",
+        "蜜蜂",
+        "恐惧",
+        "积木",
+        "程式",
+        "箭头",
+        "粉笔",
+        "混凝土",
+        "复古的",
+        "合金",
+        "毛绒玩具",
+        "白蚁",
+        "古代的",
+        "野蛮",
+        "竖琴"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "向上",
+                "厌恶",
+                "地垫",
+                "游戏室"
+            ]
+        },
+        {
+            "cards": [
+                "幼儿",
+                "野生",
+                "野性",
+                "幼儿便盆",
+                "旧的"
+            ]
+        },
+        {
+            "cards": [
+                "凯尔特结",
+                "向左",
+                "日程",
+                "日历",
+                "堡垒",
+                "恐惧症"
+            ]
+        },
+        {
+            "cards": [
+                "凶猛",
+                "帐篷",
+                "恐慌",
+                "陈旧的",
+                "混合物",
+                "围兜",
+                "尿布"
+            ]
+        }
+    ]
+}

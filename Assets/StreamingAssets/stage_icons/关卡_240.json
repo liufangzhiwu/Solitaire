@@ -1,0 +1,369 @@
+{
+    "levelId": 240,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "港口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "游艇港",
+                    "icon": false
+                },
+                {
+                    "wordId": "船锚",
+                    "icon": false
+                },
+                {
+                    "wordId": "码头",
+                    "icon": false
+                },
+                {
+                    "wordId": "驳岸",
+                    "icon": false
+                },
+                {
+                    "wordId": "海港",
+                    "icon": false
+                },
+                {
+                    "wordId": "泊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "码头区",
+                    "icon": false
+                },
+                {
+                    "wordId": "船厂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "板",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑板",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑雪板",
+                    "icon": true
+                },
+                {
+                    "wordId": "冲浪板",
+                    "icon": true
+                },
+                {
+                    "wordId": "棋盘",
+                    "icon": true
+                },
+                {
+                    "wordId": "木板",
+                    "icon": true
+                },
+                {
+                    "wordId": "游戏板",
+                    "icon": true
+                },
+                {
+                    "wordId": "切菜板",
+                    "icon": true
+                },
+                {
+                    "wordId": "跳板",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "咀嚼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大声嚼",
+                    "icon": false
+                },
+                {
+                    "wordId": "用力嚼",
+                    "icon": false
+                },
+                {
+                    "wordId": "咬",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘎吱嚼",
+                    "icon": false
+                },
+                {
+                    "wordId": "小口咬",
+                    "icon": false
+                },
+                {
+                    "wordId": "啃",
+                    "icon": false
+                },
+                {
+                    "wordId": "反刍",
+                    "icon": false
+                },
+                {
+                    "wordId": "磨碎",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "学习",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教科书",
+                    "icon": true
+                },
+                {
+                    "wordId": "课桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "学士帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "文具",
+                    "icon": true
+                },
+                {
+                    "wordId": "书包",
+                    "icon": true
+                },
+                {
+                    "wordId": "量角器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "笼子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "网",
+                    "icon": false
+                },
+                {
+                    "wordId": "栏杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物园",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟舍",
+                    "icon": false
+                },
+                {
+                    "wordId": "笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "格栅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "污渍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑点",
+                    "icon": false
+                },
+                {
+                    "wordId": "污迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "污痕",
+                    "icon": false
+                },
+                {
+                    "wordId": "大片污渍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鬼祟的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狡猾",
+                    "icon": false
+                },
+                {
+                    "wordId": "狡诈",
+                    "icon": false
+                },
+                {
+                    "wordId": "诡计多端",
+                    "icon": false
+                },
+                {
+                    "wordId": "机灵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "塞浦路斯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "岛屿",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼科西亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "利马索尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "球拍运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "壁球",
+                    "icon": false
+                },
+                {
+                    "wordId": "网球",
+                    "icon": false
+                },
+                {
+                    "wordId": "板式网球",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墨水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打印机",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "纹身",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "海港",
+        "小口咬",
+        "鬼祟的",
+        "码头",
+        "驳岸",
+        "咬",
+        "港口",
+        "课桌",
+        "学士帽",
+        "污痕",
+        "游艇港",
+        "大片污渍",
+        "壁球",
+        "污渍",
+        "文具",
+        "切菜板",
+        "嘎吱嚼",
+        "狡猾",
+        "书包",
+        "木板",
+        "诡计多端",
+        "网",
+        "跳板",
+        "栏杆",
+        "笼子",
+        "网球",
+        "船厂",
+        "狡诈",
+        "啃",
+        "冲浪板",
+        "用力嚼",
+        "泊位",
+        "格栅",
+        "斑点",
+        "污迹",
+        "纹身",
+        "利马索尔",
+        "咀嚼",
+        "棋盘",
+        "磨碎",
+        "量角器",
+        "反刍"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "码头区",
+                "墨水",
+                "游戏板",
+                "笼"
+            ]
+        },
+        {
+            "cards": [
+                "板",
+                "滑雪板",
+                "打印机",
+                "尼科西亚",
+                "船锚"
+            ]
+        },
+        {
+            "cards": [
+                "大声嚼",
+                "教科书",
+                "机灵",
+                "学习",
+                "岛屿",
+                "鸟舍"
+            ]
+        },
+        {
+            "cards": [
+                "滑板",
+                "塞浦路斯",
+                "动物园",
+                "球拍运动",
+                "羽毛笔",
+                "板式网球",
+                "希腊的"
+            ]
+        }
+    ]
+}

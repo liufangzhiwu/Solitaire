@@ -1,0 +1,453 @@
+{
+    "levelId": 230,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 160,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "偷窃",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骗局",
+                    "icon": false
+                },
+                {
+                    "wordId": "商店行窃",
+                    "icon": false
+                },
+                {
+                    "wordId": "赃物",
+                    "icon": false
+                },
+                {
+                    "wordId": "抢夺",
+                    "icon": false
+                },
+                {
+                    "wordId": "小偷小摸",
+                    "icon": false
+                },
+                {
+                    "wordId": "扒窃",
+                    "icon": false
+                },
+                {
+                    "wordId": "夺取",
+                    "icon": false
+                },
+                {
+                    "wordId": "逮捕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "出口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "路线",
+                    "icon": false
+                },
+                {
+                    "wordId": "关税",
+                    "icon": false
+                },
+                {
+                    "wordId": "许可证",
+                    "icon": false
+                },
+                {
+                    "wordId": "许可",
+                    "icon": false
+                },
+                {
+                    "wordId": "表格",
+                    "icon": false
+                },
+                {
+                    "wordId": "税款",
+                    "icon": false
+                },
+                {
+                    "wordId": "海外",
+                    "icon": false
+                },
+                {
+                    "wordId": "装货",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拉链",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "链齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉头",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉紧",
+                    "icon": false
+                },
+                {
+                    "wordId": "分开",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉扯",
+                    "icon": false
+                },
+                {
+                    "wordId": "猛拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "挤",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡住",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气泡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽水",
+                    "icon": false
+                },
+                {
+                    "wordId": "柠檬水",
+                    "icon": false
+                },
+                {
+                    "wordId": "口香糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "泡沫",
+                    "icon": false
+                },
+                {
+                    "wordId": "热水浴缸",
+                    "icon": false
+                },
+                {
+                    "wordId": "凝胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "慕斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "按摩浴缸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电线",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铜线",
+                    "icon": false
+                },
+                {
+                    "wordId": "绝缘线",
+                    "icon": false
+                },
+                {
+                    "wordId": "裸线",
+                    "icon": false
+                },
+                {
+                    "wordId": "绞合线",
+                    "icon": false
+                },
+                {
+                    "wordId": "编织线",
+                    "icon": false
+                },
+                {
+                    "wordId": "光纤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "屋顶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铺瓦",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟囱",
+                    "icon": false
+                },
+                {
+                    "wordId": "通风口",
+                    "icon": false
+                },
+                {
+                    "wordId": "空调机组",
+                    "icon": false
+                },
+                {
+                    "wordId": "屋面板瓦",
+                    "icon": false
+                },
+                {
+                    "wordId": "沥青",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工具箱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螺丝刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "手锯",
+                    "icon": true
+                },
+                {
+                    "wordId": "防护手套",
+                    "icon": true
+                },
+                {
+                    "wordId": "护目镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "钳子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "茶具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "茶壶",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶匙",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓷器",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶杯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "症状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肿胀",
+                    "icon": false
+                },
+                {
+                    "wordId": "发红",
+                    "icon": false
+                },
+                {
+                    "wordId": "发冷",
+                    "icon": false
+                },
+                {
+                    "wordId": "发烧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "会议",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "听众",
+                    "icon": false
+                },
+                {
+                    "wordId": "演讲者",
+                    "icon": false
+                },
+                {
+                    "wordId": "议程",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间安排",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "家务",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浇水",
+                    "icon": true
+                },
+                {
+                    "wordId": "洗涤",
+                    "icon": true
+                },
+                {
+                    "wordId": "熨烫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "谣言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "听说",
+                    "icon": false
+                },
+                {
+                    "wordId": "被告知",
+                    "icon": false
+                },
+                {
+                    "wordId": "流言蜚语",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "谣言",
+        "茶杯",
+        "议程",
+        "泡沫",
+        "烟囱",
+        "口香糖",
+        "铜线",
+        "装货",
+        "沥青",
+        "钳子",
+        "编织线",
+        "光纤",
+        "瓷器",
+        "听说",
+        "发冷",
+        "许可",
+        "海外",
+        "听众",
+        "绝缘线",
+        "凝胶",
+        "肿胀",
+        "绞合线",
+        "浇水",
+        "熨烫",
+        "许可证",
+        "家务",
+        "茶匙",
+        "小偷小摸",
+        "热水浴缸",
+        "夺取",
+        "出口",
+        "茶盘",
+        "电线",
+        "发烧",
+        "商店行窃",
+        "流言蜚语",
+        "偷窃",
+        "抢夺",
+        "赃物",
+        "猛拉",
+        "税款",
+        "茶壶",
+        "拉紧",
+        "屋面板瓦",
+        "螺丝刀",
+        "护目镜",
+        "铺瓦",
+        "裸线",
+        "拉链",
+        "路线",
+        "按摩浴缸",
+        "空调机组",
+        "手锯",
+        "卡住"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "柠檬水",
+                "时间安排",
+                "关税",
+                "表格",
+                "工具箱"
+            ]
+        },
+        {
+            "cards": [
+                "被告知",
+                "拉头",
+                "骗局",
+                "拉扯",
+                "防护手套",
+                "链齿"
+            ]
+        },
+        {
+            "cards": [
+                "屋顶",
+                "气泡",
+                "逮捕",
+                "慕斯",
+                "演讲者",
+                "挤",
+                "症状"
+            ]
+        },
+        {
+            "cards": [
+                "汽水",
+                "茶具",
+                "洗涤",
+                "扒窃",
+                "会议",
+                "发红",
+                "分开",
+                "通风口"
+            ]
+        }
+    ]
+}

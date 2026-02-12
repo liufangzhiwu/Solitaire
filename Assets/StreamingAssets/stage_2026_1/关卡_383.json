@@ -1,0 +1,369 @@
+{
+    "levelId": 383,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "集市",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "讨价还价者",
+                    "icon": false
+                },
+                {
+                    "wordId": "商人",
+                    "icon": false
+                },
+                {
+                    "wordId": "货物",
+                    "icon": false
+                },
+                {
+                    "wordId": "香料",
+                    "icon": false
+                },
+                {
+                    "wordId": "以物易物",
+                    "icon": false
+                },
+                {
+                    "wordId": "人群",
+                    "icon": false
+                },
+                {
+                    "wordId": "小贩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "派对",
+                    "icon": false
+                },
+                {
+                    "wordId": "游行",
+                    "icon": false
+                },
+                {
+                    "wordId": "盛宴",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢奥宴",
+                    "icon": false
+                },
+                {
+                    "wordId": "庆典",
+                    "icon": false
+                },
+                {
+                    "wordId": "游园会",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪念庆典",
+                    "icon": false
+                },
+                {
+                    "wordId": "市集",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "器官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胰腺",
+                    "icon": false
+                },
+                {
+                    "wordId": "肝脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "肾脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "肺",
+                    "icon": false
+                },
+                {
+                    "wordId": "胃",
+                    "icon": false
+                },
+                {
+                    "wordId": "大脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "脾脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "膀胱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "匪徒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亡命徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "盗马贼",
+                    "icon": false
+                },
+                {
+                    "wordId": "掠夺者",
+                    "icon": false
+                },
+                {
+                    "wordId": "山贼",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪绺贼",
+                    "icon": false
+                },
+                {
+                    "wordId": "袭击者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "支柱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圆柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "墩柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "立柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "柱身",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶壁",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁柱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "精灵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮克精",
+                    "icon": false
+                },
+                {
+                    "wordId": "气精灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "树精灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "宁芙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盾牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神盾",
+                    "icon": false
+                },
+                {
+                    "wordId": "小圆盾",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻盾",
+                    "icon": false
+                },
+                {
+                    "wordId": "立盾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酒馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "酒栓",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒桶",
+                    "icon": false
+                },
+                {
+                    "wordId": "高脚凳",
+                    "icon": false
+                },
+                {
+                    "wordId": "小桶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "间谍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "特工",
+                    "icon": true
+                },
+                {
+                    "wordId": "间谍面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "放大镜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "石材",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "碧玉",
+                    "icon": false
+                },
+                {
+                    "wordId": "缟玛瑙",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "膀胱",
+        "脾脏",
+        "货物",
+        "小桶",
+        "盾牌",
+        "扶壁",
+        "肾脏",
+        "纪念庆典",
+        "以物易物",
+        "气精灵",
+        "神盾",
+        "壁柱",
+        "大脑",
+        "精灵",
+        "商人",
+        "间谍面具",
+        "匪徒",
+        "游园会",
+        "小圆盾",
+        "放大镜",
+        "盗马贼",
+        "柱身",
+        "市集",
+        "肝脏",
+        "人群",
+        "特工",
+        "碧玉",
+        "袭击者",
+        "缟玛瑙",
+        "支柱",
+        "胃",
+        "立盾",
+        "派对",
+        "小贩",
+        "皮克精",
+        "酒栓",
+        "亡命徒",
+        "酒馆",
+        "摊位",
+        "山贼",
+        "肺",
+        "宁芙"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "剪绺贼",
+                "集市",
+                "庆典",
+                "高脚凳"
+            ]
+        },
+        {
+            "cards": [
+                "掠夺者",
+                "树精灵",
+                "轻盾",
+                "器官",
+                "玛瑙"
+            ]
+        },
+        {
+            "cards": [
+                "酒桶",
+                "节日",
+                "间谍",
+                "胰腺",
+                "石材",
+                "圆柱"
+            ]
+        },
+        {
+            "cards": [
+                "墩柱",
+                "卢奥宴",
+                "立柱",
+                "盛宴",
+                "游行",
+                "讨价还价者",
+                "香料"
+            ]
+        }
+    ]
+}

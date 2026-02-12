@@ -1,0 +1,553 @@
+{
+    "levelId": 377,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 230,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "布尔逻辑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "与门",
+                    "icon": true
+                },
+                {
+                    "wordId": "或门",
+                    "icon": true
+                },
+                {
+                    "wordId": "异或门",
+                    "icon": true
+                },
+                {
+                    "wordId": "与非门",
+                    "icon": true
+                },
+                {
+                    "wordId": "或非门",
+                    "icon": true
+                },
+                {
+                    "wordId": "同或门",
+                    "icon": true
+                },
+                {
+                    "wordId": "非门",
+                    "icon": true
+                },
+                {
+                    "wordId": "数据选择器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "辐射",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "光学的",
+                    "icon": false
+                },
+                {
+                    "wordId": "雷达",
+                    "icon": false
+                },
+                {
+                    "wordId": "红外线",
+                    "icon": false
+                },
+                {
+                    "wordId": "可见光",
+                    "icon": false
+                },
+                {
+                    "wordId": "X射线",
+                    "icon": false
+                },
+                {
+                    "wordId": "伽马射线",
+                    "icon": false
+                },
+                {
+                    "wordId": "量子",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭射",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "足球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "球场",
+                    "icon": false
+                },
+                {
+                    "wordId": "球迷",
+                    "icon": false
+                },
+                {
+                    "wordId": "进球",
+                    "icon": false
+                },
+                {
+                    "wordId": "球衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "球队",
+                    "icon": false
+                },
+                {
+                    "wordId": "前锋",
+                    "icon": false
+                },
+                {
+                    "wordId": "裁判",
+                    "icon": false
+                },
+                {
+                    "wordId": "队长",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "隐秘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奥秘",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜语",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "字谜",
+                    "icon": false
+                },
+                {
+                    "wordId": "悖论",
+                    "icon": false
+                },
+                {
+                    "wordId": "神秘",
+                    "icon": false
+                },
+                {
+                    "wordId": "秘密",
+                    "icon": false
+                },
+                {
+                    "wordId": "线索",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "企鹅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛋",
+                    "icon": false
+                },
+                {
+                    "wordId": "群落",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟类",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰山",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇摆行走",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳍状肢",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "度量",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长度",
+                    "icon": false
+                },
+                {
+                    "wordId": "面积",
+                    "icon": false
+                },
+                {
+                    "wordId": "体积",
+                    "icon": false
+                },
+                {
+                    "wordId": "品质",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间",
+                    "icon": false
+                },
+                {
+                    "wordId": "力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "齿轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "直齿轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "斜齿轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "锥齿轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜗轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "准双曲面齿轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "冠状齿轮",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "电荷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "质子",
+                    "icon": false
+                },
+                {
+                    "wordId": "电子",
+                    "icon": false
+                },
+                {
+                    "wordId": "离子",
+                    "icon": false
+                },
+                {
+                    "wordId": "阳离子",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴离子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "挪威",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "峡湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "极光",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔原",
+                    "icon": false
+                },
+                {
+                    "wordId": "麋鹿",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥斯陆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "呼叫",
+                    "icon": false
+                },
+                {
+                    "wordId": "拨号盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "铃声",
+                    "icon": false
+                },
+                {
+                    "wordId": "听筒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "混沌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "深渊",
+                    "icon": false
+                },
+                {
+                    "wordId": "熵",
+                    "icon": false
+                },
+                {
+                    "wordId": "随机",
+                    "icon": false
+                },
+                {
+                    "wordId": "混乱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "中庭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿斯加德",
+                    "icon": false
+                },
+                {
+                    "wordId": "英灵殿",
+                    "icon": false
+                },
+                {
+                    "wordId": "维京人",
+                    "icon": false
+                },
+                {
+                    "wordId": "如尼文",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "织工",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "织布机",
+                    "icon": false
+                },
+                {
+                    "wordId": "纺锤",
+                    "icon": false
+                },
+                {
+                    "wordId": "纬线",
+                    "icon": false
+                },
+                {
+                    "wordId": "线轴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "顶点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "顶峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "极致",
+                    "icon": false
+                },
+                {
+                    "wordId": "巅峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "露营",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帐篷",
+                    "icon": false
+                },
+                {
+                    "wordId": "指南针",
+                    "icon": false
+                },
+                {
+                    "wordId": "营火",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "织工",
+        "极致",
+        "准双曲面齿轮",
+        "红外线",
+        "纺锤",
+        "密码",
+        "斜齿轮",
+        "球衣",
+        "品质",
+        "光学的",
+        "或门",
+        "进球",
+        "麋鹿",
+        "球迷",
+        "离子",
+        "面积",
+        "质子",
+        "顶峰",
+        "摇摆行走",
+        "混沌",
+        "苔原",
+        "非门",
+        "鳍状肢",
+        "蛋",
+        "队长",
+        "奥斯陆",
+        "字谜",
+        "巅峰",
+        "混乱",
+        "体积",
+        "听筒",
+        "群落",
+        "异或门",
+        "织布机",
+        "直齿轮",
+        "中庭",
+        "时间",
+        "球队",
+        "呼叫",
+        "雷达",
+        "随机",
+        "冰山",
+        "镭射",
+        "可见光",
+        "营火",
+        "或非门",
+        "指南针",
+        "露营",
+        "谜语",
+        "阿斯加德",
+        "同或门",
+        "神秘",
+        "裁判",
+        "企鹅",
+        "锥齿轮",
+        "纬线",
+        "如尼文",
+        "挪威",
+        "鸟类",
+        "与非门",
+        "熵",
+        "峡湾",
+        "齿轮"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "电话",
+                "奥秘",
+                "辐射",
+                "顶点",
+                "极光"
+            ]
+        },
+        {
+            "cards": [
+                "冠状齿轮",
+                "线轴",
+                "悖论",
+                "布尔逻辑",
+                "电子",
+                "与门"
+            ]
+        },
+        {
+            "cards": [
+                "英灵殿",
+                "力",
+                "伽马射线",
+                "阴离子",
+                "长度",
+                "度量",
+                "蜗轮"
+            ]
+        },
+        {
+            "cards": [
+                "线索",
+                "量子",
+                "数据选择器",
+                "维京人",
+                "足球",
+                "前锋",
+                "X射线",
+                "信号"
+            ]
+        },
+        {
+            "cards": [
+                "铃声",
+                "电荷",
+                "深渊",
+                "球场",
+                "拨号盘",
+                "阳离子",
+                "秘密",
+                "隐秘",
+                "帐篷"
+            ]
+        }
+    ]
+}

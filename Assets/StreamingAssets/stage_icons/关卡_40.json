@@ -1,0 +1,369 @@
+{
+    "levelId": 40,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 135,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "爱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丘比特",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣爱",
+                    "icon": false
+                },
+                {
+                    "wordId": "同理心",
+                    "icon": false
+                },
+                {
+                    "wordId": "心",
+                    "icon": false
+                },
+                {
+                    "wordId": "亲吻",
+                    "icon": false
+                },
+                {
+                    "wordId": "奉献",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵魂伴侣",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜爱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "剧院",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                },
+                {
+                    "wordId": "演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "幕布",
+                    "icon": false
+                },
+                {
+                    "wordId": "节目单",
+                    "icon": false
+                },
+                {
+                    "wordId": "场景",
+                    "icon": false
+                },
+                {
+                    "wordId": "观众",
+                    "icon": false
+                },
+                {
+                    "wordId": "掌声",
+                    "icon": false
+                },
+                {
+                    "wordId": "演出",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "牙齿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "前牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "门牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙釉质",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙本质",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙根",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙尖",
+                    "icon": false
+                },
+                {
+                    "wordId": "磨牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "前磨牙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "员警用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "徽章",
+                    "icon": true
+                },
+                {
+                    "wordId": "制服",
+                    "icon": true
+                },
+                {
+                    "wordId": "逮捕",
+                    "icon": true
+                },
+                {
+                    "wordId": "警官",
+                    "icon": true
+                },
+                {
+                    "wordId": "手铐",
+                    "icon": true
+                },
+                {
+                    "wordId": "警棍",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "火山",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熔岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷发",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山口",
+                    "icon": false
+                },
+                {
+                    "wordId": "热量",
+                    "icon": false
+                },
+                {
+                    "wordId": "火",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "意大利",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗马",
+                    "icon": false
+                },
+                {
+                    "wordId": "威尼斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "佛罗伦斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "灯泡",
+                    "icon": true
+                },
+                {
+                    "wordId": "插头",
+                    "icon": true
+                },
+                {
+                    "wordId": "开关",
+                    "icon": true
+                },
+                {
+                    "wordId": "电线",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "夜晚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "月亮",
+                    "icon": false
+                },
+                {
+                    "wordId": "萤火虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "猫头鹰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "综艺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "康熙来了",
+                    "icon": false
+                },
+                {
+                    "wordId": "综艺大哥大",
+                    "icon": false
+                },
+                {
+                    "wordId": "超级星期天",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "皮肤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "中性",
+                    "icon": false
+                },
+                {
+                    "wordId": "干性",
+                    "icon": false
+                },
+                {
+                    "wordId": "油性",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "意大利",
+        "同理心",
+        "插头",
+        "心",
+        "圣爱",
+        "制服",
+        "员警用品",
+        "演员",
+        "演出",
+        "油性",
+        "前磨牙",
+        "火山灰",
+        "康熙来了",
+        "火山",
+        "电线",
+        "牙本质",
+        "丘比特",
+        "掌声",
+        "剧院",
+        "佛罗伦斯",
+        "热量",
+        "磨牙",
+        "奉献",
+        "幕布",
+        "门牙",
+        "观众",
+        "超级星期天",
+        "前牙",
+        "熔岩",
+        "萤火虫",
+        "牙釉质",
+        "米兰",
+        "徽章",
+        "干性",
+        "威尼斯",
+        "罗马",
+        "月亮",
+        "综艺",
+        "火山口",
+        "牙尖",
+        "节目单",
+        "开关"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "场景",
+                "牙根",
+                "灯",
+                "警官"
+            ]
+        },
+        {
+            "cards": [
+                "舞台",
+                "逮捕",
+                "黑暗",
+                "夜晚",
+                "灯泡"
+            ]
+        },
+        {
+            "cards": [
+                "爱",
+                "喜爱",
+                "手铐",
+                "亲吻",
+                "牙齿",
+                "猫头鹰"
+            ]
+        },
+        {
+            "cards": [
+                "综艺大哥大",
+                "喷发",
+                "皮肤",
+                "中性",
+                "警棍",
+                "火",
+                "灵魂伴侣"
+            ]
+        }
+    ]
+}

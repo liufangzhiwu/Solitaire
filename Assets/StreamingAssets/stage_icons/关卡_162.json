@@ -1,0 +1,369 @@
+{
+    "levelId": 162,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "方尖碑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狮身人面像",
+                    "icon": false
+                },
+                {
+                    "wordId": "花岗岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "柱子",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨石",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮雕",
+                    "icon": false
+                },
+                {
+                    "wordId": "玄武岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆顶建筑",
+                    "icon": false
+                },
+                {
+                    "wordId": "通天塔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猫科动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "老虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "母狮",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "豹",
+                    "icon": false
+                },
+                {
+                    "wordId": "豹猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲狮",
+                    "icon": false
+                },
+                {
+                    "wordId": "猞猁",
+                    "icon": false
+                },
+                {
+                    "wordId": "短尾猫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巫术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法师",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫师",
+                    "icon": false
+                },
+                {
+                    "wordId": "术士",
+                    "icon": false
+                },
+                {
+                    "wordId": "男巫",
+                    "icon": false
+                },
+                {
+                    "wordId": "召唤师",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨满",
+                    "icon": false
+                },
+                {
+                    "wordId": "护身符",
+                    "icon": false
+                },
+                {
+                    "wordId": "占卜者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "苔原",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雨夹雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "地衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰加林",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰盖",
+                    "icon": false
+                },
+                {
+                    "wordId": "北极",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电路",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电阻器",
+                    "icon": false
+                },
+                {
+                    "wordId": "电感器",
+                    "icon": false
+                },
+                {
+                    "wordId": "二极管",
+                    "icon": false
+                },
+                {
+                    "wordId": "开关",
+                    "icon": false
+                },
+                {
+                    "wordId": "继电器",
+                    "icon": false
+                },
+                {
+                    "wordId": "保险丝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "英雄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "弓箭手",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "游荡者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "收割",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镰刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "长柄大镰刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "脱粒",
+                    "icon": false
+                },
+                {
+                    "wordId": "收割者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盛宴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "葡萄酒杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "烟花",
+                    "icon": true
+                },
+                {
+                    "wordId": "礼物",
+                    "icon": true
+                },
+                {
+                    "wordId": "派对帽",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "陵墓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "坟墓",
+                    "icon": false
+                },
+                {
+                    "wordId": "埋葬",
+                    "icon": false
+                },
+                {
+                    "wordId": "地下墓穴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手抄本",
+                    "icon": false
+                },
+                {
+                    "wordId": "账簿",
+                    "icon": false
+                },
+                {
+                    "wordId": "大部头",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "豹猫",
+        "继电器",
+        "猞猁",
+        "圣骑士",
+        "埋葬",
+        "浮雕",
+        "雨夹雪",
+        "收割",
+        "通天塔",
+        "电路",
+        "保险丝",
+        "地下墓穴",
+        "巫术",
+        "二极管",
+        "柱子",
+        "玄武岩",
+        "盛宴",
+        "豹",
+        "泰加林",
+        "北极",
+        "占卜者",
+        "巨石",
+        "护身符",
+        "游荡者",
+        "英雄",
+        "电感器",
+        "派对帽",
+        "骑士",
+        "母狮",
+        "坟墓",
+        "召唤师",
+        "巫师",
+        "冰川的",
+        "短尾猫",
+        "大部头",
+        "收割者",
+        "开关",
+        "花岗岩",
+        "男巫",
+        "圆顶建筑",
+        "脱粒",
+        "地衣"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "术士",
+                "法师",
+                "陵墓",
+                "镰刀"
+            ]
+        },
+        {
+            "cards": [
+                "礼物",
+                "方尖碑",
+                "手抄本",
+                "烟花",
+                "电阻器"
+            ]
+        },
+        {
+            "cards": [
+                "账簿",
+                "冰盖",
+                "萨满",
+                "档案",
+                "苔原",
+                "弓箭手"
+            ]
+        },
+        {
+            "cards": [
+                "狮身人面像",
+                "长柄大镰刀",
+                "老虎",
+                "美洲狮",
+                "葡萄酒杯",
+                "猫科动物",
+                "美洲虎"
+            ]
+        }
+    ]
+}

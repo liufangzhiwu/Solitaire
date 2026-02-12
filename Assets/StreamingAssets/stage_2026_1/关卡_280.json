@@ -1,0 +1,369 @@
+{
+    "levelId": 280,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "矿物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石英",
+                    "icon": false
+                },
+                {
+                    "wordId": "长石",
+                    "icon": false
+                },
+                {
+                    "wordId": "铝土矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "刚玉",
+                    "icon": false
+                },
+                {
+                    "wordId": "方铅矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄石",
+                    "icon": false
+                },
+                {
+                    "wordId": "石榴石",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄铁矿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "软体动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "章鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜗牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "双壳类",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹦鹉螺",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛞蝓",
+                    "icon": false
+                },
+                {
+                    "wordId": "牡蛎",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛤蜊",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲍鱼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "定理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "证明",
+                    "icon": false
+                },
+                {
+                    "wordId": "规则",
+                    "icon": false
+                },
+                {
+                    "wordId": "主张",
+                    "icon": false
+                },
+                {
+                    "wordId": "理由",
+                    "icon": false
+                },
+                {
+                    "wordId": "公式",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧几里得",
+                    "icon": false
+                },
+                {
+                    "wordId": "逻辑",
+                    "icon": false
+                },
+                {
+                    "wordId": "理论",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宇宙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星系",
+                    "icon": false
+                },
+                {
+                    "wordId": "类星体",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉冲星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "小行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "新宇宙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "身体骨骼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "股骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "尺骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "桡骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "胫骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "锁骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "肩胛骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "编织",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "反针",
+                    "icon": false
+                },
+                {
+                    "wordId": "正针",
+                    "icon": false
+                },
+                {
+                    "wordId": "蕾丝",
+                    "icon": false
+                },
+                {
+                    "wordId": "针法",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "脉轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "根脉轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "骶脉轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "太阳神经丛脉轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "心轮",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "音素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爆破音",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻音",
+                    "icon": false
+                },
+                {
+                    "wordId": "母音",
+                    "icon": false
+                },
+                {
+                    "wordId": "发出的语音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "威尼斯面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "歌舞伎面具",
+                    "icon": true
+                },
+                {
+                    "wordId": "艺妓面具",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "维苏威火山",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "庞贝古城",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰烬",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷发",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "逻辑",
+        "牡蛎",
+        "理由",
+        "锁骨",
+        "音素",
+        "威尼斯面具",
+        "石榴石",
+        "长石",
+        "方铅矿",
+        "艺妓面具",
+        "蛞蝓",
+        "桡骨",
+        "骶脉轮",
+        "爆破音",
+        "编织",
+        "庞贝古城",
+        "胫骨",
+        "反针",
+        "面具",
+        "股骨",
+        "灰烬",
+        "鹦鹉螺",
+        "鲍鱼",
+        "主张",
+        "公式",
+        "橄榄石",
+        "脉轮",
+        "刚玉",
+        "鼻音",
+        "星云",
+        "脉冲星",
+        "肩胛骨",
+        "发出的语音",
+        "规则",
+        "根脉轮",
+        "正针",
+        "太阳神经丛脉轮",
+        "软体动物",
+        "蜗牛",
+        "针法",
+        "蛤蜊",
+        "证明"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "矿物",
+                "宇宙",
+                "定理",
+                "黄铁矿"
+            ]
+        },
+        {
+            "cards": [
+                "维苏威火山",
+                "欧几里得",
+                "石英",
+                "喷发",
+                "星系"
+            ]
+        },
+        {
+            "cards": [
+                "心轮",
+                "身体骨骼",
+                "类星体",
+                "小行星",
+                "母音",
+                "双壳类"
+            ]
+        },
+        {
+            "cards": [
+                "尺骨",
+                "铝土矿",
+                "章鱼",
+                "蕾丝",
+                "歌舞伎面具",
+                "理论",
+                "新宇宙"
+            ]
+        }
+    ]
+}

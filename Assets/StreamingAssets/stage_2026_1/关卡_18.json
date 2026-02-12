@@ -1,0 +1,369 @@
+{
+    "levelId": 18,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "牙齿护理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牙医",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙线",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲牙器",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "漱口水",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙签",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙套",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "军队",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "中士",
+                    "icon": false
+                },
+                {
+                    "wordId": "少校",
+                    "icon": false
+                },
+                {
+                    "wordId": "将军",
+                    "icon": false
+                },
+                {
+                    "wordId": "上校",
+                    "icon": false
+                },
+                {
+                    "wordId": "列兵",
+                    "icon": false
+                },
+                {
+                    "wordId": "下士",
+                    "icon": false
+                },
+                {
+                    "wordId": "上尉",
+                    "icon": false
+                },
+                {
+                    "wordId": "军衔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兴奋",
+                    "icon": false
+                },
+                {
+                    "wordId": "开心",
+                    "icon": false
+                },
+                {
+                    "wordId": "兴高采烈",
+                    "icon": false
+                },
+                {
+                    "wordId": "沮丧",
+                    "icon": false
+                },
+                {
+                    "wordId": "悲伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜悦",
+                    "icon": false
+                },
+                {
+                    "wordId": "低落",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "连衣裙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "紧身连衣裙",
+                    "icon": true
+                },
+                {
+                    "wordId": "束腰外衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡尾酒礼服",
+                    "icon": true
+                },
+                {
+                    "wordId": "迷你裙",
+                    "icon": true
+                },
+                {
+                    "wordId": "长袍",
+                    "icon": true
+                },
+                {
+                    "wordId": "太阳裙",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "厨具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "勺子",
+                    "icon": false
+                },
+                {
+                    "wordId": "打蛋器",
+                    "icon": false
+                },
+                {
+                    "wordId": "叉子",
+                    "icon": false
+                },
+                {
+                    "wordId": "盘子",
+                    "icon": false
+                },
+                {
+                    "wordId": "削皮器",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜刀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "坏习惯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熬夜",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽烟",
+                    "icon": false
+                },
+                {
+                    "wordId": "酗酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "咋舌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "书法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毛笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "砚台",
+                    "icon": false
+                },
+                {
+                    "wordId": "宣纸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "语言学家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "语言学",
+                    "icon": false
+                },
+                {
+                    "wordId": "辞汇",
+                    "icon": false
+                },
+                {
+                    "wordId": "语法",
+                    "icon": false
+                },
+                {
+                    "wordId": "音韵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "中秋节",
+                    "icon": false
+                },
+                {
+                    "wordId": "端午节",
+                    "icon": false
+                },
+                {
+                    "wordId": "春节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "健身器材",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哑铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "杠铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "空气自行车",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "宣纸",
+        "坏习惯",
+        "紧身连衣裙",
+        "牙刷",
+        "语法",
+        "迷你裙",
+        "中士",
+        "喜悦",
+        "鸡尾酒礼服",
+        "悲伤",
+        "列兵",
+        "盘子",
+        "上尉",
+        "冲牙器",
+        "语言学家",
+        "厨具",
+        "墨汁",
+        "低落",
+        "牙膏",
+        "中秋节",
+        "军衔",
+        "下士",
+        "咋舌",
+        "辞汇",
+        "少校",
+        "哑铃",
+        "端午节",
+        "情绪",
+        "节日",
+        "束腰外衣",
+        "牙医",
+        "长袍",
+        "牙套",
+        "杠铃",
+        "抽烟",
+        "叉子",
+        "牙线",
+        "兴奋",
+        "将军",
+        "空气自行车",
+        "兴高采烈",
+        "毛笔"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "牙签",
+                "愤怒",
+                "酗酒",
+                "漱口水"
+            ]
+        },
+        {
+            "cards": [
+                "打蛋器",
+                "春节",
+                "熬夜",
+                "砚台",
+                "健身器材"
+            ]
+        },
+        {
+            "cards": [
+                "军队",
+                "勺子",
+                "牙齿护理",
+                "音韵",
+                "开心",
+                "菜刀"
+            ]
+        },
+        {
+            "cards": [
+                "语言学",
+                "书法",
+                "太阳裙",
+                "削皮器",
+                "上校",
+                "连衣裙",
+                "沮丧"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 245,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "猴子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猕猴",
+                    "icon": false
+                },
+                {
+                    "wordId": "狒狒",
+                    "icon": false
+                },
+                {
+                    "wordId": "大猩猩",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑猩猩",
+                    "icon": false
+                },
+                {
+                    "wordId": "长臂猿",
+                    "icon": false
+                },
+                {
+                    "wordId": "狨猴",
+                    "icon": false
+                },
+                {
+                    "wordId": "柽柳猴",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷尾猴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铬",
+                    "icon": false
+                },
+                {
+                    "wordId": "钛",
+                    "icon": false
+                },
+                {
+                    "wordId": "钒",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "锌",
+                    "icon": false
+                },
+                {
+                    "wordId": "铅",
+                    "icon": false
+                },
+                {
+                    "wordId": "锇",
+                    "icon": false
+                },
+                {
+                    "wordId": "钴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法外之徒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "强盗",
+                    "icon": false
+                },
+                {
+                    "wordId": "夜盗",
+                    "icon": false
+                },
+                {
+                    "wordId": "劫匪",
+                    "icon": false
+                },
+                {
+                    "wordId": "海盗",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗劫者",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑帮",
+                    "icon": false
+                },
+                {
+                    "wordId": "流寇",
+                    "icon": false
+                },
+                {
+                    "wordId": "窃贼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "旗帜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英国国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "美国国旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "方格旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "白旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "三角旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "彩旗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "药水",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "酿造物",
+                    "icon": false
+                },
+                {
+                    "wordId": "混合物",
+                    "icon": false
+                },
+                {
+                    "wordId": "万能药",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔药",
+                    "icon": false
+                },
+                {
+                    "wordId": "酊剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "浸剂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "分析",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "调查",
+                    "icon": false
+                },
+                {
+                    "wordId": "详查",
+                    "icon": false
+                },
+                {
+                    "wordId": "研究",
+                    "icon": false
+                },
+                {
+                    "wordId": "审计",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "菜肴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汤",
+                    "icon": true
+                },
+                {
+                    "wordId": "披萨",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙拉",
+                    "icon": true
+                },
+                {
+                    "wordId": "汉堡",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "销售",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "交易",
+                    "icon": false
+                },
+                {
+                    "wordId": "特价",
+                    "icon": false
+                },
+                {
+                    "wordId": "优惠券",
+                    "icon": false
+                },
+                {
+                    "wordId": "赠品",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙沙声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树叶",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸张",
+                    "icon": false
+                },
+                {
+                    "wordId": "裙子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珀伽索斯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "白色",
+                    "icon": false
+                },
+                {
+                    "wordId": "种马",
+                    "icon": false
+                },
+                {
+                    "wordId": "翅膀",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "金属",
+        "铬",
+        "白色",
+        "黑猩猩",
+        "流寇",
+        "钛",
+        "锌",
+        "夜盗",
+        "锇",
+        "菜肴",
+        "沙沙声",
+        "海盗",
+        "狨猴",
+        "混合物",
+        "魔药",
+        "纸张",
+        "交易",
+        "猕猴",
+        "汤",
+        "种马",
+        "研究",
+        "万能药",
+        "调查",
+        "大猩猩",
+        "赠品",
+        "优惠券",
+        "三角旗",
+        "汉堡",
+        "铜",
+        "洗劫者",
+        "酿造物",
+        "树叶",
+        "长臂猿",
+        "钒",
+        "劫匪",
+        "旗帜",
+        "详查",
+        "白旗",
+        "珀伽索斯",
+        "浸剂",
+        "沙拉",
+        "美国国旗"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "彩旗",
+                "法外之徒",
+                "披萨",
+                "方格旗"
+            ]
+        },
+        {
+            "cards": [
+                "柽柳猴",
+                "铅",
+                "审计",
+                "强盗",
+                "裙子"
+            ]
+        },
+        {
+            "cards": [
+                "猴子",
+                "黑帮",
+                "分析",
+                "酊剂",
+                "特价",
+                "钴"
+            ]
+        },
+        {
+            "cards": [
+                "销售",
+                "狒狒",
+                "窃贼",
+                "卷尾猴",
+                "翅膀",
+                "药水",
+                "英国国旗"
+            ]
+        }
+    ]
+}

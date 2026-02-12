@@ -1,0 +1,364 @@
+{
+    "levelId": 23,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "快速",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迅速",
+                    "icon": false
+                },
+                {
+                    "wordId": "急速",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞快",
+                    "icon": false
+                },
+                {
+                    "wordId": "敏捷",
+                    "icon": false
+                },
+                {
+                    "wordId": "及时",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻快",
+                    "icon": false
+                },
+                {
+                    "wordId": "仓促",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻利",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "可爱动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "小猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "小羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "小牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "小猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "小马",
+                    "icon": true
+                },
+                {
+                    "wordId": "小鸭",
+                    "icon": true
+                },
+                {
+                    "wordId": "小天鹅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "彩虹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "橙色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄色",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "靛蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "标点符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "句号",
+                    "icon": false
+                },
+                {
+                    "wordId": "逗号",
+                    "icon": false
+                },
+                {
+                    "wordId": "冒号",
+                    "icon": false
+                },
+                {
+                    "wordId": "破折号",
+                    "icon": false
+                },
+                {
+                    "wordId": "连字元",
+                    "icon": false
+                },
+                {
+                    "wordId": "问号",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谷物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大米",
+                    "icon": false
+                },
+                {
+                    "wordId": "小麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "燕麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "大麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "小米",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑麦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海洋植物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海带",
+                    "icon": false
+                },
+                {
+                    "wordId": "藻类",
+                    "icon": false
+                },
+                {
+                    "wordId": "海草",
+                    "icon": false
+                },
+                {
+                    "wordId": "裙带菜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "暗号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "解码",
+                    "icon": false
+                },
+                {
+                    "wordId": "编码",
+                    "icon": false
+                },
+                {
+                    "wordId": "关键字",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "活动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘉年华",
+                    "icon": false
+                },
+                {
+                    "wordId": "集市",
+                    "icon": false
+                },
+                {
+                    "wordId": "节日",
+                    "icon": false
+                },
+                {
+                    "wordId": "游行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "交响乐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "和声",
+                    "icon": false
+                },
+                {
+                    "wordId": "序曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋律",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "害虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蝗虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚜虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "苍蝇",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "轻快",
+        "海带",
+        "小马",
+        "解码",
+        "快速",
+        "靛蓝色",
+        "编码",
+        "仓促",
+        "飞快",
+        "密码",
+        "蝗虫",
+        "绿色",
+        "暗号",
+        "小猫",
+        "破折号",
+        "大米",
+        "小羊",
+        "紫色",
+        "冒号",
+        "集市",
+        "节日",
+        "逗号",
+        "海洋植物",
+        "和声",
+        "小麦",
+        "序曲",
+        "句号",
+        "藻类",
+        "黑麦",
+        "麻利",
+        "标点符号",
+        "连字元",
+        "大麦",
+        "嘉年华",
+        "小猪",
+        "黄色",
+        "红色",
+        "活动",
+        "小天鹅",
+        "小狗",
+        "橙色"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "旋律",
+                "迅速",
+                "蚜虫",
+                "游行"
+            ]
+        },
+        {
+            "cards": [
+                "谷物",
+                "燕麦",
+                "敏捷",
+                "彩虹",
+                "急速"
+            ]
+        },
+        {
+            "cards": [
+                "问号",
+                "蓝色",
+                "小米",
+                "害虫",
+                "小牛",
+                "可爱动物"
+            ]
+        },
+        {
+            "cards": [
+                "海草",
+                "苍蝇",
+                "小鸭",
+                "裙带菜",
+                "关键字",
+                "及时",
+                "交响乐"
+            ]
+        }
+    ]
+}

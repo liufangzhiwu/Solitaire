@@ -1,0 +1,369 @@
+{
+    "levelId": 208,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "温馨舒适",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "壁炉",
+                    "icon": true
+                },
+                {
+                    "wordId": "舒适",
+                    "icon": true
+                },
+                {
+                    "wordId": "袜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜡烛",
+                    "icon": true
+                },
+                {
+                    "wordId": "杯子",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯光",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "信任",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "真诚的",
+                    "icon": false
+                },
+                {
+                    "wordId": "伙伴",
+                    "icon": false
+                },
+                {
+                    "wordId": "朋友",
+                    "icon": false
+                },
+                {
+                    "wordId": "相信",
+                    "icon": false
+                },
+                {
+                    "wordId": "诚实",
+                    "icon": false
+                },
+                {
+                    "wordId": "医生",
+                    "icon": false
+                },
+                {
+                    "wordId": "银行",
+                    "icon": false
+                },
+                {
+                    "wordId": "可靠的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "令人厌恶之物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蟑螂",
+                    "icon": true
+                },
+                {
+                    "wordId": "蠕虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜘蛛",
+                    "icon": true
+                },
+                {
+                    "wordId": "垃圾",
+                    "icon": true
+                },
+                {
+                    "wordId": "脏盘子",
+                    "icon": true
+                },
+                {
+                    "wordId": "老鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "苍蝇",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "钢材制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "孔锯",
+                    "icon": true
+                },
+                {
+                    "wordId": "叉子",
+                    "icon": true
+                },
+                {
+                    "wordId": "花洒",
+                    "icon": true
+                },
+                {
+                    "wordId": "轮子",
+                    "icon": true
+                },
+                {
+                    "wordId": "大笼子",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢架",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "枕头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "睡眠",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "小睡",
+                    "icon": false
+                },
+                {
+                    "wordId": "填充物",
+                    "icon": false
+                },
+                {
+                    "wordId": "头部",
+                    "icon": false
+                },
+                {
+                    "wordId": "孕妇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "异国情调的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水果",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟类",
+                    "icon": false
+                },
+                {
+                    "wordId": "部落",
+                    "icon": false
+                },
+                {
+                    "wordId": "花卉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "证据",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法医的",
+                    "icon": false
+                },
+                {
+                    "wordId": "文物",
+                    "icon": false
+                },
+                {
+                    "wordId": "判决",
+                    "icon": false
+                },
+                {
+                    "wordId": "嫌疑人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有轨电车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "车厂",
+                    "icon": false
+                },
+                {
+                    "wordId": "司机",
+                    "icon": false
+                },
+                {
+                    "wordId": "城市的",
+                    "icon": false
+                },
+                {
+                    "wordId": "脱轨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "片",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布料",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "披萨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "公爵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女公爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "头衔",
+                    "icon": false
+                },
+                {
+                    "wordId": "等级",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "老鼠",
+        "杯子",
+        "布料",
+        "嫌疑人",
+        "车厂",
+        "法医的",
+        "拼图",
+        "头衔",
+        "垃圾",
+        "填充物",
+        "部落",
+        "医生",
+        "信任",
+        "睡眠",
+        "有轨电车",
+        "灯光",
+        "大笼子",
+        "水果",
+        "鸟类",
+        "判决",
+        "银行",
+        "等级",
+        "真诚的",
+        "袜子",
+        "壁炉",
+        "温馨舒适",
+        "沙发",
+        "朋友",
+        "异国情调的",
+        "蜡烛",
+        "蛇",
+        "孕妇",
+        "文物",
+        "舒适",
+        "毛衣",
+        "花洒",
+        "证据",
+        "城市的",
+        "蟑螂",
+        "苍蝇",
+        "诚实",
+        "司机"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "孔锯",
+                "枕头",
+                "羽毛",
+                "脏盘子"
+            ]
+        },
+        {
+            "cards": [
+                "可靠的",
+                "蜘蛛",
+                "小睡",
+                "蠕虫",
+                "伙伴"
+            ]
+        },
+        {
+            "cards": [
+                "花卉",
+                "公爵",
+                "令人厌恶之物",
+                "叉子",
+                "钢架",
+                "片"
+            ]
+        },
+        {
+            "cards": [
+                "钢材制品",
+                "脱轨",
+                "女公爵",
+                "轮子",
+                "披萨",
+                "相信",
+                "头部"
+            ]
+        }
+    ]
+}

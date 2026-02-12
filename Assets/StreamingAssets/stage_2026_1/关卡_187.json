@@ -1,0 +1,369 @@
+{
+    "levelId": 187,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "美食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "饺子",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔可",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸橘汁腌鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "古拉什",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙海鲜饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉丸",
+                    "icon": false
+                },
+                {
+                    "wordId": "寿司",
+                    "icon": false
+                },
+                {
+                    "wordId": "恩潘纳达",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "原子",
+                    "icon": false
+                },
+                {
+                    "wordId": "分子",
+                    "icon": false
+                },
+                {
+                    "wordId": "化合价",
+                    "icon": false
+                },
+                {
+                    "wordId": "同位素",
+                    "icon": false
+                },
+                {
+                    "wordId": "催化剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "电子",
+                    "icon": false
+                },
+                {
+                    "wordId": "质子",
+                    "icon": false
+                },
+                {
+                    "wordId": "中子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水星",
+                    "icon": false
+                },
+                {
+                    "wordId": "金星",
+                    "icon": false
+                },
+                {
+                    "wordId": "地球",
+                    "icon": false
+                },
+                {
+                    "wordId": "火星",
+                    "icon": false
+                },
+                {
+                    "wordId": "木星",
+                    "icon": false
+                },
+                {
+                    "wordId": "土星",
+                    "icon": false
+                },
+                {
+                    "wordId": "天王星",
+                    "icon": false
+                },
+                {
+                    "wordId": "海王星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "山峰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠穆朗玛峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "德纳里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "富士山",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄尔布鲁士峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "马卡鲁峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔戈里峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "典籍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魔法书",
+                    "icon": false
+                },
+                {
+                    "wordId": "法典",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷册",
+                    "icon": false
+                },
+                {
+                    "wordId": "地图集",
+                    "icon": false
+                },
+                {
+                    "wordId": "日记",
+                    "icon": false
+                },
+                {
+                    "wordId": "账簿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "嘉年华",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩天轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": true
+                },
+                {
+                    "wordId": "游行",
+                    "icon": true
+                },
+                {
+                    "wordId": "门票",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "漩涡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旋转",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋动",
+                    "icon": false
+                },
+                {
+                    "wordId": "涡流",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金字塔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石头",
+                    "icon": false
+                },
+                {
+                    "wordId": "斜坡",
+                    "icon": false
+                },
+                {
+                    "wordId": "石块",
+                    "icon": false
+                },
+                {
+                    "wordId": "陵墓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "稀树草原",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鬣狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "金合欢树",
+                    "icon": true
+                },
+                {
+                    "wordId": "猴面包树",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "镜子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平面镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "凸面镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "凹面镜",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "日记",
+        "海王星",
+        "中子",
+        "石头",
+        "螺旋",
+        "账簿",
+        "陵墓",
+        "嘉年华",
+        "化学",
+        "卷册",
+        "寿司",
+        "猴面包树",
+        "乔戈里峰",
+        "美食",
+        "珠穆朗玛峰",
+        "镜子",
+        "地球",
+        "质子",
+        "行星",
+        "凹面镜",
+        "鬣狗",
+        "平面镜",
+        "魔法书",
+        "西班牙海鲜饭",
+        "旋动",
+        "马卡鲁峰",
+        "厄尔布鲁士峰",
+        "古拉什",
+        "德纳里峰",
+        "凸面镜",
+        "恩潘纳达",
+        "金合欢树",
+        "门票",
+        "同位素",
+        "小丑",
+        "原子",
+        "旋转",
+        "木星",
+        "法典",
+        "地图集",
+        "催化剂",
+        "饺子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "水星",
+                "电子",
+                "酸橘汁腌鱼",
+                "富士山"
+            ]
+        },
+        {
+            "cards": [
+                "金星",
+                "斜坡",
+                "分子",
+                "肉丸",
+                "稀树草原"
+            ]
+        },
+        {
+            "cards": [
+                "天王星",
+                "游行",
+                "化合价",
+                "塔可",
+                "漩涡",
+                "土星"
+            ]
+        },
+        {
+            "cards": [
+                "典籍",
+                "山峰",
+                "石块",
+                "火星",
+                "金字塔",
+                "摩天轮",
+                "涡流"
+            ]
+        }
+    ]
+}

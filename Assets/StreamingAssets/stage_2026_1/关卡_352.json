@@ -1,0 +1,369 @@
+{
+    "levelId": 352,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "条纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "格子",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆点",
+                    "icon": false
+                },
+                {
+                    "wordId": "佩斯利",
+                    "icon": false
+                },
+                {
+                    "wordId": "人字形",
+                    "icon": false
+                },
+                {
+                    "wordId": "格子呢",
+                    "icon": false
+                },
+                {
+                    "wordId": "菱形图案",
+                    "icon": false
+                },
+                {
+                    "wordId": "马赛克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纹章学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纹章描述",
+                    "icon": false
+                },
+                {
+                    "wordId": "冠饰",
+                    "icon": false
+                },
+                {
+                    "wordId": "斗篷",
+                    "icon": false
+                },
+                {
+                    "wordId": "横带",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖带",
+                    "icon": false
+                },
+                {
+                    "wordId": "斜带",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶带",
+                    "icon": false
+                },
+                {
+                    "wordId": "图样",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海鲜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三文鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳕鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "金枪鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "大比目鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲭鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲷鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗非鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑线鳕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毛巾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "浴巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "面巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙滩巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶巾",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗碗巾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火箭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猎鹰火箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "联盟号",
+                    "icon": false
+                },
+                {
+                    "wordId": "宇宙神火箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿丽亚娜火箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "德尔塔火箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰坦火箭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水湾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "小湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "泻湖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法庭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "审判",
+                    "icon": true
+                },
+                {
+                    "wordId": "法官",
+                    "icon": true
+                },
+                {
+                    "wordId": "法官假发",
+                    "icon": true
+                },
+                {
+                    "wordId": "陪审团",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "矩阵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行",
+                    "icon": false
+                },
+                {
+                    "wordId": "列",
+                    "icon": false
+                },
+                {
+                    "wordId": "枢轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "秩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "尾码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "充满的",
+                    "icon": false
+                },
+                {
+                    "wordId": "进行中",
+                    "icon": false
+                },
+                {
+                    "wordId": "能够的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "角度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锐角",
+                    "icon": false
+                },
+                {
+                    "wordId": "钝角",
+                    "icon": false
+                },
+                {
+                    "wordId": "直角",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "洗碗巾",
+        "金枪鱼",
+        "手巾",
+        "水湾",
+        "钝角",
+        "海鲜",
+        "法官",
+        "枢轴",
+        "法官假发",
+        "鳕鱼",
+        "宇宙神火箭",
+        "能够的",
+        "审判",
+        "鲭鱼",
+        "竖带",
+        "纹章描述",
+        "德尔塔火箭",
+        "小湾",
+        "大比目鱼",
+        "格子呢",
+        "浴巾",
+        "海湾",
+        "峡湾",
+        "行",
+        "列",
+        "联盟号",
+        "横带",
+        "冠饰",
+        "顶带",
+        "斜带",
+        "法庭",
+        "毛巾",
+        "充满的",
+        "矩阵",
+        "秩",
+        "罗非鱼",
+        "面巾",
+        "猎鹰火箭",
+        "沙滩巾",
+        "泻湖",
+        "阿丽亚娜火箭",
+        "锐角"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "圆点",
+                "图样",
+                "斗篷",
+                "菱形图案"
+            ]
+        },
+        {
+            "cards": [
+                "黑线鳕",
+                "直角",
+                "佩斯利",
+                "人字形",
+                "纹章学"
+            ]
+        },
+        {
+            "cards": [
+                "火箭",
+                "鲷鱼",
+                "图案",
+                "尾码",
+                "进行中",
+                "陪审团"
+            ]
+        },
+        {
+            "cards": [
+                "格子",
+                "马赛克",
+                "条纹",
+                "三文鱼",
+                "角度",
+                "泰坦火箭",
+                "茶巾"
+            ]
+        }
+    ]
+}

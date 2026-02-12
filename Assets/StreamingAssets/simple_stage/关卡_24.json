@@ -1,0 +1,369 @@
+{
+    "levelId": 24,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "幻想生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "精灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "凤凰",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲲鹏",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": false
+                },
+                {
+                    "wordId": "九头蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "矮人",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "独角兽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "修辞手法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "明喻",
+                    "icon": false
+                },
+                {
+                    "wordId": "夸张",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐喻",
+                    "icon": false
+                },
+                {
+                    "wordId": "引用",
+                    "icon": false
+                },
+                {
+                    "wordId": "排比",
+                    "icon": false
+                },
+                {
+                    "wordId": "拟人",
+                    "icon": false
+                },
+                {
+                    "wordId": "典故",
+                    "icon": false
+                },
+                {
+                    "wordId": "寓言",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "狗品种",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梗犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "比格犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "贵宾犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "西班牙猎犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "哈士奇",
+                    "icon": true
+                },
+                {
+                    "wordId": "柯利犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "斗牛犬",
+                    "icon": true
+                },
+                {
+                    "wordId": "八哥犬",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "拍卖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "木槌",
+                    "icon": false
+                },
+                {
+                    "wordId": "拍卖品",
+                    "icon": false
+                },
+                {
+                    "wordId": "出价",
+                    "icon": false
+                },
+                {
+                    "wordId": "成交",
+                    "icon": false
+                },
+                {
+                    "wordId": "展柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "竞拍者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生肖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "子鼠",
+                    "icon": false
+                },
+                {
+                    "wordId": "丑牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "寅虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "辰龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "午马",
+                    "icon": false
+                },
+                {
+                    "wordId": "卯兔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酸味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "醋",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸腌菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗望子",
+                    "icon": false
+                },
+                {
+                    "wordId": "泡菜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "整理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "衣架",
+                    "icon": false
+                },
+                {
+                    "wordId": "架子",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽屉",
+                    "icon": false
+                },
+                {
+                    "wordId": "衣服",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "豆类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "豌豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "扁豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "红豆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "成对物品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "袜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "双胞胎",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑雪板",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "露营",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "帐篷",
+                    "icon": true
+                },
+                {
+                    "wordId": "营火",
+                    "icon": true
+                },
+                {
+                    "wordId": "吊床",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "典故",
+        "架子",
+        "柯利犬",
+        "隐喻",
+        "引用",
+        "寅虎",
+        "酸腌菜",
+        "罗望子",
+        "寓言",
+        "黄豆",
+        "营火",
+        "凤凰",
+        "独角兽",
+        "拍卖",
+        "泡菜",
+        "夸张",
+        "袜子",
+        "九头蛇",
+        "拟人",
+        "拍卖品",
+        "帐篷",
+        "西班牙猎犬",
+        "矮人",
+        "子鼠",
+        "比格犬",
+        "豆类",
+        "明喻",
+        "出价",
+        "梗犬",
+        "醋",
+        "展柜",
+        "衣架",
+        "狗品种",
+        "辰龙",
+        "狮鹫",
+        "生肖",
+        "排比",
+        "衣服",
+        "豌豆",
+        "吊床",
+        "修辞手法",
+        "八哥犬"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "扁豆",
+                "滑雪板",
+                "哈士奇",
+                "午马"
+            ]
+        },
+        {
+            "cards": [
+                "精灵",
+                "幻想生物",
+                "龙",
+                "露营",
+                "酸味"
+            ]
+        },
+        {
+            "cards": [
+                "竞拍者",
+                "卯兔",
+                "鲲鹏",
+                "木槌",
+                "红豆",
+                "成对物品"
+            ]
+        },
+        {
+            "cards": [
+                "贵宾犬",
+                "丑牛",
+                "双胞胎",
+                "整理",
+                "斗牛犬",
+                "成交",
+                "抽屉"
+            ]
+        }
+    ]
+}

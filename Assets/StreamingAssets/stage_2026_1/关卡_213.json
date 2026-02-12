@@ -1,0 +1,369 @@
+{
+    "levelId": 213,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "计程车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乘车",
+                    "icon": false
+                },
+                {
+                    "wordId": "车费",
+                    "icon": false
+                },
+                {
+                    "wordId": "司机",
+                    "icon": false
+                },
+                {
+                    "wordId": "计价器",
+                    "icon": false
+                },
+                {
+                    "wordId": "许可证",
+                    "icon": false
+                },
+                {
+                    "wordId": "来福车",
+                    "icon": false
+                },
+                {
+                    "wordId": "收据",
+                    "icon": false
+                },
+                {
+                    "wordId": "通勤者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "牙齿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "微笑",
+                    "icon": true
+                },
+                {
+                    "wordId": "颌骨",
+                    "icon": true
+                },
+                {
+                    "wordId": "牙套",
+                    "icon": true
+                },
+                {
+                    "wordId": "牙刷",
+                    "icon": true
+                },
+                {
+                    "wordId": "牙膏",
+                    "icon": true
+                },
+                {
+                    "wordId": "牙签",
+                    "icon": true
+                },
+                {
+                    "wordId": "牙仙",
+                    "icon": true
+                },
+                {
+                    "wordId": "臼齿",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "网络",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蠕虫病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "木马病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "间谍软件",
+                    "icon": false
+                },
+                {
+                    "wordId": "防火墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "网线",
+                    "icon": false
+                },
+                {
+                    "wordId": "系统",
+                    "icon": false
+                },
+                {
+                    "wordId": "路由器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宽慰",
+                    "icon": false
+                },
+                {
+                    "wordId": "嫉妒",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻木",
+                    "icon": false
+                },
+                {
+                    "wordId": "戏谑",
+                    "icon": false
+                },
+                {
+                    "wordId": "敬畏",
+                    "icon": false
+                },
+                {
+                    "wordId": "极乐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "问答",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冷知识",
+                    "icon": false
+                },
+                {
+                    "wordId": "提示",
+                    "icon": false
+                },
+                {
+                    "wordId": "猜测",
+                    "icon": false
+                },
+                {
+                    "wordId": "选项",
+                    "icon": false
+                },
+                {
+                    "wordId": "选择",
+                    "icon": false
+                },
+                {
+                    "wordId": "得分",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神经",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纤维",
+                    "icon": false
+                },
+                {
+                    "wordId": "神经冲动",
+                    "icon": false
+                },
+                {
+                    "wordId": "突触",
+                    "icon": false
+                },
+                {
+                    "wordId": "反射",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "心血管",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脉搏",
+                    "icon": false
+                },
+                {
+                    "wordId": "血管",
+                    "icon": false
+                },
+                {
+                    "wordId": "主动脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "静脉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "档夹",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸张",
+                    "icon": true
+                },
+                {
+                    "wordId": "账簿",
+                    "icon": true
+                },
+                {
+                    "wordId": "收银机",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "品牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "身份",
+                    "icon": false
+                },
+                {
+                    "wordId": "口号",
+                    "icon": false
+                },
+                {
+                    "wordId": "标识",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "僧侣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "隐士",
+                    "icon": false
+                },
+                {
+                    "wordId": "朝圣者",
+                    "icon": false
+                },
+                {
+                    "wordId": "僧袍",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "僧袍",
+        "来福车",
+        "乘车",
+        "突触",
+        "网络",
+        "微笑",
+        "麻木",
+        "收据",
+        "计程车",
+        "牙套",
+        "防火墙",
+        "网线",
+        "标识",
+        "身份",
+        "宽慰",
+        "血管",
+        "纤维",
+        "情绪",
+        "主动脉",
+        "车费",
+        "戏谑",
+        "嫉妒",
+        "反射",
+        "路由器",
+        "司机",
+        "臼齿",
+        "神经冲动",
+        "冷知识",
+        "敬畏",
+        "牙刷",
+        "选择",
+        "系统",
+        "间谍软件",
+        "极乐",
+        "档夹",
+        "纸张",
+        "心血管",
+        "猜测",
+        "木马病毒",
+        "问答",
+        "口号",
+        "许可证"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "密码",
+                "提示",
+                "选项",
+                "牙齿"
+            ]
+        },
+        {
+            "cards": [
+                "职员",
+                "账簿",
+                "牙签",
+                "得分",
+                "僧侣"
+            ]
+        },
+        {
+            "cards": [
+                "静脉",
+                "牙膏",
+                "脉搏",
+                "隐士",
+                "蠕虫病毒",
+                "计价器"
+            ]
+        },
+        {
+            "cards": [
+                "神经",
+                "通勤者",
+                "颌骨",
+                "朝圣者",
+                "收银机",
+                "品牌",
+                "牙仙"
+            ]
+        }
+    ]
+}

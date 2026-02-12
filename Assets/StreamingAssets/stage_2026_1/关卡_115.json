@@ -1,0 +1,369 @@
+{
+    "levelId": 115,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "货币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "里拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "比索",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢比",
+                    "icon": false
+                },
+                {
+                    "wordId": "克朗",
+                    "icon": false
+                },
+                {
+                    "wordId": "新谢克尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "卢布",
+                    "icon": false
+                },
+                {
+                    "wordId": "法郎",
+                    "icon": false
+                },
+                {
+                    "wordId": "兹罗提",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "商业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "税收",
+                    "icon": false
+                },
+                {
+                    "wordId": "成本",
+                    "icon": false
+                },
+                {
+                    "wordId": "消费者",
+                    "icon": false
+                },
+                {
+                    "wordId": "品牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "利润",
+                    "icon": false
+                },
+                {
+                    "wordId": "公司",
+                    "icon": false
+                },
+                {
+                    "wordId": "金融",
+                    "icon": false
+                },
+                {
+                    "wordId": "收入",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "条纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "人字形",
+                    "icon": true
+                },
+                {
+                    "wordId": "佩斯利",
+                    "icon": true
+                },
+                {
+                    "wordId": "花卉",
+                    "icon": true
+                },
+                {
+                    "wordId": "方格",
+                    "icon": true
+                },
+                {
+                    "wordId": "菱形花纹",
+                    "icon": true
+                },
+                {
+                    "wordId": "格子",
+                    "icon": true
+                },
+                {
+                    "wordId": "波点",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "噪音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大声的",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘈杂声",
+                    "icon": false
+                },
+                {
+                    "wordId": "言语",
+                    "icon": false
+                },
+                {
+                    "wordId": "声带",
+                    "icon": false
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": false
+                },
+                {
+                    "wordId": "听力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钢琴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑键",
+                    "icon": false
+                },
+                {
+                    "wordId": "白键",
+                    "icon": false
+                },
+                {
+                    "wordId": "琴键",
+                    "icon": false
+                },
+                {
+                    "wordId": "踏板",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢琴家",
+                    "icon": false
+                },
+                {
+                    "wordId": "手指",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "线条",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "之字形",
+                    "icon": false
+                },
+                {
+                    "wordId": "虚线",
+                    "icon": false
+                },
+                {
+                    "wordId": "波浪线",
+                    "icon": false
+                },
+                {
+                    "wordId": "曲线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "虚构",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "写作",
+                    "icon": false
+                },
+                {
+                    "wordId": "内容",
+                    "icon": false
+                },
+                {
+                    "wordId": "科幻",
+                    "icon": false
+                },
+                {
+                    "wordId": "创作",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "玩偶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布娃娃",
+                    "icon": true
+                },
+                {
+                    "wordId": "娃娃屋",
+                    "icon": true
+                },
+                {
+                    "wordId": "芭比娃娃",
+                    "icon": true
+                },
+                {
+                    "wordId": "瓷娃娃",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "尊巴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "有氧运动",
+                    "icon": false
+                },
+                {
+                    "wordId": "锻炼",
+                    "icon": false
+                },
+                {
+                    "wordId": "健身",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "华尔滋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三拍子",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞步",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥地利",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "卢布",
+        "线条",
+        "声带",
+        "手指",
+        "曲线",
+        "钢琴",
+        "大声的",
+        "言语",
+        "克朗",
+        "法郎",
+        "虚构",
+        "瓷娃娃",
+        "人字形",
+        "芭比娃娃",
+        "听力",
+        "舞步",
+        "品牌",
+        "琴键",
+        "有氧运动",
+        "娃娃屋",
+        "公司",
+        "消费者",
+        "扬声器",
+        "噪音",
+        "内容",
+        "利润",
+        "金融",
+        "兹罗提",
+        "白键",
+        "三拍子",
+        "收入",
+        "写作",
+        "科幻",
+        "波浪线",
+        "虚线",
+        "之字形",
+        "成本",
+        "踏板",
+        "嘈杂声",
+        "华尔滋",
+        "黑键",
+        "条纹"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "锻炼",
+                "花卉",
+                "方格",
+                "波点"
+            ]
+        },
+        {
+            "cards": [
+                "货币",
+                "商业",
+                "格子",
+                "里拉",
+                "比索"
+            ]
+        },
+        {
+            "cards": [
+                "新谢克尔",
+                "健身",
+                "玩偶",
+                "佩斯利",
+                "奥地利",
+                "菱形花纹"
+            ]
+        },
+        {
+            "cards": [
+                "税收",
+                "图案",
+                "布娃娃",
+                "卢比",
+                "钢琴家",
+                "创作",
+                "尊巴"
+            ]
+        }
+    ]
+}

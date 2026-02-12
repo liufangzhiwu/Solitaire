@@ -1,0 +1,217 @@
+{
+    "levelId": 250,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "音素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "母音",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼻音",
+                    "icon": false
+                },
+                {
+                    "wordId": "齿音",
+                    "icon": false
+                },
+                {
+                    "wordId": "唇音",
+                    "icon": false
+                },
+                {
+                    "wordId": "腭音",
+                    "icon": false
+                },
+                {
+                    "wordId": "喉音",
+                    "icon": false
+                },
+                {
+                    "wordId": "咝音",
+                    "icon": false
+                },
+                {
+                    "wordId": "口音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小说元素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "悬疑",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾声",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐喻",
+                    "icon": false
+                },
+                {
+                    "wordId": "神话体系",
+                    "icon": false
+                },
+                {
+                    "wordId": "反乌托邦",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌托邦",
+                    "icon": false
+                },
+                {
+                    "wordId": "中篇小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "序章",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "动画制作",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手翻书",
+                    "icon": false
+                },
+                {
+                    "wordId": "动态脚本",
+                    "icon": false
+                },
+                {
+                    "wordId": "中间帧",
+                    "icon": false
+                },
+                {
+                    "wordId": "关键帧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "终点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旗杆",
+                    "icon": true
+                },
+                {
+                    "wordId": "旗手",
+                    "icon": true
+                },
+                {
+                    "wordId": "挥旗",
+                    "icon": true
+                },
+                {
+                    "wordId": "信号",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "历法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "儒略历",
+                    "icon": false
+                },
+                {
+                    "wordId": "将临期",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴历",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "车型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小型货车",
+                    "icon": false
+                },
+                {
+                    "wordId": "轿车",
+                    "icon": false
+                },
+                {
+                    "wordId": "混合动力车",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "中间帧",
+        "小型货车",
+        "中篇小说",
+        "反乌托邦",
+        "隐喻",
+        "悬疑",
+        "喉音",
+        "手翻书",
+        "腭音",
+        "混合动力车",
+        "咝音",
+        "口音",
+        "旗杆",
+        "鼻音",
+        "动态脚本",
+        "信号",
+        "尾声",
+        "历法",
+        "挥旗",
+        "母音",
+        "乌托邦",
+        "动画制作",
+        "终点",
+        "齿音"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "小说元素",
+                "旗手",
+                "序章"
+            ]
+        },
+        {
+            "cards": [
+                "将临期",
+                "阴历",
+                "神话体系",
+                "车型"
+            ]
+        },
+        {
+            "cards": [
+                "音素",
+                "轿车",
+                "儒略历",
+                "关键帧",
+                "唇音"
+            ]
+        }
+    ]
+}

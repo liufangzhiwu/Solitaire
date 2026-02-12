@@ -1,0 +1,369 @@
+{
+    "levelId": 155,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "歌词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "词语",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "副歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "主歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "文本",
+                    "icon": false
+                },
+                {
+                    "wordId": "语言",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐喻",
+                    "icon": false
+                },
+                {
+                    "wordId": "意象",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电梯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "升降机",
+                    "icon": false
+                },
+                {
+                    "wordId": "井道",
+                    "icon": false
+                },
+                {
+                    "wordId": "楼层",
+                    "icon": false
+                },
+                {
+                    "wordId": "地面",
+                    "icon": false
+                },
+                {
+                    "wordId": "缆绳",
+                    "icon": false
+                },
+                {
+                    "wordId": "电机",
+                    "icon": false
+                },
+                {
+                    "wordId": "操作员",
+                    "icon": false
+                },
+                {
+                    "wordId": "乘坐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "帽子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸭舌帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "帽檐",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "无檐帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "女帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨西哥宽边帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "德比帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "软呢帽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "新娘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花束",
+                    "icon": true
+                },
+                {
+                    "wordId": "头纱",
+                    "icon": true
+                },
+                {
+                    "wordId": "手拿包",
+                    "icon": true
+                },
+                {
+                    "wordId": "婚戒",
+                    "icon": true
+                },
+                {
+                    "wordId": "束身衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "发簪",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "风筝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "飞行",
+                    "icon": false
+                },
+                {
+                    "wordId": "翱翔",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑翔",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂浮",
+                    "icon": false
+                },
+                {
+                    "wordId": "放飞",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉扯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "孔雀",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雌孔雀",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼斑",
+                    "icon": false
+                },
+                {
+                    "wordId": "多彩的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "核心",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树干",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨骼",
+                    "icon": false
+                },
+                {
+                    "wordId": "细胞",
+                    "icon": false
+                },
+                {
+                    "wordId": "苹果核",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "毛巾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浸湿",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸收",
+                    "icon": false
+                },
+                {
+                    "wordId": "擦拭",
+                    "icon": false
+                },
+                {
+                    "wordId": "悬挂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黄油",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "搅拌",
+                    "icon": false
+                },
+                {
+                    "wordId": "脂肪",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂抹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "耳机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "耳机盒",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳机麦克风",
+                    "icon": true
+                },
+                {
+                    "wordId": "音量控制",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "发簪",
+        "苹果核",
+        "搅拌",
+        "擦拭",
+        "帽子",
+        "头纱",
+        "意象",
+        "束身衣",
+        "乘坐",
+        "隐喻",
+        "涂抹",
+        "飞行",
+        "眼斑",
+        "主歌",
+        "楼层",
+        "文本",
+        "新娘",
+        "翱翔",
+        "雌孔雀",
+        "操作员",
+        "歌词",
+        "羽毛",
+        "吸收",
+        "电梯",
+        "升降机",
+        "花束",
+        "歌曲",
+        "漂浮",
+        "墨西哥宽边帽",
+        "婚戒",
+        "手拿包",
+        "树干",
+        "拉扯",
+        "悬挂",
+        "多彩的",
+        "风筝",
+        "词语",
+        "副歌",
+        "缆绳",
+        "滑翔",
+        "耳机麦克风",
+        "语言"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "帽檐",
+                "音量控制",
+                "耳机盒",
+                "浸湿"
+            ]
+        },
+        {
+            "cards": [
+                "无檐帽",
+                "骨骼",
+                "软呢帽",
+                "核心",
+                "女帽"
+            ]
+        },
+        {
+            "cards": [
+                "耳机",
+                "细胞",
+                "井道",
+                "羽毛帽",
+                "鸭舌帽",
+                "毛巾"
+            ]
+        },
+        {
+            "cards": [
+                "地面",
+                "脂肪",
+                "德比帽",
+                "孔雀",
+                "电机",
+                "放飞",
+                "黄油"
+            ]
+        }
+    ]
+}

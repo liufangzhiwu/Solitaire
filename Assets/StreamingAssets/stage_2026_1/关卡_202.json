@@ -1,0 +1,369 @@
+{
+    "levelId": 202,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "野生动物观光",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大象",
+                    "icon": true
+                },
+                {
+                    "wordId": "老虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "长颈鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "双筒望远镜",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉普车",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮子",
+                    "icon": true
+                },
+                {
+                    "wordId": "犀牛",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "遗传学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "基因",
+                    "icon": false
+                },
+                {
+                    "wordId": "种族",
+                    "icon": false
+                },
+                {
+                    "wordId": "DNA",
+                    "icon": false
+                },
+                {
+                    "wordId": "基因组",
+                    "icon": false
+                },
+                {
+                    "wordId": "RNA",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "遗传",
+                    "icon": false
+                },
+                {
+                    "wordId": "突变",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "合同",
+                    "icon": false
+                },
+                {
+                    "wordId": "条约",
+                    "icon": false
+                },
+                {
+                    "wordId": "收据",
+                    "icon": false
+                },
+                {
+                    "wordId": "许可证",
+                    "icon": false
+                },
+                {
+                    "wordId": "发票",
+                    "icon": false
+                },
+                {
+                    "wordId": "文凭",
+                    "icon": false
+                },
+                {
+                    "wordId": "印章",
+                    "icon": false
+                },
+                {
+                    "wordId": "报告",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "音乐流派",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "科技舞曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "浩室音乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓打贝斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "回响贝斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "爵士乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵魂乐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "预测",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "未来",
+                    "icon": false
+                },
+                {
+                    "wordId": "可能",
+                    "icon": false
+                },
+                {
+                    "wordId": "预报",
+                    "icon": false
+                },
+                {
+                    "wordId": "预言",
+                    "icon": false
+                },
+                {
+                    "wordId": "趋势",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔罗牌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "常见的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "共用的",
+                    "icon": false
+                },
+                {
+                    "wordId": "通常的",
+                    "icon": false
+                },
+                {
+                    "wordId": "琐碎的",
+                    "icon": false
+                },
+                {
+                    "wordId": "公共的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舌头",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "舔",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘴巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "味道",
+                    "icon": false
+                },
+                {
+                    "wordId": "说出",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罐头食品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "桃子",
+                    "icon": true
+                },
+                {
+                    "wordId": "蘑菇",
+                    "icon": true
+                },
+                {
+                    "wordId": "橄榄",
+                    "icon": true
+                },
+                {
+                    "wordId": "豆子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "踏板",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钢琴踏板",
+                    "icon": true
+                },
+                {
+                    "wordId": "自行车踏板",
+                    "icon": true
+                },
+                {
+                    "wordId": "汽车踏板",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "投票",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赞成",
+                    "icon": false
+                },
+                {
+                    "wordId": "反对",
+                    "icon": false
+                },
+                {
+                    "wordId": "弃权",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "共用的",
+        "鼓打贝斯",
+        "可能",
+        "长颈鹿",
+        "斑马",
+        "塔罗牌",
+        "DNA",
+        "自行车踏板",
+        "舔",
+        "回响贝斯",
+        "公共的",
+        "反对",
+        "印章",
+        "灵魂乐",
+        "螺旋",
+        "预报",
+        "发票",
+        "科技舞曲",
+        "投票",
+        "报告",
+        "踏板",
+        "钢琴踏板",
+        "赞成",
+        "嘴巴",
+        "吉普车",
+        "豆子",
+        "RNA",
+        "老虎",
+        "遗传学",
+        "音乐流派",
+        "合同",
+        "突变",
+        "爵士乐",
+        "说出",
+        "汽车踏板",
+        "预言",
+        "遗传",
+        "琐碎的",
+        "狮子",
+        "条约",
+        "野生动物观光",
+        "种族"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "弃权",
+                "浩室音乐",
+                "大象",
+                "蘑菇"
+            ]
+        },
+        {
+            "cards": [
+                "常见的",
+                "通常的",
+                "舌头",
+                "许可证",
+                "预测"
+            ]
+        },
+        {
+            "cards": [
+                "文凭",
+                "档",
+                "橄榄",
+                "犀牛",
+                "桃子",
+                "趋势"
+            ]
+        },
+        {
+            "cards": [
+                "味道",
+                "基因",
+                "罐头食品",
+                "未来",
+                "双筒望远镜",
+                "收据",
+                "基因组"
+            ]
+        }
+    ]
+}

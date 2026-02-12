@@ -1,0 +1,369 @@
+{
+    "levelId": 242,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "一些",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "少数",
+                    "icon": false
+                },
+                {
+                    "wordId": "不多",
+                    "icon": false
+                },
+                {
+                    "wordId": "一串",
+                    "icon": false
+                },
+                {
+                    "wordId": "大部分",
+                    "icon": false
+                },
+                {
+                    "wordId": "部分",
+                    "icon": false
+                },
+                {
+                    "wordId": "数量",
+                    "icon": false
+                },
+                {
+                    "wordId": "一把",
+                    "icon": false
+                },
+                {
+                    "wordId": "几个",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颗粒状",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙子",
+                    "icon": false
+                },
+                {
+                    "wordId": "砾石",
+                    "icon": false
+                },
+                {
+                    "wordId": "大米",
+                    "icon": false
+                },
+                {
+                    "wordId": "盐",
+                    "icon": false
+                },
+                {
+                    "wordId": "扁豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹰嘴豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "高粱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "厨具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铲子",
+                    "icon": true
+                },
+                {
+                    "wordId": "削皮器",
+                    "icon": true
+                },
+                {
+                    "wordId": "磨碎器",
+                    "icon": true
+                },
+                {
+                    "wordId": "打蛋器",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹子",
+                    "icon": true
+                },
+                {
+                    "wordId": "开罐器",
+                    "icon": true
+                },
+                {
+                    "wordId": "长柄勺",
+                    "icon": true
+                },
+                {
+                    "wordId": "筛子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "短的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "低矮",
+                    "icon": false
+                },
+                {
+                    "wordId": "简短",
+                    "icon": false
+                },
+                {
+                    "wordId": "微小",
+                    "icon": false
+                },
+                {
+                    "wordId": "简洁",
+                    "icon": false
+                },
+                {
+                    "wordId": "短暂",
+                    "icon": false
+                },
+                {
+                    "wordId": "删节的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洗礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "葬礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂欢节",
+                    "icon": false
+                },
+                {
+                    "wordId": "斋戒",
+                    "icon": false
+                },
+                {
+                    "wordId": "安息日",
+                    "icon": false
+                },
+                {
+                    "wordId": "婚礼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "安防",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闭路电视",
+                    "icon": true
+                },
+                {
+                    "wordId": "锁",
+                    "icon": true
+                },
+                {
+                    "wordId": "警卫",
+                    "icon": true
+                },
+                {
+                    "wordId": "保险箱",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "鸟鸣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "啾啾声",
+                    "icon": false
+                },
+                {
+                    "wordId": "唧唧声",
+                    "icon": false
+                },
+                {
+                    "wordId": "吱喳声",
+                    "icon": false
+                },
+                {
+                    "wordId": "颤音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜗牛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛞蝓",
+                    "icon": false
+                },
+                {
+                    "wordId": "食用蜗牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "软体动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "壳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "色调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "色相",
+                    "icon": false
+                },
+                {
+                    "wordId": "淡色",
+                    "icon": false
+                },
+                {
+                    "wordId": "色度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "结",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蝴蝶结",
+                    "icon": false
+                },
+                {
+                    "wordId": "缠结",
+                    "icon": false
+                },
+                {
+                    "wordId": "系结",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "壳",
+        "微小",
+        "缠结",
+        "警卫",
+        "一些",
+        "系结",
+        "啾啾声",
+        "颗粒状",
+        "安防",
+        "安息日",
+        "筛子",
+        "短暂",
+        "简洁",
+        "蛞蝓",
+        "简短",
+        "删节的",
+        "结",
+        "色度",
+        "大部分",
+        "唧唧声",
+        "几个",
+        "吱喳声",
+        "鹰嘴豆",
+        "保险箱",
+        "狂欢节",
+        "色相",
+        "斋戒",
+        "部分",
+        "葬礼",
+        "长柄勺",
+        "少数",
+        "开罐器",
+        "仪式",
+        "一把",
+        "盐",
+        "打蛋器",
+        "铲子",
+        "蝴蝶结",
+        "沙子",
+        "颤音",
+        "削皮器",
+        "食用蜗牛"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "数量",
+                "扁豆",
+                "闭路电视",
+                "高粱"
+            ]
+        },
+        {
+            "cards": [
+                "短的",
+                "砾石",
+                "一串",
+                "不多",
+                "软体动物"
+            ]
+        },
+        {
+            "cards": [
+                "低矮",
+                "大米",
+                "蜗牛",
+                "洗礼",
+                "夹子",
+                "锁"
+            ]
+        },
+        {
+            "cards": [
+                "色调",
+                "磨碎器",
+                "糖",
+                "淡色",
+                "鸟鸣",
+                "婚礼",
+                "厨具"
+            ]
+        }
+    ]
+}

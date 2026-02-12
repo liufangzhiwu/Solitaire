@@ -1,0 +1,521 @@
+{
+    "levelId": 86,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "木制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椅子",
+                    "icon": false
+                },
+                {
+                    "wordId": "桌子",
+                    "icon": false
+                },
+                {
+                    "wordId": "床",
+                    "icon": false
+                },
+                {
+                    "wordId": "衣柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "橱柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "门",
+                    "icon": false
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": false
+                },
+                {
+                    "wordId": "梳妆台",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "靴子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮革",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉链",
+                    "icon": false
+                },
+                {
+                    "wordId": "防水",
+                    "icon": false
+                },
+                {
+                    "wordId": "保暖",
+                    "icon": false
+                },
+                {
+                    "wordId": "高跟",
+                    "icon": false
+                },
+                {
+                    "wordId": "系带",
+                    "icon": false
+                },
+                {
+                    "wordId": "舒适",
+                    "icon": false
+                },
+                {
+                    "wordId": "耐磨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电缆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电线",
+                    "icon": false
+                },
+                {
+                    "wordId": "软线",
+                    "icon": false
+                },
+                {
+                    "wordId": "插头",
+                    "icon": false
+                },
+                {
+                    "wordId": "插孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "管道",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧姆",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏特",
+                    "icon": false
+                },
+                {
+                    "wordId": "线圈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "基因组",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "基因",
+                    "icon": false
+                },
+                {
+                    "wordId": "DNA",
+                    "icon": false
+                },
+                {
+                    "wordId": "细胞",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋状",
+                    "icon": false
+                },
+                {
+                    "wordId": "性状",
+                    "icon": false
+                },
+                {
+                    "wordId": "突变",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪接",
+                    "icon": false
+                },
+                {
+                    "wordId": "等位基因",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "歌手",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麦克风架",
+                    "icon": true
+                },
+                {
+                    "wordId": "音乐奖项",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑胶唱片",
+                    "icon": true
+                },
+                {
+                    "wordId": "音符",
+                    "icon": true
+                },
+                {
+                    "wordId": "乐队",
+                    "icon": true
+                },
+                {
+                    "wordId": "观众",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "香料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风味",
+                    "icon": false
+                },
+                {
+                    "wordId": "生姜",
+                    "icon": false
+                },
+                {
+                    "wordId": "柑橘皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "草本香料",
+                    "icon": false
+                },
+                {
+                    "wordId": "辣椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "循环",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轮子",
+                    "icon": false
+                },
+                {
+                    "wordId": "环",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋转",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "月亮",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灯具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打开",
+                    "icon": false
+                },
+                {
+                    "wordId": "关闭",
+                    "icon": false
+                },
+                {
+                    "wordId": "插入",
+                    "icon": false
+                },
+                {
+                    "wordId": "拔出",
+                    "icon": false
+                },
+                {
+                    "wordId": "安装",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笔记本电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "智能手表",
+                    "icon": true
+                },
+                {
+                    "wordId": "VR头盔",
+                    "icon": true
+                },
+                {
+                    "wordId": "无人机",
+                    "icon": true
+                },
+                {
+                    "wordId": "扫地机器人",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地铁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "列车",
+                    "icon": false
+                },
+                {
+                    "wordId": "隧道",
+                    "icon": false
+                },
+                {
+                    "wordId": "到站",
+                    "icon": false
+                },
+                {
+                    "wordId": "刹车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "汽车旅馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钥匙",
+                    "icon": false
+                },
+                {
+                    "wordId": "霓虹灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "高速公路",
+                    "icon": false
+                },
+                {
+                    "wordId": "行李",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "草甸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "野花",
+                    "icon": false
+                },
+                {
+                    "wordId": "青草",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿地",
+                    "icon": false
+                },
+                {
+                    "wordId": "栖息",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "橄榄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橄榄油",
+                    "icon": true
+                },
+                {
+                    "wordId": "披萨",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙拉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "小提琴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "弓弦",
+                    "icon": false
+                },
+                {
+                    "wordId": "音孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "琴弦",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "轮子",
+        "电缆",
+        "音符",
+        "刹车",
+        "旋转",
+        "木制品",
+        "基因组",
+        "软线",
+        "拔出",
+        "弓弦",
+        "插入",
+        "行李",
+        "安装",
+        "长凳",
+        "柑橘皮",
+        "歌手",
+        "青草",
+        "插孔",
+        "风味",
+        "高速公路",
+        "耐磨",
+        "关闭",
+        "等位基因",
+        "沙拉",
+        "音孔",
+        "舒适",
+        "无人机",
+        "皮革",
+        "灯具",
+        "性状",
+        "管道",
+        "栖息",
+        "伏特",
+        "防水",
+        "剪接",
+        "橄榄油",
+        "列车",
+        "扫地机器人",
+        "桌子",
+        "乐队",
+        "智能手表",
+        "VR头盔",
+        "基因",
+        "笔记本电脑",
+        "DNA",
+        "螺旋",
+        "汽车旅馆",
+        "到站",
+        "草本香料",
+        "门",
+        "月亮",
+        "麦克风架",
+        "保暖",
+        "野花",
+        "丁香",
+        "黑胶唱片",
+        "靴子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "打开",
+                "小工具",
+                "观众",
+                "生姜",
+                "香料"
+            ]
+        },
+        {
+            "cards": [
+                "地铁",
+                "电线",
+                "插头",
+                "隧道",
+                "橄榄",
+                "霓虹灯"
+            ]
+        },
+        {
+            "cards": [
+                "循环",
+                "螺旋状",
+                "音乐奖项",
+                "环",
+                "线圈",
+                "欧姆",
+                "细胞"
+            ]
+        },
+        {
+            "cards": [
+                "湿地",
+                "橱柜",
+                "高跟",
+                "拉链",
+                "衣柜",
+                "钥匙",
+                "草甸",
+                "琴弦"
+            ]
+        },
+        {
+            "cards": [
+                "突变",
+                "床",
+                "椅子",
+                "圆圈",
+                "系带",
+                "披萨",
+                "小提琴",
+                "辣椒",
+                "梳妆台"
+            ]
+        }
+    ]
+}

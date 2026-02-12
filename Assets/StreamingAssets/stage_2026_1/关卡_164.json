@@ -1,0 +1,369 @@
+{
+    "levelId": 164,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水星",
+                    "icon": false
+                },
+                {
+                    "wordId": "金星",
+                    "icon": false
+                },
+                {
+                    "wordId": "地球",
+                    "icon": false
+                },
+                {
+                    "wordId": "火星",
+                    "icon": false
+                },
+                {
+                    "wordId": "木星",
+                    "icon": false
+                },
+                {
+                    "wordId": "土星",
+                    "icon": false
+                },
+                {
+                    "wordId": "天王星",
+                    "icon": false
+                },
+                {
+                    "wordId": "海王星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "凤凰",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": false
+                },
+                {
+                    "wordId": "九头蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "珀伽索斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "刻耳柏洛斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": false
+                },
+                {
+                    "wordId": "独眼巨人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "哺乳动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "长颈鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "大象",
+                    "icon": true
+                },
+                {
+                    "wordId": "袋鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "海豚",
+                    "icon": true
+                },
+                {
+                    "wordId": "松鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "猎豹",
+                    "icon": true
+                },
+                {
+                    "wordId": "瞪羚",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "火山现象",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "岩浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山碎屑",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山泥流",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山砾",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山灰沉降",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "真菌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蘑菇",
+                    "icon": false
+                },
+                {
+                    "wordId": "松露",
+                    "icon": false
+                },
+                {
+                    "wordId": "羊肚菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "香菇",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛肝菌",
+                    "icon": false
+                },
+                {
+                    "wordId": "马勃菌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蚂蚁",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜜蜂",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛾",
+                    "icon": true
+                },
+                {
+                    "wordId": "黄蜂",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "香草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "罗勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "百里香",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄荷",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼠尾草",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黄金",
+                    "icon": false
+                },
+                {
+                    "wordId": "白银",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "表情符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笑脸",
+                    "icon": true
+                },
+                {
+                    "wordId": "爱心",
+                    "icon": true
+                },
+                {
+                    "wordId": "大拇指",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "甜食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "糖果",
+                    "icon": false
+                },
+                {
+                    "wordId": "太妃糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "杏仁糖",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大象",
+        "铜",
+        "大拇指",
+        "香菇",
+        "狮鹫",
+        "百里香",
+        "龙",
+        "太妃糖",
+        "豹",
+        "猎豹",
+        "鼠尾草",
+        "蜜蜂",
+        "铁",
+        "地球",
+        "天王星",
+        "岩浆",
+        "水星",
+        "真菌",
+        "神话生物",
+        "笑脸",
+        "金星",
+        "北海巨妖",
+        "杏仁糖",
+        "松露",
+        "蛾",
+        "罗勒",
+        "牛肝菌",
+        "松鼠",
+        "浮岩",
+        "羊肚菌",
+        "香草",
+        "金属",
+        "白银",
+        "火山泥流",
+        "珀伽索斯",
+        "袋鼠",
+        "昆虫",
+        "马勃菌",
+        "薄荷",
+        "蘑菇",
+        "木星",
+        "凤凰"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "甜食",
+                "表情符号",
+                "火山现象",
+                "独眼巨人"
+            ]
+        },
+        {
+            "cards": [
+                "土星",
+                "蚂蚁",
+                "刻耳柏洛斯",
+                "爱心",
+                "火星"
+            ]
+        },
+        {
+            "cards": [
+                "哺乳动物",
+                "行星",
+                "黄蜂",
+                "火山砾",
+                "长颈鹿",
+                "瞪羚"
+            ]
+        },
+        {
+            "cards": [
+                "糖果",
+                "火山碎屑",
+                "黄金",
+                "海王星",
+                "火山灰沉降",
+                "九头蛇",
+                "海豚"
+            ]
+        }
+    ]
+}

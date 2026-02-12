@@ -1,0 +1,553 @@
+{
+    "levelId": 225,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 220,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "细胞学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "囊泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "核糖体",
+                    "icon": false
+                },
+                {
+                    "wordId": "液泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "细胞膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "溶酶体",
+                    "icon": false
+                },
+                {
+                    "wordId": "分裂",
+                    "icon": false
+                },
+                {
+                    "wordId": "有丝分裂",
+                    "icon": false
+                },
+                {
+                    "wordId": "细胞核",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "预算",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "收入",
+                    "icon": false
+                },
+                {
+                    "wordId": "支出",
+                    "icon": false
+                },
+                {
+                    "wordId": "赤字",
+                    "icon": false
+                },
+                {
+                    "wordId": "资产",
+                    "icon": false
+                },
+                {
+                    "wordId": "债务",
+                    "icon": false
+                },
+                {
+                    "wordId": "储蓄",
+                    "icon": false
+                },
+                {
+                    "wordId": "成本",
+                    "icon": false
+                },
+                {
+                    "wordId": "盈余",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "捕食者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伏击",
+                    "icon": false
+                },
+                {
+                    "wordId": "捕获",
+                    "icon": false
+                },
+                {
+                    "wordId": "追捕",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎物",
+                    "icon": false
+                },
+                {
+                    "wordId": "狩猎",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒液",
+                    "icon": false
+                },
+                {
+                    "wordId": "爪子",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖牙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "儿童相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毛绒玩具",
+                    "icon": true
+                },
+                {
+                    "wordId": "棒棒糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "跳房子",
+                    "icon": true
+                },
+                {
+                    "wordId": "秋千",
+                    "icon": true
+                },
+                {
+                    "wordId": "电子游戏",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑梯",
+                    "icon": true
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": true
+                },
+                {
+                    "wordId": "球",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "舞台",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剧院",
+                    "icon": false
+                },
+                {
+                    "wordId": "道具",
+                    "icon": false
+                },
+                {
+                    "wordId": "布景",
+                    "icon": false
+                },
+                {
+                    "wordId": "台唇",
+                    "icon": false
+                },
+                {
+                    "wordId": "幕布",
+                    "icon": false
+                },
+                {
+                    "wordId": "演员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冥界",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刻耳柏洛斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "冥河",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄耳甫斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡戎",
+                    "icon": false
+                },
+                {
+                    "wordId": "忘川",
+                    "icon": false
+                },
+                {
+                    "wordId": "极乐世界",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "行为",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "举止",
+                    "icon": false
+                },
+                {
+                    "wordId": "方式",
+                    "icon": false
+                },
+                {
+                    "wordId": "风度",
+                    "icon": false
+                },
+                {
+                    "wordId": "态度",
+                    "icon": false
+                },
+                {
+                    "wordId": "行动",
+                    "icon": false
+                },
+                {
+                    "wordId": "姿态",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "层次",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "层级",
+                    "icon": false
+                },
+                {
+                    "wordId": "地面",
+                    "icon": false
+                },
+                {
+                    "wordId": "楼层",
+                    "icon": false
+                },
+                {
+                    "wordId": "水准",
+                    "icon": false
+                },
+                {
+                    "wordId": "甲板",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "雕刻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "象牙雕刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰雕",
+                    "icon": false
+                },
+                {
+                    "wordId": "肥皂雕刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "石雕",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜡雕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "葡萄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "藤蔓",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄干",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒庄",
+                    "icon": false
+                },
+                {
+                    "wordId": "醋",
+                    "icon": false
+                },
+                {
+                    "wordId": "串",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颌部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嘴",
+                    "icon": false
+                },
+                {
+                    "wordId": "下颌骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "上颌骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙齿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "腌制的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "腌蛋",
+                    "icon": false
+                },
+                {
+                    "wordId": "腌洋葱",
+                    "icon": false
+                },
+                {
+                    "wordId": "腌橄榄",
+                    "icon": false
+                },
+                {
+                    "wordId": "腌姜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "软件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "应用程序",
+                    "icon": false
+                },
+                {
+                    "wordId": "操作系统",
+                    "icon": false
+                },
+                {
+                    "wordId": "实用工具",
+                    "icon": false
+                },
+                {
+                    "wordId": "程式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "带子/花边",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鞋带",
+                    "icon": true
+                },
+                {
+                    "wordId": "项链",
+                    "icon": true
+                },
+                {
+                    "wordId": "雕绣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "固定",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "系紧",
+                    "icon": false
+                },
+                {
+                    "wordId": "附着",
+                    "icon": false
+                },
+                {
+                    "wordId": "加固",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "收入",
+        "资产",
+        "实用工具",
+        "雕刻",
+        "雕绣",
+        "上颌骨",
+        "债务",
+        "舞台",
+        "串",
+        "鞋带",
+        "猎物",
+        "地面",
+        "捕食者",
+        "举止",
+        "忘川",
+        "台唇",
+        "捕获",
+        "毛绒玩具",
+        "跳房子",
+        "液泡",
+        "腌蛋",
+        "细胞膜",
+        "有丝分裂",
+        "带子/花边",
+        "酒庄",
+        "系紧",
+        "象牙雕刻",
+        "颌部",
+        "毒液",
+        "葡萄干",
+        "牙齿",
+        "软件",
+        "冥河",
+        "层次",
+        "道具",
+        "姿态",
+        "附着",
+        "醋",
+        "水准",
+        "追捕",
+        "刻耳柏洛斯",
+        "肥皂雕刻",
+        "赤字",
+        "伏击",
+        "盈余",
+        "嘴",
+        "方式",
+        "棒棒糖",
+        "细胞核",
+        "腌洋葱",
+        "程式",
+        "甲板",
+        "行动",
+        "分裂",
+        "藤蔓",
+        "成本",
+        "下颌骨",
+        "滑梯",
+        "冰雕",
+        "爪子",
+        "项链",
+        "电子游戏",
+        "尖牙"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "极乐世界",
+                "秋千",
+                "储蓄",
+                "层级",
+                "幕布"
+            ]
+        },
+        {
+            "cards": [
+                "囊泡",
+                "球",
+                "狩猎",
+                "蜡雕",
+                "固定",
+                "冥界"
+            ]
+        },
+        {
+            "cards": [
+                "腌制的",
+                "态度",
+                "俄耳甫斯",
+                "腌姜",
+                "预算",
+                "应用程序",
+                "演员"
+            ]
+        },
+        {
+            "cards": [
+                "儿童相关",
+                "溶酶体",
+                "石雕",
+                "卡戎",
+                "剧院",
+                "细胞学",
+                "风度",
+                "操作系统"
+            ]
+        },
+        {
+            "cards": [
+                "布景",
+                "核糖体",
+                "支出",
+                "行为",
+                "葡萄",
+                "加固",
+                "腌橄榄",
+                "楼层",
+                "拼图"
+            ]
+        }
+    ]
+}

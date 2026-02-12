@@ -1,0 +1,217 @@
+{
+    "levelId": 57,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "货币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "美元",
+                    "icon": true
+                },
+                {
+                    "wordId": "日元",
+                    "icon": true
+                },
+                {
+                    "wordId": "法郎",
+                    "icon": true
+                },
+                {
+                    "wordId": "欧元",
+                    "icon": true
+                },
+                {
+                    "wordId": "比索",
+                    "icon": true
+                },
+                {
+                    "wordId": "人民币",
+                    "icon": true
+                },
+                {
+                    "wordId": "卢比",
+                    "icon": true
+                },
+                {
+                    "wordId": "里拉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "艺术流派",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哥特式",
+                    "icon": false
+                },
+                {
+                    "wordId": "立体主义",
+                    "icon": false
+                },
+                {
+                    "wordId": "现代主义",
+                    "icon": false
+                },
+                {
+                    "wordId": "波普艺术",
+                    "icon": false
+                },
+                {
+                    "wordId": "装饰风艺术",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽象派",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂鸦",
+                    "icon": false
+                },
+                {
+                    "wordId": "现实主义",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "过敏原",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "灰尘",
+                    "icon": false
+                },
+                {
+                    "wordId": "坚果",
+                    "icon": false
+                },
+                {
+                    "wordId": "花粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳胶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "访问许可权",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钥匙",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "门禁卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "通行码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "禅宗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瑜伽",
+                    "icon": false
+                },
+                {
+                    "wordId": "临济宗",
+                    "icon": false
+                },
+                {
+                    "wordId": "达摩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "斑马",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "条纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "草原",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "现实主义",
+        "涂鸦",
+        "装饰风艺术",
+        "乳胶",
+        "禅宗",
+        "动物",
+        "通行码",
+        "现代主义",
+        "过敏原",
+        "立体主义",
+        "抽象派",
+        "达摩",
+        "门禁卡",
+        "欧元",
+        "卢比",
+        "钥匙",
+        "日元",
+        "密码",
+        "访问许可权",
+        "波普艺术",
+        "瑜伽",
+        "灰尘",
+        "草原",
+        "里拉"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "货币",
+                "坚果",
+                "美元"
+            ]
+        },
+        {
+            "cards": [
+                "比索",
+                "花粉",
+                "哥特式",
+                "艺术流派"
+            ]
+        },
+        {
+            "cards": [
+                "斑马",
+                "临济宗",
+                "法郎",
+                "人民币",
+                "条纹"
+            ]
+        }
+    ]
+}

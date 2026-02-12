@@ -1,0 +1,369 @@
+{
+    "levelId": 291,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "电影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "导演",
+                    "icon": false
+                },
+                {
+                    "wordId": "电影票",
+                    "icon": false
+                },
+                {
+                    "wordId": "银幕",
+                    "icon": false
+                },
+                {
+                    "wordId": "预告片",
+                    "icon": false
+                },
+                {
+                    "wordId": "类型",
+                    "icon": false
+                },
+                {
+                    "wordId": "续集",
+                    "icon": false
+                },
+                {
+                    "wordId": "试映",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猫科动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薮猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "豹猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲狮",
+                    "icon": false
+                },
+                {
+                    "wordId": "猞猁",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "短尾猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "猎豹",
+                    "icon": false
+                },
+                {
+                    "wordId": "狞猫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "言语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "自由",
+                    "icon": false
+                },
+                {
+                    "wordId": "主题演讲",
+                    "icon": false
+                },
+                {
+                    "wordId": "气球",
+                    "icon": false
+                },
+                {
+                    "wordId": "障碍",
+                    "icon": false
+                },
+                {
+                    "wordId": "治疗",
+                    "icon": false
+                },
+                {
+                    "wordId": "演说家",
+                    "icon": false
+                },
+                {
+                    "wordId": "修辞学",
+                    "icon": false
+                },
+                {
+                    "wordId": "口音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "审慎",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "谨慎",
+                    "icon": false
+                },
+                {
+                    "wordId": "勤勉",
+                    "icon": false
+                },
+                {
+                    "wordId": "得体",
+                    "icon": false
+                },
+                {
+                    "wordId": "机智",
+                    "icon": false
+                },
+                {
+                    "wordId": "警觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "智慧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绘画",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "画布",
+                    "icon": false
+                },
+                {
+                    "wordId": "肖像画",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽象画",
+                    "icon": false
+                },
+                {
+                    "wordId": "调色板",
+                    "icon": false
+                },
+                {
+                    "wordId": "画架",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁画",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巴西",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "桑巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂欢节",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚马逊河",
+                    "icon": false
+                },
+                {
+                    "wordId": "里约热内卢",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "糖果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "耐嚼的",
+                    "icon": false
+                },
+                {
+                    "wordId": "软糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "粘性的",
+                    "icon": false
+                },
+                {
+                    "wordId": "含糖的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "货币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "发行",
+                    "icon": false
+                },
+                {
+                    "wordId": "汇兑",
+                    "icon": false
+                },
+                {
+                    "wordId": "风险",
+                    "icon": false
+                },
+                {
+                    "wordId": "互换",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "邮政相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邮递区号",
+                    "icon": true
+                },
+                {
+                    "wordId": "包裹",
+                    "icon": true
+                },
+                {
+                    "wordId": "快递员",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "古代奇观",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金字塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "神庙",
+                    "icon": true
+                },
+                {
+                    "wordId": "通天塔",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "快递员",
+        "美洲狮",
+        "绘画",
+        "互换",
+        "发行",
+        "汇兑",
+        "口音",
+        "画布",
+        "壁画",
+        "粘性的",
+        "机智",
+        "导演",
+        "邮政相关",
+        "试映",
+        "亚马逊河",
+        "包裹",
+        "类型",
+        "金字塔",
+        "通天塔",
+        "智慧",
+        "得体",
+        "狂欢节",
+        "巴西",
+        "演说家",
+        "警觉",
+        "修辞学",
+        "美洲虎",
+        "自由",
+        "邮递区号",
+        "狞猫",
+        "预告片",
+        "主题演讲",
+        "银幕",
+        "障碍",
+        "电影",
+        "软糖",
+        "货币",
+        "含糖的",
+        "续集",
+        "风险",
+        "薮猫",
+        "耐嚼的"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "里约热内卢",
+                "勤勉",
+                "画架",
+                "调色板"
+            ]
+        },
+        {
+            "cards": [
+                "豹猫",
+                "猞猁",
+                "抽象画",
+                "猎豹",
+                "糖果"
+            ]
+        },
+        {
+            "cards": [
+                "演员",
+                "肖像画",
+                "神庙",
+                "电影票",
+                "治疗",
+                "气球"
+            ]
+        },
+        {
+            "cards": [
+                "言语",
+                "短尾猫",
+                "猫科动物",
+                "桑巴",
+                "谨慎",
+                "审慎",
+                "古代奇观"
+            ]
+        }
+    ]
+}

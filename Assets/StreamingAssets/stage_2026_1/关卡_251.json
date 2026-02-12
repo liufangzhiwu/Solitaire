@@ -1,0 +1,217 @@
+{
+    "levelId": 251,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "四足动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "河马",
+                    "icon": true
+                },
+                {
+                    "wordId": "疣猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "豪猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "犀牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "狐狸",
+                    "icon": true
+                },
+                {
+                    "wordId": "猞猁",
+                    "icon": true
+                },
+                {
+                    "wordId": "花栗鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹿",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "红肉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "小牛肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "羊肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "羔羊肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹿肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "猪肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "山羊肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "野味",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "豆类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鹰嘴豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "豌豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "扁豆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "坑洞",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "坑",
+                    "icon": false
+                },
+                {
+                    "wordId": "空洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "沟渠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "丈夫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "配偶",
+                    "icon": false
+                },
+                {
+                    "wordId": "男人",
+                    "icon": false
+                },
+                {
+                    "wordId": "伴侣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "倾盆大雨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雨鞋",
+                    "icon": true
+                },
+                {
+                    "wordId": "雨伞",
+                    "icon": true
+                },
+                {
+                    "wordId": "雨衣",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "鹿",
+        "鹰嘴豆",
+        "山羊肉",
+        "犀牛",
+        "男人",
+        "洞",
+        "豆类",
+        "扁豆",
+        "豌豆",
+        "猪肉",
+        "伴侣",
+        "猞猁",
+        "小牛肉",
+        "雨鞋",
+        "菜豆",
+        "鹿肉",
+        "坑",
+        "雨伞",
+        "倾盆大雨",
+        "花栗鼠",
+        "狐狸",
+        "四足动物",
+        "羊肉",
+        "豪猪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "坑洞",
+                "疣猪",
+                "配偶"
+            ]
+        },
+        {
+            "cards": [
+                "雨衣",
+                "沟渠",
+                "羔羊肉",
+                "野味"
+            ]
+        },
+        {
+            "cards": [
+                "牛肉",
+                "空洞",
+                "丈夫",
+                "红肉",
+                "河马"
+            ]
+        }
+    ]
+}

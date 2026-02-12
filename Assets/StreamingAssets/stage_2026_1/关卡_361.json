@@ -1,0 +1,369 @@
+{
+    "levelId": 361,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "书籍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "大本书",
+                    "icon": false
+                },
+                {
+                    "wordId": "后记",
+                    "icon": false
+                },
+                {
+                    "wordId": "书脊",
+                    "icon": false
+                },
+                {
+                    "wordId": "封面",
+                    "icon": false
+                },
+                {
+                    "wordId": "章节",
+                    "icon": false
+                },
+                {
+                    "wordId": "概要",
+                    "icon": false
+                },
+                {
+                    "wordId": "前言",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "流星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流星雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "光痕",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪光",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "陨石",
+                    "icon": false
+                },
+                {
+                    "wordId": "火流星",
+                    "icon": false
+                },
+                {
+                    "wordId": "尘埃",
+                    "icon": false
+                },
+                {
+                    "wordId": "火花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "滤镜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棕褐色滤镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "晕影滤镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "模糊滤镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "锐化滤镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "单色滤镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "噪点滤镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "HDR滤镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "漩涡滤镜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "背包",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "背带",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉链",
+                    "icon": false
+                },
+                {
+                    "wordId": "口袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "小袋",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣环",
+                    "icon": false
+                },
+                {
+                    "wordId": "背带系统",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黑暗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑夜",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵魂",
+                    "icon": false
+                },
+                {
+                    "wordId": "暗物质",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗幻想",
+                    "icon": false
+                },
+                {
+                    "wordId": "暗影",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗骑士",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "人声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "女低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男高音",
+                    "icon": false
+                },
+                {
+                    "wordId": "男低音",
+                    "icon": false
+                },
+                {
+                    "wordId": "女高音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火车",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁轨",
+                    "icon": false
+                },
+                {
+                    "wordId": "守车",
+                    "icon": false
+                },
+                {
+                    "wordId": "货车车厢",
+                    "icon": false
+                },
+                {
+                    "wordId": "车钩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "攀爬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冰爪",
+                    "icon": true
+                },
+                {
+                    "wordId": "绳索",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰镐",
+                    "icon": true
+                },
+                {
+                    "wordId": "快挂",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "手指",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "食指",
+                    "icon": false
+                },
+                {
+                    "wordId": "中指",
+                    "icon": false
+                },
+                {
+                    "wordId": "拇指",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "护城河",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "壕沟",
+                    "icon": false
+                },
+                {
+                    "wordId": "战壕",
+                    "icon": false
+                },
+                {
+                    "wordId": "屏障",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "女低音",
+        "噪点滤镜",
+        "单色滤镜",
+        "黑暗",
+        "光痕",
+        "攀爬",
+        "男高音",
+        "晕影滤镜",
+        "锐化滤镜",
+        "前言",
+        "流星雨",
+        "灵魂",
+        "屏障",
+        "棕褐色滤镜",
+        "尘埃",
+        "人声",
+        "概要",
+        "封面",
+        "扣环",
+        "黑暗骑士",
+        "货车车厢",
+        "食指",
+        "中指",
+        "滤镜",
+        "黑暗幻想",
+        "拇指",
+        "车钩",
+        "拉链",
+        "火车",
+        "背带",
+        "漩涡滤镜",
+        "HDR滤镜",
+        "尾迹",
+        "模糊滤镜",
+        "书脊",
+        "壕沟",
+        "暗物质",
+        "黑夜",
+        "冰镐",
+        "绳索",
+        "守车",
+        "陨石"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "铁轨",
+                "书籍",
+                "章节",
+                "女高音"
+            ]
+        },
+        {
+            "cards": [
+                "背带系统",
+                "男低音",
+                "暗影",
+                "火流星",
+                "快挂"
+            ]
+        },
+        {
+            "cards": [
+                "背包",
+                "冰爪",
+                "闪光",
+                "护城河",
+                "流星",
+                "小说"
+            ]
+        },
+        {
+            "cards": [
+                "手指",
+                "大本书",
+                "火花",
+                "后记",
+                "战壕",
+                "小袋",
+                "口袋"
+            ]
+        }
+    ]
+}

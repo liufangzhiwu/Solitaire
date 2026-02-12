@@ -1,0 +1,369 @@
+{
+    "levelId": 93,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 150,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "洞穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洞窟",
+                    "icon": false
+                },
+                {
+                    "wordId": "宽敞的",
+                    "icon": false
+                },
+                {
+                    "wordId": "回声",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴森的",
+                    "icon": false
+                },
+                {
+                    "wordId": "多岩石的",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴暗的",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "穴居人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "微小的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠子",
+                    "icon": false
+                },
+                {
+                    "wordId": "火花",
+                    "icon": false
+                },
+                {
+                    "wordId": "原子",
+                    "icon": false
+                },
+                {
+                    "wordId": "露珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "蠓虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝌蚪",
+                    "icon": false
+                },
+                {
+                    "wordId": "细胞",
+                    "icon": false
+                },
+                {
+                    "wordId": "螨虫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "触摸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩擦",
+                    "icon": false
+                },
+                {
+                    "wordId": "拍手",
+                    "icon": false
+                },
+                {
+                    "wordId": "重击",
+                    "icon": false
+                },
+                {
+                    "wordId": "挤压",
+                    "icon": false
+                },
+                {
+                    "wordId": "捏",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻弹",
+                    "icon": false
+                },
+                {
+                    "wordId": "挠痒",
+                    "icon": false
+                },
+                {
+                    "wordId": "拍打",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "孙悟空",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大闹天宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "火眼金睛",
+                    "icon": false
+                },
+                {
+                    "wordId": "猴子",
+                    "icon": false
+                },
+                {
+                    "wordId": "金箍棒",
+                    "icon": false
+                },
+                {
+                    "wordId": "花果山",
+                    "icon": false
+                },
+                {
+                    "wordId": "筋斗云",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "位置",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "在上面",
+                    "icon": false
+                },
+                {
+                    "wordId": "在里面",
+                    "icon": false
+                },
+                {
+                    "wordId": "在前面",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧挨着",
+                    "icon": false
+                },
+                {
+                    "wordId": "在下面",
+                    "icon": false
+                },
+                {
+                    "wordId": "在后面",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "糖浆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "枫糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙舌兰糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "麦芽糖浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖蜜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "色调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卡其色",
+                    "icon": false
+                },
+                {
+                    "wordId": "浅黄色",
+                    "icon": false
+                },
+                {
+                    "wordId": "洋红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "米色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "草坪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "草",
+                    "icon": true
+                },
+                {
+                    "wordId": "割草机",
+                    "icon": true
+                },
+                {
+                    "wordId": "虞美人",
+                    "icon": true
+                },
+                {
+                    "wordId": "洒水器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "驾驶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "车道",
+                    "icon": false
+                },
+                {
+                    "wordId": "停车",
+                    "icon": false
+                },
+                {
+                    "wordId": "超车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "厨师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "厨师帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "餐厅",
+                    "icon": true
+                },
+                {
+                    "wordId": "菜肴",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "超车",
+        "珠子",
+        "草",
+        "火花",
+        "露珠",
+        "厨师帽",
+        "菜肴",
+        "虞美人",
+        "驾驶",
+        "龙舌兰糖浆",
+        "枫糖浆",
+        "细胞",
+        "蝌蚪",
+        "在里面",
+        "在后面",
+        "割草机",
+        "挤压",
+        "蠓虫",
+        "车道",
+        "孙悟空",
+        "轻弹",
+        "原子",
+        "触摸",
+        "花果山",
+        "微小的",
+        "捏",
+        "拍手",
+        "位置",
+        "螨虫",
+        "穴居人",
+        "糖蜜",
+        "浅黄色",
+        "停车",
+        "洋红色",
+        "卡其色",
+        "在上面",
+        "洞窟",
+        "紧挨着",
+        "阴暗的",
+        "在下面",
+        "猴子",
+        "摩擦"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "阴森的",
+                "宽敞的",
+                "金箍棒",
+                "筋斗云"
+            ]
+        },
+        {
+            "cards": [
+                "洞穴",
+                "洒水器",
+                "草坪",
+                "米色",
+                "餐厅"
+            ]
+        },
+        {
+            "cards": [
+                "在前面",
+                "重击",
+                "麦芽糖浆",
+                "火眼金睛",
+                "厨师",
+                "大闹天宫"
+            ]
+        },
+        {
+            "cards": [
+                "岩洞",
+                "多岩石的",
+                "拍打",
+                "糖浆",
+                "回声",
+                "色调",
+                "挠痒"
+            ]
+        }
+    ]
+}

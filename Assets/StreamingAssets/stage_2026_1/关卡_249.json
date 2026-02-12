@@ -1,0 +1,217 @@
+{
+    "levelId": 249,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "奶牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸭子",
+                    "icon": true
+                },
+                {
+                    "wordId": "青蛙",
+                    "icon": true
+                },
+                {
+                    "wordId": "绵羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "山羊",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苹果",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄",
+                    "icon": false
+                },
+                {
+                    "wordId": "桃子",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜瓜",
+                    "icon": false
+                },
+                {
+                    "wordId": "芒果",
+                    "icon": false
+                },
+                {
+                    "wordId": "柠檬",
+                    "icon": false
+                },
+                {
+                    "wordId": "香蕉",
+                    "icon": false
+                },
+                {
+                    "wordId": "杏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颜色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "交通工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽车",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴士",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞机",
+                    "icon": true
+                },
+                {
+                    "wordId": "火车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "行星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地球",
+                    "icon": false
+                },
+                {
+                    "wordId": "火星",
+                    "icon": false
+                },
+                {
+                    "wordId": "金星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锤子",
+                    "icon": false
+                },
+                {
+                    "wordId": "扳手",
+                    "icon": false
+                },
+                {
+                    "wordId": "钻头",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "动物",
+        "奶牛",
+        "颜色",
+        "山羊",
+        "桃子",
+        "汽车",
+        "锤子",
+        "蓝色",
+        "猪",
+        "火星",
+        "钻头",
+        "杏",
+        "粉色",
+        "狗",
+        "青蛙",
+        "苹果",
+        "火车",
+        "香蕉",
+        "行星",
+        "柠檬",
+        "猫",
+        "扳手",
+        "飞机",
+        "红色"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "鸭子",
+                "工具",
+                "芒果"
+            ]
+        },
+        {
+            "cards": [
+                "水果",
+                "交通工具",
+                "巴士",
+                "地球"
+            ]
+        },
+        {
+            "cards": [
+                "葡萄",
+                "绵羊",
+                "黑色",
+                "甜瓜",
+                "金星"
+            ]
+        }
+    ]
+}

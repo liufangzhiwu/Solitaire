@@ -1,0 +1,217 @@
+{
+    "levelId": 385,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "风味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甜",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "苦",
+                    "icon": false
+                },
+                {
+                    "wordId": "咸",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲜",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟熏",
+                    "icon": false
+                },
+                {
+                    "wordId": "辛辣",
+                    "icon": false
+                },
+                {
+                    "wordId": "爽辣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酱汁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "番茄酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "青酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "莎莎酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "芥末酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "意面酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧烤酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒜泥酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "酱油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "月相",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "新月",
+                    "icon": false
+                },
+                {
+                    "wordId": "满月",
+                    "icon": false
+                },
+                {
+                    "wordId": "盈月",
+                    "icon": false
+                },
+                {
+                    "wordId": "亏月",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "国际象棋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兵",
+                    "icon": true
+                },
+                {
+                    "wordId": "车",
+                    "icon": true
+                },
+                {
+                    "wordId": "骑士",
+                    "icon": true
+                },
+                {
+                    "wordId": "象",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "节拍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "底鼓",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓",
+                    "icon": false
+                },
+                {
+                    "wordId": "钹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "箱盒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "板条箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行箱",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "咸",
+        "酸",
+        "底鼓",
+        "风味",
+        "苦",
+        "番茄酱",
+        "烟熏",
+        "鲜",
+        "酱油",
+        "辛辣",
+        "爽辣",
+        "甜",
+        "车",
+        "国际象棋",
+        "钹",
+        "旅行箱",
+        "烧烤酱",
+        "莎莎酱",
+        "节拍",
+        "蒜泥酱",
+        "新月",
+        "象",
+        "兵",
+        "青酱"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "板条箱",
+                "亏月",
+                "箱盒"
+            ]
+        },
+        {
+            "cards": [
+                "鼓",
+                "酱汁",
+                "芥末酱",
+                "月相"
+            ]
+        },
+        {
+            "cards": [
+                "意面酱",
+                "盈月",
+                "宝箱",
+                "骑士",
+                "满月"
+            ]
+        }
+    ]
+}

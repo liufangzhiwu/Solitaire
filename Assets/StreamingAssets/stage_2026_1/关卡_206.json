@@ -1,0 +1,217 @@
+{
+    "levelId": 206,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "用餐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吃",
+                    "icon": false
+                },
+                {
+                    "wordId": "消费",
+                    "icon": false
+                },
+                {
+                    "wordId": "餐食",
+                    "icon": false
+                },
+                {
+                    "wordId": "午餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "早午餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "晚餐",
+                    "icon": false
+                },
+                {
+                    "wordId": "食物",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜肴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "评审",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "考试",
+                    "icon": false
+                },
+                {
+                    "wordId": "作业",
+                    "icon": false
+                },
+                {
+                    "wordId": "论文",
+                    "icon": false
+                },
+                {
+                    "wordId": "同行评审",
+                    "icon": false
+                },
+                {
+                    "wordId": "评论家",
+                    "icon": false
+                },
+                {
+                    "wordId": "电影评论",
+                    "icon": false
+                },
+                {
+                    "wordId": "书评",
+                    "icon": false
+                },
+                {
+                    "wordId": "审计",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "表格",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电子表格",
+                    "icon": false
+                },
+                {
+                    "wordId": "资产负债表",
+                    "icon": false
+                },
+                {
+                    "wordId": "列",
+                    "icon": false
+                },
+                {
+                    "wordId": "行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有袋动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "考拉",
+                    "icon": true
+                },
+                {
+                    "wordId": "袋鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "袋熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "小袋鼠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "鼻子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸟喙",
+                    "icon": true
+                },
+                {
+                    "wordId": "口鼻部",
+                    "icon": true
+                },
+                {
+                    "wordId": "长象鼻",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "标记",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "勾选",
+                    "icon": false
+                },
+                {
+                    "wordId": "打勾",
+                    "icon": false
+                },
+                {
+                    "wordId": "肯定符号",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "吃",
+        "考试",
+        "同行评审",
+        "列",
+        "作业",
+        "资产负债表",
+        "长象鼻",
+        "午餐",
+        "食物",
+        "肯定符号",
+        "标记",
+        "消费",
+        "表格",
+        "晚餐",
+        "勾选",
+        "考拉",
+        "论文",
+        "电子表格",
+        "菜肴",
+        "口鼻部",
+        "审计",
+        "打勾",
+        "书评",
+        "用餐"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "行",
+                "鸟喙",
+                "袋熊"
+            ]
+        },
+        {
+            "cards": [
+                "早午餐",
+                "袋鼠",
+                "评论家",
+                "小袋鼠"
+            ]
+        },
+        {
+            "cards": [
+                "评审",
+                "有袋动物",
+                "电影评论",
+                "鼻子",
+                "餐食"
+            ]
+        }
+    ]
+}

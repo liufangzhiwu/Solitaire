@@ -1,0 +1,217 @@
+{
+    "levelId": 282,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣甲虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝉",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜻蜓",
+                    "icon": true
+                },
+                {
+                    "wordId": "蠼螋",
+                    "icon": true
+                },
+                {
+                    "wordId": "螳螂",
+                    "icon": true
+                },
+                {
+                    "wordId": "象鼻虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚁狮",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚜虫",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "建筑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "村舍",
+                    "icon": false
+                },
+                {
+                    "wordId": "亭台",
+                    "icon": false
+                },
+                {
+                    "wordId": "木屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "经济公寓",
+                    "icon": false
+                },
+                {
+                    "wordId": "棚屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "宅邸",
+                    "icon": false
+                },
+                {
+                    "wordId": "别墅",
+                    "icon": false
+                },
+                {
+                    "wordId": "小木屋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幽灵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幽魂",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "怨灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬼魂",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "服装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "束腰外衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "领带",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "长袍",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "语言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴斯克语",
+                    "icon": false
+                },
+                {
+                    "wordId": "芬兰语",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯瓦希里语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "护身符",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣物",
+                    "icon": false
+                },
+                {
+                    "wordId": "神像",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "木屋",
+        "鬼魂",
+        "蚜虫",
+        "夹克",
+        "恶灵",
+        "象鼻虫",
+        "昆虫",
+        "蝉",
+        "神像",
+        "建筑",
+        "蠼螋",
+        "语言",
+        "护身符",
+        "小木屋",
+        "别墅",
+        "圣甲虫",
+        "幽魂",
+        "村舍",
+        "圣物",
+        "经济公寓",
+        "束腰外衣",
+        "巴斯克语",
+        "斯瓦希里语",
+        "棚屋"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "怨灵",
+                "幽灵",
+                "长袍"
+            ]
+        },
+        {
+            "cards": [
+                "宅邸",
+                "服装",
+                "蜻蜓",
+                "亭台"
+            ]
+        },
+        {
+            "cards": [
+                "领带",
+                "文物",
+                "螳螂",
+                "蚁狮",
+                "芬兰语"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 143,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "风景",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "暮色",
+                    "icon": false
+                },
+                {
+                    "wordId": "雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "山丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "湖泊",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "地平线",
+                    "icon": false
+                },
+                {
+                    "wordId": "全景",
+                    "icon": false
+                },
+                {
+                    "wordId": "日落",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "圆形物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盘子",
+                    "icon": true
+                },
+                {
+                    "wordId": "钻戒",
+                    "icon": true
+                },
+                {
+                    "wordId": "呼啦圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "纽扣",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜甜圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "棒棒糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "气泡",
+                    "icon": true
+                },
+                {
+                    "wordId": "扑克筹码",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "肌肉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肌腱",
+                    "icon": false
+                },
+                {
+                    "wordId": "组织",
+                    "icon": false
+                },
+                {
+                    "wordId": "纤维",
+                    "icon": false
+                },
+                {
+                    "wordId": "神经",
+                    "icon": false
+                },
+                {
+                    "wordId": "肱二头肌",
+                    "icon": false
+                },
+                {
+                    "wordId": "肱三头肌",
+                    "icon": false
+                },
+                {
+                    "wordId": "韧带",
+                    "icon": false
+                },
+                {
+                    "wordId": "力量",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "账户",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "余额",
+                    "icon": false
+                },
+                {
+                    "wordId": "储蓄",
+                    "icon": false
+                },
+                {
+                    "wordId": "审计",
+                    "icon": false
+                },
+                {
+                    "wordId": "存款",
+                    "icon": false
+                },
+                {
+                    "wordId": "计费",
+                    "icon": false
+                },
+                {
+                    "wordId": "登录",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "停止",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刹车",
+                    "icon": false
+                },
+                {
+                    "wordId": "交通",
+                    "icon": false
+                },
+                {
+                    "wordId": "暂停",
+                    "icon": false
+                },
+                {
+                    "wordId": "命令",
+                    "icon": false
+                },
+                {
+                    "wordId": "关机",
+                    "icon": false
+                },
+                {
+                    "wordId": "超时",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "厨具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "叉勺",
+                    "icon": true
+                },
+                {
+                    "wordId": "削皮刀",
+                    "icon": true
+                },
+                {
+                    "wordId": "糕点刷",
+                    "icon": true
+                },
+                {
+                    "wordId": "披萨刀",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "特质",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乐于助人的",
+                    "icon": false
+                },
+                {
+                    "wordId": "可靠的",
+                    "icon": false
+                },
+                {
+                    "wordId": "忠诚的",
+                    "icon": false
+                },
+                {
+                    "wordId": "专注的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "凯旋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胜利",
+                    "icon": false
+                },
+                {
+                    "wordId": "荣耀",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜悦",
+                    "icon": false
+                },
+                {
+                    "wordId": "荣誉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "勇气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "坚毅",
+                    "icon": false
+                },
+                {
+                    "wordId": "勇敢",
+                    "icon": false
+                },
+                {
+                    "wordId": "无畏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "保温瓶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旅行者",
+                    "icon": false
+                },
+                {
+                    "wordId": "徒步者",
+                    "icon": false
+                },
+                {
+                    "wordId": "露营者",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "暂停",
+        "旅行者",
+        "储蓄",
+        "暮色",
+        "无畏",
+        "余额",
+        "露营者",
+        "韧带",
+        "呼啦圈",
+        "可靠的",
+        "气泡",
+        "扑克筹码",
+        "荣誉",
+        "圆形物",
+        "神经",
+        "地平线",
+        "存款",
+        "钻戒",
+        "荣耀",
+        "登录",
+        "山丘",
+        "肱二头肌",
+        "停止",
+        "勇敢",
+        "沙漠",
+        "徒步者",
+        "专注的",
+        "坚毅",
+        "肌腱",
+        "肌肉",
+        "纤维",
+        "肱三头肌",
+        "审计",
+        "交通",
+        "盘子",
+        "削皮刀",
+        "风景",
+        "超时",
+        "甜甜圈",
+        "勇气",
+        "组织",
+        "胜利"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "凯旋",
+                "厨具",
+                "棒棒糖",
+                "账户"
+            ]
+        },
+        {
+            "cards": [
+                "关机",
+                "忠诚的",
+                "日落",
+                "乐于助人的",
+                "糕点刷"
+            ]
+        },
+        {
+            "cards": [
+                "叉勺",
+                "刹车",
+                "计费",
+                "披萨刀",
+                "保温瓶",
+                "力量"
+            ]
+        },
+        {
+            "cards": [
+                "特质",
+                "命令",
+                "纽扣",
+                "喜悦",
+                "全景",
+                "湖泊",
+                "雾"
+            ]
+        }
+    ]
+}

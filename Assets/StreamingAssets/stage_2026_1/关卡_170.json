@@ -1,0 +1,369 @@
+{
+    "levelId": 170,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "海滩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马里布",
+                    "icon": false
+                },
+                {
+                    "wordId": "威基基",
+                    "icon": false
+                },
+                {
+                    "wordId": "邦迪",
+                    "icon": false
+                },
+                {
+                    "wordId": "坎昆",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊帕内玛",
+                    "icon": false
+                },
+                {
+                    "wordId": "海厄姆",
+                    "icon": false
+                },
+                {
+                    "wordId": "莱利",
+                    "icon": false
+                },
+                {
+                    "wordId": "努格维",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卷轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "手抄本",
+                    "icon": false
+                },
+                {
+                    "wordId": "账簿",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸莎草",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "大部头",
+                    "icon": false
+                },
+                {
+                    "wordId": "对开本",
+                    "icon": false
+                },
+                {
+                    "wordId": "索引",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "森林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "红木",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏树",
+                    "icon": false
+                },
+                {
+                    "wordId": "柳树",
+                    "icon": false
+                },
+                {
+                    "wordId": "猴面包树",
+                    "icon": false
+                },
+                {
+                    "wordId": "云杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪松",
+                    "icon": false
+                },
+                {
+                    "wordId": "栗树",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "织物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缎子",
+                    "icon": false
+                },
+                {
+                    "wordId": "斜纹布",
+                    "icon": false
+                },
+                {
+                    "wordId": "绉绸",
+                    "icon": false
+                },
+                {
+                    "wordId": "锦缎",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛仔布",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅绒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蔬菜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡萝卜",
+                    "icon": false
+                },
+                {
+                    "wordId": "土豆",
+                    "icon": false
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": false
+                },
+                {
+                    "wordId": "洋葱",
+                    "icon": false
+                },
+                {
+                    "wordId": "小萝卜",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄瓜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "太平洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "大西洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "印度洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "北冰洋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸟类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鹰",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹭",
+                    "icon": true
+                },
+                {
+                    "wordId": "麻雀",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌鸦",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "沙漠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "撒哈拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "戈壁",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿塔卡马",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫哈韦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颜色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洋红",
+                    "icon": false
+                },
+                {
+                    "wordId": "钴蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "芒果",
+                    "icon": true
+                },
+                {
+                    "wordId": "猕猴桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "荔枝",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "大西洋",
+        "伊帕内玛",
+        "麻雀",
+        "手抄本",
+        "坎昆",
+        "织物",
+        "努格维",
+        "太平洋",
+        "海厄姆",
+        "芒果",
+        "密码",
+        "牛仔布",
+        "雪松",
+        "邦迪",
+        "猴面包树",
+        "莫哈韦",
+        "云杉",
+        "锦缎",
+        "红杉",
+        "大洋",
+        "鹭",
+        "猕猴桃",
+        "卷轴",
+        "小萝卜",
+        "天鹅绒",
+        "账簿",
+        "索引",
+        "鹰",
+        "钴蓝",
+        "马里布",
+        "蔬菜",
+        "缎子",
+        "乌鸦",
+        "阿塔卡马",
+        "柳树",
+        "森林",
+        "荔枝",
+        "北冰洋",
+        "红木",
+        "戈壁",
+        "颜色",
+        "栗树"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "绉绸",
+                "洋红",
+                "鸟类",
+                "黄瓜"
+            ]
+        },
+        {
+            "cards": [
+                "胡萝卜",
+                "撒哈拉",
+                "威基基",
+                "赭石",
+                "纸莎草"
+            ]
+        },
+        {
+            "cards": [
+                "海滩",
+                "斜纹布",
+                "档案",
+                "水果",
+                "番茄",
+                "土豆"
+            ]
+        },
+        {
+            "cards": [
+                "洋葱",
+                "莱利",
+                "印度洋",
+                "对开本",
+                "沙漠",
+                "柏树",
+                "大部头"
+            ]
+        }
+    ]
+}

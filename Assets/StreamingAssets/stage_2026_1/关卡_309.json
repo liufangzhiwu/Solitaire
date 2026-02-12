@@ -1,0 +1,369 @@
+{
+    "levelId": 309,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "鹿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "驼鹿",
+                    "icon": false
+                },
+                {
+                    "wordId": "驯鹿",
+                    "icon": false
+                },
+                {
+                    "wordId": "麅子",
+                    "icon": false
+                },
+                {
+                    "wordId": "马鹿",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹿角",
+                    "icon": false
+                },
+                {
+                    "wordId": "蹄",
+                    "icon": false
+                },
+                {
+                    "wordId": "花鹿",
+                    "icon": false
+                },
+                {
+                    "wordId": "麂子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "名词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主语",
+                    "icon": false
+                },
+                {
+                    "wordId": "宾语",
+                    "icon": false
+                },
+                {
+                    "wordId": "普通名词",
+                    "icon": false
+                },
+                {
+                    "wordId": "专有名词",
+                    "icon": false
+                },
+                {
+                    "wordId": "性别",
+                    "icon": false
+                },
+                {
+                    "wordId": "格",
+                    "icon": false
+                },
+                {
+                    "wordId": "数",
+                    "icon": false
+                },
+                {
+                    "wordId": "抽象名词",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "尖刺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脊柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "刚毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "荆棘",
+                    "icon": false
+                },
+                {
+                    "wordId": "针",
+                    "icon": false
+                },
+                {
+                    "wordId": "马刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "叉尖",
+                    "icon": false
+                },
+                {
+                    "wordId": "倒钩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "新生代",
+                    "icon": false
+                },
+                {
+                    "wordId": "中生代",
+                    "icon": false
+                },
+                {
+                    "wordId": "现代",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴洛克时期",
+                    "icon": false
+                },
+                {
+                    "wordId": "中世纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "数字时代",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "温和的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "善良",
+                    "icon": false
+                },
+                {
+                    "wordId": "温柔",
+                    "icon": false
+                },
+                {
+                    "wordId": "温和",
+                    "icon": false
+                },
+                {
+                    "wordId": "细腻",
+                    "icon": false
+                },
+                {
+                    "wordId": "和蔼",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔软",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "分形图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雪花",
+                    "icon": true
+                },
+                {
+                    "wordId": "多肉植物",
+                    "icon": true
+                },
+                {
+                    "wordId": "罗马花椰菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "大丽花",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "椅子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高脚椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "扶手椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "摇椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "餐椅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "病毒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "埃博拉病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "寨卡病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "非典",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂犬病",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "搬迁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "移动",
+                    "icon": false
+                },
+                {
+                    "wordId": "迁移",
+                    "icon": false
+                },
+                {
+                    "wordId": "转移",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饥饿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "食欲",
+                    "icon": false
+                },
+                {
+                    "wordId": "渴望",
+                    "icon": false
+                },
+                {
+                    "wordId": "饥荒",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "马刺",
+        "性别",
+        "饥荒",
+        "搬迁",
+        "普通名词",
+        "驯鹿",
+        "细腻",
+        "病毒",
+        "针",
+        "麂子",
+        "大丽花",
+        "餐椅",
+        "鹿角",
+        "狂犬病",
+        "和蔼",
+        "非典",
+        "新生代",
+        "脊柱",
+        "叉尖",
+        "抽象名词",
+        "善良",
+        "多肉植物",
+        "蹄",
+        "寨卡病毒",
+        "中生代",
+        "格",
+        "温和的",
+        "渴望",
+        "刺",
+        "摇椅",
+        "扶手椅",
+        "迁移",
+        "刚毛",
+        "饥饿",
+        "倒钩",
+        "数字时代",
+        "时代",
+        "现代",
+        "温柔",
+        "专有名词",
+        "中世纪",
+        "宾语"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "椅子",
+                "荆棘",
+                "名词",
+                "尖刺"
+            ]
+        },
+        {
+            "cards": [
+                "马鹿",
+                "柔软",
+                "移动",
+                "高脚椅",
+                "鹿"
+            ]
+        },
+        {
+            "cards": [
+                "埃博拉病毒",
+                "麅子",
+                "驼鹿",
+                "食欲",
+                "主语",
+                "分形图案"
+            ]
+        },
+        {
+            "cards": [
+                "数",
+                "雪花",
+                "巴洛克时期",
+                "转移",
+                "罗马花椰菜",
+                "温和",
+                "花鹿"
+            ]
+        }
+    ]
+}

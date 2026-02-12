@@ -1,0 +1,369 @@
+{
+    "levelId": 35,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 145,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迷宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": false
+                },
+                {
+                    "wordId": "画谜",
+                    "icon": false
+                },
+                {
+                    "wordId": "测验",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜语",
+                    "icon": false
+                },
+                {
+                    "wordId": "难题",
+                    "icon": false
+                },
+                {
+                    "wordId": "字谜游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "破解",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "键盘按键",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "控制键",
+                    "icon": true
+                },
+                {
+                    "wordId": "切换键",
+                    "icon": true
+                },
+                {
+                    "wordId": "Alt键",
+                    "icon": true
+                },
+                {
+                    "wordId": "删除键",
+                    "icon": true
+                },
+                {
+                    "wordId": "空格键",
+                    "icon": true
+                },
+                {
+                    "wordId": "回车键",
+                    "icon": true
+                },
+                {
+                    "wordId": "退出键",
+                    "icon": true
+                },
+                {
+                    "wordId": "制表键",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "汤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熬煮",
+                    "icon": false
+                },
+                {
+                    "wordId": "清汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "浓汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "炖煮",
+                    "icon": false
+                },
+                {
+                    "wordId": "食材",
+                    "icon": false
+                },
+                {
+                    "wordId": "调味",
+                    "icon": false
+                },
+                {
+                    "wordId": "热腾腾",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲜美",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甜味剂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山梨糖醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蔗糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜菊糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "麦芽糖醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "果糖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "公园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "植物",
+                    "icon": true
+                },
+                {
+                    "wordId": "树",
+                    "icon": true
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": true
+                },
+                {
+                    "wordId": "喷泉",
+                    "icon": true
+                },
+                {
+                    "wordId": "草",
+                    "icon": true
+                },
+                {
+                    "wordId": "小路",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "柠檬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黄色",
+                    "icon": false
+                },
+                {
+                    "wordId": "椭圆形",
+                    "icon": false
+                },
+                {
+                    "wordId": "维他命",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸味",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "针",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尖锐",
+                    "icon": false
+                },
+                {
+                    "wordId": "细",
+                    "icon": false
+                },
+                {
+                    "wordId": "有尖的",
+                    "icon": false
+                },
+                {
+                    "wordId": "金属制",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "东港王船祭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火烧王船",
+                    "icon": false
+                },
+                {
+                    "wordId": "绕镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "迎王平安宴",
+                    "icon": false
+                },
+                {
+                    "wordId": "请水仪式",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "矿井",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "十字镐",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "混匀",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混合",
+                    "icon": false
+                },
+                {
+                    "wordId": "搅拌",
+                    "icon": false
+                },
+                {
+                    "wordId": "调和",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "黄色",
+        "尖锐",
+        "植物",
+        "甜味剂",
+        "小路",
+        "山梨糖醇",
+        "汤",
+        "细",
+        "喷泉",
+        "迷宫",
+        "矿",
+        "针",
+        "熬煮",
+        "十字镐",
+        "拼图",
+        "删除键",
+        "椭圆形",
+        "甜菊糖",
+        "制表键",
+        "破解",
+        "热腾腾",
+        "调味",
+        "金属制",
+        "炖煮",
+        "麦芽糖醇",
+        "火烧王船",
+        "测验",
+        "难题",
+        "切换键",
+        "字谜游戏",
+        "退出键",
+        "矿井",
+        "柠檬",
+        "绕镜",
+        "清汤",
+        "草",
+        "鲜美",
+        "长凳",
+        "控制键",
+        "食材",
+        "浓汤",
+        "空格键"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "果糖",
+                "东港王船祭",
+                "酸味",
+                "调和"
+            ]
+        },
+        {
+            "cards": [
+                "谜语",
+                "矿车",
+                "公园",
+                "谜题",
+                "维他命"
+            ]
+        },
+        {
+            "cards": [
+                "混匀",
+                "蔗糖",
+                "混合",
+                "键盘按键",
+                "回车键",
+                "Alt键"
+            ]
+        },
+        {
+            "cards": [
+                "树",
+                "有尖的",
+                "搅拌",
+                "请水仪式",
+                "画谜",
+                "糖",
+                "迎王平安宴"
+            ]
+        }
+    ]
+}

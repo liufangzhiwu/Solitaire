@@ -1,0 +1,369 @@
+{
+    "levelId": 84,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "有蹄动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长颈鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "骆驼",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "疣猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "野牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "山羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊驼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "海洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚得里亚海",
+                    "icon": false
+                },
+                {
+                    "wordId": "波罗的海",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱琴海",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑海",
+                    "icon": false
+                },
+                {
+                    "wordId": "马尾藻海",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱奥尼亚海",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴利阿里海",
+                    "icon": false
+                },
+                {
+                    "wordId": "所罗门海",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纺织品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纱线",
+                    "icon": false
+                },
+                {
+                    "wordId": "织物",
+                    "icon": false
+                },
+                {
+                    "wordId": "布",
+                    "icon": false
+                },
+                {
+                    "wordId": "纤维",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛毡",
+                    "icon": false
+                },
+                {
+                    "wordId": "编织",
+                    "icon": false
+                },
+                {
+                    "wordId": "针织",
+                    "icon": false
+                },
+                {
+                    "wordId": "蕾丝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "燃料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "煤",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽油",
+                    "icon": false
+                },
+                {
+                    "wordId": "木柴",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤油",
+                    "icon": false
+                },
+                {
+                    "wordId": "乙醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "柴油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "微笑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愉悦",
+                    "icon": false
+                },
+                {
+                    "wordId": "勉强",
+                    "icon": false
+                },
+                {
+                    "wordId": "温暖",
+                    "icon": false
+                },
+                {
+                    "wordId": "善良",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜美",
+                    "icon": false
+                },
+                {
+                    "wordId": "开朗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甜点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "可可粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "面粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄油",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸡蛋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "伊斯兰教",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "清真",
+                    "icon": false
+                },
+                {
+                    "wordId": "斋月",
+                    "icon": false
+                },
+                {
+                    "wordId": "古兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "穆斯林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钥匙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "门",
+                    "icon": true
+                },
+                {
+                    "wordId": "挂锁",
+                    "icon": true
+                },
+                {
+                    "wordId": "汽车",
+                    "icon": true
+                },
+                {
+                    "wordId": "保险箱",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "睡眠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熟睡",
+                    "icon": false
+                },
+                {
+                    "wordId": "小睡",
+                    "icon": false
+                },
+                {
+                    "wordId": "打盹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "太阳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日食",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系",
+                    "icon": false
+                },
+                {
+                    "wordId": "耀斑",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "甜点",
+        "有蹄动物",
+        "勉强",
+        "煤",
+        "汽车",
+        "长颈鹿",
+        "开朗",
+        "打盹",
+        "穆斯林",
+        "黄油",
+        "耀斑",
+        "面粉",
+        "伊斯兰教",
+        "疣猪",
+        "羊驼",
+        "爱奥尼亚海",
+        "柴油",
+        "煤油",
+        "野牛",
+        "斑马",
+        "微笑",
+        "织物",
+        "纱线",
+        "清真",
+        "马尾藻海",
+        "汽油",
+        "布",
+        "保险箱",
+        "古兰",
+        "睡眠",
+        "针织",
+        "纤维",
+        "骆驼",
+        "亚得里亚海",
+        "所罗门海",
+        "羊",
+        "门",
+        "可可粉",
+        "黑海",
+        "波罗的海",
+        "乙醇",
+        "善良"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "星系",
+                "编织",
+                "爱琴海",
+                "小睡"
+            ]
+        },
+        {
+            "cards": [
+                "鸡蛋",
+                "纺织品",
+                "温暖",
+                "熟睡",
+                "甜美"
+            ]
+        },
+        {
+            "cards": [
+                "山羊",
+                "太阳",
+                "钥匙",
+                "斋月",
+                "海洋",
+                "毛毡"
+            ]
+        },
+        {
+            "cards": [
+                "日食",
+                "木柴",
+                "愉悦",
+                "挂锁",
+                "巴利阿里海",
+                "燃料",
+                "蕾丝"
+            ]
+        }
+    ]
+}

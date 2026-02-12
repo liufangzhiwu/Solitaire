@@ -1,0 +1,217 @@
+{
+    "levelId": 112,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "太阳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "光",
+                    "icon": false
+                },
+                {
+                    "wordId": "照耀",
+                    "icon": false
+                },
+                {
+                    "wordId": "能量",
+                    "icon": false
+                },
+                {
+                    "wordId": "力量",
+                    "icon": false
+                },
+                {
+                    "wordId": "新生",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫利俄斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "光辉",
+                    "icon": false
+                },
+                {
+                    "wordId": "球体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "女神",
+                    "icon": false
+                },
+                {
+                    "wordId": "第二",
+                    "icon": false
+                },
+                {
+                    "wordId": "美丽",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱",
+                    "icon": false
+                },
+                {
+                    "wordId": "女性",
+                    "icon": false
+                },
+                {
+                    "wordId": "无生命",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "波塞冬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "风暴",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥林匹斯神",
+                    "icon": false
+                },
+                {
+                    "wordId": "三叉戟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "离开",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "逃脱",
+                    "icon": false
+                },
+                {
+                    "wordId": "逃离",
+                    "icon": false
+                },
+                {
+                    "wordId": "退出",
+                    "icon": false
+                },
+                {
+                    "wordId": "出发",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宇宙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恒星",
+                    "icon": true
+                },
+                {
+                    "wordId": "彗星",
+                    "icon": true
+                },
+                {
+                    "wordId": "小行星",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "告别",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "再见",
+                    "icon": false
+                },
+                {
+                    "wordId": "再会",
+                    "icon": false
+                },
+                {
+                    "wordId": "拜拜",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "风暴",
+        "再会",
+        "逃离",
+        "拜拜",
+        "照耀",
+        "球体",
+        "光",
+        "三叉戟",
+        "恒星",
+        "无生命",
+        "新生",
+        "出发",
+        "逃脱",
+        "行星",
+        "能量",
+        "宇宙",
+        "小行星",
+        "女神",
+        "金星",
+        "力量",
+        "奥林匹斯神",
+        "第二",
+        "海洋",
+        "告别"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "波塞冬",
+                "爱",
+                "女性"
+            ]
+        },
+        {
+            "cards": [
+                "退出",
+                "赫利俄斯",
+                "酸",
+                "美丽"
+            ]
+        },
+        {
+            "cards": [
+                "光辉",
+                "再见",
+                "彗星",
+                "太阳",
+                "离开"
+            ]
+        }
+    ]
+}

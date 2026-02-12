@@ -1,0 +1,369 @@
+{
+    "levelId": 150,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "清洗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "洗衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "淋浴",
+                    "icon": false
+                },
+                {
+                    "wordId": "水",
+                    "icon": false
+                },
+                {
+                    "wordId": "擦洗",
+                    "icon": false
+                },
+                {
+                    "wordId": "泡沫",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲洗",
+                    "icon": false
+                },
+                {
+                    "wordId": "清洁",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛巾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "航班",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "机票",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞机",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行员",
+                    "icon": false
+                },
+                {
+                    "wordId": "乘务员",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "着陆",
+                    "icon": false
+                },
+                {
+                    "wordId": "登机",
+                    "icon": false
+                },
+                {
+                    "wordId": "起飞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "外套",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "派克大衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "带风帽夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "大衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "雨衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "皮草大衣",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "轰炸机夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "背心",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "雕塑家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凿子",
+                    "icon": true
+                },
+                {
+                    "wordId": "大理石",
+                    "icon": true
+                },
+                {
+                    "wordId": "艺术家",
+                    "icon": true
+                },
+                {
+                    "wordId": "雕像",
+                    "icon": true
+                },
+                {
+                    "wordId": "双手",
+                    "icon": true
+                },
+                {
+                    "wordId": "半身像",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "治愈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "抓伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "瘀伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "伤口",
+                    "icon": false
+                },
+                {
+                    "wordId": "拐杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "绷带",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨折",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "油类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "香蜂草油",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄油",
+                    "icon": false
+                },
+                {
+                    "wordId": "芝麻油",
+                    "icon": false
+                },
+                {
+                    "wordId": "椰子油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "寓言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寓言故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "比喻",
+                    "icon": false
+                },
+                {
+                    "wordId": "象征",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐喻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "唤醒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摇晃",
+                    "icon": false
+                },
+                {
+                    "wordId": "闹钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "日光",
+                    "icon": false
+                },
+                {
+                    "wordId": "噪音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "狐狸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尾巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "狡猾",
+                    "icon": false
+                },
+                {
+                    "wordId": "红色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冰箱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氟利昂",
+                    "icon": false
+                },
+                {
+                    "wordId": "厨房",
+                    "icon": false
+                },
+                {
+                    "wordId": "保鲜",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "骨折",
+        "水",
+        "乘务员",
+        "擦洗",
+        "夹克",
+        "艺术家",
+        "派克大衣",
+        "背心",
+        "比喻",
+        "清洗",
+        "着陆",
+        "雕塑家",
+        "雕像",
+        "双手",
+        "芝麻油",
+        "凿子",
+        "半身像",
+        "伤口",
+        "摇晃",
+        "淋浴",
+        "象征",
+        "外套",
+        "大衣",
+        "闹钟",
+        "清洁",
+        "轰炸机夹克",
+        "起飞",
+        "氟利昂",
+        "登机",
+        "橄榄油",
+        "香蜂草油",
+        "狡猾",
+        "保鲜",
+        "瘀伤",
+        "大理石",
+        "冲洗",
+        "冰箱",
+        "椰子油",
+        "狐狸",
+        "尾巴",
+        "日光",
+        "噪音"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "寓言",
+                "飞机",
+                "抓伤",
+                "绷带"
+            ]
+        },
+        {
+            "cards": [
+                "拐杖",
+                "皮草大衣",
+                "飞行员",
+                "泡沫",
+                "航班"
+            ]
+        },
+        {
+            "cards": [
+                "治愈",
+                "洗衣",
+                "寓言故事",
+                "隐喻",
+                "机票",
+                "带风帽夹克"
+            ]
+        },
+        {
+            "cards": [
+                "雨衣",
+                "红色",
+                "唤醒",
+                "油类",
+                "毛巾",
+                "通道",
+                "厨房"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "levelId": 378,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "零食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "薯片",
+                    "icon": true
+                },
+                {
+                    "wordId": "椒盐卷饼",
+                    "icon": true
+                },
+                {
+                    "wordId": "爆米花",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨西哥玉米片",
+                    "icon": true
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": true
+                },
+                {
+                    "wordId": "玛芬蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "布朗尼",
+                    "icon": true
+                },
+                {
+                    "wordId": "甜甜圈",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "吉他",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "原声吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "电吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "男中音吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "尤克里里",
+                    "icon": false
+                },
+                {
+                    "wordId": "多布罗琴",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱面吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "平面吉他",
+                    "icon": false
+                },
+                {
+                    "wordId": "曼陀林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拉链",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉头",
+                    "icon": false
+                },
+                {
+                    "wordId": "链齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉带",
+                    "icon": false
+                },
+                {
+                    "wordId": "止码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "花色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "红心",
+                    "icon": false
+                },
+                {
+                    "wordId": "梅花",
+                    "icon": false
+                },
+                {
+                    "wordId": "方块",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "射线",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镭射",
+                    "icon": false
+                },
+                {
+                    "wordId": "X射线",
+                    "icon": false
+                },
+                {
+                    "wordId": "伽马射线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小屋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棚屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "阁楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "山间木屋",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "爆米花",
+        "男中音吉他",
+        "饼干",
+        "布朗尼",
+        "薯片",
+        "射线",
+        "玛芬蛋糕",
+        "平面吉他",
+        "小屋",
+        "曼陀林",
+        "拉头",
+        "红心",
+        "镭射",
+        "方块",
+        "梅花",
+        "止码",
+        "X射线",
+        "链齿",
+        "吉他",
+        "黑桃",
+        "棚屋",
+        "甜甜圈",
+        "拱面吉他",
+        "原声吉他"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "零食",
+                "阁楼",
+                "拉链"
+            ]
+        },
+        {
+            "cards": [
+                "椒盐卷饼",
+                "电吉他",
+                "尤克里里",
+                "墨西哥玉米片"
+            ]
+        },
+        {
+            "cards": [
+                "多布罗琴",
+                "伽马射线",
+                "拉带",
+                "花色",
+                "山间木屋"
+            ]
+        }
+    ]
+}

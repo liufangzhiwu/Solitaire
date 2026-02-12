@@ -1,0 +1,369 @@
+{
+    "levelId": 317,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "星座",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猎户座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天琴座",
+                    "icon": false
+                },
+                {
+                    "wordId": "大熊座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天龙座",
+                    "icon": false
+                },
+                {
+                    "wordId": "双鱼座",
+                    "icon": false
+                },
+                {
+                    "wordId": "金牛座",
+                    "icon": false
+                },
+                {
+                    "wordId": "双子座",
+                    "icon": false
+                },
+                {
+                    "wordId": "长蛇座",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "漫画",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑稽漫画",
+                    "icon": false
+                },
+                {
+                    "wordId": "速写",
+                    "icon": false
+                },
+                {
+                    "wordId": "日本漫画",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂鸦",
+                    "icon": false
+                },
+                {
+                    "wordId": "对话气泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "分格间隙",
+                    "icon": false
+                },
+                {
+                    "wordId": "搞笑点子",
+                    "icon": false
+                },
+                {
+                    "wordId": "漫画条",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机器人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿西莫机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "Nao机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "阿特拉斯机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "胡椒机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "Kuri机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "Vector机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "Cozmo机器人",
+                    "icon": true
+                },
+                {
+                    "wordId": "索菲亚机器人",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "神秘学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神谕",
+                    "icon": false
+                },
+                {
+                    "wordId": "先知",
+                    "icon": false
+                },
+                {
+                    "wordId": "符文",
+                    "icon": false
+                },
+                {
+                    "wordId": "预兆",
+                    "icon": false
+                },
+                {
+                    "wordId": "光环",
+                    "icon": false
+                },
+                {
+                    "wordId": "吟诵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "发动机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阀门",
+                    "icon": false
+                },
+                {
+                    "wordId": "凸轮轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "转子",
+                    "icon": false
+                },
+                {
+                    "wordId": "活塞",
+                    "icon": false
+                },
+                {
+                    "wordId": "垫片",
+                    "icon": false
+                },
+                {
+                    "wordId": "轴承",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "字体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "衬线体",
+                    "icon": false
+                },
+                {
+                    "wordId": "草书体",
+                    "icon": false
+                },
+                {
+                    "wordId": "信使体",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻想体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "港口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "驳岸",
+                    "icon": false
+                },
+                {
+                    "wordId": "突堤",
+                    "icon": false
+                },
+                {
+                    "wordId": "防波堤",
+                    "icon": false
+                },
+                {
+                    "wordId": "码头",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "瑜伽体式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼镜蛇式",
+                    "icon": true
+                },
+                {
+                    "wordId": "莲花式",
+                    "icon": true
+                },
+                {
+                    "wordId": "平板式",
+                    "icon": true
+                },
+                {
+                    "wordId": "战士式",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "弦乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "中提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "按键",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Alt键",
+                    "icon": false
+                },
+                {
+                    "wordId": "Ctrl键",
+                    "icon": false
+                },
+                {
+                    "wordId": "Shift键",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "滑稽漫画",
+        "防波堤",
+        "Cozmo机器人",
+        "信使体",
+        "垫片",
+        "漫画",
+        "小提琴",
+        "转子",
+        "突堤",
+        "光环",
+        "对话气泡",
+        "分格间隙",
+        "字体",
+        "金牛座",
+        "预兆",
+        "驳岸",
+        "Ctrl键",
+        "胡椒机器人",
+        "活塞",
+        "天龙座",
+        "莲花式",
+        "按键",
+        "凸轮轴",
+        "涂鸦",
+        "速写",
+        "港口",
+        "眼镜蛇式",
+        "Kuri机器人",
+        "阿西莫机器人",
+        "Shift键",
+        "平板式",
+        "先知",
+        "发动机",
+        "搞笑点子",
+        "天琴座",
+        "战士式",
+        "大熊座",
+        "神谕",
+        "中提琴",
+        "草书体",
+        "衬线体",
+        "大提琴"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "漫画条",
+                "弦乐器",
+                "幻想体",
+                "双子座"
+            ]
+        },
+        {
+            "cards": [
+                "猎户座",
+                "阿特拉斯机器人",
+                "吟诵",
+                "索菲亚机器人",
+                "瑜伽体式"
+            ]
+        },
+        {
+            "cards": [
+                "Nao机器人",
+                "长蛇座",
+                "双鱼座",
+                "星座",
+                "机器人",
+                "阀门"
+            ]
+        },
+        {
+            "cards": [
+                "轴承",
+                "神秘学",
+                "Vector机器人",
+                "符文",
+                "日本漫画",
+                "Alt键",
+                "码头"
+            ]
+        }
+    ]
+}

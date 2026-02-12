@@ -1,0 +1,217 @@
+{
+    "levelId": 179,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "烹饪方法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嫩煎",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧烤",
+                    "icon": false
+                },
+                {
+                    "wordId": "烘烤",
+                    "icon": false
+                },
+                {
+                    "wordId": "烘焙",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸",
+                    "icon": false
+                },
+                {
+                    "wordId": "炙烤",
+                    "icon": false
+                },
+                {
+                    "wordId": "水煮",
+                    "icon": false
+                },
+                {
+                    "wordId": "油炸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "饮料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苹果酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "柠檬水",
+                    "icon": false
+                },
+                {
+                    "wordId": "果汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏打水",
+                    "icon": false
+                },
+                {
+                    "wordId": "宾治",
+                    "icon": false
+                },
+                {
+                    "wordId": "无酒精鸡尾酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "拿铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "可可",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "元素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火",
+                    "icon": true
+                },
+                {
+                    "wordId": "土",
+                    "icon": true
+                },
+                {
+                    "wordId": "水",
+                    "icon": true
+                },
+                {
+                    "wordId": "风",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "神祇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宙斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "索尔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地貌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平顶山",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "孤峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "首都",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伦敦",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏林",
+                    "icon": false
+                },
+                {
+                    "wordId": "加拉加斯",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "烧烤",
+        "拿铁",
+        "索尔",
+        "无酒精鸡尾酒",
+        "蒸",
+        "宙斯",
+        "土",
+        "烹饪方法",
+        "柏林",
+        "元素",
+        "水",
+        "水煮",
+        "峡谷",
+        "可可",
+        "苏打水",
+        "果汁",
+        "平顶山",
+        "油炸",
+        "烘焙",
+        "风",
+        "嫩煎",
+        "柠檬水",
+        "神祇",
+        "孤峰"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "伦敦",
+                "火",
+                "炙烤"
+            ]
+        },
+        {
+            "cards": [
+                "饮料",
+                "宾治",
+                "地貌",
+                "烘烤"
+            ]
+        },
+        {
+            "cards": [
+                "奥丁",
+                "首都",
+                "苹果酒",
+                "加拉加斯",
+                "拉"
+            ]
+        }
+    ]
+}

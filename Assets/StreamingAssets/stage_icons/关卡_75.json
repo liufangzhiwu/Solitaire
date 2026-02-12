@@ -1,0 +1,369 @@
+{
+    "levelId": 75,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "狗狗秀",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "犬类",
+                    "icon": false
+                },
+                {
+                    "wordId": "比赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "裁判",
+                    "icon": false
+                },
+                {
+                    "wordId": "盛会",
+                    "icon": false
+                },
+                {
+                    "wordId": "品种",
+                    "icon": false
+                },
+                {
+                    "wordId": "训练",
+                    "icon": false
+                },
+                {
+                    "wordId": "展览",
+                    "icon": false
+                },
+                {
+                    "wordId": "冠军",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "夏季",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "热浪",
+                    "icon": false
+                },
+                {
+                    "wordId": "温暖",
+                    "icon": false
+                },
+                {
+                    "wordId": "阳光",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧烤",
+                    "icon": false
+                },
+                {
+                    "wordId": "假期",
+                    "icon": false
+                },
+                {
+                    "wordId": "晒伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "露营",
+                    "icon": false
+                },
+                {
+                    "wordId": "游泳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "应用",
+                    "icon": false
+                },
+                {
+                    "wordId": "通话",
+                    "icon": false
+                },
+                {
+                    "wordId": "聊天",
+                    "icon": false
+                },
+                {
+                    "wordId": "短信",
+                    "icon": false
+                },
+                {
+                    "wordId": "铃声",
+                    "icon": false
+                },
+                {
+                    "wordId": "游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "照片",
+                    "icon": false
+                },
+                {
+                    "wordId": "全球定位系统",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美食家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "美食",
+                    "icon": false
+                },
+                {
+                    "wordId": "老饕",
+                    "icon": false
+                },
+                {
+                    "wordId": "品味",
+                    "icon": false
+                },
+                {
+                    "wordId": "美味",
+                    "icon": false
+                },
+                {
+                    "wordId": "享乐主义",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜肴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "椰子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "外壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "外皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "果肉",
+                    "icon": false
+                },
+                {
+                    "wordId": "椰奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "棕榈树",
+                    "icon": false
+                },
+                {
+                    "wordId": "椰浆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诺贝尔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "炸药",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖项",
+                    "icon": false
+                },
+                {
+                    "wordId": "工程师",
+                    "icon": false
+                },
+                {
+                    "wordId": "发明家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "糖果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "口香糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "巧克力",
+                    "icon": true
+                },
+                {
+                    "wordId": "软糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "棒棒糖",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "鲨鱼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鱼鳍",
+                    "icon": false
+                },
+                {
+                    "wordId": "牙齿",
+                    "icon": false
+                },
+                {
+                    "wordId": "鳃",
+                    "icon": false
+                },
+                {
+                    "wordId": "颚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "进食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咀嚼",
+                    "icon": false
+                },
+                {
+                    "wordId": "咬",
+                    "icon": false
+                },
+                {
+                    "wordId": "吞咽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火焰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "火",
+                    "icon": false
+                },
+                {
+                    "wordId": "火柴盒",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "糖果",
+        "展览",
+        "椰奶",
+        "牙齿",
+        "闪烁",
+        "咀嚼",
+        "软糖",
+        "棒棒糖",
+        "奖项",
+        "裁判",
+        "果肉",
+        "鲨鱼",
+        "训练",
+        "美食",
+        "短信",
+        "火",
+        "火柴盒",
+        "鱼鳍",
+        "美味",
+        "夏季",
+        "吞咽",
+        "外皮",
+        "发明家",
+        "通话",
+        "棕榈树",
+        "犬类",
+        "品种",
+        "全球定位系统",
+        "游戏",
+        "温暖",
+        "咬",
+        "享乐主义",
+        "老饕",
+        "应用",
+        "比赛",
+        "椰子",
+        "露营",
+        "鳃",
+        "晒伤",
+        "阳光",
+        "烧烤",
+        "进食"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "口香糖",
+                "工程师",
+                "椰浆",
+                "手机"
+            ]
+        },
+        {
+            "cards": [
+                "聊天",
+                "巧克力",
+                "菜肴",
+                "炸药",
+                "游泳"
+            ]
+        },
+        {
+            "cards": [
+                "火焰",
+                "冠军",
+                "狗狗秀",
+                "品味",
+                "颚",
+                "假期"
+            ]
+        },
+        {
+            "cards": [
+                "诺贝尔",
+                "外壳",
+                "照片",
+                "热浪",
+                "美食家",
+                "铃声",
+                "盛会"
+            ]
+        }
+    ]
+}

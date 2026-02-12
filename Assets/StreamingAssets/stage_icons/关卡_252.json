@@ -1,0 +1,369 @@
+{
+    "levelId": 252,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "地貌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高原",
+                    "icon": false
+                },
+                {
+                    "wordId": "山谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "三角洲",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "方山",
+                    "icon": false
+                },
+                {
+                    "wordId": "地峡",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "明信片",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "说明文字",
+                    "icon": false
+                },
+                {
+                    "wordId": "书信",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪念品",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮资",
+                    "icon": false
+                },
+                {
+                    "wordId": "急件",
+                    "icon": false
+                },
+                {
+                    "wordId": "图片",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮票",
+                    "icon": false
+                },
+                {
+                    "wordId": "信使",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "哺乳动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "袋熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "貘",
+                    "icon": true
+                },
+                {
+                    "wordId": "狐猴",
+                    "icon": true
+                },
+                {
+                    "wordId": "霍加皮",
+                    "icon": true
+                },
+                {
+                    "wordId": "袋鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "鬣狗",
+                    "icon": true
+                },
+                {
+                    "wordId": "大猩猩",
+                    "icon": true
+                },
+                {
+                    "wordId": "水獭",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "生活",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "家庭",
+                    "icon": false
+                },
+                {
+                    "wordId": "事业",
+                    "icon": false
+                },
+                {
+                    "wordId": "朋友",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱好",
+                    "icon": false
+                },
+                {
+                    "wordId": "闲暇",
+                    "icon": false
+                },
+                {
+                    "wordId": "学习",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "陶器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双耳瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "花盆",
+                    "icon": true
+                },
+                {
+                    "wordId": "马克杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "陶罐",
+                    "icon": true
+                },
+                {
+                    "wordId": "骨灰瓮",
+                    "icon": true
+                },
+                {
+                    "wordId": "碗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "诗歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打油诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "民谣",
+                    "icon": false
+                },
+                {
+                    "wordId": "哀歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "颂诗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "轨道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椭圆轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆形轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋轨道",
+                    "icon": false
+                },
+                {
+                    "wordId": "抛物线轨道",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "魔法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咒语",
+                    "icon": false
+                },
+                {
+                    "wordId": "魅惑",
+                    "icon": false
+                },
+                {
+                    "wordId": "诅咒",
+                    "icon": false
+                },
+                {
+                    "wordId": "药水",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "季节",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冬季",
+                    "icon": true
+                },
+                {
+                    "wordId": "春季",
+                    "icon": true
+                },
+                {
+                    "wordId": "秋季",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "朝代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "明朝",
+                    "icon": false
+                },
+                {
+                    "wordId": "汉朝",
+                    "icon": false
+                },
+                {
+                    "wordId": "唐朝",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "魔法",
+        "沙丘",
+        "纪念品",
+        "朋友",
+        "骨灰瓮",
+        "地峡",
+        "诗歌",
+        "哺乳动物",
+        "山脊",
+        "峡谷",
+        "学习",
+        "哀歌",
+        "袋熊",
+        "抛物线轨道",
+        "家庭",
+        "山谷",
+        "书信",
+        "霍加皮",
+        "三角洲",
+        "椭圆轨道",
+        "诅咒",
+        "花盆",
+        "图片",
+        "双耳瓶",
+        "高原",
+        "生活",
+        "唐朝",
+        "圆形轨道",
+        "明朝",
+        "螺旋轨道",
+        "闲暇",
+        "马克杯",
+        "碗",
+        "药水",
+        "魅惑",
+        "秋季",
+        "陶器",
+        "咒语",
+        "鬣狗",
+        "冬季",
+        "陶罐",
+        "颂诗"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "说明文字",
+                "袋鼠",
+                "急件",
+                "狐猴"
+            ]
+        },
+        {
+            "cards": [
+                "水獭",
+                "轨道",
+                "事业",
+                "地貌",
+                "民谣"
+            ]
+        },
+        {
+            "cards": [
+                "爱好",
+                "貘",
+                "方山",
+                "汉朝",
+                "邮票",
+                "季节"
+            ]
+        },
+        {
+            "cards": [
+                "春季",
+                "打油诗",
+                "朝代",
+                "明信片",
+                "信使",
+                "大猩猩",
+                "邮资"
+            ]
+        }
+    ]
+}

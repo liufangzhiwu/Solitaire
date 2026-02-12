@@ -1,0 +1,217 @@
+{
+    "levelId": 169,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "衣物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "衬衫",
+                    "icon": true
+                },
+                {
+                    "wordId": "裤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "夹克",
+                    "icon": true
+                },
+                {
+                    "wordId": "袜子",
+                    "icon": true
+                },
+                {
+                    "wordId": "帽子",
+                    "icon": true
+                },
+                {
+                    "wordId": "围巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "连衣裙",
+                    "icon": true
+                },
+                {
+                    "wordId": "半身裙",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宝石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红宝石",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白石",
+                    "icon": false
+                },
+                {
+                    "wordId": "翡翠",
+                    "icon": false
+                },
+                {
+                    "wordId": "缟玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "托帕石",
+                    "icon": false
+                },
+                {
+                    "wordId": "珍珠",
+                    "icon": false
+                },
+                {
+                    "wordId": "琥珀",
+                    "icon": false
+                },
+                {
+                    "wordId": "石英",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "办公室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "椅子",
+                    "icon": true
+                },
+                {
+                    "wordId": "打印机",
+                    "icon": true
+                },
+                {
+                    "wordId": "时钟",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "交通工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽车",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴士",
+                    "icon": false
+                },
+                {
+                    "wordId": "火车",
+                    "icon": false
+                },
+                {
+                    "wordId": "船",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烘焙师",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行员",
+                    "icon": false
+                },
+                {
+                    "wordId": "艺术家",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电钻",
+                    "icon": false
+                },
+                {
+                    "wordId": "锯",
+                    "icon": false
+                },
+                {
+                    "wordId": "扳手",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "扳手",
+        "椅子",
+        "石英",
+        "半身裙",
+        "锯",
+        "汽车",
+        "珍珠",
+        "蛋白石",
+        "衬衫",
+        "时钟",
+        "烘焙师",
+        "打印机",
+        "艺术家",
+        "夹克",
+        "职业",
+        "裤子",
+        "缟玛瑙",
+        "袜子",
+        "托帕石",
+        "火车",
+        "办公室",
+        "衣物",
+        "书桌",
+        "电钻"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "船",
+                "交通工具",
+                "琥珀"
+            ]
+        },
+        {
+            "cards": [
+                "翡翠",
+                "帽子",
+                "连衣裙",
+                "围巾"
+            ]
+        },
+        {
+            "cards": [
+                "飞行员",
+                "工具",
+                "巴士",
+                "宝石",
+                "红宝石"
+            ]
+        }
+    ]
+}

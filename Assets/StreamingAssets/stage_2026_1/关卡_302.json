@@ -1,0 +1,369 @@
+{
+    "levelId": 302,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "坐骑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "马",
+                    "icon": false
+                },
+                {
+                    "wordId": "骆驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "羊驼",
+                    "icon": false
+                },
+                {
+                    "wordId": "驴",
+                    "icon": false
+                },
+                {
+                    "wordId": "骡子",
+                    "icon": false
+                },
+                {
+                    "wordId": "牦牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "驯鹿",
+                    "icon": false
+                },
+                {
+                    "wordId": "大象",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "坚果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杏仁",
+                    "icon": false
+                },
+                {
+                    "wordId": "腰果",
+                    "icon": false
+                },
+                {
+                    "wordId": "核桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "山核桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "榛子",
+                    "icon": false
+                },
+                {
+                    "wordId": "栗子",
+                    "icon": false
+                },
+                {
+                    "wordId": "山毛榉坚果",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧榛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时钟",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日晷",
+                    "icon": true
+                },
+                {
+                    "wordId": "布谷鸟钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "数字钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "模拟钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "原子钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "怀表",
+                    "icon": true
+                },
+                {
+                    "wordId": "塔钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "摆钟",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "声音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "叮当声",
+                    "icon": false
+                },
+                {
+                    "wordId": "破裂声",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎裂声",
+                    "icon": false
+                },
+                {
+                    "wordId": "溅泼声",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙沙声",
+                    "icon": false
+                },
+                {
+                    "wordId": "哢嗒声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "根茎类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甜菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "欧洲萝卜",
+                    "icon": false
+                },
+                {
+                    "wordId": "萝卜",
+                    "icon": false
+                },
+                {
+                    "wordId": "姜",
+                    "icon": false
+                },
+                {
+                    "wordId": "芜菁",
+                    "icon": false
+                },
+                {
+                    "wordId": "山药",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谜语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "难题",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜团",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜题",
+                    "icon": false
+                },
+                {
+                    "wordId": "密码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛇发女妖",
+                    "icon": false
+                },
+                {
+                    "wordId": "独眼巨人",
+                    "icon": false
+                },
+                {
+                    "wordId": "喀迈拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇怪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浮标",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪光信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "质数",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "三",
+                    "icon": false
+                },
+                {
+                    "wordId": "七",
+                    "icon": false
+                },
+                {
+                    "wordId": "十一",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "符文",
+                    "icon": true
+                },
+                {
+                    "wordId": "魔符",
+                    "icon": true
+                },
+                {
+                    "wordId": "标记",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "山药",
+        "三",
+        "哢嗒声",
+        "栗子",
+        "模拟钟",
+        "时钟",
+        "根茎类",
+        "沙沙声",
+        "质数",
+        "大象",
+        "骡子",
+        "欧榛",
+        "蛇怪",
+        "羊驼",
+        "难题",
+        "摆钟",
+        "七",
+        "密码",
+        "叮当声",
+        "喀迈拉",
+        "谜团",
+        "灯",
+        "驯鹿",
+        "腰果",
+        "怀表",
+        "日晷",
+        "符号",
+        "山毛榉坚果",
+        "核桃",
+        "十一",
+        "浮标",
+        "符文",
+        "牦牛",
+        "塔钟",
+        "芜菁",
+        "骆驼",
+        "马",
+        "蛇发女妖",
+        "魔符",
+        "坐骑",
+        "闪光信号",
+        "山核桃"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "神话生物",
+                "声音",
+                "信标",
+                "杏仁"
+            ]
+        },
+        {
+            "cards": [
+                "破裂声",
+                "欧洲萝卜",
+                "独眼巨人",
+                "榛子",
+                "碎裂声"
+            ]
+        },
+        {
+            "cards": [
+                "溅泼声",
+                "姜",
+                "坚果",
+                "信号",
+                "布谷鸟钟",
+                "萝卜"
+            ]
+        },
+        {
+            "cards": [
+                "甜菜",
+                "驴",
+                "数字钟",
+                "原子钟",
+                "标记",
+                "谜语",
+                "谜题"
+            ]
+        }
+    ]
+}

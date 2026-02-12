@@ -1,0 +1,359 @@
+{
+    "levelId": 4,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 125,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "山脉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玉山",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪山",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿里山",
+                    "icon": false
+                },
+                {
+                    "wordId": "中央尖山",
+                    "icon": false
+                },
+                {
+                    "wordId": "大霸尖山",
+                    "icon": false
+                },
+                {
+                    "wordId": "南湖大山",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇菜主山",
+                    "icon": false
+                },
+                {
+                    "wordId": "合欢山",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珠宝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "项链",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳环",
+                    "icon": true
+                },
+                {
+                    "wordId": "钻石戒指",
+                    "icon": true
+                },
+                {
+                    "wordId": "手镯",
+                    "icon": true
+                },
+                {
+                    "wordId": "脚链",
+                    "icon": true
+                },
+                {
+                    "wordId": "小盒坠子",
+                    "icon": true
+                },
+                {
+                    "wordId": "王冠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "花",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雏菊",
+                    "icon": true
+                },
+                {
+                    "wordId": "百合",
+                    "icon": true
+                },
+                {
+                    "wordId": "郁金香",
+                    "icon": true
+                },
+                {
+                    "wordId": "玫瑰",
+                    "icon": true
+                },
+                {
+                    "wordId": "罂粟花",
+                    "icon": true
+                },
+                {
+                    "wordId": "牡丹",
+                    "icon": true
+                },
+                {
+                    "wordId": "紫苑",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "舞蹈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伦巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "探戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨尔萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "华尔滋",
+                    "icon": false
+                },
+                {
+                    "wordId": "桑巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗拉明戈",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "昆虫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蚊子",
+                    "icon": true
+                },
+                {
+                    "wordId": "瓢虫",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛾",
+                    "icon": true
+                },
+                {
+                    "wordId": "黄蜂",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜻蜓",
+                    "icon": true
+                },
+                {
+                    "wordId": "蚂蚁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "软体动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛞蝓",
+                    "icon": false
+                },
+                {
+                    "wordId": "牡蛎",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜗牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛤蜊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "材料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金属",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "塑胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "石头",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "睡觉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "睡衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇篮曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "梦",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈欠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "戏剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "歌仔戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "掌中戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "傀儡戏",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乳制品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奶油",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄油",
+                    "icon": false
+                },
+                {
+                    "wordId": "优酪乳",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "阿里山",
+        "蜻蜓",
+        "玉山",
+        "乳制品",
+        "桑巴",
+        "舞蹈",
+        "王冠",
+        "蛾",
+        "睡衣",
+        "奶油",
+        "花",
+        "黄油",
+        "金属",
+        "蛤蜊",
+        "材料",
+        "摇篮曲",
+        "奇菜主山",
+        "歌仔戏",
+        "钻石戒指",
+        "哈欠",
+        "塑胶",
+        "优酪乳",
+        "郁金香",
+        "百合",
+        "蚊子",
+        "玻璃",
+        "弗拉明戈",
+        "合欢山",
+        "牡丹",
+        "掌中戏",
+        "中央尖山",
+        "大霸尖山",
+        "罂粟花",
+        "珠宝",
+        "探戈",
+        "雪山",
+        "耳环",
+        "手镯",
+        "蜗牛",
+        "瓢虫",
+        "脚链",
+        "蚂蚁",
+        "蛞蝓",
+        "南湖大山"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "傀儡戏",
+                "华尔滋",
+                "紫苑"
+            ]
+        },
+        {
+            "cards": [
+                "软体动物",
+                "石头",
+                "雏菊",
+                "山脉"
+            ]
+        },
+        {
+            "cards": [
+                "萨尔萨",
+                "戏剧",
+                "伦巴",
+                "黄蜂",
+                "梦"
+            ]
+        },
+        {
+            "cards": [
+                "昆虫",
+                "牡蛎",
+                "玫瑰",
+                "小盒坠子",
+                "项链",
+                "睡觉"
+            ]
+        }
+    ]
+}

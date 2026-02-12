@@ -1,0 +1,521 @@
+{
+    "levelId": 278,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "腹部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肝脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "脾脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "胃",
+                    "icon": false
+                },
+                {
+                    "wordId": "肾脏",
+                    "icon": false
+                },
+                {
+                    "wordId": "膀胱",
+                    "icon": false
+                },
+                {
+                    "wordId": "结肠",
+                    "icon": false
+                },
+                {
+                    "wordId": "阑尾",
+                    "icon": false
+                },
+                {
+                    "wordId": "胰腺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有角生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "驯鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "驼鹿",
+                    "icon": true
+                },
+                {
+                    "wordId": "公牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "犀牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "羚羊",
+                    "icon": true
+                },
+                {
+                    "wordId": "独角仙",
+                    "icon": true
+                },
+                {
+                    "wordId": "水牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "公羊",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "战役",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑铁卢战役",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑斯廷斯战役",
+                    "icon": false
+                },
+                {
+                    "wordId": "诺曼底登陆",
+                    "icon": false
+                },
+                {
+                    "wordId": "索姆河战役",
+                    "icon": false
+                },
+                {
+                    "wordId": "锡拉库萨战役",
+                    "icon": false
+                },
+                {
+                    "wordId": "日德兰海战",
+                    "icon": false
+                },
+                {
+                    "wordId": "凡尔登战役",
+                    "icon": false
+                },
+                {
+                    "wordId": "敦刻尔克撤退",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "修辞",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "暗示",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐喻",
+                    "icon": false
+                },
+                {
+                    "wordId": "悲情",
+                    "icon": false
+                },
+                {
+                    "wordId": "修辞手法",
+                    "icon": false
+                },
+                {
+                    "wordId": "演说家",
+                    "icon": false
+                },
+                {
+                    "wordId": "论证",
+                    "icon": false
+                },
+                {
+                    "wordId": "开篇",
+                    "icon": false
+                },
+                {
+                    "wordId": "演讲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "突变",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "诱变剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "基因拼接",
+                    "icon": false
+                },
+                {
+                    "wordId": "基因组",
+                    "icon": false
+                },
+                {
+                    "wordId": "缺失",
+                    "icon": false
+                },
+                {
+                    "wordId": "DNA",
+                    "icon": false
+                },
+                {
+                    "wordId": "突变体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "多果实",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "芒果",
+                    "icon": true
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": true
+                },
+                {
+                    "wordId": "草莓",
+                    "icon": true
+                },
+                {
+                    "wordId": "樱桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛油果",
+                    "icon": true
+                },
+                {
+                    "wordId": "凤梨",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "象征",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "标志",
+                    "icon": false
+                },
+                {
+                    "wordId": "标识",
+                    "icon": false
+                },
+                {
+                    "wordId": "舰旗",
+                    "icon": false
+                },
+                {
+                    "wordId": "商标",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽章",
+                    "icon": false
+                },
+                {
+                    "wordId": "臂章",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邮轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "航行",
+                    "icon": false
+                },
+                {
+                    "wordId": "船员",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅游业",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "延性金属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钽",
+                    "icon": false
+                },
+                {
+                    "wordId": "铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "镍",
+                    "icon": false
+                },
+                {
+                    "wordId": "金",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "跑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "飞奔",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲",
+                    "icon": false
+                },
+                {
+                    "wordId": "疾驰",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢跑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "震惊的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "惊讶",
+                    "icon": false
+                },
+                {
+                    "wordId": "震惊",
+                    "icon": false
+                },
+                {
+                    "wordId": "吃惊",
+                    "icon": false
+                },
+                {
+                    "wordId": "茫然",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "脸颊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脸红",
+                    "icon": false
+                },
+                {
+                    "wordId": "皱纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒窝",
+                    "icon": false
+                },
+                {
+                    "wordId": "雀斑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "粘稠的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "太妃糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳酪火锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "松树汁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "提示",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "建议",
+                    "icon": false
+                },
+                {
+                    "wordId": "点",
+                    "icon": false
+                },
+                {
+                    "wordId": "小费",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "点",
+        "结肠",
+        "震惊",
+        "粘稠的",
+        "番茄",
+        "突变体",
+        "震惊的",
+        "诺曼底登陆",
+        "芒果",
+        "舰旗",
+        "脸红",
+        "隐喻",
+        "索姆河战役",
+        "乳酪火锅",
+        "小费",
+        "敦刻尔克撤退",
+        "驼鹿",
+        "阑尾",
+        "驯鹿",
+        "凡尔登战役",
+        "演说家",
+        "多果实",
+        "吃惊",
+        "冲",
+        "肾脏",
+        "草莓",
+        "锡拉库萨战役",
+        "水牛",
+        "徽章",
+        "DNA",
+        "论证",
+        "脸颊",
+        "战役",
+        "膀胱",
+        "太妃糖",
+        "镍",
+        "修辞手法",
+        "滑铁卢战役",
+        "黑斯廷斯战役",
+        "延性金属",
+        "钽",
+        "惊讶",
+        "缺失",
+        "黄铜",
+        "羚羊",
+        "象征",
+        "胰腺",
+        "海洋",
+        "皱纹",
+        "旅游业",
+        "暗示",
+        "基因组",
+        "公牛",
+        "邮轮",
+        "船员",
+        "牛油果",
+        "日德兰海战"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "凤梨",
+                "演讲",
+                "标志",
+                "飞奔",
+                "航行"
+            ]
+        },
+        {
+            "cards": [
+                "游轮",
+                "脾脏",
+                "诱变剂",
+                "松树汁",
+                "突变",
+                "铜"
+            ]
+        },
+        {
+            "cards": [
+                "腹部",
+                "基因拼接",
+                "樱桃",
+                "疾驰",
+                "提示",
+                "犀牛",
+                "臂章"
+            ]
+        },
+        {
+            "cards": [
+                "茫然",
+                "建议",
+                "商标",
+                "标识",
+                "修辞",
+                "悲情",
+                "肝脏",
+                "雀斑"
+            ]
+        },
+        {
+            "cards": [
+                "公羊",
+                "胃",
+                "跑",
+                "酒窝",
+                "独角仙",
+                "金",
+                "慢跑",
+                "有角生物",
+                "开篇"
+            ]
+        }
+    ]
+}

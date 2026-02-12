@@ -1,0 +1,369 @@
+{
+    "levelId": 364,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "气球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氦气",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "充气",
+                    "icon": false
+                },
+                {
+                    "wordId": "漂浮",
+                    "icon": false
+                },
+                {
+                    "wordId": "爆破器",
+                    "icon": false
+                },
+                {
+                    "wordId": "簇",
+                    "icon": false
+                },
+                {
+                    "wordId": "系绳",
+                    "icon": false
+                },
+                {
+                    "wordId": "多彩的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "盔甲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胸甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "胫甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "前臂甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "护喉",
+                    "icon": true
+                },
+                {
+                    "wordId": "肩甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "腿甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "铁履",
+                    "icon": true
+                },
+                {
+                    "wordId": "肩铠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "派系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行会",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴谋集团",
+                    "icon": false
+                },
+                {
+                    "wordId": "教派",
+                    "icon": false
+                },
+                {
+                    "wordId": "骑士团",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞地",
+                    "icon": false
+                },
+                {
+                    "wordId": "联盟",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡特尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "方阵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "彗星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哈雷彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "恩克彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "博雷利彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "坦普尔彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛夫乔伊彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "池谷彗星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "焊接",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "焊缝",
+                    "icon": false
+                },
+                {
+                    "wordId": "火炬",
+                    "icon": false
+                },
+                {
+                    "wordId": "电弧",
+                    "icon": false
+                },
+                {
+                    "wordId": "焊剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "焊渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "焊珠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "领域",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "王国",
+                    "icon": false
+                },
+                {
+                    "wordId": "县",
+                    "icon": false
+                },
+                {
+                    "wordId": "省",
+                    "icon": false
+                },
+                {
+                    "wordId": "辖区",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神经元",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胞体",
+                    "icon": false
+                },
+                {
+                    "wordId": "轴突",
+                    "icon": false
+                },
+                {
+                    "wordId": "树突",
+                    "icon": false
+                },
+                {
+                    "wordId": "突触",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "庄园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地产",
+                    "icon": false
+                },
+                {
+                    "wordId": "大厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "门厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔楼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "构造",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地震",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑动",
+                    "icon": false
+                },
+                {
+                    "wordId": "推力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香气",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麝香",
+                    "icon": false
+                },
+                {
+                    "wordId": "精华",
+                    "icon": false
+                },
+                {
+                    "wordId": "柑橘香",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "县",
+        "地产",
+        "骑士团",
+        "铁履",
+        "胸甲",
+        "派系",
+        "突触",
+        "麝香",
+        "精华",
+        "焊接",
+        "飞地",
+        "卡特尔",
+        "胞体",
+        "王国",
+        "系绳",
+        "簇",
+        "香气",
+        "火炬",
+        "轴突",
+        "大厅",
+        "焊渣",
+        "地震",
+        "肩铠",
+        "哈雷彗星",
+        "腿甲",
+        "氦气",
+        "教派",
+        "电弧",
+        "焊缝",
+        "门厅",
+        "前臂甲",
+        "爆破器",
+        "彗星",
+        "推力",
+        "漂浮",
+        "胫甲",
+        "方阵",
+        "池谷彗星",
+        "构造",
+        "辖区",
+        "滑动",
+        "柑橘香"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "乳胶",
+                "省",
+                "气球",
+                "领域"
+            ]
+        },
+        {
+            "cards": [
+                "焊剂",
+                "神经元",
+                "充气",
+                "恩克彗星",
+                "坦普尔彗星"
+            ]
+        },
+        {
+            "cards": [
+                "焊珠",
+                "联盟",
+                "护喉",
+                "肩甲",
+                "塔楼",
+                "行会"
+            ]
+        },
+        {
+            "cards": [
+                "博雷利彗星",
+                "庄园",
+                "树突",
+                "多彩的",
+                "阴谋集团",
+                "盔甲",
+                "洛夫乔伊彗星"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,453 @@
+{
+    "levelId": 16,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 180,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柳丁",
+                    "icon": true
+                },
+                {
+                    "wordId": "猕猴桃",
+                    "icon": true
+                },
+                {
+                    "wordId": "香蕉",
+                    "icon": true
+                },
+                {
+                    "wordId": "苹果",
+                    "icon": true
+                },
+                {
+                    "wordId": "番石榴",
+                    "icon": true
+                },
+                {
+                    "wordId": "桃子",
+                    "icon": true
+                },
+                {
+                    "wordId": "凤梨",
+                    "icon": true
+                },
+                {
+                    "wordId": "杏",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "医院",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "病人",
+                    "icon": false
+                },
+                {
+                    "wordId": "护理",
+                    "icon": false
+                },
+                {
+                    "wordId": "外科医生",
+                    "icon": false
+                },
+                {
+                    "wordId": "注射器",
+                    "icon": false
+                },
+                {
+                    "wordId": "吸入器",
+                    "icon": false
+                },
+                {
+                    "wordId": "药片",
+                    "icon": false
+                },
+                {
+                    "wordId": "药膏",
+                    "icon": false
+                },
+                {
+                    "wordId": "疫苗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "飞机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "驾驶舱",
+                    "icon": false
+                },
+                {
+                    "wordId": "安全带",
+                    "icon": false
+                },
+                {
+                    "wordId": "机翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "发动机",
+                    "icon": false
+                },
+                {
+                    "wordId": "方向舵",
+                    "icon": false
+                },
+                {
+                    "wordId": "机身",
+                    "icon": false
+                },
+                {
+                    "wordId": "副翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "厨房",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "搅拌机",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤面包机",
+                    "icon": false
+                },
+                {
+                    "wordId": "料理机",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "厨师",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "水壶",
+                    "icon": false
+                },
+                {
+                    "wordId": "水槽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "啮齿动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "河狸",
+                    "icon": true
+                },
+                {
+                    "wordId": "土拨鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "海狸鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "松鼠",
+                    "icon": true
+                },
+                {
+                    "wordId": "水豚",
+                    "icon": true
+                },
+                {
+                    "wordId": "老鼠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "DJ",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "节拍",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌单",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑胶唱片",
+                    "icon": false
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": false
+                },
+                {
+                    "wordId": "派对",
+                    "icon": false
+                },
+                {
+                    "wordId": "电音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "汽车类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "运动型多用途车",
+                    "icon": false
+                },
+                {
+                    "wordId": "跑车",
+                    "icon": false
+                },
+                {
+                    "wordId": "厢式货车",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅行车",
+                    "icon": false
+                },
+                {
+                    "wordId": "双门轿跑车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "建筑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "门",
+                    "icon": false
+                },
+                {
+                    "wordId": "地板",
+                    "icon": false
+                },
+                {
+                    "wordId": "窗户",
+                    "icon": false
+                },
+                {
+                    "wordId": "屋顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "墙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "能源",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "太阳能",
+                    "icon": false
+                },
+                {
+                    "wordId": "核能",
+                    "icon": false
+                },
+                {
+                    "wordId": "动能",
+                    "icon": false
+                },
+                {
+                    "wordId": "热能",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "传奇人物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "妈祖",
+                    "icon": false
+                },
+                {
+                    "wordId": "廖添丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "郑成功",
+                    "icon": false
+                },
+                {
+                    "wordId": "保生大帝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文章类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "论文",
+                    "icon": false
+                },
+                {
+                    "wordId": "评论",
+                    "icon": false
+                },
+                {
+                    "wordId": "观点",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "灾害",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海啸",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙卷风",
+                    "icon": false
+                },
+                {
+                    "wordId": "洪水",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "机翼",
+        "热能",
+        "黑胶唱片",
+        "传奇人物",
+        "安全带",
+        "派对",
+        "搅拌机",
+        "猕猴桃",
+        "论文",
+        "河狸",
+        "护理",
+        "汽车类型",
+        "驾驶舱",
+        "运动型多用途车",
+        "灾害",
+        "厨房",
+        "苹果",
+        "柳丁",
+        "洪水",
+        "土拨鼠",
+        "烤面包机",
+        "评论",
+        "烤箱",
+        "医院",
+        "厨师",
+        "杏",
+        "窗户",
+        "飞行",
+        "歌单",
+        "保生大帝",
+        "药膏",
+        "妈祖",
+        "外科医生",
+        "料理机",
+        "病人",
+        "冰柜",
+        "地板",
+        "龙卷风",
+        "扬声器",
+        "屋顶",
+        "动能",
+        "方向舵",
+        "节拍",
+        "水果",
+        "太阳能",
+        "疫苗",
+        "海狸鼠",
+        "香蕉",
+        "水槽",
+        "核能",
+        "电音",
+        "廖添丁",
+        "松鼠",
+        "水壶"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "副翼",
+                "DJ",
+                "注射器",
+                "文章类型",
+                "机身"
+            ]
+        },
+        {
+            "cards": [
+                "吸入器",
+                "建筑",
+                "能源",
+                "老鼠",
+                "海啸",
+                "番石榴"
+            ]
+        },
+        {
+            "cards": [
+                "飞机",
+                "双门轿跑车",
+                "墙",
+                "旅行车",
+                "发动机",
+                "啮齿动物",
+                "观点"
+            ]
+        },
+        {
+            "cards": [
+                "郑成功",
+                "药片",
+                "桃子",
+                "门",
+                "厢式货车",
+                "跑车",
+                "凤梨",
+                "水豚"
+            ]
+        }
+    ]
+}

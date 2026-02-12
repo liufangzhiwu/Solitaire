@@ -1,0 +1,369 @@
+{
+    "levelId": 370,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "森林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橡树",
+                    "icon": false
+                },
+                {
+                    "wordId": "松树",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔藓",
+                    "icon": false
+                },
+                {
+                    "wordId": "蕨类",
+                    "icon": false
+                },
+                {
+                    "wordId": "浆果",
+                    "icon": false
+                },
+                {
+                    "wordId": "灌木丛",
+                    "icon": false
+                },
+                {
+                    "wordId": "林间空地",
+                    "icon": false
+                },
+                {
+                    "wordId": "树冠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "网具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "球拍",
+                    "icon": false
+                },
+                {
+                    "wordId": "笼子",
+                    "icon": false
+                },
+                {
+                    "wordId": "发网",
+                    "icon": false
+                },
+                {
+                    "wordId": "网眼",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛛网",
+                    "icon": false
+                },
+                {
+                    "wordId": "陷阱",
+                    "icon": false
+                },
+                {
+                    "wordId": "撒网",
+                    "icon": false
+                },
+                {
+                    "wordId": "渔网",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "埃及",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法老",
+                    "icon": false
+                },
+                {
+                    "wordId": "木乃伊",
+                    "icon": false
+                },
+                {
+                    "wordId": "金字塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼罗河",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮身人面像",
+                    "icon": false
+                },
+                {
+                    "wordId": "开罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣甲虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸莎草",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "酒馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "麦芽酒",
+                    "icon": true
+                },
+                {
+                    "wordId": "蜂蜜酒",
+                    "icon": true
+                },
+                {
+                    "wordId": "大酒杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "壁炉",
+                    "icon": true
+                },
+                {
+                    "wordId": "大酒壶",
+                    "icon": true
+                },
+                {
+                    "wordId": "酒吧间",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "节庆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "游行",
+                    "icon": false
+                },
+                {
+                    "wordId": "假面舞会",
+                    "icon": false
+                },
+                {
+                    "wordId": "号角声",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂欢",
+                    "icon": false
+                },
+                {
+                    "wordId": "盛典",
+                    "icon": false
+                },
+                {
+                    "wordId": "宴会",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "巫师",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奥术",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "咒语",
+                    "icon": false
+                },
+                {
+                    "wordId": "斗篷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "塔楼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尖塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "钟楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "瞭望塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "角楼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "港口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "码头",
+                    "icon": true
+                },
+                {
+                    "wordId": "驳岸",
+                    "icon": true
+                },
+                {
+                    "wordId": "突堤码头",
+                    "icon": true
+                },
+                {
+                    "wordId": "泊位",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "三明治",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面包",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "香肠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锻炉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铁砧",
+                    "icon": false
+                },
+                {
+                    "wordId": "风箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "火钳",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "尼罗河",
+        "泊位",
+        "蛛网",
+        "假面舞会",
+        "钟楼",
+        "铁砧",
+        "面包",
+        "笼子",
+        "香肠",
+        "麦芽酒",
+        "驳岸",
+        "斗篷",
+        "法老",
+        "游行",
+        "球拍",
+        "乳酪",
+        "蕨类",
+        "发网",
+        "狂欢",
+        "突堤码头",
+        "灌木丛",
+        "尖塔",
+        "咒语",
+        "松树",
+        "木乃伊",
+        "巫师",
+        "瞭望塔",
+        "角楼",
+        "号角声",
+        "大酒杯",
+        "苔藓",
+        "浆果",
+        "网具",
+        "宴会",
+        "金字塔",
+        "网眼",
+        "狮身人面像",
+        "塔楼",
+        "火钳",
+        "森林",
+        "埃及",
+        "盛典"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "奥术",
+                "港口",
+                "魔杖",
+                "圣甲虫"
+            ]
+        },
+        {
+            "cards": [
+                "橡树",
+                "大酒壶",
+                "撒网",
+                "林间空地",
+                "节庆"
+            ]
+        },
+        {
+            "cards": [
+                "陷阱",
+                "渔网",
+                "码头",
+                "锻炉",
+                "树冠",
+                "酒吧间"
+            ]
+        },
+        {
+            "cards": [
+                "开罗",
+                "酒馆",
+                "风箱",
+                "壁炉",
+                "纸莎草",
+                "三明治",
+                "蜂蜜酒"
+            ]
+        }
+    ]
+}

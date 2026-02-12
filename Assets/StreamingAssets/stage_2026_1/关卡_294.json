@@ -1,0 +1,217 @@
+{
+    "levelId": 294,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "拖地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地板",
+                    "icon": false
+                },
+                {
+                    "wordId": "水桶",
+                    "icon": false
+                },
+                {
+                    "wordId": "清洁",
+                    "icon": false
+                },
+                {
+                    "wordId": "清洁剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "热力拖把",
+                    "icon": false
+                },
+                {
+                    "wordId": "尘推",
+                    "icon": false
+                },
+                {
+                    "wordId": "平拖",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋转拖把",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游客",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "签证",
+                    "icon": false
+                },
+                {
+                    "wordId": "护照",
+                    "icon": false
+                },
+                {
+                    "wordId": "运动鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "手提箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "背包",
+                    "icon": false
+                },
+                {
+                    "wordId": "假期",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪念品",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "输入设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "网络摄像头",
+                    "icon": true
+                },
+                {
+                    "wordId": "游戏手柄",
+                    "icon": true
+                },
+                {
+                    "wordId": "电脑鼠标",
+                    "icon": true
+                },
+                {
+                    "wordId": "电脑键盘",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "有角生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "独角兽",
+                    "icon": true
+                },
+                {
+                    "wordId": "独角仙",
+                    "icon": true
+                },
+                {
+                    "wordId": "犀牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "独角鲸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "凯门鳄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沼泽",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿地",
+                    "icon": false
+                },
+                {
+                    "wordId": "河流",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "虚弱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "脆弱",
+                    "icon": false
+                },
+                {
+                    "wordId": "衰弱",
+                    "icon": false
+                },
+                {
+                    "wordId": "弱小",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "河流",
+        "拖地",
+        "地板",
+        "网络摄像头",
+        "独角鲸",
+        "脆弱",
+        "护照",
+        "有角生物",
+        "电脑键盘",
+        "电脑鼠标",
+        "湿地",
+        "清洁",
+        "假期",
+        "运动鞋",
+        "清洁剂",
+        "热力拖把",
+        "签证",
+        "犀牛",
+        "旋转拖把",
+        "独角兽",
+        "背包",
+        "凯门鳄",
+        "地图",
+        "弱小"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "独角仙",
+                "游客",
+                "沼泽"
+            ]
+        },
+        {
+            "cards": [
+                "衰弱",
+                "输入设备",
+                "尘推",
+                "纪念品"
+            ]
+        },
+        {
+            "cards": [
+                "手提箱",
+                "虚弱",
+                "游戏手柄",
+                "平拖",
+                "水桶"
+            ]
+        }
+    ]
+}

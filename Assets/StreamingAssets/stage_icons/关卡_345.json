@@ -1,0 +1,369 @@
+{
+    "levelId": 345,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "铃铛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "门铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "铃铛声",
+                    "icon": false
+                },
+                {
+                    "wordId": "编钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪橇铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "手摇铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "警钟",
+                    "icon": false
+                },
+                {
+                    "wordId": "钟声",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙发",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双人沙发",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚凳",
+                    "icon": false
+                },
+                {
+                    "wordId": "日式床垫",
+                    "icon": false
+                },
+                {
+                    "wordId": "长沙发",
+                    "icon": false
+                },
+                {
+                    "wordId": "躺椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "迪万沙发",
+                    "icon": false
+                },
+                {
+                    "wordId": "长靠椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "休闲椅",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "档案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "档",
+                    "icon": false
+                },
+                {
+                    "wordId": "档夹",
+                    "icon": false
+                },
+                {
+                    "wordId": "记录",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "活页夹",
+                    "icon": false
+                },
+                {
+                    "wordId": "索引",
+                    "icon": false
+                },
+                {
+                    "wordId": "账簿",
+                    "icon": false
+                },
+                {
+                    "wordId": "日记",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "食品储藏室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "大米",
+                    "icon": false
+                },
+                {
+                    "wordId": "豆类",
+                    "icon": false
+                },
+                {
+                    "wordId": "油",
+                    "icon": false
+                },
+                {
+                    "wordId": "盐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙拉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凯撒沙拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "凉拌卷心菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊沙拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡普里沙拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "科布沙拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "菠菜沙拉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "梦境",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "想像",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻想",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻象",
+                    "icon": false
+                },
+                {
+                    "wordId": "遐想",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电影院",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "座位",
+                    "icon": true
+                },
+                {
+                    "wordId": "萤幕",
+                    "icon": true
+                },
+                {
+                    "wordId": "爆米花",
+                    "icon": true
+                },
+                {
+                    "wordId": "片尾字幕",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "轨道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "近地点",
+                    "icon": false
+                },
+                {
+                    "wordId": "远地点",
+                    "icon": false
+                },
+                {
+                    "wordId": "轨迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "天顶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地平线",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日出",
+                    "icon": true
+                },
+                {
+                    "wordId": "日落",
+                    "icon": true
+                },
+                {
+                    "wordId": "暮光",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "内存",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "随机存取内存",
+                    "icon": false
+                },
+                {
+                    "wordId": "只读内存",
+                    "icon": false
+                },
+                {
+                    "wordId": "缓存",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "躺椅",
+        "随机存取内存",
+        "卷轴",
+        "座位",
+        "菠菜沙拉",
+        "账簿",
+        "片尾字幕",
+        "希腊沙拉",
+        "科布沙拉",
+        "长靠椅",
+        "盐",
+        "铃铛声",
+        "电影院",
+        "萤幕",
+        "大米",
+        "天顶",
+        "卡普里沙拉",
+        "食品储藏室",
+        "牛铃",
+        "档案",
+        "远地点",
+        "暮光",
+        "双人沙发",
+        "糖",
+        "凯撒沙拉",
+        "幻象",
+        "雪橇铃",
+        "手摇铃",
+        "梦境",
+        "油",
+        "幻想",
+        "内存",
+        "日记",
+        "钟声",
+        "面粉",
+        "迪万沙发",
+        "门铃",
+        "档",
+        "编钟",
+        "休闲椅",
+        "爆米花",
+        "档夹"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "想像",
+                "警钟",
+                "缓存",
+                "遐想"
+            ]
+        },
+        {
+            "cards": [
+                "凉拌卷心菜",
+                "轨迹",
+                "活页夹",
+                "只读内存",
+                "豆类"
+            ]
+        },
+        {
+            "cards": [
+                "地平线",
+                "记录",
+                "日落",
+                "近地点",
+                "日式床垫",
+                "长沙发"
+            ]
+        },
+        {
+            "cards": [
+                "索引",
+                "沙发",
+                "轨道",
+                "脚凳",
+                "日出",
+                "沙拉",
+                "铃铛"
+            ]
+        }
+    ]
+}

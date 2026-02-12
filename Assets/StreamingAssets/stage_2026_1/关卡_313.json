@@ -1,0 +1,553 @@
+{
+    "levelId": 313,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 250,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "苹果相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "夏娃",
+                    "icon": false
+                },
+                {
+                    "wordId": "苹果公司",
+                    "icon": false
+                },
+                {
+                    "wordId": "苹果酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "纽约市",
+                    "icon": false
+                },
+                {
+                    "wordId": "梨果",
+                    "icon": false
+                },
+                {
+                    "wordId": "不和纠纷",
+                    "icon": false
+                },
+                {
+                    "wordId": "核心",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼球",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游牧民族",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "罗姆人",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝都因人",
+                    "icon": false
+                },
+                {
+                    "wordId": "图阿雷格人",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯基泰人",
+                    "icon": false
+                },
+                {
+                    "wordId": "涅涅茨人",
+                    "icon": false
+                },
+                {
+                    "wordId": "匈奴人",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙古人",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨米人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化学家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "居里夫人",
+                    "icon": false
+                },
+                {
+                    "wordId": "本生",
+                    "icon": false
+                },
+                {
+                    "wordId": "波义耳",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴斯德",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿伏伽德罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "诺贝尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲍林",
+                    "icon": false
+                },
+                {
+                    "wordId": "道尔顿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神经元",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神经",
+                    "icon": false
+                },
+                {
+                    "wordId": "轴突",
+                    "icon": false
+                },
+                {
+                    "wordId": "突触",
+                    "icon": false
+                },
+                {
+                    "wordId": "树突",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "神经节",
+                    "icon": false
+                },
+                {
+                    "wordId": "神经冲动",
+                    "icon": false
+                },
+                {
+                    "wordId": "受体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "吟游艺人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杂耍艺人",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂技演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐师",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌手",
+                    "icon": false
+                },
+                {
+                    "wordId": "吟游诗人",
+                    "icon": false
+                },
+                {
+                    "wordId": "弄臣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大洋洲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斐济",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓦努阿图",
+                    "icon": false
+                },
+                {
+                    "wordId": "帕劳",
+                    "icon": false
+                },
+                {
+                    "wordId": "基里巴斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "汤加",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨摩亚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "拥抱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "环抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "搂抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "依偎",
+                    "icon": false
+                },
+                {
+                    "wordId": "抱住",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧握",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恶魔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小恶魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "心魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔鬼",
+                    "icon": false
+                },
+                {
+                    "wordId": "梦魇魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "魅魔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沐浴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浴缸",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "洗发水",
+                    "icon": true
+                },
+                {
+                    "wordId": "肥皂",
+                    "icon": true
+                },
+                {
+                    "wordId": "浴刷",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "低矮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "微小",
+                    "icon": false
+                },
+                {
+                    "wordId": "短",
+                    "icon": false
+                },
+                {
+                    "wordId": "粗短",
+                    "icon": false
+                },
+                {
+                    "wordId": "小巧",
+                    "icon": false
+                },
+                {
+                    "wordId": "矮胖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "悲剧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "厄勒克特拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "美狄亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄狄浦斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃阿斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "豹属",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狮子",
+                    "icon": false
+                },
+                {
+                    "wordId": "老虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "美洲虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "豹子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海娜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纹身",
+                    "icon": false
+                },
+                {
+                    "wordId": "染料",
+                    "icon": false
+                },
+                {
+                    "wordId": "海娜手绘",
+                    "icon": false
+                },
+                {
+                    "wordId": "颜料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钳肢动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螃蟹",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙虾",
+                    "icon": true
+                },
+                {
+                    "wordId": "蝎子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "十字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手势",
+                    "icon": true
+                },
+                {
+                    "wordId": "十字架",
+                    "icon": true
+                },
+                {
+                    "wordId": "交叉点",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "不和纠纷",
+        "苹果酒",
+        "十字",
+        "小恶魔",
+        "梨果",
+        "纽约市",
+        "杂技演员",
+        "夏娃",
+        "乐师",
+        "低矮",
+        "心魔",
+        "贝都因人",
+        "鲍林",
+        "短",
+        "罗姆人",
+        "矮胖",
+        "搂抱",
+        "歌手",
+        "巴斯德",
+        "十字架",
+        "萨摩亚",
+        "浴缸",
+        "梦魇魔",
+        "诺贝尔",
+        "受体",
+        "抱住",
+        "道尔顿",
+        "瓦努阿图",
+        "颜料",
+        "交叉点",
+        "美狄亚",
+        "游牧民族",
+        "居里夫人",
+        "核心",
+        "豹属",
+        "轴突",
+        "苹果公司",
+        "依偎",
+        "俄狄浦斯",
+        "化学家",
+        "微小",
+        "紧抱",
+        "螃蟹",
+        "斯基泰人",
+        "狮子",
+        "匈奴人",
+        "神经冲动",
+        "悲剧",
+        "美洲虎",
+        "紧握",
+        "斐济",
+        "纹身",
+        "龙虾",
+        "眼球",
+        "图阿雷格人",
+        "杂耍艺人",
+        "豹子",
+        "吟游诗人",
+        "肥皂",
+        "钳肢动物",
+        "小巧",
+        "环抱",
+        "信号"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "洗发水",
+                "萨米人",
+                "汤加",
+                "魔鬼",
+                "厄勒克特拉"
+            ]
+        },
+        {
+            "cards": [
+                "粗短",
+                "蝎子",
+                "苹果相关",
+                "树突",
+                "大洋洲",
+                "手势"
+            ]
+        },
+        {
+            "cards": [
+                "涅涅茨人",
+                "浴刷",
+                "突触",
+                "神经元",
+                "染料",
+                "魅魔",
+                "神经"
+            ]
+        },
+        {
+            "cards": [
+                "神经节",
+                "波义耳",
+                "帕劳",
+                "埃阿斯",
+                "阿伏伽德罗",
+                "拥抱",
+                "海娜",
+                "蒙古人"
+            ]
+        },
+        {
+            "cards": [
+                "海娜手绘",
+                "本生",
+                "沐浴",
+                "基里巴斯",
+                "老虎",
+                "毛巾",
+                "弄臣",
+                "恶魔",
+                "吟游艺人"
+            ]
+        }
+    ]
+}

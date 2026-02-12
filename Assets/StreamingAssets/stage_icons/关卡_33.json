@@ -1,0 +1,369 @@
+{
+    "levelId": 33,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "花束",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿叶",
+                    "icon": true
+                },
+                {
+                    "wordId": "花",
+                    "icon": true
+                },
+                {
+                    "wordId": "包装纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "胸花",
+                    "icon": true
+                },
+                {
+                    "wordId": "填充花",
+                    "icon": true
+                },
+                {
+                    "wordId": "花商",
+                    "icon": true
+                },
+                {
+                    "wordId": "丝带",
+                    "icon": true
+                },
+                {
+                    "wordId": "花瓣",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "音乐术语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "连奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "八度",
+                    "icon": false
+                },
+                {
+                    "wordId": "断奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "交响乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔板",
+                    "icon": false
+                },
+                {
+                    "wordId": "和弦",
+                    "icon": false
+                },
+                {
+                    "wordId": "音高",
+                    "icon": false
+                },
+                {
+                    "wordId": "速度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "尺码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "L",
+                    "icon": false
+                },
+                {
+                    "wordId": "XXS",
+                    "icon": false
+                },
+                {
+                    "wordId": "XXXL",
+                    "icon": false
+                },
+                {
+                    "wordId": "S",
+                    "icon": false
+                },
+                {
+                    "wordId": "M",
+                    "icon": false
+                },
+                {
+                    "wordId": "XS",
+                    "icon": false
+                },
+                {
+                    "wordId": "XL",
+                    "icon": false
+                },
+                {
+                    "wordId": "均码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "口红色号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "深红色",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝石红",
+                    "icon": true
+                },
+                {
+                    "wordId": "猩红色",
+                    "icon": true
+                },
+                {
+                    "wordId": "紫红色",
+                    "icon": true
+                },
+                {
+                    "wordId": "裸色",
+                    "icon": true
+                },
+                {
+                    "wordId": "酒红色",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "包袋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "水桶包",
+                    "icon": false
+                },
+                {
+                    "wordId": "钱包",
+                    "icon": false
+                },
+                {
+                    "wordId": "背包",
+                    "icon": false
+                },
+                {
+                    "wordId": "月牙包",
+                    "icon": false
+                },
+                {
+                    "wordId": "手提包",
+                    "icon": false
+                },
+                {
+                    "wordId": "腰包",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "结账",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "收银员",
+                    "icon": false
+                },
+                {
+                    "wordId": "收银机",
+                    "icon": false
+                },
+                {
+                    "wordId": "条码",
+                    "icon": false
+                },
+                {
+                    "wordId": "顾客",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "网络用语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "偷感",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒜你狠",
+                    "icon": false
+                },
+                {
+                    "wordId": "打call",
+                    "icon": false
+                },
+                {
+                    "wordId": "老铁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "司法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天平",
+                    "icon": false
+                },
+                {
+                    "wordId": "法槌",
+                    "icon": false
+                },
+                {
+                    "wordId": "法律",
+                    "icon": false
+                },
+                {
+                    "wordId": "法庭",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笔记本电脑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "便携",
+                    "icon": false
+                },
+                {
+                    "wordId": "无线",
+                    "icon": false
+                },
+                {
+                    "wordId": "可折叠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "囚犯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "囚徒",
+                    "icon": false
+                },
+                {
+                    "wordId": "重罪犯",
+                    "icon": false
+                },
+                {
+                    "wordId": "被拘留者",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "XXXL",
+        "司法",
+        "连奏",
+        "酒红色",
+        "M",
+        "XXS",
+        "背包",
+        "断奏",
+        "紫红色",
+        "水桶包",
+        "交响乐",
+        "结账",
+        "重罪犯",
+        "打call",
+        "条码",
+        "法槌",
+        "丝带",
+        "法律",
+        "填充花",
+        "收银机",
+        "法庭",
+        "囚徒",
+        "天平",
+        "绿叶",
+        "八度",
+        "裸色",
+        "囚犯",
+        "胸花",
+        "音高",
+        "花商",
+        "均码",
+        "便携",
+        "音乐术语",
+        "猩红色",
+        "包装纸",
+        "宝石红",
+        "蒜你狠",
+        "花瓣",
+        "网络用语",
+        "老铁",
+        "月牙包",
+        "无线"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "深红色",
+                "笔记本电脑",
+                "偷感",
+                "包袋"
+            ]
+        },
+        {
+            "cards": [
+                "收银员",
+                "腰包",
+                "柔板",
+                "花束",
+                "S"
+            ]
+        },
+        {
+            "cards": [
+                "手提包",
+                "可折叠",
+                "花",
+                "L",
+                "速度",
+                "钱包"
+            ]
+        },
+        {
+            "cards": [
+                "口红色号",
+                "和弦",
+                "顾客",
+                "尺码",
+                "XS",
+                "被拘留者",
+                "XL"
+            ]
+        }
+    ]
+}

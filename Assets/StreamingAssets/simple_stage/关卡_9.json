@@ -1,0 +1,369 @@
+{
+    "levelId": 9,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "饮料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咖啡",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "果汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛奶",
+                    "icon": false
+                },
+                {
+                    "wordId": "抹茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "水",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰沙",
+                    "icon": false
+                },
+                {
+                    "wordId": "可乐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "语言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英语",
+                    "icon": false
+                },
+                {
+                    "wordId": "意大利语",
+                    "icon": false
+                },
+                {
+                    "wordId": "印地语",
+                    "icon": false
+                },
+                {
+                    "wordId": "日语",
+                    "icon": false
+                },
+                {
+                    "wordId": "希伯来语",
+                    "icon": false
+                },
+                {
+                    "wordId": "丹麦语",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉丁语",
+                    "icon": false
+                },
+                {
+                    "wordId": "波兰语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "调色板",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红色",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑色",
+                    "icon": false
+                },
+                {
+                    "wordId": "白色",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫色",
+                    "icon": false
+                },
+                {
+                    "wordId": "棕色",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡其色",
+                    "icon": false
+                },
+                {
+                    "wordId": "樱桃红",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "银行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "存款",
+                    "icon": false
+                },
+                {
+                    "wordId": "信贷",
+                    "icon": false
+                },
+                {
+                    "wordId": "自动取款机",
+                    "icon": false
+                },
+                {
+                    "wordId": "金钱",
+                    "icon": false
+                },
+                {
+                    "wordId": "贷款",
+                    "icon": false
+                },
+                {
+                    "wordId": "账户",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "相机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镜头",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪光灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "变焦",
+                    "icon": false
+                },
+                {
+                    "wordId": "滤镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "快门",
+                    "icon": false
+                },
+                {
+                    "wordId": "曝光",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "方向",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "东",
+                    "icon": true
+                },
+                {
+                    "wordId": "北",
+                    "icon": true
+                },
+                {
+                    "wordId": "西",
+                    "icon": true
+                },
+                {
+                    "wordId": "南",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "车辆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "皮卡",
+                    "icon": true
+                },
+                {
+                    "wordId": "联合收割机",
+                    "icon": true
+                },
+                {
+                    "wordId": "拖车",
+                    "icon": true
+                },
+                {
+                    "wordId": "卡车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "手工",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刺绣",
+                    "icon": false
+                },
+                {
+                    "wordId": "陶艺",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "木雕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "民族服饰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汉服",
+                    "icon": false
+                },
+                {
+                    "wordId": "唐装",
+                    "icon": false
+                },
+                {
+                    "wordId": "旗袍",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "多刺的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刺猬",
+                    "icon": false
+                },
+                {
+                    "wordId": "仙人掌",
+                    "icon": false
+                },
+                {
+                    "wordId": "榴莲",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "卡车",
+        "闪光灯",
+        "刺绣",
+        "印地语",
+        "木雕",
+        "信贷",
+        "果汁",
+        "旗袍",
+        "丹麦语",
+        "车辆",
+        "绿色",
+        "牛奶",
+        "唐装",
+        "账户",
+        "曝光",
+        "樱桃红",
+        "水",
+        "自动取款机",
+        "东",
+        "民族服饰",
+        "北",
+        "抹茶",
+        "剪纸",
+        "咖啡",
+        "金钱",
+        "变焦",
+        "多刺的",
+        "红色",
+        "仙人掌",
+        "拖车",
+        "拉丁语",
+        "西",
+        "快门",
+        "镜头",
+        "日语",
+        "白色",
+        "滤镜",
+        "可乐",
+        "意大利语",
+        "茶",
+        "波兰语",
+        "汉服",
+        "联合收割机",
+        "相机",
+        "皮卡",
+        "银行"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "方向",
+                "刺猬",
+                "手工"
+            ]
+        },
+        {
+            "cards": [
+                "黑色",
+                "调色板",
+                "存款",
+                "棕色"
+            ]
+        },
+        {
+            "cards": [
+                "南",
+                "卡其色",
+                "贷款",
+                "紫色",
+                "陶艺"
+            ]
+        },
+        {
+            "cards": [
+                "榴莲",
+                "语言",
+                "饮料",
+                "冰沙",
+                "希伯来语",
+                "英语"
+            ]
+        }
+    ]
+}

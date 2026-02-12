@@ -1,0 +1,217 @@
+{
+    "levelId": 296,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "机器人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人形机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "德罗伊德",
+                    "icon": false
+                },
+                {
+                    "wordId": "无人机",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽车人",
+                    "icon": false
+                },
+                {
+                    "wordId": "伺服机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "自动机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "半机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "女性机器人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神话生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "独角兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "凤凰",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "喀迈拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞马",
+                    "icon": false
+                },
+                {
+                    "wordId": "美人鱼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "彗星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哈雷彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "恩克彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "艾森彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈特雷彗星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "玩具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乐高",
+                    "icon": true
+                },
+                {
+                    "wordId": "玩偶",
+                    "icon": true
+                },
+                {
+                    "wordId": "玩意儿",
+                    "icon": true
+                },
+                {
+                    "wordId": "拼图",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "矿物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石英",
+                    "icon": false
+                },
+                {
+                    "wordId": "长石",
+                    "icon": false
+                },
+                {
+                    "wordId": "云母",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "糖果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "口香糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "棒棒糖",
+                    "icon": true
+                },
+                {
+                    "wordId": "太妃糖",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "飞马",
+        "石英",
+        "艾森彗星",
+        "美人鱼",
+        "独角兽",
+        "德罗伊德",
+        "机器人",
+        "棒棒糖",
+        "凤凰",
+        "半机器人",
+        "糖果",
+        "喀迈拉",
+        "龙",
+        "口香糖",
+        "彗星",
+        "伺服机器人",
+        "无人机",
+        "太妃糖",
+        "乐高",
+        "哈雷彗星",
+        "狮鹫",
+        "人形机器人",
+        "女性机器人",
+        "蛇怪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "哈特雷彗星",
+                "云母",
+                "长石"
+            ]
+        },
+        {
+            "cards": [
+                "自动机器人",
+                "玩偶",
+                "恩克彗星",
+                "拼图"
+            ]
+        },
+        {
+            "cards": [
+                "玩具",
+                "矿物",
+                "汽车人",
+                "神话生物",
+                "玩意儿"
+            ]
+        }
+    ]
+}

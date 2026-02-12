@@ -1,0 +1,369 @@
+{
+    "levelId": 284,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "神话",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "众神",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰坦",
+                    "icon": false
+                },
+                {
+                    "wordId": "食人魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "仙女",
+                    "icon": false
+                },
+                {
+                    "wordId": "双足飞龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "独眼巨人",
+                    "icon": false
+                },
+                {
+                    "wordId": "九头蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "狮鹫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "遗物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣杯",
+                    "icon": true
+                },
+                {
+                    "wordId": "香炉",
+                    "icon": true
+                },
+                {
+                    "wordId": "石板",
+                    "icon": true
+                },
+                {
+                    "wordId": "骨灰瓮",
+                    "icon": true
+                },
+                {
+                    "wordId": "卷轴",
+                    "icon": true
+                },
+                {
+                    "wordId": "护身符",
+                    "icon": true
+                },
+                {
+                    "wordId": "符咒",
+                    "icon": true
+                },
+                {
+                    "wordId": "雕像",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "爬行动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜥蜴",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁虎",
+                    "icon": false
+                },
+                {
+                    "wordId": "鬣蜥",
+                    "icon": false
+                },
+                {
+                    "wordId": "龟",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼镜蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝰蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "蟒蛇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神圣的",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "吟诵",
+                    "icon": false
+                },
+                {
+                    "wordId": "祭品",
+                    "icon": false
+                },
+                {
+                    "wordId": "驱魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "战术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "侧翼包抄",
+                    "icon": false
+                },
+                {
+                    "wordId": "佯攻",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏击",
+                    "icon": false
+                },
+                {
+                    "wordId": "围攻",
+                    "icon": false
+                },
+                {
+                    "wordId": "钳形攻势",
+                    "icon": false
+                },
+                {
+                    "wordId": "齐射",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "合金",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "青铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄铜",
+                    "icon": false
+                },
+                {
+                    "wordId": "白镴",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "君主",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国王",
+                    "icon": false
+                },
+                {
+                    "wordId": "女王",
+                    "icon": false
+                },
+                {
+                    "wordId": "皇帝",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙皇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "城堡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "棱堡",
+                    "icon": false
+                },
+                {
+                    "wordId": "护城河",
+                    "icon": false
+                },
+                {
+                    "wordId": "角楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔楼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小说",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长篇小说",
+                    "icon": false
+                },
+                {
+                    "wordId": "故事",
+                    "icon": false
+                },
+                {
+                    "wordId": "短篇小说",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "密码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凯撒密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "Atbash密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩斯密码",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "密码",
+        "香炉",
+        "伏击",
+        "白镴",
+        "驱魔",
+        "钢",
+        "泰坦",
+        "吟诵",
+        "侧翼包抄",
+        "涂油",
+        "长篇小说",
+        "女王",
+        "摩斯密码",
+        "神话",
+        "仙女",
+        "骨灰瓮",
+        "祭品",
+        "蜥蜴",
+        "棱堡",
+        "角楼",
+        "食人魔",
+        "双足飞龙",
+        "遗物",
+        "围攻",
+        "神圣的",
+        "眼镜蛇",
+        "礼仪",
+        "雕像",
+        "沙皇",
+        "蛇",
+        "蟒蛇",
+        "钳形攻势",
+        "塔楼",
+        "Atbash密码",
+        "君主",
+        "短篇小说",
+        "壁虎",
+        "众神",
+        "佯攻",
+        "仪式",
+        "九头蛇",
+        "青铜"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "圣杯",
+                "皇帝",
+                "凯撒密码",
+                "黄铜"
+            ]
+        },
+        {
+            "cards": [
+                "齐射",
+                "战术",
+                "城堡",
+                "爬行动物",
+                "故事"
+            ]
+        },
+        {
+            "cards": [
+                "独眼巨人",
+                "龟",
+                "小说",
+                "卷轴",
+                "鬣蜥",
+                "护身符"
+            ]
+        },
+        {
+            "cards": [
+                "合金",
+                "石板",
+                "狮鹫",
+                "符咒",
+                "护城河",
+                "蝰蛇",
+                "国王"
+            ]
+        }
+    ]
+}

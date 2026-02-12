@@ -1,0 +1,369 @@
+{
+    "levelId": 381,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 135,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "航空",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "副翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "方向舵",
+                    "icon": false
+                },
+                {
+                    "wordId": "升降舵",
+                    "icon": false
+                },
+                {
+                    "wordId": "襟翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "扰流板",
+                    "icon": false
+                },
+                {
+                    "wordId": "缝翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "机身",
+                    "icon": false
+                },
+                {
+                    "wordId": "驾驶舱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "北欧",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奥丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "索尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉普兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "如尼文",
+                    "icon": false
+                },
+                {
+                    "wordId": "维京",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨迦",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "甲胄",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锁子甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "胸甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "胫甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "铁手套",
+                    "icon": true
+                },
+                {
+                    "wordId": "肩甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "铁履",
+                    "icon": true
+                },
+                {
+                    "wordId": "前臂甲",
+                    "icon": true
+                },
+                {
+                    "wordId": "护喉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "纹身",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "上色",
+                    "icon": false
+                },
+                {
+                    "wordId": "明暗处理",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮廓",
+                    "icon": false
+                },
+                {
+                    "wordId": "花臂",
+                    "icon": false
+                },
+                {
+                    "wordId": "转印图",
+                    "icon": false
+                },
+                {
+                    "wordId": "纹身店",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "塔罗牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愚者",
+                    "icon": true
+                },
+                {
+                    "wordId": "魔术师",
+                    "icon": true
+                },
+                {
+                    "wordId": "恋人",
+                    "icon": true
+                },
+                {
+                    "wordId": "正义",
+                    "icon": true
+                },
+                {
+                    "wordId": "战车",
+                    "icon": true
+                },
+                {
+                    "wordId": "隐士",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "量子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "光子",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻色子",
+                    "icon": false
+                },
+                {
+                    "wordId": "费米子",
+                    "icon": false
+                },
+                {
+                    "wordId": "中子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "腺体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甲状腺",
+                    "icon": false
+                },
+                {
+                    "wordId": "肾上腺",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸腺",
+                    "icon": false
+                },
+                {
+                    "wordId": "胰腺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "铜管乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小号",
+                    "icon": false
+                },
+                {
+                    "wordId": "长号",
+                    "icon": false
+                },
+                {
+                    "wordId": "大号",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆号",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宇宙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "类星体",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉冲星",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "磁铁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "磁偶极子",
+                    "icon": false
+                },
+                {
+                    "wordId": "磁场",
+                    "icon": false
+                },
+                {
+                    "wordId": "磁力",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "明暗处理",
+        "拉普兰",
+        "冰川",
+        "转印图",
+        "隐士",
+        "星云",
+        "脉冲星",
+        "前臂甲",
+        "轮廓",
+        "类星体",
+        "胫甲",
+        "磁力",
+        "索尔",
+        "铁履",
+        "纹身",
+        "光子",
+        "北欧",
+        "奥丁",
+        "腺体",
+        "肩甲",
+        "塔罗牌",
+        "锁子甲",
+        "胸甲",
+        "长号",
+        "升降舵",
+        "胸腺",
+        "如尼文",
+        "战车",
+        "甲胄",
+        "方向舵",
+        "磁偶极子",
+        "圆号",
+        "小号",
+        "副翼",
+        "萨迦",
+        "玻色子",
+        "费米子",
+        "中子",
+        "铁手套",
+        "正义",
+        "上色",
+        "肾上腺"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "甲状腺",
+                "胰腺",
+                "宇宙",
+                "磁场"
+            ]
+        },
+        {
+            "cards": [
+                "缝翼",
+                "磁铁",
+                "恋人",
+                "襟翼",
+                "魔术师"
+            ]
+        },
+        {
+            "cards": [
+                "纹身店",
+                "愚者",
+                "护喉",
+                "大号",
+                "量子",
+                "维京"
+            ]
+        },
+        {
+            "cards": [
+                "峡湾",
+                "铜管乐器",
+                "扰流板",
+                "机身",
+                "驾驶舱",
+                "花臂",
+                "航空"
+            ]
+        }
+    ]
+}

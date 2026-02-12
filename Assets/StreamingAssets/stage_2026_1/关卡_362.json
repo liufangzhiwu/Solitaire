@@ -1,0 +1,453 @@
+{
+    "levelId": 362,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 160,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "砖石工程",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砖",
+                    "icon": false
+                },
+                {
+                    "wordId": "砂浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎石",
+                    "icon": false
+                },
+                {
+                    "wordId": "过梁",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱心石",
+                    "icon": false
+                },
+                {
+                    "wordId": "檐壁",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "方石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "木管乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "单簧管",
+                    "icon": true
+                },
+                {
+                    "wordId": "变号管",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴松管",
+                    "icon": true
+                },
+                {
+                    "wordId": "短笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "双簧管",
+                    "icon": true
+                },
+                {
+                    "wordId": "长笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "祖尔纳管",
+                    "icon": true
+                },
+                {
+                    "wordId": "肖姆管",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "侵蚀",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "磨损",
+                    "icon": false
+                },
+                {
+                    "wordId": "腐蚀",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲刷",
+                    "icon": false
+                },
+                {
+                    "wordId": "剥蚀",
+                    "icon": false
+                },
+                {
+                    "wordId": "溶解",
+                    "icon": false
+                },
+                {
+                    "wordId": "塌陷",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲蚀",
+                    "icon": false
+                },
+                {
+                    "wordId": "底切",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "微积分",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "积分",
+                    "icon": false
+                },
+                {
+                    "wordId": "流形",
+                    "icon": false
+                },
+                {
+                    "wordId": "级数",
+                    "icon": false
+                },
+                {
+                    "wordId": "梯度",
+                    "icon": false
+                },
+                {
+                    "wordId": "正割",
+                    "icon": false
+                },
+                {
+                    "wordId": "正切",
+                    "icon": false
+                },
+                {
+                    "wordId": "发散",
+                    "icon": false
+                },
+                {
+                    "wordId": "收敛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "博物馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卢浮宫",
+                    "icon": false
+                },
+                {
+                    "wordId": "盖蒂博物馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌菲兹美术馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "普拉多博物馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰特美术馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "梵蒂冈博物馆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手机",
+                    "icon": true
+                },
+                {
+                    "wordId": "平板电脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "相机",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳机",
+                    "icon": true
+                },
+                {
+                    "wordId": "头戴式耳机",
+                    "icon": true
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "粒子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电子",
+                    "icon": false
+                },
+                {
+                    "wordId": "质子",
+                    "icon": false
+                },
+                {
+                    "wordId": "中子",
+                    "icon": false
+                },
+                {
+                    "wordId": "正电子",
+                    "icon": false
+                },
+                {
+                    "wordId": "夸克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机器人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人形机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "漫游者",
+                    "icon": false
+                },
+                {
+                    "wordId": "无人机",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛博格",
+                    "icon": false
+                },
+                {
+                    "wordId": "步行机器人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "句法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "语法",
+                    "icon": false
+                },
+                {
+                    "wordId": "词位",
+                    "icon": false
+                },
+                {
+                    "wordId": "解析",
+                    "icon": false
+                },
+                {
+                    "wordId": "从句",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "漩涡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旋转",
+                    "icon": false
+                },
+                {
+                    "wordId": "螺旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "回旋",
+                    "icon": false
+                },
+                {
+                    "wordId": "环流",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "重力",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "重量",
+                    "icon": false
+                },
+                {
+                    "wordId": "下落",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉力",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "光谱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红外线",
+                    "icon": false
+                },
+                {
+                    "wordId": "可见光",
+                    "icon": false
+                },
+                {
+                    "wordId": "伽马射线",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "方石",
+        "底切",
+        "长笛",
+        "赛博格",
+        "双簧管",
+        "耳机",
+        "拉力",
+        "砖",
+        "泰特美术馆",
+        "环流",
+        "拱心石",
+        "砂浆",
+        "盖蒂博物馆",
+        "微积分",
+        "塌陷",
+        "梯度",
+        "积分",
+        "平板电脑",
+        "螺旋",
+        "冲刷",
+        "剥蚀",
+        "光谱",
+        "解析",
+        "扬声器",
+        "重量",
+        "过梁",
+        "磨损",
+        "肖姆管",
+        "祖尔纳管",
+        "巴松管",
+        "回旋",
+        "步行机器人",
+        "流形",
+        "红外线",
+        "夸克",
+        "手机",
+        "漫游者",
+        "乌菲兹美术馆",
+        "梵蒂冈博物馆",
+        "可见光",
+        "卢浮宫",
+        "短笛",
+        "砖石工程",
+        "人形机器人",
+        "单簧管",
+        "无人机",
+        "侵蚀",
+        "中子",
+        "级数",
+        "收敛",
+        "发散",
+        "机器人",
+        "溶解",
+        "粒子"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "变号管",
+                "壁柱",
+                "相机",
+                "正割",
+                "正切"
+            ]
+        },
+        {
+            "cards": [
+                "重力",
+                "小工具",
+                "质子",
+                "碎石",
+                "词位",
+                "腐蚀"
+            ]
+        },
+        {
+            "cards": [
+                "头戴式耳机",
+                "木管乐器",
+                "句法",
+                "冲蚀",
+                "博物馆",
+                "从句",
+                "电子"
+            ]
+        },
+        {
+            "cards": [
+                "正电子",
+                "伽马射线",
+                "漩涡",
+                "普拉多博物馆",
+                "下落",
+                "语法",
+                "檐壁",
+                "旋转"
+            ]
+        }
+    ]
+}

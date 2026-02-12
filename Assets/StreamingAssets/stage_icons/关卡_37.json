@@ -1,0 +1,217 @@
+{
+    "levelId": 37,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "用户界面",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "按钮",
+                    "icon": false
+                },
+                {
+                    "wordId": "切换",
+                    "icon": false
+                },
+                {
+                    "wordId": "菜单",
+                    "icon": false
+                },
+                {
+                    "wordId": "侧边栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "开关",
+                    "icon": false
+                },
+                {
+                    "wordId": "滑块",
+                    "icon": false
+                },
+                {
+                    "wordId": "图示",
+                    "icon": false
+                },
+                {
+                    "wordId": "复选框",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "折纸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "千纸鹤",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸飞机",
+                    "icon": false
+                },
+                {
+                    "wordId": "图纸",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸船",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸花",
+                    "icon": false
+                },
+                {
+                    "wordId": "折叠",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸盒",
+                    "icon": false
+                },
+                {
+                    "wordId": "手工",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "怪物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "野兽",
+                    "icon": true
+                },
+                {
+                    "wordId": "食人魔",
+                    "icon": true
+                },
+                {
+                    "wordId": "吸血鬼",
+                    "icon": true
+                },
+                {
+                    "wordId": "龙",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "书信",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地址",
+                    "icon": false
+                },
+                {
+                    "wordId": "寄件人",
+                    "icon": false
+                },
+                {
+                    "wordId": "收件人",
+                    "icon": false
+                },
+                {
+                    "wordId": "回信",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "嬉皮士",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "反叛",
+                    "icon": false
+                },
+                {
+                    "wordId": "自由",
+                    "icon": false
+                },
+                {
+                    "wordId": "博爱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "马科动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "驴",
+                    "icon": true
+                },
+                {
+                    "wordId": "骡子",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "图示",
+        "开关",
+        "自由",
+        "折纸",
+        "切换",
+        "龙",
+        "图纸",
+        "按钮",
+        "侧边栏",
+        "手工",
+        "寄件人",
+        "斑马",
+        "纸船",
+        "怪物",
+        "吸血鬼",
+        "博爱",
+        "地址",
+        "嬉皮士",
+        "驴",
+        "折叠",
+        "野兽",
+        "回信",
+        "反叛",
+        "食人魔"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "纸盒",
+                "收件人",
+                "书信"
+            ]
+        },
+        {
+            "cards": [
+                "菜单",
+                "千纸鹤",
+                "用户界面",
+                "骡子"
+            ]
+        },
+        {
+            "cards": [
+                "滑块",
+                "复选框",
+                "纸飞机",
+                "纸花",
+                "马科动物"
+            ]
+        }
+    ]
+}

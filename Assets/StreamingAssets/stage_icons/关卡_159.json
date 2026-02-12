@@ -1,0 +1,369 @@
+{
+    "levelId": 159,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "泰迪熊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熊",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔软",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩具",
+                    "icon": false
+                },
+                {
+                    "wordId": "拥抱",
+                    "icon": false
+                },
+                {
+                    "wordId": "可爱",
+                    "icon": false
+                },
+                {
+                    "wordId": "填充玩具",
+                    "icon": false
+                },
+                {
+                    "wordId": "礼物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船",
+                    "icon": false
+                },
+                {
+                    "wordId": "绳索",
+                    "icon": false
+                },
+                {
+                    "wordId": "海洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "金属",
+                    "icon": false
+                },
+                {
+                    "wordId": "钩",
+                    "icon": false
+                },
+                {
+                    "wordId": "抛锚",
+                    "icon": false
+                },
+                {
+                    "wordId": "固定",
+                    "icon": false
+                },
+                {
+                    "wordId": "链条",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "椅子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "靠背椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "躺椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "豆袋",
+                    "icon": true
+                },
+                {
+                    "wordId": "蒲团",
+                    "icon": true
+                },
+                {
+                    "wordId": "扶手椅",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝座",
+                    "icon": true
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "钢笔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "墨水",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔尖",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "书写",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "化石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骨头",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩石",
+                    "icon": false
+                },
+                {
+                    "wordId": "印记",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "石头",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香蕉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猴子",
+                    "icon": false
+                },
+                {
+                    "wordId": "果皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "一串",
+                    "icon": false
+                },
+                {
+                    "wordId": "标签",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海带",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨角藻",
+                    "icon": true
+                },
+                {
+                    "wordId": "轮藻",
+                    "icon": true
+                },
+                {
+                    "wordId": "蕨藻",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "头发",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡须",
+                    "icon": true
+                },
+                {
+                    "wordId": "八字胡",
+                    "icon": true
+                },
+                {
+                    "wordId": "辫子",
+                    "icon": true
+                },
+                {
+                    "wordId": "马尾",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "宗教",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "祭坛",
+                    "icon": false
+                },
+                {
+                    "wordId": "十字架",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "幽默",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双关语",
+                    "icon": false
+                },
+                {
+                    "wordId": "笑话",
+                    "icon": false
+                },
+                {
+                    "wordId": "反讽",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "圣像",
+        "墨角藻",
+        "岩石",
+        "可爱",
+        "宗教",
+        "夹子",
+        "蕨藻",
+        "玩具",
+        "墨水",
+        "印记",
+        "填充玩具",
+        "绳索",
+        "贝壳",
+        "躺椅",
+        "抛锚",
+        "金属",
+        "豆袋",
+        "轮藻",
+        "果皮",
+        "海洋",
+        "骨头",
+        "化石",
+        "海带",
+        "双关语",
+        "椅子",
+        "马尾",
+        "沙发",
+        "熊",
+        "海草",
+        "链条",
+        "书写",
+        "船",
+        "标签",
+        "长凳",
+        "反讽",
+        "靠背椅",
+        "恐龙",
+        "毛皮",
+        "锚",
+        "一串",
+        "柔软",
+        "礼物"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "八字胡",
+                "固定",
+                "辫子",
+                "泰迪熊"
+            ]
+        },
+        {
+            "cards": [
+                "香蕉",
+                "蓝色",
+                "十字架",
+                "蒲团",
+                "胡须"
+            ]
+        },
+        {
+            "cards": [
+                "笑话",
+                "钢笔",
+                "笔帽",
+                "石头",
+                "拥抱",
+                "头发"
+            ]
+        },
+        {
+            "cards": [
+                "祭坛",
+                "猴子",
+                "笔尖",
+                "宝座",
+                "钩",
+                "扶手椅",
+                "幽默"
+            ]
+        }
+    ]
+}

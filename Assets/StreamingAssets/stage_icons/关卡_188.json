@@ -1,0 +1,369 @@
+{
+    "levelId": 188,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "天空景观",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星云",
+                    "icon": false
+                },
+                {
+                    "wordId": "天顶",
+                    "icon": false
+                },
+                {
+                    "wordId": "极光",
+                    "icon": false
+                },
+                {
+                    "wordId": "日食",
+                    "icon": false
+                },
+                {
+                    "wordId": "彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "流星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星尘",
+                    "icon": false
+                },
+                {
+                    "wordId": "地平线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "质感",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丝滑",
+                    "icon": false
+                },
+                {
+                    "wordId": "粗糙",
+                    "icon": false
+                },
+                {
+                    "wordId": "颗粒感",
+                    "icon": false
+                },
+                {
+                    "wordId": "光滑",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅绒般",
+                    "icon": false
+                },
+                {
+                    "wordId": "崎岖",
+                    "icon": false
+                },
+                {
+                    "wordId": "长毛绒般",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛茸茸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鞋类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "运动鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐福鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛津鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "德比鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "穆勒鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "木底鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "布洛克鞋",
+                    "icon": false
+                },
+                {
+                    "wordId": "凉鞋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "朝代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "明朝",
+                    "icon": false
+                },
+                {
+                    "wordId": "都铎王朝",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈布斯堡王朝",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥斯曼王朝",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗曼诺夫王朝",
+                    "icon": false
+                },
+                {
+                    "wordId": "元朝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "炊具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烤面包机",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "煎饼锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "煎锅",
+                    "icon": false
+                },
+                {
+                    "wordId": "烤箱",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥炉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钱币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苏勒德斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "舍客勒",
+                    "icon": false
+                },
+                {
+                    "wordId": "第纳尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗罗林",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "双簧管",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "生物技术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "基因组",
+                    "icon": false
+                },
+                {
+                    "wordId": "酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "质粒",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白质",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "作家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "卡夫卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥威尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "布拉德伯里",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "魔符",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "六芒星",
+                    "icon": true
+                },
+                {
+                    "wordId": "五角星",
+                    "icon": true
+                },
+                {
+                    "wordId": "八卦",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "卡夫卡",
+        "煎锅",
+        "木底鞋",
+        "大提琴",
+        "五角星",
+        "弗罗林",
+        "奥威尔",
+        "第纳尔",
+        "八卦",
+        "苏勒德斯",
+        "元朝",
+        "星尘",
+        "明朝",
+        "极光",
+        "牛津鞋",
+        "丝滑",
+        "朝代",
+        "蒸锅",
+        "布拉德伯里",
+        "哈布斯堡王朝",
+        "蛋白质",
+        "颗粒感",
+        "穆勒鞋",
+        "德比鞋",
+        "流星",
+        "日食",
+        "天空景观",
+        "地平线",
+        "炊具",
+        "烤箱",
+        "毛茸茸",
+        "魔符",
+        "运动鞋",
+        "基因组",
+        "钢琴",
+        "长毛绒般",
+        "泥炉",
+        "凉鞋",
+        "六芒星",
+        "布洛克鞋",
+        "鞋类",
+        "崎岖"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "星云",
+                "粗糙",
+                "小提琴",
+                "生物技术"
+            ]
+        },
+        {
+            "cards": [
+                "天顶",
+                "罗曼诺夫王朝",
+                "乐器",
+                "彗星",
+                "质粒"
+            ]
+        },
+        {
+            "cards": [
+                "奥斯曼王朝",
+                "作家",
+                "酶",
+                "天鹅绒般",
+                "烤面包机",
+                "舍客勒"
+            ]
+        },
+        {
+            "cards": [
+                "煎饼锅",
+                "都铎王朝",
+                "双簧管",
+                "光滑",
+                "钱币",
+                "质感",
+                "乐福鞋"
+            ]
+        }
+    ]
+}

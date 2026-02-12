@@ -1,0 +1,553 @@
+{
+    "levelId": 41,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 220,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "反义词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "热",
+                    "icon": false
+                },
+                {
+                    "wordId": "冷",
+                    "icon": false
+                },
+                {
+                    "wordId": "高",
+                    "icon": false
+                },
+                {
+                    "wordId": "矮",
+                    "icon": false
+                },
+                {
+                    "wordId": "亮",
+                    "icon": false
+                },
+                {
+                    "wordId": "暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "快",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纸牌游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斗地主",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "桥牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "抢牌",
+                    "icon": false
+                },
+                {
+                    "wordId": "扑克",
+                    "icon": false
+                },
+                {
+                    "wordId": "筹码",
+                    "icon": false
+                },
+                {
+                    "wordId": "钓鱼游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "百家乐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "裁缝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "测量",
+                    "icon": false
+                },
+                {
+                    "wordId": "线",
+                    "icon": false
+                },
+                {
+                    "wordId": "针",
+                    "icon": false
+                },
+                {
+                    "wordId": "纸样",
+                    "icon": false
+                },
+                {
+                    "wordId": "缝线",
+                    "icon": false
+                },
+                {
+                    "wordId": "布料",
+                    "icon": false
+                },
+                {
+                    "wordId": "纽扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "熨斗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "建筑物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "图书馆",
+                    "icon": true
+                },
+                {
+                    "wordId": "博物馆",
+                    "icon": true
+                },
+                {
+                    "wordId": "医院",
+                    "icon": true
+                },
+                {
+                    "wordId": "学校建筑",
+                    "icon": true
+                },
+                {
+                    "wordId": "酒店",
+                    "icon": true
+                },
+                {
+                    "wordId": "工厂",
+                    "icon": true
+                },
+                {
+                    "wordId": "体育场",
+                    "icon": true
+                },
+                {
+                    "wordId": "购物中心",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "互联网",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "流览器",
+                    "icon": false
+                },
+                {
+                    "wordId": "域名",
+                    "icon": false
+                },
+                {
+                    "wordId": "Cookie",
+                    "icon": false
+                },
+                {
+                    "wordId": "防火墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "协议",
+                    "icon": false
+                },
+                {
+                    "wordId": "下载",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "魔法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "魔杖",
+                    "icon": false
+                },
+                {
+                    "wordId": "咒语",
+                    "icon": false
+                },
+                {
+                    "wordId": "药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "巫师",
+                    "icon": false
+                },
+                {
+                    "wordId": "附魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "水晶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "茶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "红茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "抹茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "花草茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌龙茶",
+                    "icon": false
+                },
+                {
+                    "wordId": "路易波士茶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "群体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氏族",
+                    "icon": false
+                },
+                {
+                    "wordId": "团队",
+                    "icon": false
+                },
+                {
+                    "wordId": "人群",
+                    "icon": false
+                },
+                {
+                    "wordId": "小队",
+                    "icon": false
+                },
+                {
+                    "wordId": "全体工作人员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "电影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摄像机",
+                    "icon": false
+                },
+                {
+                    "wordId": "银幕",
+                    "icon": false
+                },
+                {
+                    "wordId": "类型",
+                    "icon": false
+                },
+                {
+                    "wordId": "导演",
+                    "icon": false
+                },
+                {
+                    "wordId": "预告片",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "质地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "粗糙",
+                    "icon": false
+                },
+                {
+                    "wordId": "光滑",
+                    "icon": false
+                },
+                {
+                    "wordId": "柔软",
+                    "icon": false
+                },
+                {
+                    "wordId": "丝滑",
+                    "icon": false
+                },
+                {
+                    "wordId": "粘稠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "装饰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "灯笼",
+                    "icon": true
+                },
+                {
+                    "wordId": "铃铛",
+                    "icon": true
+                },
+                {
+                    "wordId": "花环",
+                    "icon": true
+                },
+                {
+                    "wordId": "闪亮装饰带",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "条纹动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斑马",
+                    "icon": false
+                },
+                {
+                    "wordId": "花栗鼠",
+                    "icon": false
+                },
+                {
+                    "wordId": "羚羊",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭鼬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "防毒面具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "佩戴",
+                    "icon": false
+                },
+                {
+                    "wordId": "调节",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼吸",
+                    "icon": false
+                },
+                {
+                    "wordId": "保护",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "民谣歌手",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "朴树",
+                    "icon": false
+                },
+                {
+                    "wordId": "赵雷",
+                    "icon": false
+                },
+                {
+                    "wordId": "宋冬野",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "氛围",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "环境",
+                    "icon": false
+                },
+                {
+                    "wordId": "感觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "风气",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "花草茶",
+        "暗",
+        "反义词",
+        "导演",
+        "呼吸",
+        "路易波士茶",
+        "工厂",
+        "光滑",
+        "斑马",
+        "赵雷",
+        "协议",
+        "佩戴",
+        "冷",
+        "人群",
+        "魔杖",
+        "银幕",
+        "抹茶",
+        "筹码",
+        "类型",
+        "亮",
+        "氏族",
+        "洗牌",
+        "保护",
+        "扑克",
+        "线",
+        "调节",
+        "水晶",
+        "百家乐",
+        "条纹动物",
+        "互联网",
+        "布料",
+        "宋冬野",
+        "斗地主",
+        "酒店",
+        "茶",
+        "咒语",
+        "预告片",
+        "体育场",
+        "医院",
+        "柔软",
+        "丝滑",
+        "下载",
+        "小队",
+        "绿茶",
+        "粗糙",
+        "摄像机",
+        "流览器",
+        "朴树",
+        "图书馆",
+        "购物中心",
+        "Cookie",
+        "纸牌游戏",
+        "风气",
+        "附魔",
+        "测量",
+        "闪亮装饰带",
+        "熨斗",
+        "全体工作人员",
+        "针",
+        "矮",
+        "钓鱼游戏",
+        "民谣歌手",
+        "电影"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "慢",
+                "裁缝",
+                "花栗鼠",
+                "快",
+                "粘稠"
+            ]
+        },
+        {
+            "cards": [
+                "灯笼",
+                "红茶",
+                "氛围",
+                "装饰",
+                "域名",
+                "建筑物"
+            ]
+        },
+        {
+            "cards": [
+                "乌龙茶",
+                "团队",
+                "群体",
+                "铃铛",
+                "魔法",
+                "质地",
+                "感觉"
+            ]
+        },
+        {
+            "cards": [
+                "学校建筑",
+                "高",
+                "博物馆",
+                "臭鼬",
+                "抢牌",
+                "环境",
+                "缝线",
+                "热"
+            ]
+        },
+        {
+            "cards": [
+                "纽扣",
+                "防火墙",
+                "花环",
+                "纸样",
+                "桥牌",
+                "羚羊",
+                "防毒面具",
+                "药水",
+                "巫师"
+            ]
+        }
+    ]
+}

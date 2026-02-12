@@ -1,0 +1,217 @@
+{
+    "levelId": 42,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "古董",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瓷器",
+                    "icon": false
+                },
+                {
+                    "wordId": "字画",
+                    "icon": false
+                },
+                {
+                    "wordId": "拍卖行",
+                    "icon": false
+                },
+                {
+                    "wordId": "真伪",
+                    "icon": false
+                },
+                {
+                    "wordId": "修复",
+                    "icon": false
+                },
+                {
+                    "wordId": "青铜器",
+                    "icon": false
+                },
+                {
+                    "wordId": "价值",
+                    "icon": false
+                },
+                {
+                    "wordId": "出土",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "科幻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镭射",
+                    "icon": false
+                },
+                {
+                    "wordId": "相位枪",
+                    "icon": false
+                },
+                {
+                    "wordId": "爆能枪",
+                    "icon": false
+                },
+                {
+                    "wordId": "机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "星际飞船",
+                    "icon": false
+                },
+                {
+                    "wordId": "传送",
+                    "icon": false
+                },
+                {
+                    "wordId": "外星人",
+                    "icon": false
+                },
+                {
+                    "wordId": "不明飞行物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "经济",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "供给",
+                    "icon": false
+                },
+                {
+                    "wordId": "需求",
+                    "icon": false
+                },
+                {
+                    "wordId": "短缺",
+                    "icon": false
+                },
+                {
+                    "wordId": "过剩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "棒棒糖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "多汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "多彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸味",
+                    "icon": false
+                },
+                {
+                    "wordId": "果味",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "公猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "母猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "小猪",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "力量",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "权力",
+                    "icon": false
+                },
+                {
+                    "wordId": "武力",
+                    "icon": false
+                },
+                {
+                    "wordId": "威力",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "出土",
+        "星际飞船",
+        "爆能枪",
+        "母猪",
+        "供给",
+        "力量",
+        "过剩",
+        "猪",
+        "公猪",
+        "需求",
+        "拍卖行",
+        "镭射",
+        "威力",
+        "机器人",
+        "修复",
+        "瓷器",
+        "外星人",
+        "酸味",
+        "武力",
+        "真伪",
+        "不明飞行物",
+        "字画",
+        "经济",
+        "果味"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "古董",
+                "小猪",
+                "棒棒糖"
+            ]
+        },
+        {
+            "cards": [
+                "短缺",
+                "价值",
+                "相位枪",
+                "传送"
+            ]
+        },
+        {
+            "cards": [
+                "青铜器",
+                "多彩",
+                "多汁",
+                "科幻",
+                "权力"
+            ]
+        }
+    ]
+}

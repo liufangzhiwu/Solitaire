@@ -1,0 +1,369 @@
+{
+    "levelId": 327,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "运河",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴拿马运河",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏伊士运河",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊利运河",
+                    "icon": false
+                },
+                {
+                    "wordId": "里多运河",
+                    "icon": false
+                },
+                {
+                    "wordId": "科林斯运河",
+                    "icon": false
+                },
+                {
+                    "wordId": "大运河",
+                    "icon": false
+                },
+                {
+                    "wordId": "威尼斯运河",
+                    "icon": false
+                },
+                {
+                    "wordId": "基尔运河",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "设备",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "手机",
+                    "icon": false
+                },
+                {
+                    "wordId": "平板电脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "笔记本电脑",
+                    "icon": false
+                },
+                {
+                    "wordId": "路由器",
+                    "icon": false
+                },
+                {
+                    "wordId": "调制解调器",
+                    "icon": false
+                },
+                {
+                    "wordId": "扬声器",
+                    "icon": false
+                },
+                {
+                    "wordId": "显示器",
+                    "icon": false
+                },
+                {
+                    "wordId": "打印机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丝带",
+                    "icon": false
+                },
+                {
+                    "wordId": "铝膜气球",
+                    "icon": false
+                },
+                {
+                    "wordId": "氦气",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "充气",
+                    "icon": false
+                },
+                {
+                    "wordId": "群组",
+                    "icon": false
+                },
+                {
+                    "wordId": "派对",
+                    "icon": false
+                },
+                {
+                    "wordId": "花束",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "体育场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "温布利",
+                    "icon": false
+                },
+                {
+                    "wordId": "马拉卡纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "安联",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣西罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿兹特克",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥林匹亚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "胡须",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "山羊胡",
+                    "icon": true
+                },
+                {
+                    "wordId": "胡茬",
+                    "icon": true
+                },
+                {
+                    "wordId": "小胡子",
+                    "icon": true
+                },
+                {
+                    "wordId": "鬓角",
+                    "icon": true
+                },
+                {
+                    "wordId": "络腮胡",
+                    "icon": true
+                },
+                {
+                    "wordId": "仁丹胡",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "味道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甜",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲜",
+                    "icon": false
+                },
+                {
+                    "wordId": "咸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "齿轮",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "齿牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "车轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "小齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "链轮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "标识",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "徽章",
+                    "icon": false
+                },
+                {
+                    "wordId": "纹章",
+                    "icon": false
+                },
+                {
+                    "wordId": "标志",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔符",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜡笔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "栗色",
+                    "icon": true
+                },
+                {
+                    "wordId": "天蓝色",
+                    "icon": true
+                },
+                {
+                    "wordId": "洋红色",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "啤酒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉格",
+                    "icon": false
+                },
+                {
+                    "wordId": "世涛",
+                    "icon": false
+                },
+                {
+                    "wordId": "波特",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "圣西罗",
+        "酸",
+        "气球",
+        "安联",
+        "群组",
+        "苏伊士运河",
+        "鬓角",
+        "温布利",
+        "咸",
+        "栗色",
+        "波特",
+        "调制解调器",
+        "马拉卡纳",
+        "丝带",
+        "充气",
+        "味道",
+        "标识",
+        "打印机",
+        "科林斯运河",
+        "徽章",
+        "里多运河",
+        "拉格",
+        "链轮",
+        "威尼斯运河",
+        "奥林匹亚",
+        "车轴",
+        "洋红色",
+        "铝膜气球",
+        "甜",
+        "小齿轮",
+        "设备",
+        "平板电脑",
+        "天蓝色",
+        "魔符",
+        "仁丹胡",
+        "氦气",
+        "派对",
+        "小胡子",
+        "齿牙",
+        "标志",
+        "基尔运河",
+        "胡须"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "阿兹特克",
+                "山羊胡",
+                "络腮胡",
+                "乳胶"
+            ]
+        },
+        {
+            "cards": [
+                "体育场",
+                "笔记本电脑",
+                "花束",
+                "鲜",
+                "啤酒"
+            ]
+        },
+        {
+            "cards": [
+                "显示器",
+                "手机",
+                "路由器",
+                "蜡笔",
+                "大运河",
+                "世涛"
+            ]
+        },
+        {
+            "cards": [
+                "纹章",
+                "扬声器",
+                "胡茬",
+                "巴拿马运河",
+                "齿轮",
+                "伊利运河",
+                "运河"
+            ]
+        }
+    ]
+}

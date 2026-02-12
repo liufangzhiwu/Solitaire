@@ -1,0 +1,369 @@
+{
+    "levelId": 19,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "莎士比亚作品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伯里克利",
+                    "icon": false
+                },
+                {
+                    "wordId": "麦克白",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈姆雷特",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥赛罗",
+                    "icon": false
+                },
+                {
+                    "wordId": "朱丽叶",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗密欧",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴风雨",
+                    "icon": false
+                },
+                {
+                    "wordId": "亨利五世",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "城市",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "西安",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈尔滨",
+                    "icon": false
+                },
+                {
+                    "wordId": "神农架",
+                    "icon": false
+                },
+                {
+                    "wordId": "厦门",
+                    "icon": false
+                },
+                {
+                    "wordId": "南京",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼和浩特",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "南昌",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "植物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "绿萝",
+                    "icon": false
+                },
+                {
+                    "wordId": "秋海棠",
+                    "icon": false
+                },
+                {
+                    "wordId": "蕨类植物",
+                    "icon": false
+                },
+                {
+                    "wordId": "竹芋",
+                    "icon": false
+                },
+                {
+                    "wordId": "芦荟",
+                    "icon": false
+                },
+                {
+                    "wordId": "兰花",
+                    "icon": false
+                },
+                {
+                    "wordId": "木槿",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙血树",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "犬科",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狼",
+                    "icon": false
+                },
+                {
+                    "wordId": "家犬",
+                    "icon": false
+                },
+                {
+                    "wordId": "澳洲野犬",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡狼",
+                    "icon": false
+                },
+                {
+                    "wordId": "狐狸",
+                    "icon": false
+                },
+                {
+                    "wordId": "豺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哈佛大学",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯坦福大学",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛津大学",
+                    "icon": false
+                },
+                {
+                    "wordId": "耶鲁大学",
+                    "icon": false
+                },
+                {
+                    "wordId": "索邦大学",
+                    "icon": false
+                },
+                {
+                    "wordId": "麻省理工学院",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "群体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜂群",
+                    "icon": false
+                },
+                {
+                    "wordId": "鸟群",
+                    "icon": false
+                },
+                {
+                    "wordId": "兽群",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹅群",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "办公用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钢笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "橡皮",
+                    "icon": true
+                },
+                {
+                    "wordId": "马克笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "铅笔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "味道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "甜",
+                    "icon": false
+                },
+                {
+                    "wordId": "辣",
+                    "icon": false
+                },
+                {
+                    "wordId": "苦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "柑橘类水果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柠檬",
+                    "icon": true
+                },
+                {
+                    "wordId": "青柠",
+                    "icon": true
+                },
+                {
+                    "wordId": "柚子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "航空器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "滑翔机",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷气式客机",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞机",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "澳洲野犬",
+        "群体",
+        "龙血树",
+        "朱丽叶",
+        "西安",
+        "柠檬",
+        "竹芋",
+        "兽群",
+        "办公用品",
+        "钢笔",
+        "拉萨",
+        "南京",
+        "哈姆雷特",
+        "麦克白",
+        "蕨类植物",
+        "飞机",
+        "秋海棠",
+        "奥赛罗",
+        "喷气式客机",
+        "蜂群",
+        "柚子",
+        "大学",
+        "苦",
+        "橡皮",
+        "狼",
+        "家犬",
+        "兰花",
+        "植物",
+        "胡狼",
+        "哈佛大学",
+        "酸",
+        "马克笔",
+        "青柠",
+        "莎士比亚作品",
+        "索邦大学",
+        "滑翔机",
+        "鸟群",
+        "厦门",
+        "耶鲁大学",
+        "伯里克利",
+        "辣",
+        "绿萝"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "柑橘类水果",
+                "南昌",
+                "狐狸",
+                "呼和浩特"
+            ]
+        },
+        {
+            "cards": [
+                "罗密欧",
+                "哈尔滨",
+                "犬科",
+                "木槿",
+                "牛津大学"
+            ]
+        },
+        {
+            "cards": [
+                "鹅群",
+                "铅笔",
+                "芦荟",
+                "麻省理工学院",
+                "城市",
+                "亨利五世"
+            ]
+        },
+        {
+            "cards": [
+                "暴风雨",
+                "航空器",
+                "豺",
+                "甜",
+                "神农架",
+                "味道",
+                "斯坦福大学"
+            ]
+        }
+    ]
+}

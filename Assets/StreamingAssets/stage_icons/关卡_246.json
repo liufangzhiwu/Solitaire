@@ -1,0 +1,369 @@
+{
+    "levelId": 246,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "甜点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛋奶冻",
+                    "icon": false
+                },
+                {
+                    "wordId": "果冻",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋糕",
+                    "icon": false
+                },
+                {
+                    "wordId": "布丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "马卡龙",
+                    "icon": false
+                },
+                {
+                    "wordId": "水果挞",
+                    "icon": false
+                },
+                {
+                    "wordId": "酥皮点心",
+                    "icon": false
+                },
+                {
+                    "wordId": "华夫饼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "足球",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰球",
+                    "icon": true
+                },
+                {
+                    "wordId": "篮球",
+                    "icon": true
+                },
+                {
+                    "wordId": "高尔夫",
+                    "icon": true
+                },
+                {
+                    "wordId": "羽毛球",
+                    "icon": true
+                },
+                {
+                    "wordId": "棒球",
+                    "icon": true
+                },
+                {
+                    "wordId": "台球",
+                    "icon": true
+                },
+                {
+                    "wordId": "游泳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "叮咬生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳蚤",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜘蛛",
+                    "icon": false
+                },
+                {
+                    "wordId": "蠓",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝰蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "水蛭",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜱虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚊子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "重量",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天平",
+                    "icon": false
+                },
+                {
+                    "wordId": "品质",
+                    "icon": false
+                },
+                {
+                    "wordId": "负荷",
+                    "icon": false
+                },
+                {
+                    "wordId": "吨位",
+                    "icon": false
+                },
+                {
+                    "wordId": "千克",
+                    "icon": false
+                },
+                {
+                    "wordId": "盎司",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火山喷发",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "熔岩",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩浆",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山口",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山灰",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂缝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "聪明的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "精明",
+                    "icon": false
+                },
+                {
+                    "wordId": "机敏",
+                    "icon": false
+                },
+                {
+                    "wordId": "聪慧",
+                    "icon": false
+                },
+                {
+                    "wordId": "敏锐",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "驾驶员",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "计程车司机",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽车司机",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行员",
+                    "icon": false
+                },
+                {
+                    "wordId": "操作员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "藤蔓",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "藤本植物",
+                    "icon": false
+                },
+                {
+                    "wordId": "常春藤",
+                    "icon": false
+                },
+                {
+                    "wordId": "葡萄",
+                    "icon": false
+                },
+                {
+                    "wordId": "月光花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "膨胀的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蓬松的",
+                    "icon": false
+                },
+                {
+                    "wordId": "肿胀的",
+                    "icon": false
+                },
+                {
+                    "wordId": "胀气的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "马类神兽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "半人马",
+                    "icon": true
+                },
+                {
+                    "wordId": "珀伽索斯",
+                    "icon": true
+                },
+                {
+                    "wordId": "独角兽头",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "聪明的",
+        "火山口",
+        "葡萄",
+        "甜点",
+        "布丁",
+        "冰球",
+        "运动",
+        "足球",
+        "蛋糕",
+        "火山",
+        "火山喷发",
+        "肿胀的",
+        "羽毛球",
+        "藤本植物",
+        "岩浆",
+        "蚊子",
+        "马卡龙",
+        "果冻",
+        "水果挞",
+        "高尔夫",
+        "棒球",
+        "藤蔓",
+        "水蛭",
+        "半人马",
+        "裂缝",
+        "蜱虫",
+        "常春藤",
+        "飞行员",
+        "盎司",
+        "火山灰",
+        "品质",
+        "月光花",
+        "天平",
+        "独角兽头",
+        "蛋奶冻",
+        "臭虫",
+        "蝰蛇",
+        "珀伽索斯",
+        "聪慧",
+        "蠓",
+        "机敏",
+        "华夫饼"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "蜘蛛",
+                "酥皮点心",
+                "吨位",
+                "重量"
+            ]
+        },
+        {
+            "cards": [
+                "驾驶员",
+                "操作员",
+                "台球",
+                "负荷",
+                "叮咬生物"
+            ]
+        },
+        {
+            "cards": [
+                "蓬松的",
+                "熔岩",
+                "膨胀的",
+                "游泳",
+                "敏锐",
+                "精明"
+            ]
+        },
+        {
+            "cards": [
+                "汽车司机",
+                "跳蚤",
+                "篮球",
+                "千克",
+                "胀气的",
+                "计程车司机",
+                "马类神兽"
+            ]
+        }
+    ]
+}

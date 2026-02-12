@@ -1,0 +1,369 @@
+{
+    "levelId": 374,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "美德",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "诚实",
+                    "icon": false
+                },
+                {
+                    "wordId": "勇气",
+                    "icon": false
+                },
+                {
+                    "wordId": "耐心",
+                    "icon": false
+                },
+                {
+                    "wordId": "正义",
+                    "icon": false
+                },
+                {
+                    "wordId": "英勇",
+                    "icon": false
+                },
+                {
+                    "wordId": "善良",
+                    "icon": false
+                },
+                {
+                    "wordId": "忠诚",
+                    "icon": false
+                },
+                {
+                    "wordId": "谦逊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恶习",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嫉妒",
+                    "icon": false
+                },
+                {
+                    "wordId": "贪婪",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶意",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴食",
+                    "icon": false
+                },
+                {
+                    "wordId": "欲望",
+                    "icon": false
+                },
+                {
+                    "wordId": "怨愤",
+                    "icon": false
+                },
+                {
+                    "wordId": "懒惰",
+                    "icon": false
+                },
+                {
+                    "wordId": "贪财",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "头衔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爵士",
+                    "icon": false
+                },
+                {
+                    "wordId": "勋爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "女爵士",
+                    "icon": false
+                },
+                {
+                    "wordId": "夫人",
+                    "icon": false
+                },
+                {
+                    "wordId": "公爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "伯爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "计数",
+                    "icon": false
+                },
+                {
+                    "wordId": "男爵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "色调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天蓝色",
+                    "icon": true
+                },
+                {
+                    "wordId": "绯红色",
+                    "icon": true
+                },
+                {
+                    "wordId": "橄榄色",
+                    "icon": true
+                },
+                {
+                    "wordId": "青蓝色",
+                    "icon": true
+                },
+                {
+                    "wordId": "米色",
+                    "icon": true
+                },
+                {
+                    "wordId": "洋红色",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "情绪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "快乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "悲伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "平静",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦虑",
+                    "icon": false
+                },
+                {
+                    "wordId": "无聊",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时刻",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                },
+                {
+                    "wordId": "正午",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄昏",
+                    "icon": false
+                },
+                {
+                    "wordId": "夜晚",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "孜然",
+                    "icon": true
+                },
+                {
+                    "wordId": "丁香",
+                    "icon": true
+                },
+                {
+                    "wordId": "肉豆蔻",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑胡椒",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "部落",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纳瓦霍人",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛利人",
+                    "icon": false
+                },
+                {
+                    "wordId": "祖鲁人",
+                    "icon": false
+                },
+                {
+                    "wordId": "切罗基人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "科技",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "CPU",
+                    "icon": false
+                },
+                {
+                    "wordId": "RAM",
+                    "icon": false
+                },
+                {
+                    "wordId": "SSD",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "餐具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "叉子",
+                    "icon": false
+                },
+                {
+                    "wordId": "勺子",
+                    "icon": false
+                },
+                {
+                    "wordId": "刀子",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "耐心",
+        "SSD",
+        "嫉妒",
+        "勋爵",
+        "懒惰",
+        "勺子",
+        "焦虑",
+        "时刻",
+        "悲伤",
+        "平静",
+        "夜晚",
+        "暴食",
+        "爵士",
+        "餐具",
+        "黄昏",
+        "刀子",
+        "快乐",
+        "切罗基人",
+        "黑胡椒",
+        "善良",
+        "计数",
+        "男爵",
+        "伯爵",
+        "美德",
+        "夫人",
+        "洋红色",
+        "女爵士",
+        "CPU",
+        "色调",
+        "青蓝色",
+        "忠诚",
+        "纳瓦霍人",
+        "叉子",
+        "正义",
+        "公爵",
+        "孜然",
+        "绯红色",
+        "毛利人",
+        "愤怒",
+        "部落",
+        "RAM",
+        "橄榄色"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "正午",
+                "头衔",
+                "香料",
+                "科技"
+            ]
+        },
+        {
+            "cards": [
+                "怨愤",
+                "贪财",
+                "祖鲁人",
+                "恶习",
+                "天蓝色"
+            ]
+        },
+        {
+            "cards": [
+                "勇气",
+                "丁香",
+                "欲望",
+                "情绪",
+                "恶意",
+                "诚实"
+            ]
+        },
+        {
+            "cards": [
+                "肉豆蔻",
+                "米色",
+                "贪婪",
+                "黎明",
+                "无聊",
+                "谦逊",
+                "英勇"
+            ]
+        }
+    ]
+}

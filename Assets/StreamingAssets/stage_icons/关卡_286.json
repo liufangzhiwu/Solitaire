@@ -1,0 +1,369 @@
+{
+    "levelId": 286,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "食现象",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日全食",
+                    "icon": false
+                },
+                {
+                    "wordId": "日环食",
+                    "icon": false
+                },
+                {
+                    "wordId": "日偏食",
+                    "icon": false
+                },
+                {
+                    "wordId": "混合日食",
+                    "icon": false
+                },
+                {
+                    "wordId": "中心食",
+                    "icon": false
+                },
+                {
+                    "wordId": "月食",
+                    "icon": false
+                },
+                {
+                    "wordId": "日食",
+                    "icon": false
+                },
+                {
+                    "wordId": "浅食",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拳头",
+                    "icon": false
+                },
+                {
+                    "wordId": "手腕",
+                    "icon": false
+                },
+                {
+                    "wordId": "手指",
+                    "icon": false
+                },
+                {
+                    "wordId": "手掌",
+                    "icon": false
+                },
+                {
+                    "wordId": "拇指",
+                    "icon": false
+                },
+                {
+                    "wordId": "指关节",
+                    "icon": false
+                },
+                {
+                    "wordId": "腕骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "指骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "印度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人力车",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡里节",
+                    "icon": false
+                },
+                {
+                    "wordId": "纱丽",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖喱",
+                    "icon": false
+                },
+                {
+                    "wordId": "静修所",
+                    "icon": false
+                },
+                {
+                    "wordId": "排灯节",
+                    "icon": false
+                },
+                {
+                    "wordId": "眉心贴",
+                    "icon": false
+                },
+                {
+                    "wordId": "种姓制度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "同位素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氕",
+                    "icon": false
+                },
+                {
+                    "wordId": "铀",
+                    "icon": false
+                },
+                {
+                    "wordId": "钍",
+                    "icon": false
+                },
+                {
+                    "wordId": "氚",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭",
+                    "icon": false
+                },
+                {
+                    "wordId": "氖-20",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "塔罗牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愚者",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔术师",
+                    "icon": false
+                },
+                {
+                    "wordId": "战车",
+                    "icon": false
+                },
+                {
+                    "wordId": "隐士",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": false
+                },
+                {
+                    "wordId": "月亮",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "维生素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "硫胺素",
+                    "icon": false
+                },
+                {
+                    "wordId": "叶酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟酸",
+                    "icon": false
+                },
+                {
+                    "wordId": "生物素",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "副词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "迅速地",
+                    "icon": false
+                },
+                {
+                    "wordId": "安静地",
+                    "icon": false
+                },
+                {
+                    "wordId": "粗糙地",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻快地",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "哥特式建筑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拱门",
+                    "icon": true
+                },
+                {
+                    "wordId": "拱顶",
+                    "icon": true
+                },
+                {
+                    "wordId": "窗花格",
+                    "icon": true
+                },
+                {
+                    "wordId": "扶壁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "代码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩斯电码",
+                    "icon": false
+                },
+                {
+                    "wordId": "盲文",
+                    "icon": false
+                },
+                {
+                    "wordId": "二进制",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生物群系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "苔原",
+                    "icon": true
+                },
+                {
+                    "wordId": "稀树草原",
+                    "icon": true
+                },
+                {
+                    "wordId": "泰加林",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "泰加林",
+        "日环食",
+        "手腕",
+        "眉心贴",
+        "同位素",
+        "纱丽",
+        "拱门",
+        "隐士",
+        "钍",
+        "日食",
+        "粗糙地",
+        "月亮",
+        "愚者",
+        "咖喱",
+        "扶壁",
+        "月食",
+        "稀树草原",
+        "苔原",
+        "代码",
+        "人力车",
+        "拇指",
+        "指骨",
+        "手指",
+        "轻快地",
+        "生物素",
+        "印度",
+        "中心食",
+        "指关节",
+        "安静地",
+        "镭",
+        "哥特式建筑",
+        "生物群系",
+        "铀",
+        "战车",
+        "手掌",
+        "迅速地",
+        "腕骨",
+        "魔术师",
+        "混合日食",
+        "拱顶",
+        "二进制",
+        "日偏食"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "种姓制度",
+                "塔罗牌",
+                "排灯节",
+                "胡里节"
+            ]
+        },
+        {
+            "cards": [
+                "摩斯电码",
+                "太阳",
+                "手部",
+                "静修所",
+                "日全食"
+            ]
+        },
+        {
+            "cards": [
+                "窗花格",
+                "盲文",
+                "烟酸",
+                "维生素",
+                "氚",
+                "氖-20"
+            ]
+        },
+        {
+            "cards": [
+                "浅食",
+                "食现象",
+                "副词",
+                "叶酸",
+                "氕",
+                "硫胺素",
+                "拳头"
+            ]
+        }
+    ]
+}

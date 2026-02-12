@@ -1,0 +1,217 @@
+{
+    "levelId": 298,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "恒星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天狼星",
+                    "icon": false
+                },
+                {
+                    "wordId": "织女星",
+                    "icon": false
+                },
+                {
+                    "wordId": "参宿七",
+                    "icon": false
+                },
+                {
+                    "wordId": "北极星",
+                    "icon": false
+                },
+                {
+                    "wordId": "心宿二",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛郎星",
+                    "icon": false
+                },
+                {
+                    "wordId": "天津四",
+                    "icon": false
+                },
+                {
+                    "wordId": "五车二",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "贝壳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海螺壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "扇贝壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝贝贝壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄螺",
+                    "icon": false
+                },
+                {
+                    "wordId": "峨螺",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨螺",
+                    "icon": false
+                },
+                {
+                    "wordId": "涡螺",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝾螺",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绳结",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "单套结",
+                    "icon": true
+                },
+                {
+                    "wordId": "平结",
+                    "icon": true
+                },
+                {
+                    "wordId": "8字结",
+                    "icon": true
+                },
+                {
+                    "wordId": "普鲁士结",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "香草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鼠尾草",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛至",
+                    "icon": true
+                },
+                {
+                    "wordId": "欧芹",
+                    "icon": true
+                },
+                {
+                    "wordId": "马郁兰",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "字体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Arial字体",
+                    "icon": false
+                },
+                {
+                    "wordId": "Times字体",
+                    "icon": false
+                },
+                {
+                    "wordId": "Verdana字体",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "外星人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尤达",
+                    "icon": false
+                },
+                {
+                    "wordId": "克拉图",
+                    "icon": false
+                },
+                {
+                    "wordId": "可汗",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "尤达",
+        "可汗",
+        "普鲁士结",
+        "北极星",
+        "宝贝贝壳",
+        "平结",
+        "Verdana字体",
+        "蝾螺",
+        "马郁兰",
+        "天津四",
+        "海螺壳",
+        "参宿七",
+        "欧芹",
+        "恒星",
+        "牛至",
+        "鼠尾草",
+        "绳结",
+        "单套结",
+        "Arial字体",
+        "牛郎星",
+        "扇贝壳",
+        "贝壳",
+        "骨螺",
+        "天狼星"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "Times字体",
+                "心宿二",
+                "8字结"
+            ]
+        },
+        {
+            "cards": [
+                "涡螺",
+                "橄榄螺",
+                "织女星",
+                "克拉图"
+            ]
+        },
+        {
+            "cards": [
+                "字体",
+                "五车二",
+                "峨螺",
+                "香草",
+                "外星人"
+            ]
+        }
+    ]
+}

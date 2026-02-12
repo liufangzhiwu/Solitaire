@@ -1,0 +1,521 @@
+{
+    "levelId": 166,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 185,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "神祇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宙斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "赫拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥丁",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "索尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊西斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "毗湿奴",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛基",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "药剂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长生不老药",
+                    "icon": false
+                },
+                {
+                    "wordId": "酊剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "药水",
+                    "icon": false
+                },
+                {
+                    "wordId": "精华液",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔药",
+                    "icon": false
+                },
+                {
+                    "wordId": "万灵药",
+                    "icon": false
+                },
+                {
+                    "wordId": "浸剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸馏液",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "战术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "埋伏",
+                    "icon": false
+                },
+                {
+                    "wordId": "侧翼",
+                    "icon": false
+                },
+                {
+                    "wordId": "佯攻",
+                    "icon": false
+                },
+                {
+                    "wordId": "诱捕",
+                    "icon": false
+                },
+                {
+                    "wordId": "围城",
+                    "icon": false
+                },
+                {
+                    "wordId": "撤退",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲锋",
+                    "icon": false
+                },
+                {
+                    "wordId": "小规模战斗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "教师",
+                    "icon": false
+                },
+                {
+                    "wordId": "医生",
+                    "icon": false
+                },
+                {
+                    "wordId": "厨师",
+                    "icon": false
+                },
+                {
+                    "wordId": "农民",
+                    "icon": false
+                },
+                {
+                    "wordId": "烘焙师",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行员",
+                    "icon": false
+                },
+                {
+                    "wordId": "水手",
+                    "icon": false
+                },
+                {
+                    "wordId": "矿工",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "武器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "矛",
+                    "icon": true
+                },
+                {
+                    "wordId": "斧",
+                    "icon": true
+                },
+                {
+                    "wordId": "钉头锤",
+                    "icon": true
+                },
+                {
+                    "wordId": "匕首",
+                    "icon": true
+                },
+                {
+                    "wordId": "弓",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "古代奇观",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "金字塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨像",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕像",
+                    "icon": false
+                },
+                {
+                    "wordId": "通天塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "竖石纪念碑",
+                    "icon": false
+                },
+                {
+                    "wordId": "引水渠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乔木",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "银杏",
+                    "icon": false
+                },
+                {
+                    "wordId": "红杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏树",
+                    "icon": false
+                },
+                {
+                    "wordId": "椴树",
+                    "icon": false
+                },
+                {
+                    "wordId": "柳树",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "珠宝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "项链",
+                    "icon": true
+                },
+                {
+                    "wordId": "手镯",
+                    "icon": true
+                },
+                {
+                    "wordId": "吊坠",
+                    "icon": true
+                },
+                {
+                    "wordId": "耳环",
+                    "icon": true
+                },
+                {
+                    "wordId": "胸针",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "陶器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瓮",
+                    "icon": true
+                },
+                {
+                    "wordId": "罐",
+                    "icon": true
+                },
+                {
+                    "wordId": "双耳瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "花瓶",
+                    "icon": true
+                },
+                {
+                    "wordId": "碗",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吟诵",
+                    "icon": false
+                },
+                {
+                    "wordId": "奠酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "召唤",
+                    "icon": false
+                },
+                {
+                    "wordId": "涂油",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "挂毯",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哥白林挂毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉斯挂毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝叶挂毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "大不里士挂毯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "古典语言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拉丁语",
+                    "icon": false
+                },
+                {
+                    "wordId": "希腊语",
+                    "icon": false
+                },
+                {
+                    "wordId": "阿拉伯语",
+                    "icon": false
+                },
+                {
+                    "wordId": "希伯来语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "色调",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猩红",
+                    "icon": false
+                },
+                {
+                    "wordId": "靛蓝",
+                    "icon": false
+                },
+                {
+                    "wordId": "赭石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "古钱币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "第纳里",
+                    "icon": false
+                },
+                {
+                    "wordId": "达克特",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗罗林",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "剑",
+        "索尔",
+        "达克特",
+        "阿拉伯语",
+        "双耳瓶",
+        "哥白林挂毯",
+        "药水",
+        "吊坠",
+        "胸针",
+        "万灵药",
+        "碗",
+        "钉头锤",
+        "矛",
+        "瓮",
+        "农民",
+        "引水渠",
+        "烘焙师",
+        "召唤",
+        "奠酒",
+        "洛基",
+        "佯攻",
+        "飞行员",
+        "战术",
+        "罐",
+        "冲锋",
+        "职业",
+        "古代奇观",
+        "古钱币",
+        "小规模战斗",
+        "毗湿奴",
+        "矿工",
+        "伊西斯",
+        "精华液",
+        "猩红",
+        "金字塔",
+        "长生不老药",
+        "赫拉",
+        "神祇",
+        "阿拉斯挂毯",
+        "奥丁",
+        "医生",
+        "雕像",
+        "拉",
+        "宙斯",
+        "蒸馏液",
+        "教师",
+        "仪式",
+        "大不里士挂毯",
+        "弗罗林",
+        "靛蓝",
+        "围城",
+        "贝叶挂毯",
+        "赭石",
+        "水手",
+        "珠宝",
+        "第纳里",
+        "厨师"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "挂毯",
+                "武器",
+                "红杉",
+                "项链",
+                "耳环"
+            ]
+        },
+        {
+            "cards": [
+                "酊剂",
+                "巨像",
+                "药剂",
+                "古典语言",
+                "柳树",
+                "银杏"
+            ]
+        },
+        {
+            "cards": [
+                "撤退",
+                "吟诵",
+                "色调",
+                "手镯",
+                "胡桃",
+                "拉丁语",
+                "诱捕"
+            ]
+        },
+        {
+            "cards": [
+                "椴树",
+                "通天塔",
+                "匕首",
+                "乔木",
+                "侧翼",
+                "魔药",
+                "埋伏",
+                "柏树"
+            ]
+        },
+        {
+            "cards": [
+                "竖石纪念碑",
+                "弓",
+                "斧",
+                "希腊语",
+                "浸剂",
+                "花瓶",
+                "涂油",
+                "陶器",
+                "希伯来语"
+            ]
+        }
+    ]
+}

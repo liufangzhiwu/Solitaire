@@ -1,0 +1,369 @@
+{
+    "levelId": 357,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "弦乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "班卓琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "竖琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲁特琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "尤克里里",
+                    "icon": true
+                },
+                {
+                    "wordId": "齐特琴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "国王",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亨利",
+                    "icon": false
+                },
+                {
+                    "wordId": "理查",
+                    "icon": false
+                },
+                {
+                    "wordId": "路易",
+                    "icon": false
+                },
+                {
+                    "wordId": "查尔斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "爱德华",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔治",
+                    "icon": false
+                },
+                {
+                    "wordId": "威廉",
+                    "icon": false
+                },
+                {
+                    "wordId": "菲利普",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "头盔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "骑士头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "战士头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "士兵头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "骑行头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "斯巴达头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "登山头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "维京头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "跳伞头盔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "反派",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "贾方",
+                    "icon": false
+                },
+                {
+                    "wordId": "德古拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "小丑",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫里亚蒂",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛琳菲森",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌苏拉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颜色深浅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "钴蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "米色",
+                    "icon": false
+                },
+                {
+                    "wordId": "象牙色",
+                    "icon": false
+                },
+                {
+                    "wordId": "青蓝色",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄荷色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "遗迹",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "庞贝",
+                    "icon": false
+                },
+                {
+                    "wordId": "吴哥",
+                    "icon": false
+                },
+                {
+                    "wordId": "迦太基",
+                    "icon": false
+                },
+                {
+                    "wordId": "以弗所",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "燃料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽油",
+                    "icon": false
+                },
+                {
+                    "wordId": "柴油",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤炭",
+                    "icon": false
+                },
+                {
+                    "wordId": "木材",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "座位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长沙发",
+                    "icon": false
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": false
+                },
+                {
+                    "wordId": "教堂长椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "诗歌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "十四行诗",
+                    "icon": false
+                },
+                {
+                    "wordId": "俳句",
+                    "icon": false
+                },
+                {
+                    "wordId": "打油诗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "日间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黎明",
+                    "icon": false
+                },
+                {
+                    "wordId": "正午",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄昏",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "反派",
+        "迦太基",
+        "木材",
+        "弦乐器",
+        "查尔斯",
+        "日间",
+        "小丑",
+        "鲁特琴",
+        "竖琴",
+        "米色",
+        "齐特琴",
+        "小提琴",
+        "骑士头盔",
+        "理查",
+        "汽油",
+        "以弗所",
+        "斯巴达头盔",
+        "尤克里里",
+        "十四行诗",
+        "战士头盔",
+        "班卓琴",
+        "菲利普",
+        "象牙色",
+        "登山头盔",
+        "遗迹",
+        "士兵头盔",
+        "俳句",
+        "黎明",
+        "正午",
+        "跳伞头盔",
+        "莫里亚蒂",
+        "吉他",
+        "煤炭",
+        "骑行头盔",
+        "打油诗",
+        "薄荷色",
+        "黄昏",
+        "德古拉",
+        "庞贝",
+        "乌苏拉",
+        "路易",
+        "燃料"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "长沙发",
+                "威廉",
+                "玛琳菲森",
+                "国王"
+            ]
+        },
+        {
+            "cards": [
+                "沙发",
+                "诗歌",
+                "亨利",
+                "青蓝色",
+                "柴油"
+            ]
+        },
+        {
+            "cards": [
+                "教堂长椅",
+                "贾方",
+                "座位",
+                "吴哥",
+                "维京头盔",
+                "爱德华"
+            ]
+        },
+        {
+            "cards": [
+                "钴蓝色",
+                "头盔",
+                "颜色深浅",
+                "大提琴",
+                "长凳",
+                "天蓝色",
+                "乔治"
+            ]
+        }
+    ]
+}

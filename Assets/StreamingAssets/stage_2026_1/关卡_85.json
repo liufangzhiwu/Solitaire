@@ -1,0 +1,369 @@
+{
+    "levelId": 85,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "手",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拳头",
+                    "icon": false
+                },
+                {
+                    "wordId": "手腕",
+                    "icon": false
+                },
+                {
+                    "wordId": "手指",
+                    "icon": false
+                },
+                {
+                    "wordId": "指甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "指关节",
+                    "icon": false
+                },
+                {
+                    "wordId": "拇指",
+                    "icon": false
+                },
+                {
+                    "wordId": "手掌",
+                    "icon": false
+                },
+                {
+                    "wordId": "指骨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "印度",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人力车",
+                    "icon": false
+                },
+                {
+                    "wordId": "排灯节",
+                    "icon": false
+                },
+                {
+                    "wordId": "纱丽",
+                    "icon": false
+                },
+                {
+                    "wordId": "咖喱",
+                    "icon": false
+                },
+                {
+                    "wordId": "印度教",
+                    "icon": false
+                },
+                {
+                    "wordId": "恒河",
+                    "icon": false
+                },
+                {
+                    "wordId": "种姓",
+                    "icon": false
+                },
+                {
+                    "wordId": "印度脆球",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蜂巢",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "分蜂群",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂蜜",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂群",
+                    "icon": false
+                },
+                {
+                    "wordId": "花粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂蜡",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂胶",
+                    "icon": false
+                },
+                {
+                    "wordId": "养蜂场",
+                    "icon": false
+                },
+                {
+                    "wordId": "花蜜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "重物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锚",
+                    "icon": true
+                },
+                {
+                    "wordId": "铁砧",
+                    "icon": true
+                },
+                {
+                    "wordId": "哑铃",
+                    "icon": true
+                },
+                {
+                    "wordId": "巨石",
+                    "icon": true
+                },
+                {
+                    "wordId": "卡车",
+                    "icon": true
+                },
+                {
+                    "wordId": "轮船",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "档",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "合同",
+                    "icon": false
+                },
+                {
+                    "wordId": "收据",
+                    "icon": false
+                },
+                {
+                    "wordId": "发票",
+                    "icon": false
+                },
+                {
+                    "wordId": "简历",
+                    "icon": false
+                },
+                {
+                    "wordId": "报告",
+                    "icon": false
+                },
+                {
+                    "wordId": "备忘录",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "嘴唇",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "丰满的",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄的",
+                    "icon": false
+                },
+                {
+                    "wordId": "撅起的",
+                    "icon": false
+                },
+                {
+                    "wordId": "抿著的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "钻石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "克拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "切面",
+                    "icon": false
+                },
+                {
+                    "wordId": "净度",
+                    "icon": false
+                },
+                {
+                    "wordId": "颜色",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "餐具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盘子",
+                    "icon": false
+                },
+                {
+                    "wordId": "杯子",
+                    "icon": false
+                },
+                {
+                    "wordId": "碗",
+                    "icon": false
+                },
+                {
+                    "wordId": "茶碟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "池塘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "青蛙",
+                    "icon": true
+                },
+                {
+                    "wordId": "芦苇",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸭子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地球",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地核",
+                    "icon": false
+                },
+                {
+                    "wordId": "地幔",
+                    "icon": false
+                },
+                {
+                    "wordId": "地壳",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "蜂群",
+        "轮船",
+        "卡车",
+        "杯子",
+        "印度教",
+        "哑铃",
+        "备忘录",
+        "餐具",
+        "铁砧",
+        "排灯节",
+        "克拉",
+        "手腕",
+        "丰满的",
+        "简历",
+        "发票",
+        "茶碟",
+        "芦苇",
+        "地壳",
+        "纱丽",
+        "碗",
+        "嘴唇",
+        "分蜂群",
+        "合同",
+        "锚",
+        "撅起的",
+        "巨石",
+        "种姓",
+        "地幔",
+        "手",
+        "重物",
+        "指关节",
+        "钻石",
+        "净度",
+        "养蜂场",
+        "盘子",
+        "蜂胶",
+        "人力车",
+        "切面",
+        "指骨",
+        "手掌",
+        "拇指",
+        "薄的"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "印度",
+                "颜色",
+                "池塘",
+                "档"
+            ]
+        },
+        {
+            "cards": [
+                "拳头",
+                "咖喱",
+                "地核",
+                "蜂蜜",
+                "印度脆球"
+            ]
+        },
+        {
+            "cards": [
+                "花蜜",
+                "收据",
+                "指甲",
+                "花粉",
+                "报告",
+                "抿著的"
+            ]
+        },
+        {
+            "cards": [
+                "青蛙",
+                "蜂蜡",
+                "手指",
+                "地球",
+                "鸭子",
+                "恒河",
+                "蜂巢"
+            ]
+        }
+    ]
+}

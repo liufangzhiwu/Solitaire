@@ -1,0 +1,369 @@
+{
+    "levelId": 180,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "实验室器皿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "烧杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "坩埚",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸馏器",
+                    "icon": false
+                },
+                {
+                    "wordId": "曲颈瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "研钵",
+                    "icon": false
+                },
+                {
+                    "wordId": "杵",
+                    "icon": false
+                },
+                {
+                    "wordId": "本生灯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "发动机",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阀门",
+                    "icon": false
+                },
+                {
+                    "wordId": "气缸",
+                    "icon": false
+                },
+                {
+                    "wordId": "节气门",
+                    "icon": false
+                },
+                {
+                    "wordId": "泵",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "垫圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "凸轮轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "活塞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "手表",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "表带",
+                    "icon": false
+                },
+                {
+                    "wordId": "表镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "表壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "表盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "表耳",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣环",
+                    "icon": false
+                },
+                {
+                    "wordId": "表扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "指针",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "卧室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地毯",
+                    "icon": true
+                },
+                {
+                    "wordId": "书柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "衣柜",
+                    "icon": true
+                },
+                {
+                    "wordId": "灯",
+                    "icon": true
+                },
+                {
+                    "wordId": "书桌",
+                    "icon": true
+                },
+                {
+                    "wordId": "梳妆台",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "眼睛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瞳孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "视网膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "虹膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "巩膜",
+                    "icon": false
+                },
+                {
+                    "wordId": "睫毛",
+                    "icon": false
+                },
+                {
+                    "wordId": "眼睑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "西装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "开衩",
+                    "icon": false
+                },
+                {
+                    "wordId": "袖口",
+                    "icon": false
+                },
+                {
+                    "wordId": "翻领",
+                    "icon": false
+                },
+                {
+                    "wordId": "口袋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鸡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喙",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉垂",
+                    "icon": false
+                },
+                {
+                    "wordId": "跗关节",
+                    "icon": false
+                },
+                {
+                    "wordId": "小腿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "剑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剑柄头",
+                    "icon": false
+                },
+                {
+                    "wordId": "握柄",
+                    "icon": false
+                },
+                {
+                    "wordId": "剑柄",
+                    "icon": false
+                },
+                {
+                    "wordId": "钝根部",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "犯罪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纵火",
+                    "icon": false
+                },
+                {
+                    "wordId": "诈骗",
+                    "icon": false
+                },
+                {
+                    "wordId": "盗窃",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "元素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "符号",
+                    "icon": false
+                },
+                {
+                    "wordId": "质量",
+                    "icon": false
+                },
+                {
+                    "wordId": "原子序数",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "睫毛",
+        "梳妆台",
+        "表带",
+        "剑柄",
+        "翻领",
+        "原子序数",
+        "蒸馏器",
+        "握柄",
+        "纵火",
+        "实验室器皿",
+        "本生灯",
+        "巩膜",
+        "节气门",
+        "坩埚",
+        "书柜",
+        "指针",
+        "表盘",
+        "阀门",
+        "发动机",
+        "气缸",
+        "研钵",
+        "泵",
+        "烧瓶",
+        "喙",
+        "质量",
+        "钝根部",
+        "瞳孔",
+        "剑柄头",
+        "飞轮",
+        "眼睑",
+        "垫圈",
+        "表扣",
+        "书桌",
+        "凸轮轴",
+        "西装",
+        "卧室",
+        "手表",
+        "表壳",
+        "袖口",
+        "盗窃",
+        "跗关节",
+        "肉垂"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "眼睛",
+                "烧杯",
+                "小腿",
+                "符号"
+            ]
+        },
+        {
+            "cards": [
+                "表镜",
+                "剑",
+                "灯",
+                "犯罪",
+                "鸡"
+            ]
+        },
+        {
+            "cards": [
+                "视网膜",
+                "诈骗",
+                "开衩",
+                "表耳",
+                "口袋",
+                "曲颈瓶"
+            ]
+        },
+        {
+            "cards": [
+                "扣环",
+                "虹膜",
+                "衣柜",
+                "杵",
+                "地毯",
+                "活塞",
+                "元素"
+            ]
+        }
+    ]
+}

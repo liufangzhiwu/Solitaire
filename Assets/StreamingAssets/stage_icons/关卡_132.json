@@ -1,0 +1,217 @@
+{
+    "levelId": 132,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "雪人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "雪",
+                    "icon": false
+                },
+                {
+                    "wordId": "神秘生物",
+                    "icon": false
+                },
+                {
+                    "wordId": "珠穆朗玛峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "野兽",
+                    "icon": false
+                },
+                {
+                    "wordId": "足迹",
+                    "icon": false
+                },
+                {
+                    "wordId": "洞穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "毛茸茸的",
+                    "icon": false
+                },
+                {
+                    "wordId": "民间传说",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "真菌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "羊肚菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "桦褐孔菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "牛肝菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "松露",
+                    "icon": true
+                },
+                {
+                    "wordId": "香菇",
+                    "icon": true
+                },
+                {
+                    "wordId": "毒鹅膏",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡油菌",
+                    "icon": true
+                },
+                {
+                    "wordId": "双孢菇",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "黑暗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "黑夜",
+                    "icon": false
+                },
+                {
+                    "wordId": "灵魂",
+                    "icon": false
+                },
+                {
+                    "wordId": "物质",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻想",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "环",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戒指",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆形的",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋转",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "和平",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸽子",
+                    "icon": true
+                },
+                {
+                    "wordId": "太平洋",
+                    "icon": true
+                },
+                {
+                    "wordId": "橄榄枝",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "女孩名",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伊芙琳",
+                    "icon": false
+                },
+                {
+                    "wordId": "艾玛",
+                    "icon": false
+                },
+                {
+                    "wordId": "索菲亚",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "毛茸茸的",
+        "鸡油菌",
+        "艾玛",
+        "幻想",
+        "圆圈",
+        "索菲亚",
+        "桦褐孔菌",
+        "环",
+        "橄榄枝",
+        "灵魂",
+        "旋转",
+        "雪",
+        "洞穴",
+        "双孢菇",
+        "珠穆朗玛峰",
+        "牛肝菌",
+        "羊肚菌",
+        "野兽",
+        "戒指",
+        "黑夜",
+        "真菌",
+        "毒鹅膏",
+        "女孩名",
+        "伊芙琳"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "和平",
+                "物质",
+                "圆形的"
+            ]
+        },
+        {
+            "cards": [
+                "香菇",
+                "松露",
+                "黑暗",
+                "太平洋"
+            ]
+        },
+        {
+            "cards": [
+                "民间传说",
+                "鸽子",
+                "神秘生物",
+                "足迹",
+                "雪人"
+            ]
+        }
+    ]
+}

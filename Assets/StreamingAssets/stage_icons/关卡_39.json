@@ -1,0 +1,369 @@
+{
+    "levelId": 39,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 140,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "登山者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "顶峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "攀登者",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰镐",
+                    "icon": false
+                },
+                {
+                    "wordId": "海拔",
+                    "icon": false
+                },
+                {
+                    "wordId": "小径",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脉",
+                    "icon": false
+                },
+                {
+                    "wordId": "下撤",
+                    "icon": false
+                },
+                {
+                    "wordId": "攀登",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "声音",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "低语",
+                    "icon": false
+                },
+                {
+                    "wordId": "砰",
+                    "icon": false
+                },
+                {
+                    "wordId": "哢哒",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗡嗡",
+                    "icon": false
+                },
+                {
+                    "wordId": "咆哮",
+                    "icon": false
+                },
+                {
+                    "wordId": "叹息",
+                    "icon": false
+                },
+                {
+                    "wordId": "哗啦",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖叫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "清洁工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扫帚",
+                    "icon": true
+                },
+                {
+                    "wordId": "拖把",
+                    "icon": true
+                },
+                {
+                    "wordId": "吸尘器",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸡毛掸子",
+                    "icon": true
+                },
+                {
+                    "wordId": "海绵",
+                    "icon": true
+                },
+                {
+                    "wordId": "水桶",
+                    "icon": true
+                },
+                {
+                    "wordId": "垃圾桶",
+                    "icon": true
+                },
+                {
+                    "wordId": "簸箕",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "坚果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "碧根果",
+                    "icon": false
+                },
+                {
+                    "wordId": "花生",
+                    "icon": false
+                },
+                {
+                    "wordId": "杏仁",
+                    "icon": false
+                },
+                {
+                    "wordId": "腰果",
+                    "icon": false
+                },
+                {
+                    "wordId": "核桃",
+                    "icon": false
+                },
+                {
+                    "wordId": "榛子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "湖泊",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "安大略湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏必利尔湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "的的喀喀湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝加尔湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "密歇根湖",
+                    "icon": false
+                },
+                {
+                    "wordId": "休伦湖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "核子物理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "原子",
+                    "icon": false
+                },
+                {
+                    "wordId": "中子",
+                    "icon": false
+                },
+                {
+                    "wordId": "质子",
+                    "icon": false
+                },
+                {
+                    "wordId": "电子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "代码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "莫尔斯电码",
+                    "icon": false
+                },
+                {
+                    "wordId": "邮递区号",
+                    "icon": false
+                },
+                {
+                    "wordId": "二进制",
+                    "icon": false
+                },
+                {
+                    "wordId": "条码",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "硬币",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "便士",
+                    "icon": true
+                },
+                {
+                    "wordId": "一角",
+                    "icon": true
+                },
+                {
+                    "wordId": "五分",
+                    "icon": true
+                },
+                {
+                    "wordId": "分",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "绷带",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瘀伤",
+                    "icon": false
+                },
+                {
+                    "wordId": "血肿",
+                    "icon": false
+                },
+                {
+                    "wordId": "擦伤",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "剃须刀",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "刀片",
+                    "icon": false
+                },
+                {
+                    "wordId": "修剪器",
+                    "icon": false
+                },
+                {
+                    "wordId": "剃须器",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "条码",
+        "攀登",
+        "剃须器",
+        "质子",
+        "水桶",
+        "尖叫",
+        "休伦湖",
+        "砰",
+        "杏仁",
+        "花生",
+        "一角",
+        "邮递区号",
+        "刀片",
+        "下撤",
+        "核子物理",
+        "鸡毛掸子",
+        "扫帚",
+        "哢哒",
+        "五分",
+        "中子",
+        "坚果",
+        "碧根果",
+        "登山者",
+        "垃圾桶",
+        "小径",
+        "原子",
+        "腰果",
+        "剃须刀",
+        "莫尔斯电码",
+        "叹息",
+        "榛子",
+        "山脉",
+        "冰镐",
+        "的的喀喀湖",
+        "二进制",
+        "擦伤",
+        "便士",
+        "贝加尔湖",
+        "低语",
+        "血肿",
+        "修剪器",
+        "硬币"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "拖把",
+                "核桃",
+                "吸尘器",
+                "安大略湖"
+            ]
+        },
+        {
+            "cards": [
+                "海拔",
+                "清洁工具",
+                "电子",
+                "密歇根湖",
+                "苏必利尔湖"
+            ]
+        },
+        {
+            "cards": [
+                "代码",
+                "海绵",
+                "哗啦",
+                "顶峰",
+                "攀登者",
+                "声音"
+            ]
+        },
+        {
+            "cards": [
+                "绷带",
+                "咆哮",
+                "分",
+                "瘀伤",
+                "簸箕",
+                "湖泊",
+                "嗡嗡"
+            ]
+        }
+    ]
+}

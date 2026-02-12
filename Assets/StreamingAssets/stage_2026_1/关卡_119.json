@@ -1,0 +1,369 @@
+{
+    "levelId": 119,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "门/出入口",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "门",
+                    "icon": false
+                },
+                {
+                    "wordId": "传送门",
+                    "icon": false
+                },
+                {
+                    "wordId": "入口",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "舱口",
+                    "icon": false
+                },
+                {
+                    "wordId": "出口",
+                    "icon": false
+                },
+                {
+                    "wordId": "屏障",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "可食用",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "韭葱",
+                    "icon": true
+                },
+                {
+                    "wordId": "肉类",
+                    "icon": true
+                },
+                {
+                    "wordId": "谷物",
+                    "icon": true
+                },
+                {
+                    "wordId": "浆果",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱼类",
+                    "icon": true
+                },
+                {
+                    "wordId": "乳酪",
+                    "icon": true
+                },
+                {
+                    "wordId": "面粉",
+                    "icon": true
+                },
+                {
+                    "wordId": "药片",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "不同意",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "争论",
+                    "icon": false
+                },
+                {
+                    "wordId": "不同",
+                    "icon": false
+                },
+                {
+                    "wordId": "反对",
+                    "icon": false
+                },
+                {
+                    "wordId": "异议",
+                    "icon": false
+                },
+                {
+                    "wordId": "拒绝",
+                    "icon": false
+                },
+                {
+                    "wordId": "冲突",
+                    "icon": false
+                },
+                {
+                    "wordId": "抗议",
+                    "icon": false
+                },
+                {
+                    "wordId": "争执",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "陌生人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "未知的",
+                    "icon": false
+                },
+                {
+                    "wordId": "外来的",
+                    "icon": false
+                },
+                {
+                    "wordId": "其他的",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇怪的",
+                    "icon": false
+                },
+                {
+                    "wordId": "单独的",
+                    "icon": false
+                },
+                {
+                    "wordId": "古怪的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法力值",
+                    "icon": false
+                },
+                {
+                    "wordId": "耐力值",
+                    "icon": false
+                },
+                {
+                    "wordId": "角色扮演游戏",
+                    "icon": false
+                },
+                {
+                    "wordId": "团队合作",
+                    "icon": false
+                },
+                {
+                    "wordId": "生成点",
+                    "icon": false
+                },
+                {
+                    "wordId": "等级",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "校园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宿舍",
+                    "icon": false
+                },
+                {
+                    "wordId": "学生",
+                    "icon": false
+                },
+                {
+                    "wordId": "校友",
+                    "icon": false
+                },
+                {
+                    "wordId": "图书馆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "女王",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英国",
+                    "icon": true
+                },
+                {
+                    "wordId": "王座",
+                    "icon": true
+                },
+                {
+                    "wordId": "王袍",
+                    "icon": true
+                },
+                {
+                    "wordId": "头冠",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "修理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "工具箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "梯子",
+                    "icon": true
+                },
+                {
+                    "wordId": "锤子",
+                    "icon": true
+                },
+                {
+                    "wordId": "钉子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "朋克",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "无政府状态",
+                    "icon": false
+                },
+                {
+                    "wordId": "反叛者",
+                    "icon": false
+                },
+                {
+                    "wordId": "不死",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "促销",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "广告",
+                    "icon": false
+                },
+                {
+                    "wordId": "预告",
+                    "icon": false
+                },
+                {
+                    "wordId": "赠品",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "争执",
+        "头冠",
+        "屏障",
+        "广告",
+        "未知的",
+        "栅栏",
+        "反对",
+        "冲突",
+        "拒绝",
+        "药片",
+        "钉子",
+        "宿舍",
+        "浆果",
+        "校友",
+        "面粉",
+        "传送门",
+        "团队合作",
+        "校园",
+        "门/出入口",
+        "单独的",
+        "奇怪的",
+        "锤子",
+        "图书馆",
+        "预告",
+        "学生",
+        "外来的",
+        "促销",
+        "韭葱",
+        "法力值",
+        "入口",
+        "王座",
+        "其他的",
+        "鱼类",
+        "肉类",
+        "通道",
+        "门",
+        "角色扮演游戏",
+        "王袍",
+        "女王",
+        "不死",
+        "不同意",
+        "抗议"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "谷物",
+                "修理",
+                "陌生人",
+                "朋克"
+            ]
+        },
+        {
+            "cards": [
+                "等级",
+                "异议",
+                "可食用",
+                "不同",
+                "乳酪"
+            ]
+        },
+        {
+            "cards": [
+                "英国",
+                "赠品",
+                "耐力值",
+                "梯子",
+                "生成点",
+                "无政府状态"
+            ]
+        },
+        {
+            "cards": [
+                "争论",
+                "古怪的",
+                "工具箱",
+                "出口",
+                "舱口",
+                "游戏",
+                "反叛者"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 323,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "火焰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "余烬",
+                    "icon": false
+                },
+                {
+                    "wordId": "烈焰",
+                    "icon": false
+                },
+                {
+                    "wordId": "地狱火",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "火花",
+                    "icon": false
+                },
+                {
+                    "wordId": "烈火",
+                    "icon": false
+                },
+                {
+                    "wordId": "闷燃",
+                    "icon": false
+                },
+                {
+                    "wordId": "火炬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "山体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高山",
+                    "icon": false
+                },
+                {
+                    "wordId": "山峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "山脊",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "峭壁",
+                    "icon": false
+                },
+                {
+                    "wordId": "山嘴",
+                    "icon": false
+                },
+                {
+                    "wordId": "陡坡",
+                    "icon": false
+                },
+                {
+                    "wordId": "突岩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星空",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恒星",
+                    "icon": false
+                },
+                {
+                    "wordId": "彗星",
+                    "icon": false
+                },
+                {
+                    "wordId": "流星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉冲星",
+                    "icon": false
+                },
+                {
+                    "wordId": "类星体",
+                    "icon": false
+                },
+                {
+                    "wordId": "小行星",
+                    "icon": false
+                },
+                {
+                    "wordId": "星云",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "座椅",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "椅子",
+                    "icon": true
+                },
+                {
+                    "wordId": "长凳",
+                    "icon": true
+                },
+                {
+                    "wordId": "凳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "长沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": true
+                },
+                {
+                    "wordId": "脚凳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "蔬菜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡萝卜",
+                    "icon": true
+                },
+                {
+                    "wordId": "芹菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "菠菜",
+                    "icon": true
+                },
+                {
+                    "wordId": "土豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "番茄",
+                    "icon": true
+                },
+                {
+                    "wordId": "南瓜",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "小玩意",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小部件",
+                    "icon": false
+                },
+                {
+                    "wordId": "某物",
+                    "icon": false
+                },
+                {
+                    "wordId": "小装饰",
+                    "icon": false
+                },
+                {
+                    "wordId": "东西",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "交通",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "自行车",
+                    "icon": true
+                },
+                {
+                    "wordId": "渡轮",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴士",
+                    "icon": true
+                },
+                {
+                    "wordId": "有轨电车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "墨水工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钢笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "铅笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽毛笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "画笔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "颜料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "油画颜料",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烯颜料",
+                    "icon": false
+                },
+                {
+                    "wordId": "粉彩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "浪漫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "心形",
+                    "icon": false
+                },
+                {
+                    "wordId": "丘比特",
+                    "icon": false
+                },
+                {
+                    "wordId": "箭",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "椅子",
+        "画笔",
+        "小玩意",
+        "小装饰",
+        "小部件",
+        "渡轮",
+        "星系",
+        "南瓜",
+        "陡坡",
+        "菠菜",
+        "某物",
+        "烈焰",
+        "山峰",
+        "羽毛笔",
+        "自行车",
+        "粉彩",
+        "高山",
+        "墨水工具",
+        "脚凳",
+        "彗星",
+        "星云",
+        "山嘴",
+        "类星体",
+        "火焰",
+        "烈火",
+        "流星",
+        "地狱火",
+        "恒星",
+        "有轨电车",
+        "煤渣",
+        "铅笔",
+        "浪漫",
+        "土豆",
+        "颜料",
+        "脉冲星",
+        "火花",
+        "突岩",
+        "顶峰",
+        "凳子",
+        "钢笔",
+        "火炬",
+        "箭"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "座椅",
+                "峭壁",
+                "油画颜料",
+                "星空"
+            ]
+        },
+        {
+            "cards": [
+                "沙发",
+                "蔬菜",
+                "胡萝卜",
+                "芹菜",
+                "巴士"
+            ]
+        },
+        {
+            "cards": [
+                "余烬",
+                "东西",
+                "丘比特",
+                "闷燃",
+                "山体",
+                "长凳"
+            ]
+        },
+        {
+            "cards": [
+                "交通",
+                "长沙发",
+                "丙烯颜料",
+                "番茄",
+                "小行星",
+                "心形",
+                "山脊"
+            ]
+        }
+    ]
+}

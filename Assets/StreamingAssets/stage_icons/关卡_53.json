@@ -1,0 +1,369 @@
+{
+    "levelId": 53,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "物理",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "惯性",
+                    "icon": false
+                },
+                {
+                    "wordId": "能量",
+                    "icon": false
+                },
+                {
+                    "wordId": "力",
+                    "icon": false
+                },
+                {
+                    "wordId": "质量",
+                    "icon": false
+                },
+                {
+                    "wordId": "速度",
+                    "icon": false
+                },
+                {
+                    "wordId": "功率",
+                    "icon": false
+                },
+                {
+                    "wordId": "重力",
+                    "icon": false
+                },
+                {
+                    "wordId": "扭矩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "厌恶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "嫉妒",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐惧",
+                    "icon": false
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "憎恨",
+                    "icon": false
+                },
+                {
+                    "wordId": "不予理会",
+                    "icon": false
+                },
+                {
+                    "wordId": "忽视",
+                    "icon": false
+                },
+                {
+                    "wordId": "冷落",
+                    "icon": false
+                },
+                {
+                    "wordId": "拒绝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "思想家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "斯宾诺莎",
+                    "icon": false
+                },
+                {
+                    "wordId": "加缪",
+                    "icon": false
+                },
+                {
+                    "wordId": "弗洛伊德",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑格尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "恩格斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "第欧根尼",
+                    "icon": false
+                },
+                {
+                    "wordId": "霍布斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工厂",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "传送带",
+                    "icon": false
+                },
+                {
+                    "wordId": "冷却器",
+                    "icon": false
+                },
+                {
+                    "wordId": "熔炉",
+                    "icon": false
+                },
+                {
+                    "wordId": "叉车",
+                    "icon": false
+                },
+                {
+                    "wordId": "起重机",
+                    "icon": false
+                },
+                {
+                    "wordId": "车床",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "我们支付",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小费",
+                    "icon": false
+                },
+                {
+                    "wordId": "费用",
+                    "icon": false
+                },
+                {
+                    "wordId": "税",
+                    "icon": false
+                },
+                {
+                    "wordId": "债务",
+                    "icon": false
+                },
+                {
+                    "wordId": "账单",
+                    "icon": false
+                },
+                {
+                    "wordId": "通行费",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "提琴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "双簧管",
+                    "icon": true
+                },
+                {
+                    "wordId": "单簧管",
+                    "icon": true
+                },
+                {
+                    "wordId": "长笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "流览器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "网络档",
+                    "icon": false
+                },
+                {
+                    "wordId": "缓存",
+                    "icon": false
+                },
+                {
+                    "wordId": "历史记录",
+                    "icon": false
+                },
+                {
+                    "wordId": "书签",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "女巫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "扫帚",
+                    "icon": false
+                },
+                {
+                    "wordId": "咒语",
+                    "icon": false
+                },
+                {
+                    "wordId": "女巫集会",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔药",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "古称呼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寡人",
+                    "icon": false
+                },
+                {
+                    "wordId": "孤",
+                    "icon": false
+                },
+                {
+                    "wordId": "朕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "使用锚",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "港口",
+                    "icon": false
+                },
+                {
+                    "wordId": "海港",
+                    "icon": false
+                },
+                {
+                    "wordId": "码头",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "质量",
+        "速度",
+        "双簧管",
+        "孤",
+        "女巫集会",
+        "扭矩",
+        "通行费",
+        "恐惧",
+        "重力",
+        "愤怒",
+        "大提琴",
+        "流览器",
+        "传送带",
+        "不予理会",
+        "起重机",
+        "女巫",
+        "朕",
+        "缓存",
+        "历史记录",
+        "单簧管",
+        "洛克",
+        "厌恶",
+        "咒语",
+        "叉车",
+        "小费",
+        "力",
+        "拒绝",
+        "加缪",
+        "工厂",
+        "斯宾诺莎",
+        "冷却器",
+        "长笛",
+        "黑格尔",
+        "魔药",
+        "寡人",
+        "冷落",
+        "车床",
+        "忽视",
+        "网络档",
+        "熔炉",
+        "我们支付",
+        "功率"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "港口",
+                "惯性",
+                "账单",
+                "税"
+            ]
+        },
+        {
+            "cards": [
+                "书签",
+                "思想家",
+                "恩格斯",
+                "憎恨",
+                "提琴"
+            ]
+        },
+        {
+            "cards": [
+                "使用锚",
+                "海港",
+                "物理",
+                "弗洛伊德",
+                "古称呼",
+                "霍布斯"
+            ]
+        },
+        {
+            "cards": [
+                "债务",
+                "码头",
+                "能量",
+                "扫帚",
+                "费用",
+                "嫉妒",
+                "第欧根尼"
+            ]
+        }
+    ]
+}

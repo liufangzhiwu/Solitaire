@@ -1,0 +1,369 @@
+{
+    "levelId": 165,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "海洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珊瑚",
+                    "icon": false
+                },
+                {
+                    "wordId": "海带",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲸鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "洋流",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮游生物",
+                    "icon": false
+                },
+                {
+                    "wordId": "锚",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼吸管",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "森林",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橡树",
+                    "icon": false
+                },
+                {
+                    "wordId": "松树",
+                    "icon": false
+                },
+                {
+                    "wordId": "桦树",
+                    "icon": false
+                },
+                {
+                    "wordId": "枫树",
+                    "icon": false
+                },
+                {
+                    "wordId": "柳树",
+                    "icon": false
+                },
+                {
+                    "wordId": "雪松",
+                    "icon": false
+                },
+                {
+                    "wordId": "云杉",
+                    "icon": false
+                },
+                {
+                    "wordId": "白杨",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "香料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡椒",
+                    "icon": false
+                },
+                {
+                    "wordId": "孜然",
+                    "icon": false
+                },
+                {
+                    "wordId": "藏红花",
+                    "icon": false
+                },
+                {
+                    "wordId": "红椒粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "芥末",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉桂",
+                    "icon": false
+                },
+                {
+                    "wordId": "姜",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉豆蔻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "河流",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尼罗河",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚马逊河",
+                    "icon": false
+                },
+                {
+                    "wordId": "恒河",
+                    "icon": false
+                },
+                {
+                    "wordId": "多瑙河",
+                    "icon": false
+                },
+                {
+                    "wordId": "莱茵河",
+                    "icon": false
+                },
+                {
+                    "wordId": "育空河",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "顶峰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠穆朗玛峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "德纳里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄尔布鲁士峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "文森峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "洛子峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "马卡鲁峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "野兽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "老虎",
+                    "icon": true
+                },
+                {
+                    "wordId": "牦牛",
+                    "icon": true
+                },
+                {
+                    "wordId": "野猪",
+                    "icon": true
+                },
+                {
+                    "wordId": "狮子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "零",
+                    "icon": true
+                },
+                {
+                    "wordId": "一",
+                    "icon": true
+                },
+                {
+                    "wordId": "二",
+                    "icon": true
+                },
+                {
+                    "wordId": "三",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "饮料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拿铁",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏打水",
+                    "icon": false
+                },
+                {
+                    "wordId": "苹果酒",
+                    "icon": false
+                },
+                {
+                    "wordId": "蜂蜜酒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哔哔声",
+                    "icon": false
+                },
+                {
+                    "wordId": "ping声",
+                    "icon": false
+                },
+                {
+                    "wordId": "提示音",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "恒星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天狼星",
+                    "icon": false
+                },
+                {
+                    "wordId": "织女星",
+                    "icon": false
+                },
+                {
+                    "wordId": "北极星",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "马卡鲁峰",
+        "莱茵河",
+        "二",
+        "肉桂",
+        "海洋",
+        "厄尔布鲁士峰",
+        "橡树",
+        "孜然",
+        "苏打水",
+        "枫树",
+        "松树",
+        "天狼星",
+        "香料",
+        "野兽",
+        "老虎",
+        "珠穆朗玛峰",
+        "哔哔声",
+        "育空河",
+        "洋流",
+        "苹果酒",
+        "恒河",
+        "海带",
+        "北极星",
+        "藏红花",
+        "恒星",
+        "ping声",
+        "肉豆蔻",
+        "胡椒",
+        "浮游生物",
+        "多瑙河",
+        "雪松",
+        "锚",
+        "云杉",
+        "洛子峰",
+        "蜂蜜酒",
+        "拿铁",
+        "红椒粉",
+        "鲸鱼",
+        "芥末",
+        "姜",
+        "河流",
+        "野猪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "三",
+                "白杨",
+                "桦树",
+                "织女星"
+            ]
+        },
+        {
+            "cards": [
+                "珊瑚",
+                "呼吸管",
+                "尼罗河",
+                "一",
+                "德纳里峰"
+            ]
+        },
+        {
+            "cards": [
+                "狮子",
+                "牦牛",
+                "柳树",
+                "提示音",
+                "文森峰",
+                "零"
+            ]
+        },
+        {
+            "cards": [
+                "森林",
+                "潮汐",
+                "顶峰",
+                "饮料",
+                "数字",
+                "信号",
+                "亚马逊河"
+            ]
+        }
+    ]
+}

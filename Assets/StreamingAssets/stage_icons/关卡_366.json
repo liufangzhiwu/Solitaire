@@ -1,0 +1,369 @@
+{
+    "levelId": 366,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "豆类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "埃及豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "小扁豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "花生",
+                    "icon": true
+                },
+                {
+                    "wordId": "芸豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹰嘴豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "毛豆",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "晶体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "锆石",
+                    "icon": false
+                },
+                {
+                    "wordId": "托帕石",
+                    "icon": false
+                },
+                {
+                    "wordId": "缟玛瑙",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白石",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿柱石",
+                    "icon": false
+                },
+                {
+                    "wordId": "钻石",
+                    "icon": false
+                },
+                {
+                    "wordId": "紫水晶",
+                    "icon": false
+                },
+                {
+                    "wordId": "石榴石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "系统",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "Windows",
+                    "icon": false
+                },
+                {
+                    "wordId": "MacOS",
+                    "icon": false
+                },
+                {
+                    "wordId": "Linux",
+                    "icon": false
+                },
+                {
+                    "wordId": "Android",
+                    "icon": false
+                },
+                {
+                    "wordId": "Ubuntu",
+                    "icon": false
+                },
+                {
+                    "wordId": "Solaris",
+                    "icon": false
+                },
+                {
+                    "wordId": "Debian",
+                    "icon": false
+                },
+                {
+                    "wordId": "IOS",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "帽子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "软呢帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "圆顶礼帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "无檐便帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "巴拿马草帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "贝雷帽",
+                    "icon": true
+                },
+                {
+                    "wordId": "墨西哥宽边帽",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "刀具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主厨刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "削皮刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "三德刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "砍刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "切片刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "面包刀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "芳香",
+                    "icon": false
+                },
+                {
+                    "wordId": "臭味",
+                    "icon": false
+                },
+                {
+                    "wordId": "香味",
+                    "icon": false
+                },
+                {
+                    "wordId": "香水",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "洞穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "深渊",
+                    "icon": false
+                },
+                {
+                    "wordId": "落水洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "漏斗洞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笑声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咯咯笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻声笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "开怀笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "窃笑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烟雾",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "缕烟",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷烟",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟柱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "堡垒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "多面堡",
+                    "icon": false
+                },
+                {
+                    "wordId": "木栅垒",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "Windows",
+        "贝雷帽",
+        "帽子",
+        "石榴石",
+        "托帕石",
+        "烟雾",
+        "卷烟",
+        "主厨刀",
+        "紫水晶",
+        "缟玛瑙",
+        "深渊",
+        "毛豆",
+        "咯咯笑",
+        "香水",
+        "Ubuntu",
+        "Debian",
+        "削皮刀",
+        "墨西哥宽边帽",
+        "漏斗洞",
+        "砍刀",
+        "巴拿马草帽",
+        "主楼",
+        "埃及豆",
+        "开怀笑",
+        "轻声笑",
+        "三德刀",
+        "绿柱石",
+        "Linux",
+        "无檐便帽",
+        "刀具",
+        "斑豆",
+        "臭味",
+        "堡垒",
+        "芸豆",
+        "Solaris",
+        "多面堡",
+        "气味",
+        "芳香",
+        "锆石",
+        "裂谷",
+        "Android",
+        "木栅垒"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "钻石",
+                "系统",
+                "小扁豆",
+                "晶体"
+            ]
+        },
+        {
+            "cards": [
+                "IOS",
+                "洞穴",
+                "蛋白石",
+                "窃笑",
+                "圆顶礼帽"
+            ]
+        },
+        {
+            "cards": [
+                "面包刀",
+                "香味",
+                "MacOS",
+                "笑声",
+                "软呢帽",
+                "鹰嘴豆"
+            ]
+        },
+        {
+            "cards": [
+                "切片刀",
+                "花生",
+                "落水洞",
+                "缕烟",
+                "烟柱",
+                "大豆",
+                "豆类"
+            ]
+        }
+    ]
+}

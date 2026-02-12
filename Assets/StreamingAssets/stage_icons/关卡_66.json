@@ -1,0 +1,521 @@
+{
+    "levelId": 66,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 190,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "栖息地",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "森林",
+                    "icon": false
+                },
+                {
+                    "wordId": "动物园",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔原",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿地",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙漠",
+                    "icon": false
+                },
+                {
+                    "wordId": "草原",
+                    "icon": false
+                },
+                {
+                    "wordId": "水族馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "沼泽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蚂蚁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "群落",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚁后",
+                    "icon": false
+                },
+                {
+                    "wordId": "工蚁",
+                    "icon": false
+                },
+                {
+                    "wordId": "兵蚁",
+                    "icon": false
+                },
+                {
+                    "wordId": "团队合作",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚁丘",
+                    "icon": false
+                },
+                {
+                    "wordId": "幼虫",
+                    "icon": false
+                },
+                {
+                    "wordId": "触角",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "射箭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "箭",
+                    "icon": false
+                },
+                {
+                    "wordId": "箭羽",
+                    "icon": false
+                },
+                {
+                    "wordId": "弓箭手",
+                    "icon": false
+                },
+                {
+                    "wordId": "长弓",
+                    "icon": false
+                },
+                {
+                    "wordId": "箭尾扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "弓弦",
+                    "icon": false
+                },
+                {
+                    "wordId": "靶心",
+                    "icon": false
+                },
+                {
+                    "wordId": "弩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黄色事物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "香蕉",
+                    "icon": true
+                },
+                {
+                    "wordId": "金丝雀",
+                    "icon": true
+                },
+                {
+                    "wordId": "玉米",
+                    "icon": true
+                },
+                {
+                    "wordId": "蛋黄",
+                    "icon": true
+                },
+                {
+                    "wordId": "咖喱",
+                    "icon": true
+                },
+                {
+                    "wordId": "芥末",
+                    "icon": true
+                },
+                {
+                    "wordId": "柠檬",
+                    "icon": true
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "焊工",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "焊炬",
+                    "icon": false
+                },
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "焊条",
+                    "icon": false
+                },
+                {
+                    "wordId": "面罩",
+                    "icon": false
+                },
+                {
+                    "wordId": "手套",
+                    "icon": false
+                },
+                {
+                    "wordId": "金属",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "病毒学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "抗体",
+                    "icon": false
+                },
+                {
+                    "wordId": "病毒",
+                    "icon": false
+                },
+                {
+                    "wordId": "毒株",
+                    "icon": false
+                },
+                {
+                    "wordId": "免疫力",
+                    "icon": false
+                },
+                {
+                    "wordId": "衣壳",
+                    "icon": false
+                },
+                {
+                    "wordId": "抗原",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机器人技术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "舵机",
+                    "icon": false
+                },
+                {
+                    "wordId": "电机",
+                    "icon": false
+                },
+                {
+                    "wordId": "电路",
+                    "icon": false
+                },
+                {
+                    "wordId": "镭射",
+                    "icon": false
+                },
+                {
+                    "wordId": "感测器",
+                    "icon": false
+                },
+                {
+                    "wordId": "执行器",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "剪刀",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剪",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪断",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕刻",
+                    "icon": false
+                },
+                {
+                    "wordId": "修剪",
+                    "icon": false
+                },
+                {
+                    "wordId": "剪切",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "秤",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "称重",
+                    "icon": false
+                },
+                {
+                    "wordId": "测量",
+                    "icon": false
+                },
+                {
+                    "wordId": "比较",
+                    "icon": false
+                },
+                {
+                    "wordId": "平衡",
+                    "icon": false
+                },
+                {
+                    "wordId": "负载",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "烷烃",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甲烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "乙烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁烷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "渴望",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "渴求",
+                    "icon": false
+                },
+                {
+                    "wordId": "期望",
+                    "icon": false
+                },
+                {
+                    "wordId": "梦想",
+                    "icon": false
+                },
+                {
+                    "wordId": "希望",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "阴影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "荫蔽",
+                    "icon": false
+                },
+                {
+                    "wordId": "暮光",
+                    "icon": false
+                },
+                {
+                    "wordId": "昏暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "黑暗",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "记录",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日志簿",
+                    "icon": false
+                },
+                {
+                    "wordId": "日记簿",
+                    "icon": false
+                },
+                {
+                    "wordId": "日记",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "积极的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愉快的",
+                    "icon": false
+                },
+                {
+                    "wordId": "高兴的",
+                    "icon": false
+                },
+                {
+                    "wordId": "快乐的",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "丁烷",
+        "镭射",
+        "机器人技术",
+        "玉米",
+        "草原",
+        "快乐的",
+        "梦想",
+        "日记",
+        "焊炬",
+        "金属",
+        "沼泽",
+        "渴望",
+        "弩",
+        "黄色事物",
+        "剪断",
+        "团队合作",
+        "电路",
+        "日记簿",
+        "秤",
+        "兵蚁",
+        "沙漠",
+        "昏暗",
+        "荫蔽",
+        "比较",
+        "剪切",
+        "积极的",
+        "蚁丘",
+        "雕刻",
+        "暮光",
+        "工蚁",
+        "日志簿",
+        "烷烃",
+        "焊条",
+        "焊工",
+        "苔原",
+        "靶心",
+        "水族馆",
+        "甲烷",
+        "香蕉",
+        "手套",
+        "咖喱",
+        "头盔",
+        "群落",
+        "修剪",
+        "抗体",
+        "柠檬",
+        "弓箭手",
+        "电机",
+        "面罩",
+        "平衡",
+        "箭尾扣",
+        "箭",
+        "愉快的",
+        "渴求",
+        "执行器",
+        "蛋黄",
+        "舵机"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "蚂蚁",
+                "乙烷",
+                "负载",
+                "病毒学",
+                "感测器"
+            ]
+        },
+        {
+            "cards": [
+                "病毒",
+                "芥末",
+                "抗原",
+                "湿地",
+                "衣壳",
+                "箭羽"
+            ]
+        },
+        {
+            "cards": [
+                "蚁后",
+                "森林",
+                "希望",
+                "弓弦",
+                "幼虫",
+                "太阳",
+                "黑暗"
+            ]
+        },
+        {
+            "cards": [
+                "免疫力",
+                "长弓",
+                "测量",
+                "栖息地",
+                "称重",
+                "射箭",
+                "动物园",
+                "丙烷"
+            ]
+        },
+        {
+            "cards": [
+                "触角",
+                "毒株",
+                "阴影",
+                "剪刀",
+                "期望",
+                "记录",
+                "高兴的",
+                "剪",
+                "金丝雀"
+            ]
+        }
+    ]
+}

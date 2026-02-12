@@ -1,0 +1,369 @@
+{
+    "levelId": 140,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "口鼻部",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狐狸",
+                    "icon": false
+                },
+                {
+                    "wordId": "浣熊",
+                    "icon": false
+                },
+                {
+                    "wordId": "貘",
+                    "icon": false
+                },
+                {
+                    "wordId": "猪",
+                    "icon": false
+                },
+                {
+                    "wordId": "狐猴",
+                    "icon": false
+                },
+                {
+                    "wordId": "狒狒",
+                    "icon": false
+                },
+                {
+                    "wordId": "长鼻浣熊",
+                    "icon": false
+                },
+                {
+                    "wordId": "獾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舒适的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "温暖",
+                    "icon": false
+                },
+                {
+                    "wordId": "舒适",
+                    "icon": false
+                },
+                {
+                    "wordId": "舒服",
+                    "icon": false
+                },
+                {
+                    "wordId": "愉快的",
+                    "icon": false
+                },
+                {
+                    "wordId": "温馨的",
+                    "icon": false
+                },
+                {
+                    "wordId": "适于休息的",
+                    "icon": false
+                },
+                {
+                    "wordId": "放松的",
+                    "icon": false
+                },
+                {
+                    "wordId": "友好的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "反派角色",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "莱克特",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫里亚蒂",
+                    "icon": false
+                },
+                {
+                    "wordId": "库伊拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "德古拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "贾方",
+                    "icon": false
+                },
+                {
+                    "wordId": "灭霸",
+                    "icon": false
+                },
+                {
+                    "wordId": "乌苏拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "索伦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "疗法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜂蜜",
+                    "icon": true
+                },
+                {
+                    "wordId": "洋甘菊",
+                    "icon": true
+                },
+                {
+                    "wordId": "大蒜",
+                    "icon": true
+                },
+                {
+                    "wordId": "柠檬",
+                    "icon": true
+                },
+                {
+                    "wordId": "薰衣草",
+                    "icon": true
+                },
+                {
+                    "wordId": "汤",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "巨大的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巨人",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨像",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲸鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "猛犸象",
+                    "icon": false
+                },
+                {
+                    "wordId": "泰坦",
+                    "icon": false
+                },
+                {
+                    "wordId": "恐龙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "兽群",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛群",
+                    "icon": true
+                },
+                {
+                    "wordId": "斑马",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊群",
+                    "icon": true
+                },
+                {
+                    "wordId": "山羊群",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "醇类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甲醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "乙醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙醇",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁醇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "裙装",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "芭蕾舞裙",
+                    "icon": false
+                },
+                {
+                    "wordId": "苏格兰短裙",
+                    "icon": false
+                },
+                {
+                    "wordId": "裙裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "纱笼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "伊甸园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亚当",
+                    "icon": false
+                },
+                {
+                    "wordId": "夏娃",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "西西里岛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巴勒莫",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃特纳火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡塔尼亚",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "丙醇",
+        "貘",
+        "浣熊",
+        "蛇",
+        "狐狸",
+        "口鼻部",
+        "适于休息的",
+        "斑马",
+        "舒服",
+        "巨像",
+        "狒狒",
+        "汤",
+        "恐龙",
+        "愉快的",
+        "巴勒莫",
+        "索伦",
+        "羊群",
+        "西西里岛",
+        "柠檬",
+        "贾方",
+        "醇类",
+        "苏格兰短裙",
+        "德古拉",
+        "卡塔尼亚",
+        "獾",
+        "放松的",
+        "大蒜",
+        "乌苏拉",
+        "猪",
+        "狐猴",
+        "反派角色",
+        "洋甘菊",
+        "舒适",
+        "芭蕾舞裙",
+        "长鼻浣熊",
+        "巨人",
+        "甲醇",
+        "库伊拉",
+        "泰坦",
+        "蜂蜜",
+        "巨大的",
+        "裙裤"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "裙装",
+                "温馨的",
+                "山羊群",
+                "莱克特"
+            ]
+        },
+        {
+            "cards": [
+                "亚当",
+                "埃特纳火山",
+                "舒适的",
+                "夏娃",
+                "疗法"
+            ]
+        },
+        {
+            "cards": [
+                "猛犸象",
+                "纱笼",
+                "牛群",
+                "伊甸园",
+                "兽群",
+                "莫里亚蒂"
+            ]
+        },
+        {
+            "cards": [
+                "丁醇",
+                "乙醇",
+                "温暖",
+                "鲸鱼",
+                "灭霸",
+                "薰衣草",
+                "友好的"
+            ]
+        }
+    ]
+}

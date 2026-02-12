@@ -1,0 +1,369 @@
+{
+    "levelId": 338,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "剧院",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "剧本",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                },
+                {
+                    "wordId": "幕布",
+                    "icon": false
+                },
+                {
+                    "wordId": "演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "喜剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "戏剧",
+                    "icon": false
+                },
+                {
+                    "wordId": "提词员",
+                    "icon": false
+                },
+                {
+                    "wordId": "背景幕",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "王室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "国王",
+                    "icon": false
+                },
+                {
+                    "wordId": "女王",
+                    "icon": false
+                },
+                {
+                    "wordId": "王子",
+                    "icon": false
+                },
+                {
+                    "wordId": "女公爵",
+                    "icon": false
+                },
+                {
+                    "wordId": "君主",
+                    "icon": false
+                },
+                {
+                    "wordId": "摄政王",
+                    "icon": false
+                },
+                {
+                    "wordId": "王冠",
+                    "icon": false
+                },
+                {
+                    "wordId": "权杖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "船只",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "轮船",
+                    "icon": false
+                },
+                {
+                    "wordId": "游艇",
+                    "icon": false
+                },
+                {
+                    "wordId": "快速帆船",
+                    "icon": false
+                },
+                {
+                    "wordId": "驳船",
+                    "icon": false
+                },
+                {
+                    "wordId": "纵帆船",
+                    "icon": false
+                },
+                {
+                    "wordId": "独木舟",
+                    "icon": false
+                },
+                {
+                    "wordId": "护卫舰",
+                    "icon": false
+                },
+                {
+                    "wordId": "加利恩帆船",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石器时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "青铜时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁器时代",
+                    "icon": false
+                },
+                {
+                    "wordId": "现代",
+                    "icon": false
+                },
+                {
+                    "wordId": "中世纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴洛克时期",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "余烬",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "余火",
+                    "icon": false
+                },
+                {
+                    "wordId": "灰烬",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤渣",
+                    "icon": false
+                },
+                {
+                    "wordId": "烟雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧焦的",
+                    "icon": false
+                },
+                {
+                    "wordId": "火焰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毛茸茸的",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡须",
+                    "icon": false
+                },
+                {
+                    "wordId": "呼噜声",
+                    "icon": false
+                },
+                {
+                    "wordId": "喵喵叫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "柑橘",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "柳丁",
+                    "icon": true
+                },
+                {
+                    "wordId": "柠檬",
+                    "icon": true
+                },
+                {
+                    "wordId": "青柠",
+                    "icon": true
+                },
+                {
+                    "wordId": "柚子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "墨水瓶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "笔尖",
+                    "icon": true
+                },
+                {
+                    "wordId": "羽毛笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "签名",
+                    "icon": true
+                },
+                {
+                    "wordId": "羊皮纸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "和风",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "微风",
+                    "icon": false
+                },
+                {
+                    "wordId": "阵风",
+                    "icon": false
+                },
+                {
+                    "wordId": "大风",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "镜子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "反射镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "抛光的",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "提词员",
+        "演员",
+        "余烬",
+        "青铜时代",
+        "微风",
+        "轮船",
+        "玻璃",
+        "现代",
+        "君主",
+        "王室",
+        "王冠",
+        "加利恩帆船",
+        "巴洛克时期",
+        "时代",
+        "烟雾",
+        "铁器时代",
+        "剧院",
+        "煤渣",
+        "中世纪",
+        "国王",
+        "灰烬",
+        "胡须",
+        "幕布",
+        "墨水瓶",
+        "石器时代",
+        "剧本",
+        "柳丁",
+        "反射镜",
+        "呼噜声",
+        "烧焦的",
+        "大风",
+        "喵喵叫",
+        "背景幕",
+        "舞台",
+        "毛茸茸的",
+        "戏剧",
+        "驳船",
+        "纵帆船",
+        "女公爵",
+        "签名",
+        "阵风",
+        "羊皮纸"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "女王",
+                "镜子",
+                "独木舟",
+                "快速帆船"
+            ]
+        },
+        {
+            "cards": [
+                "羽毛笔",
+                "火焰",
+                "和风",
+                "权杖",
+                "柚子"
+            ]
+        },
+        {
+            "cards": [
+                "游艇",
+                "余火",
+                "柠檬",
+                "王子",
+                "青柠",
+                "柑橘"
+            ]
+        },
+        {
+            "cards": [
+                "笔尖",
+                "摄政王",
+                "抛光的",
+                "护卫舰",
+                "喜剧",
+                "船只",
+                "猫"
+            ]
+        }
+    ]
+}

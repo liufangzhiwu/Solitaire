@@ -1,0 +1,217 @@
+{
+    "levelId": 122,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "贸易",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "买",
+                    "icon": false
+                },
+                {
+                    "wordId": "卖",
+                    "icon": false
+                },
+                {
+                    "wordId": "讨价还价",
+                    "icon": false
+                },
+                {
+                    "wordId": "交易员",
+                    "icon": false
+                },
+                {
+                    "wordId": "货币",
+                    "icon": false
+                },
+                {
+                    "wordId": "价格",
+                    "icon": false
+                },
+                {
+                    "wordId": "成本",
+                    "icon": false
+                },
+                {
+                    "wordId": "关税",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "潮湿的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "气候",
+                    "icon": false
+                },
+                {
+                    "wordId": "天气",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴湿的",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿润的",
+                    "icon": false
+                },
+                {
+                    "wordId": "闷热的",
+                    "icon": false
+                },
+                {
+                    "wordId": "粘湿的",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸汽腾腾的",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿热的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "猫爪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "胡须",
+                    "icon": true
+                },
+                {
+                    "wordId": "猫",
+                    "icon": true
+                },
+                {
+                    "wordId": "尾巴",
+                    "icon": true
+                },
+                {
+                    "wordId": "呼噜声",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "激励",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "赋能",
+                    "icon": false
+                },
+                {
+                    "wordId": "鼓舞",
+                    "icon": false
+                },
+                {
+                    "wordId": "缪斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "教育",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "任务",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "分配",
+                    "icon": false
+                },
+                {
+                    "wordId": "完成",
+                    "icon": false
+                },
+                {
+                    "wordId": "履行",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打开的",
+                    "icon": true
+                },
+                {
+                    "wordId": "房门",
+                    "icon": true
+                },
+                {
+                    "wordId": "锁",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "成本",
+        "完成",
+        "门",
+        "湿润的",
+        "天气",
+        "激励",
+        "教育",
+        "猫爪",
+        "气候",
+        "阴湿的",
+        "猫",
+        "讨价还价",
+        "粘湿的",
+        "鼓舞",
+        "缪斯",
+        "锁",
+        "湿热的",
+        "履行",
+        "交易员",
+        "打开的",
+        "闷热的",
+        "赋能",
+        "关税",
+        "呼噜声"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "蒸汽腾腾的",
+                "贸易",
+                "货币"
+            ]
+        },
+        {
+            "cards": [
+                "买",
+                "分配",
+                "任务",
+                "价格"
+            ]
+        },
+        {
+            "cards": [
+                "尾巴",
+                "房门",
+                "潮湿的",
+                "胡须",
+                "卖"
+            ]
+        }
+    ]
+}

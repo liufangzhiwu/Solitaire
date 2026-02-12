@@ -1,0 +1,217 @@
+{
+    "levelId": 221,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "开花植物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玉兰",
+                    "icon": true
+                },
+                {
+                    "wordId": "山茱萸",
+                    "icon": true
+                },
+                {
+                    "wordId": "紫荆",
+                    "icon": true
+                },
+                {
+                    "wordId": "山楂",
+                    "icon": true
+                },
+                {
+                    "wordId": "唐棣",
+                    "icon": true
+                },
+                {
+                    "wordId": "丁香",
+                    "icon": true
+                },
+                {
+                    "wordId": "茉莉",
+                    "icon": true
+                },
+                {
+                    "wordId": "樱花",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "骑行",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "自行车道",
+                    "icon": false
+                },
+                {
+                    "wordId": "主车群",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛道",
+                    "icon": false
+                },
+                {
+                    "wordId": "小轮车",
+                    "icon": false
+                },
+                {
+                    "wordId": "内六角扳手",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚踏",
+                    "icon": false
+                },
+                {
+                    "wordId": "山地车",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "奥地利",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "维也纳",
+                    "icon": false
+                },
+                {
+                    "wordId": "莫扎特",
+                    "icon": false
+                },
+                {
+                    "wordId": "多瑙河",
+                    "icon": false
+                },
+                {
+                    "wordId": "德语",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "冰块",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰山",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰上舞蹈",
+                    "icon": true
+                },
+                {
+                    "wordId": "冰球",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "鹦鹉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "爱情鸟",
+                    "icon": false
+                },
+                {
+                    "wordId": "金刚鹦鹉",
+                    "icon": false
+                },
+                {
+                    "wordId": "凤头鹦鹉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "连帽衫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "兜帽",
+                    "icon": false
+                },
+                {
+                    "wordId": "袖子",
+                    "icon": false
+                },
+                {
+                    "wordId": "口袋",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "赛道",
+        "玉兰",
+        "丁香",
+        "内六角扳手",
+        "山地车",
+        "奥地利",
+        "茉莉",
+        "金刚鹦鹉",
+        "连帽衫",
+        "德语",
+        "小轮车",
+        "冰上舞蹈",
+        "兜帽",
+        "冰球",
+        "山茱萸",
+        "脚踏",
+        "莫扎特",
+        "紫荆",
+        "自行车道",
+        "主车群",
+        "多瑙河",
+        "樱花",
+        "口袋",
+        "冰"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "骑行",
+                "维也纳",
+                "头盔"
+            ]
+        },
+        {
+            "cards": [
+                "山楂",
+                "鹦鹉",
+                "冰山",
+                "开花植物"
+            ]
+        },
+        {
+            "cards": [
+                "爱情鸟",
+                "袖子",
+                "唐棣",
+                "冰块",
+                "凤头鹦鹉"
+            ]
+        }
+    ]
+}

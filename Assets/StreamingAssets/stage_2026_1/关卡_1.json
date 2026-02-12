@@ -1,0 +1,138 @@
+{
+    "levelId": 1,
+    "slotsDefault": 3,
+    "slotsRewarded": 3,
+    "movesLimit": -1,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "家具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "床",
+                    "icon": false
+                },
+                {
+                    "wordId": "椅子",
+                    "icon": false
+                },
+                {
+                    "wordId": "沙发",
+                    "icon": false
+                },
+                {
+                    "wordId": "衣柜",
+                    "icon": false
+                },
+                {
+                    "wordId": "桌子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宠物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狗",
+                    "icon": false
+                },
+                {
+                    "wordId": "仓鼠",
+                    "icon": false
+                },
+                {
+                    "wordId": "猫",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹦鹉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凤梨酥",
+                    "icon": false
+                },
+                {
+                    "wordId": "蚵仔煎",
+                    "icon": false
+                },
+                {
+                    "wordId": "三杯鸡",
+                    "icon": false
+                },
+                {
+                    "wordId": "热干面",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "鲜花",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牡丹",
+                    "icon": false
+                },
+                {
+                    "wordId": "百合",
+                    "icon": false
+                },
+                {
+                    "wordId": "玫瑰",
+                    "icon": false
+                },
+                {
+                    "wordId": "郁金香",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "玫瑰",
+        "家具",
+        "凤梨酥"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "床",
+                "椅子",
+                "沙发",
+                "衣柜",
+                "鲜花",
+                "牡丹",
+                "百合",
+                "郁金香"
+            ]
+        },
+        {
+            "cards": [
+                "宠物",
+                "狗",
+                "蚵仔煎",
+                "桌子",
+                "仓鼠"
+            ]
+        },
+        {
+            "cards": [
+                "猫",
+                "美食",
+                "三杯鸡",
+                "鹦鹉",
+                "热干面"
+            ]
+        }
+    ]
+}

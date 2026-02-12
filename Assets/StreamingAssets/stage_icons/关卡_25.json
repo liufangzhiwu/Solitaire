@@ -1,0 +1,369 @@
+{
+    "levelId": 25,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "自行车部件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "链条",
+                    "icon": false
+                },
+                {
+                    "wordId": "车座",
+                    "icon": false
+                },
+                {
+                    "wordId": "轮胎",
+                    "icon": false
+                },
+                {
+                    "wordId": "脚踏板",
+                    "icon": false
+                },
+                {
+                    "wordId": "车轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "刹车片",
+                    "icon": false
+                },
+                {
+                    "wordId": "车铃",
+                    "icon": false
+                },
+                {
+                    "wordId": "车篓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "风琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "小提琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "尤克里里",
+                    "icon": true
+                },
+                {
+                    "wordId": "鼓",
+                    "icon": true
+                },
+                {
+                    "wordId": "钢琴",
+                    "icon": true
+                },
+                {
+                    "wordId": "长笛",
+                    "icon": true
+                },
+                {
+                    "wordId": "吉他",
+                    "icon": true
+                },
+                {
+                    "wordId": "大提琴",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "气体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氩气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氦气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氪气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氖气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氡气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氙气",
+                    "icon": false
+                },
+                {
+                    "wordId": "甲烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "丁烷",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "船体结构",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "船体",
+                    "icon": false
+                },
+                {
+                    "wordId": "桅杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "龙骨",
+                    "icon": false
+                },
+                {
+                    "wordId": "甲板",
+                    "icon": false
+                },
+                {
+                    "wordId": "船帆",
+                    "icon": false
+                },
+                {
+                    "wordId": "船尾",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生物学",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "溶酶体",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋白质",
+                    "icon": false
+                },
+                {
+                    "wordId": "核糖体",
+                    "icon": false
+                },
+                {
+                    "wordId": "酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "细胞",
+                    "icon": false
+                },
+                {
+                    "wordId": "基因",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金融",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "银行",
+                    "icon": false
+                },
+                {
+                    "wordId": "收入",
+                    "icon": false
+                },
+                {
+                    "wordId": "支出",
+                    "icon": false
+                },
+                {
+                    "wordId": "金钱",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "中世纪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "王国",
+                    "icon": false
+                },
+                {
+                    "wordId": "领主",
+                    "icon": false
+                },
+                {
+                    "wordId": "骑士",
+                    "icon": false
+                },
+                {
+                    "wordId": "城堡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "光学器材",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜片",
+                    "icon": false
+                },
+                {
+                    "wordId": "单片眼镜",
+                    "icon": false
+                },
+                {
+                    "wordId": "小型望远镜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "导航工具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "路标",
+                    "icon": true
+                },
+                {
+                    "wordId": "六分仪",
+                    "icon": true
+                },
+                {
+                    "wordId": "指南针",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "幼儿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玩具",
+                    "icon": false
+                },
+                {
+                    "wordId": "奶粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "安抚奶嘴",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "风琴",
+        "刹车片",
+        "奶粉",
+        "金融",
+        "指南针",
+        "龙骨",
+        "基因",
+        "钢琴",
+        "自行车部件",
+        "车座",
+        "氪气",
+        "银行",
+        "船体",
+        "小提琴",
+        "丁烷",
+        "车轮",
+        "城堡",
+        "脚踏板",
+        "细胞",
+        "导航工具",
+        "镜片",
+        "光学器材",
+        "核糖体",
+        "骑士",
+        "桅杆",
+        "王国",
+        "甲烷",
+        "轮胎",
+        "甲板",
+        "眼镜",
+        "金钱",
+        "车铃",
+        "长笛",
+        "氦气",
+        "氩气",
+        "氡气",
+        "幼儿",
+        "收入",
+        "领主",
+        "氙气",
+        "小型望远镜",
+        "安抚奶嘴"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "六分仪",
+                "气体",
+                "尤克里里",
+                "船尾"
+            ]
+        },
+        {
+            "cards": [
+                "车篓",
+                "单片眼镜",
+                "玩具",
+                "路标",
+                "中世纪"
+            ]
+        },
+        {
+            "cards": [
+                "链条",
+                "溶酶体",
+                "吉他",
+                "乐器",
+                "氖气",
+                "大提琴"
+            ]
+        },
+        {
+            "cards": [
+                "酶",
+                "支出",
+                "生物学",
+                "船帆",
+                "蛋白质",
+                "鼓",
+                "船体结构"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "levelId": 310,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 220,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "城堡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "塔楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "护城河",
+                    "icon": false
+                },
+                {
+                    "wordId": "地牢",
+                    "icon": false
+                },
+                {
+                    "wordId": "城墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "主楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "角楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "幕墙",
+                    "icon": false
+                },
+                {
+                    "wordId": "护墙",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "洞穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "巢穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "岩洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "深渊",
+                    "icon": false
+                },
+                {
+                    "wordId": "落水洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂缝",
+                    "icon": false
+                },
+                {
+                    "wordId": "蝙蝠",
+                    "icon": false
+                },
+                {
+                    "wordId": "回声",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨石",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "图书馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "书架",
+                    "icon": false
+                },
+                {
+                    "wordId": "大本书",
+                    "icon": false
+                },
+                {
+                    "wordId": "索引",
+                    "icon": false
+                },
+                {
+                    "wordId": "目录",
+                    "icon": false
+                },
+                {
+                    "wordId": "借阅",
+                    "icon": false
+                },
+                {
+                    "wordId": "归还",
+                    "icon": false
+                },
+                {
+                    "wordId": "书脊",
+                    "icon": false
+                },
+                {
+                    "wordId": "安静",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沙漠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "沙丘",
+                    "icon": true
+                },
+                {
+                    "wordId": "绿洲",
+                    "icon": true
+                },
+                {
+                    "wordId": "海市蜃楼",
+                    "icon": true
+                },
+                {
+                    "wordId": "干旱地",
+                    "icon": true
+                },
+                {
+                    "wordId": "游牧者",
+                    "icon": true
+                },
+                {
+                    "wordId": "商队",
+                    "icon": true
+                },
+                {
+                    "wordId": "沙海",
+                    "icon": true
+                },
+                {
+                    "wordId": "尔格沙地",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "寺庙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "神社",
+                    "icon": false
+                },
+                {
+                    "wordId": "祭坛",
+                    "icon": false
+                },
+                {
+                    "wordId": "中殿",
+                    "icon": false
+                },
+                {
+                    "wordId": "宝塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣所",
+                    "icon": false
+                },
+                {
+                    "wordId": "圆顶",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "间歇泉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "喷口",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒸汽",
+                    "icon": false
+                },
+                {
+                    "wordId": "羽流",
+                    "icon": false
+                },
+                {
+                    "wordId": "冒泡",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷气孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷水孔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "高原",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "方山",
+                    "icon": false
+                },
+                {
+                    "wordId": "孤峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "陡坡",
+                    "icon": false
+                },
+                {
+                    "wordId": "隆起",
+                    "icon": false
+                },
+                {
+                    "wordId": "高地",
+                    "icon": false
+                },
+                {
+                    "wordId": "高坡",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机器人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "人形机器人",
+                    "icon": false
+                },
+                {
+                    "wordId": "无人机",
+                    "icon": false
+                },
+                {
+                    "wordId": "自动机",
+                    "icon": false
+                },
+                {
+                    "wordId": "机甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "赛博格",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笔记本电脑组件",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电池",
+                    "icon": true
+                },
+                {
+                    "wordId": "键盘",
+                    "icon": true
+                },
+                {
+                    "wordId": "萤幕",
+                    "icon": true
+                },
+                {
+                    "wordId": "触控板",
+                    "icon": true
+                },
+                {
+                    "wordId": "外壳",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "服务器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "集群",
+                    "icon": false
+                },
+                {
+                    "wordId": "主机",
+                    "icon": false
+                },
+                {
+                    "wordId": "数据库",
+                    "icon": false
+                },
+                {
+                    "wordId": "后端",
+                    "icon": false
+                },
+                {
+                    "wordId": "正常运行时间",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "极光",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天空",
+                    "icon": false
+                },
+                {
+                    "wordId": "辐射的",
+                    "icon": false
+                },
+                {
+                    "wordId": "光谱",
+                    "icon": false
+                },
+                {
+                    "wordId": "极地的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海滩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海岸",
+                    "icon": false
+                },
+                {
+                    "wordId": "岸边",
+                    "icon": false
+                },
+                {
+                    "wordId": "潮汐",
+                    "icon": false
+                },
+                {
+                    "wordId": "浪花",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "沼泽",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泥沼",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿地",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥潭",
+                    "icon": false
+                },
+                {
+                    "wordId": "沼泽地",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "再见",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "拜拜",
+                    "icon": false
+                },
+                {
+                    "wordId": "永别",
+                    "icon": false
+                },
+                {
+                    "wordId": "告别",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星系",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螺旋星系",
+                    "icon": true
+                },
+                {
+                    "wordId": "椭圆星系",
+                    "icon": true
+                },
+                {
+                    "wordId": "矮星系",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "赛博格",
+        "喷气孔",
+        "拜拜",
+        "羽流",
+        "螺旋星系",
+        "巢穴",
+        "沙丘",
+        "冒泡",
+        "沙海",
+        "主机",
+        "角楼",
+        "隆起",
+        "沙漠",
+        "借阅",
+        "后端",
+        "方山",
+        "人形机器人",
+        "图书馆",
+        "岩洞",
+        "正常运行时间",
+        "大本书",
+        "无人机",
+        "触控板",
+        "蝙蝠",
+        "海岸",
+        "地牢",
+        "告别",
+        "圣所",
+        "集群",
+        "回声",
+        "护城河",
+        "数据库",
+        "沼泽",
+        "陡坡",
+        "高坡",
+        "深渊",
+        "湿地",
+        "护墙",
+        "萤幕",
+        "书脊",
+        "归还",
+        "裂缝",
+        "再见",
+        "神社",
+        "海滩",
+        "天空",
+        "机器人",
+        "主楼",
+        "椭圆星系",
+        "辐射的",
+        "沼泽地",
+        "服务器",
+        "中殿",
+        "幕墙",
+        "高地",
+        "电池",
+        "安静",
+        "宝塔",
+        "塔楼",
+        "目录",
+        "索引",
+        "海市蜃楼",
+        "城墙"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "潮汐",
+                "岸边",
+                "机甲",
+                "干旱地",
+                "喷水孔"
+            ]
+        },
+        {
+            "cards": [
+                "寺庙",
+                "光谱",
+                "城堡",
+                "巨石",
+                "自动机",
+                "祭坛"
+            ]
+        },
+        {
+            "cards": [
+                "绿洲",
+                "矮星系",
+                "商队",
+                "永别",
+                "间歇泉",
+                "笔记本电脑组件",
+                "浪花"
+            ]
+        },
+        {
+            "cards": [
+                "星系",
+                "尔格沙地",
+                "蒸汽",
+                "极地的",
+                "高原",
+                "圆顶",
+                "泥潭",
+                "落水洞"
+            ]
+        },
+        {
+            "cards": [
+                "键盘",
+                "泥沼",
+                "极光",
+                "游牧者",
+                "外壳",
+                "孤峰",
+                "洞穴",
+                "喷口",
+                "书架"
+            ]
+        }
+    ]
+}

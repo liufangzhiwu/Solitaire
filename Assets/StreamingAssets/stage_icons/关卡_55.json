@@ -1,0 +1,369 @@
+{
+    "levelId": 55,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "牛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哞",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧场",
+                    "icon": false
+                },
+                {
+                    "wordId": "公牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "咀嚼",
+                    "icon": false
+                },
+                {
+                    "wordId": "小母牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "阉牛",
+                    "icon": false
+                },
+                {
+                    "wordId": "反刍动物",
+                    "icon": false
+                },
+                {
+                    "wordId": "角",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "蛋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "鸡",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸭",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹌鹑",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "火鸡",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸵鸟",
+                    "icon": true
+                },
+                {
+                    "wordId": "天鹅",
+                    "icon": true
+                },
+                {
+                    "wordId": "企鹅",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "偶数",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "十四",
+                    "icon": false
+                },
+                {
+                    "wordId": "十二",
+                    "icon": false
+                },
+                {
+                    "wordId": "三十",
+                    "icon": false
+                },
+                {
+                    "wordId": "四",
+                    "icon": false
+                },
+                {
+                    "wordId": "二十",
+                    "icon": false
+                },
+                {
+                    "wordId": "四十",
+                    "icon": false
+                },
+                {
+                    "wordId": "六十",
+                    "icon": false
+                },
+                {
+                    "wordId": "八十",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "纽扣",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "衬衫",
+                    "icon": false
+                },
+                {
+                    "wordId": "外套",
+                    "icon": false
+                },
+                {
+                    "wordId": "夹克",
+                    "icon": false
+                },
+                {
+                    "wordId": "开衫",
+                    "icon": false
+                },
+                {
+                    "wordId": "背带裤",
+                    "icon": false
+                },
+                {
+                    "wordId": "Polo衫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "高尔夫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "球洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "小鸟球",
+                    "icon": false
+                },
+                {
+                    "wordId": "标准杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "柏忌",
+                    "icon": false
+                },
+                {
+                    "wordId": "球童",
+                    "icon": false
+                },
+                {
+                    "wordId": "球杆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "黄金",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "贵重",
+                    "icon": false
+                },
+                {
+                    "wordId": "纯度",
+                    "icon": false
+                },
+                {
+                    "wordId": "首饰",
+                    "icon": false
+                },
+                {
+                    "wordId": "财富",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "流言",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "秘密",
+                    "icon": false
+                },
+                {
+                    "wordId": "诽谤",
+                    "icon": false
+                },
+                {
+                    "wordId": "低语",
+                    "icon": false
+                },
+                {
+                    "wordId": "谣言",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "安全带",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "搭扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "扣环",
+                    "icon": false
+                },
+                {
+                    "wordId": "带子",
+                    "icon": false
+                },
+                {
+                    "wordId": "腰带",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "SOS",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "求救",
+                    "icon": false
+                },
+                {
+                    "wordId": "紧急",
+                    "icon": false
+                },
+                {
+                    "wordId": "危机",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "计时器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "秒",
+                    "icon": false
+                },
+                {
+                    "wordId": "分",
+                    "icon": false
+                },
+                {
+                    "wordId": "时",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "火鸡",
+        "黄金",
+        "贵重",
+        "高尔夫",
+        "标准杆",
+        "背带裤",
+        "搭扣",
+        "鸵鸟",
+        "SOS",
+        "球洞",
+        "哞",
+        "求救",
+        "四",
+        "十四",
+        "衬衫",
+        "六十",
+        "首饰",
+        "球童",
+        "时",
+        "带子",
+        "腰带",
+        "外套",
+        "鹌鹑",
+        "柏忌",
+        "二十",
+        "蛋",
+        "天鹅",
+        "扣环",
+        "Polo衫",
+        "安全带",
+        "小母牛",
+        "危机",
+        "阉牛",
+        "鸭",
+        "八十",
+        "鸡",
+        "开衫",
+        "秒",
+        "分",
+        "小鸟球",
+        "公牛",
+        "三十"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "紧急",
+                "鹅",
+                "牧场",
+                "秘密"
+            ]
+        },
+        {
+            "cards": [
+                "十二",
+                "诽谤",
+                "夹克",
+                "反刍动物",
+                "计时器"
+            ]
+        },
+        {
+            "cards": [
+                "流言",
+                "企鹅",
+                "牛",
+                "四十",
+                "纯度",
+                "偶数"
+            ]
+        },
+        {
+            "cards": [
+                "低语",
+                "角",
+                "谣言",
+                "纽扣",
+                "咀嚼",
+                "财富",
+                "球杆"
+            ]
+        }
+    ]
+}

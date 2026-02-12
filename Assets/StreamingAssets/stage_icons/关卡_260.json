@@ -1,0 +1,217 @@
+{
+    "levelId": 260,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "运动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "足球",
+                    "icon": true
+                },
+                {
+                    "wordId": "网球",
+                    "icon": true
+                },
+                {
+                    "wordId": "高尔夫",
+                    "icon": true
+                },
+                {
+                    "wordId": "橄榄球",
+                    "icon": true
+                },
+                {
+                    "wordId": "拳击",
+                    "icon": true
+                },
+                {
+                    "wordId": "曲棍球",
+                    "icon": true
+                },
+                {
+                    "wordId": "板球",
+                    "icon": true
+                },
+                {
+                    "wordId": "滑雪",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "国家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法国",
+                    "icon": false
+                },
+                {
+                    "wordId": "德国",
+                    "icon": false
+                },
+                {
+                    "wordId": "芬兰",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥地利",
+                    "icon": false
+                },
+                {
+                    "wordId": "比利时",
+                    "icon": false
+                },
+                {
+                    "wordId": "克罗地亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "厄瓜多尔",
+                    "icon": false
+                },
+                {
+                    "wordId": "摩洛哥",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "职业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面包师",
+                    "icon": false
+                },
+                {
+                    "wordId": "飞行员",
+                    "icon": false
+                },
+                {
+                    "wordId": "医生",
+                    "icon": false
+                },
+                {
+                    "wordId": "裁缝",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爱好",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳舞",
+                    "icon": true
+                },
+                {
+                    "wordId": "绘画",
+                    "icon": true
+                },
+                {
+                    "wordId": "编织",
+                    "icon": true
+                },
+                {
+                    "wordId": "折纸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "乳酪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "布里干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "高达干酪",
+                    "icon": false
+                },
+                {
+                    "wordId": "埃丹干酪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工作日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星期一",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期五",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期日",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "法国",
+        "星期一",
+        "星期日",
+        "高达干酪",
+        "国家",
+        "橄榄球",
+        "折纸",
+        "裁缝",
+        "运动",
+        "奥地利",
+        "星期五",
+        "德国",
+        "医生",
+        "飞行员",
+        "面包师",
+        "曲棍球",
+        "跳舞",
+        "布里干酪",
+        "绘画",
+        "职业",
+        "克罗地亚",
+        "编织",
+        "比利时",
+        "拳击"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "工作日",
+                "高尔夫",
+                "爱好"
+            ]
+        },
+        {
+            "cards": [
+                "滑雪",
+                "乳酪",
+                "板球",
+                "网球"
+            ]
+        },
+        {
+            "cards": [
+                "厄瓜多尔",
+                "摩洛哥",
+                "芬兰",
+                "足球",
+                "埃丹干酪"
+            ]
+        }
+    ]
+}

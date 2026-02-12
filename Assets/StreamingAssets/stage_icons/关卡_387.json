@@ -1,0 +1,369 @@
+{
+    "levelId": 387,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "恶习",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "欺骗",
+                    "icon": false
+                },
+                {
+                    "wordId": "嫉妒",
+                    "icon": false
+                },
+                {
+                    "wordId": "贪婪",
+                    "icon": false
+                },
+                {
+                    "wordId": "欲望",
+                    "icon": false
+                },
+                {
+                    "wordId": "暴食",
+                    "icon": false
+                },
+                {
+                    "wordId": "懒惰",
+                    "icon": false
+                },
+                {
+                    "wordId": "愤怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "虚荣",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谷物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "燕麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "玉米",
+                    "icon": true
+                },
+                {
+                    "wordId": "黑麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "斯佩尔特小麦",
+                    "icon": true
+                },
+                {
+                    "wordId": "苔麸",
+                    "icon": true
+                },
+                {
+                    "wordId": "高粱",
+                    "icon": true
+                },
+                {
+                    "wordId": "小米",
+                    "icon": true
+                },
+                {
+                    "wordId": "大麦",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "歌词",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "主歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "副歌",
+                    "icon": false
+                },
+                {
+                    "wordId": "前奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾声",
+                    "icon": false
+                },
+                {
+                    "wordId": "叠句",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋律",
+                    "icon": false
+                },
+                {
+                    "wordId": "尾奏",
+                    "icon": false
+                },
+                {
+                    "wordId": "引子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "州",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿拉斯加",
+                    "icon": false
+                },
+                {
+                    "wordId": "夏威夷",
+                    "icon": false
+                },
+                {
+                    "wordId": "堪萨斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "内华达",
+                    "icon": false
+                },
+                {
+                    "wordId": "俄勒冈",
+                    "icon": false
+                },
+                {
+                    "wordId": "德克萨斯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星期",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "星期一",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期二",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期日",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期四",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期五",
+                    "icon": false
+                },
+                {
+                    "wordId": "星期六",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "燃料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "煤",
+                    "icon": false
+                },
+                {
+                    "wordId": "柴油",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烷",
+                    "icon": false
+                },
+                {
+                    "wordId": "木材",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罗盘方位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "北",
+                    "icon": true
+                },
+                {
+                    "wordId": "东",
+                    "icon": true
+                },
+                {
+                    "wordId": "南",
+                    "icon": true
+                },
+                {
+                    "wordId": "西",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "照片格式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "JPEG",
+                    "icon": false
+                },
+                {
+                    "wordId": "PNG",
+                    "icon": false
+                },
+                {
+                    "wordId": "TIFF",
+                    "icon": false
+                },
+                {
+                    "wordId": "RAW",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "怪癖",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "习惯",
+                    "icon": false
+                },
+                {
+                    "wordId": "特质",
+                    "icon": false
+                },
+                {
+                    "wordId": "古怪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "油类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "橄榄油",
+                    "icon": false
+                },
+                {
+                    "wordId": "芝麻油",
+                    "icon": false
+                },
+                {
+                    "wordId": "蓖麻油",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "TIFF",
+        "特质",
+        "主歌",
+        "星期五",
+        "夏威夷",
+        "罗盘方位",
+        "阿拉斯加",
+        "嫉妒",
+        "蓖麻油",
+        "星期四",
+        "歌词",
+        "引子",
+        "恶习",
+        "旋律",
+        "黑麦",
+        "大麦",
+        "小米",
+        "南",
+        "副歌",
+        "丙烷",
+        "堪萨斯",
+        "星期六",
+        "欲望",
+        "贪婪",
+        "尾声",
+        "怪癖",
+        "星期一",
+        "谷物",
+        "内华达",
+        "前奏",
+        "古怪",
+        "西",
+        "JPEG",
+        "高粱",
+        "煤",
+        "愤怒",
+        "德克萨斯",
+        "习惯",
+        "柴油",
+        "俄勒冈",
+        "木材",
+        "星期二"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "斯佩尔特小麦",
+                "照片格式",
+                "虚荣",
+                "燃料"
+            ]
+        },
+        {
+            "cards": [
+                "叠句",
+                "东",
+                "星期日",
+                "芝麻油",
+                "玉米"
+            ]
+        },
+        {
+            "cards": [
+                "尾奏",
+                "橄榄油",
+                "州",
+                "星期",
+                "PNG",
+                "懒惰"
+            ]
+        },
+        {
+            "cards": [
+                "RAW",
+                "燕麦",
+                "暴食",
+                "油类",
+                "北",
+                "欺骗",
+                "苔麸"
+            ]
+        }
+    ]
+}

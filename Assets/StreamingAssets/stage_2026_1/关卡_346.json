@@ -1,0 +1,369 @@
+{
+    "levelId": 346,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "住宿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旅馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "青年旅社",
+                    "icon": false
+                },
+                {
+                    "wordId": "汽车旅馆",
+                    "icon": false
+                },
+                {
+                    "wordId": "小木屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "度假屋",
+                    "icon": false
+                },
+                {
+                    "wordId": "山间别墅",
+                    "icon": false
+                },
+                {
+                    "wordId": "营地",
+                    "icon": false
+                },
+                {
+                    "wordId": "蒙古包",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "徽章",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "别针",
+                    "icon": false
+                },
+                {
+                    "wordId": "纹章",
+                    "icon": false
+                },
+                {
+                    "wordId": "绶带",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽标",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖章",
+                    "icon": false
+                },
+                {
+                    "wordId": "条纹",
+                    "icon": false
+                },
+                {
+                    "wordId": "肩章",
+                    "icon": false
+                },
+                {
+                    "wordId": "臂章",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "传送门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大门",
+                    "icon": false
+                },
+                {
+                    "wordId": "门口",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱道",
+                    "icon": false
+                },
+                {
+                    "wordId": "裂隙",
+                    "icon": false
+                },
+                {
+                    "wordId": "网关",
+                    "icon": false
+                },
+                {
+                    "wordId": "开口",
+                    "icon": false
+                },
+                {
+                    "wordId": "通道",
+                    "icon": false
+                },
+                {
+                    "wordId": "入口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "闪亮的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "闪亮",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪耀",
+                    "icon": false
+                },
+                {
+                    "wordId": "微光",
+                    "icon": false
+                },
+                {
+                    "wordId": "火花",
+                    "icon": false
+                },
+                {
+                    "wordId": "摇曳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "涂料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "瓷漆",
+                    "icon": false
+                },
+                {
+                    "wordId": "丙烯",
+                    "icon": false
+                },
+                {
+                    "wordId": "清漆",
+                    "icon": false
+                },
+                {
+                    "wordId": "水粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛋彩",
+                    "icon": false
+                },
+                {
+                    "wordId": "乳胶漆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "螺旋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "螺旋线",
+                    "icon": false
+                },
+                {
+                    "wordId": "线圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋转",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷曲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "回声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混响",
+                    "icon": false
+                },
+                {
+                    "wordId": "回响",
+                    "icon": false
+                },
+                {
+                    "wordId": "重复",
+                    "icon": false
+                },
+                {
+                    "wordId": "反弹",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "马赛克",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "镶嵌石",
+                    "icon": true
+                },
+                {
+                    "wordId": "勾缝剂",
+                    "icon": true
+                },
+                {
+                    "wordId": "瓷砖",
+                    "icon": true
+                },
+                {
+                    "wordId": "嵌板",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "幻景",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "幻象",
+                    "icon": false
+                },
+                {
+                    "wordId": "薄雾",
+                    "icon": false
+                },
+                {
+                    "wordId": "朦胧",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "墙壁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砖墙",
+                    "icon": true
+                },
+                {
+                    "wordId": "灰泥墙",
+                    "icon": true
+                },
+                {
+                    "wordId": "土坯墙",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "嵌板",
+        "重复",
+        "拱道",
+        "条纹",
+        "旅馆",
+        "山间别墅",
+        "薄雾",
+        "传送门",
+        "砖墙",
+        "螺旋线",
+        "幻景",
+        "混响",
+        "乳胶漆",
+        "别针",
+        "绶带",
+        "螺旋",
+        "反弹",
+        "土坯墙",
+        "大门",
+        "网关",
+        "开口",
+        "墙壁",
+        "镶嵌石",
+        "汽车旅馆",
+        "徽标",
+        "灰泥墙",
+        "奖章",
+        "营地",
+        "卷曲",
+        "勾缝剂",
+        "回声",
+        "水粉",
+        "青年旅社",
+        "度假屋",
+        "清漆",
+        "回响",
+        "蛋彩",
+        "臂章",
+        "纹章",
+        "线圈",
+        "通道",
+        "旋转"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "马赛克",
+                "摇曳",
+                "朦胧",
+                "蒙古包"
+            ]
+        },
+        {
+            "cards": [
+                "幻象",
+                "住宿",
+                "小木屋",
+                "瓷漆",
+                "入口"
+            ]
+        },
+        {
+            "cards": [
+                "徽章",
+                "火花",
+                "裂隙",
+                "闪烁",
+                "涂料",
+                "瓷砖"
+            ]
+        },
+        {
+            "cards": [
+                "闪耀",
+                "丙烯",
+                "肩章",
+                "门口",
+                "闪亮",
+                "闪亮的",
+                "微光"
+            ]
+        }
+    ]
+}

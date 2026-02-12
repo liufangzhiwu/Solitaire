@@ -1,0 +1,369 @@
+{
+    "levelId": 105,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "地图",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "旅程",
+                    "icon": false
+                },
+                {
+                    "wordId": "地标",
+                    "icon": false
+                },
+                {
+                    "wordId": "边界",
+                    "icon": false
+                },
+                {
+                    "wordId": "地图集",
+                    "icon": false
+                },
+                {
+                    "wordId": "地球仪",
+                    "icon": false
+                },
+                {
+                    "wordId": "比例尺",
+                    "icon": false
+                },
+                {
+                    "wordId": "地形",
+                    "icon": false
+                },
+                {
+                    "wordId": "等高线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "度假村",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "酒店",
+                    "icon": false
+                },
+                {
+                    "wordId": "水疗中心",
+                    "icon": false
+                },
+                {
+                    "wordId": "班车",
+                    "icon": false
+                },
+                {
+                    "wordId": "预订",
+                    "icon": false
+                },
+                {
+                    "wordId": "套房",
+                    "icon": false
+                },
+                {
+                    "wordId": "露台",
+                    "icon": false
+                },
+                {
+                    "wordId": "潜水",
+                    "icon": false
+                },
+                {
+                    "wordId": "岛屿",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "法律",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "司法",
+                    "icon": false
+                },
+                {
+                    "wordId": "法庭",
+                    "icon": false
+                },
+                {
+                    "wordId": "规则",
+                    "icon": false
+                },
+                {
+                    "wordId": "秩序",
+                    "icon": false
+                },
+                {
+                    "wordId": "审判",
+                    "icon": false
+                },
+                {
+                    "wordId": "案件",
+                    "icon": false
+                },
+                {
+                    "wordId": "顾问",
+                    "icon": false
+                },
+                {
+                    "wordId": "裁决",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "时代",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "年代",
+                    "icon": false
+                },
+                {
+                    "wordId": "纪元",
+                    "icon": false
+                },
+                {
+                    "wordId": "世纪",
+                    "icon": false
+                },
+                {
+                    "wordId": "十年",
+                    "icon": false
+                },
+                {
+                    "wordId": "年份",
+                    "icon": false
+                },
+                {
+                    "wordId": "时间线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "买家",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "客户",
+                    "icon": false
+                },
+                {
+                    "wordId": "付款",
+                    "icon": false
+                },
+                {
+                    "wordId": "收据",
+                    "icon": false
+                },
+                {
+                    "wordId": "发票",
+                    "icon": false
+                },
+                {
+                    "wordId": "购买",
+                    "icon": false
+                },
+                {
+                    "wordId": "退货",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "礼物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "盒子",
+                    "icon": true
+                },
+                {
+                    "wordId": "礼品蝴蝶结",
+                    "icon": true
+                },
+                {
+                    "wordId": "五彩纸屑",
+                    "icon": true
+                },
+                {
+                    "wordId": "贺卡",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "玩具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "泰迪熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "风筝",
+                    "icon": true
+                },
+                {
+                    "wordId": "乐高",
+                    "icon": true
+                },
+                {
+                    "wordId": "游戏手柄",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "马达",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "力",
+                    "icon": false
+                },
+                {
+                    "wordId": "火花",
+                    "icon": false
+                },
+                {
+                    "wordId": "电池",
+                    "icon": false
+                },
+                {
+                    "wordId": "速度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "萤幕",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "电视",
+                    "icon": true
+                },
+                {
+                    "wordId": "自动取款机",
+                    "icon": true
+                },
+                {
+                    "wordId": "电子阅读器",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "警报",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜂鸣器",
+                    "icon": false
+                },
+                {
+                    "wordId": "哔哔声",
+                    "icon": false
+                },
+                {
+                    "wordId": "匆忙",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "付款",
+        "泰迪熊",
+        "顾问",
+        "裁决",
+        "旅程",
+        "礼物",
+        "套房",
+        "纪元",
+        "电子阅读器",
+        "乐高",
+        "五彩纸屑",
+        "游戏手柄",
+        "客户",
+        "退货",
+        "案件",
+        "年代",
+        "力",
+        "岛屿",
+        "火花",
+        "萤幕",
+        "地图集",
+        "等高线",
+        "发票",
+        "警报",
+        "礼品蝴蝶结",
+        "地图",
+        "匆忙",
+        "酒店",
+        "法庭",
+        "电池",
+        "风筝",
+        "购买",
+        "地球仪",
+        "十年",
+        "地标",
+        "玩具",
+        "贺卡",
+        "时间线",
+        "秩序",
+        "边界",
+        "收据",
+        "世纪"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "速度",
+                "潜水",
+                "度假村",
+                "水疗中心"
+            ]
+        },
+        {
+            "cards": [
+                "班车",
+                "马达",
+                "年份",
+                "自动取款机",
+                "蜂鸣器"
+            ]
+        },
+        {
+            "cards": [
+                "法律",
+                "比例尺",
+                "时代",
+                "电视",
+                "盒子",
+                "买家"
+            ]
+        },
+        {
+            "cards": [
+                "哔哔声",
+                "司法",
+                "预订",
+                "露台",
+                "规则",
+                "地形",
+                "审判"
+            ]
+        }
+    ]
+}

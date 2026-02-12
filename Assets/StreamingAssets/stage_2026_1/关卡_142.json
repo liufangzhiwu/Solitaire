@@ -1,0 +1,217 @@
+{
+    "levelId": 142,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "外星人",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "不明飞行物",
+                    "icon": false
+                },
+                {
+                    "wordId": "入侵",
+                    "icon": false
+                },
+                {
+                    "wordId": "星系",
+                    "icon": false
+                },
+                {
+                    "wordId": "宇宙",
+                    "icon": false
+                },
+                {
+                    "wordId": "X档案",
+                    "icon": false
+                },
+                {
+                    "wordId": "科幻",
+                    "icon": false
+                },
+                {
+                    "wordId": "绿色的",
+                    "icon": false
+                },
+                {
+                    "wordId": "触角",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "符号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "无穷大",
+                    "icon": true
+                },
+                {
+                    "wordId": "雄性符号",
+                    "icon": true
+                },
+                {
+                    "wordId": "阴阳",
+                    "icon": true
+                },
+                {
+                    "wordId": "唵",
+                    "icon": true
+                },
+                {
+                    "wordId": "三叉戟",
+                    "icon": true
+                },
+                {
+                    "wordId": "九烛台",
+                    "icon": true
+                },
+                {
+                    "wordId": "十字架",
+                    "icon": true
+                },
+                {
+                    "wordId": "雌性符号",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "风暴影响",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "树木倒塌",
+                    "icon": false
+                },
+                {
+                    "wordId": "停电",
+                    "icon": false
+                },
+                {
+                    "wordId": "雨衣",
+                    "icon": false
+                },
+                {
+                    "wordId": "残骸",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "照片",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "捕捉",
+                    "icon": false
+                },
+                {
+                    "wordId": "快照",
+                    "icon": false
+                },
+                {
+                    "wordId": "编辑",
+                    "icon": false
+                },
+                {
+                    "wordId": "缩放",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "带轮物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行李箱",
+                    "icon": true
+                },
+                {
+                    "wordId": "玩具车",
+                    "icon": true
+                },
+                {
+                    "wordId": "手推车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "跋涉",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小径",
+                    "icon": false
+                },
+                {
+                    "wordId": "步道",
+                    "icon": false
+                },
+                {
+                    "wordId": "旅程",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "跋涉",
+        "宇宙",
+        "缩放",
+        "入侵",
+        "阴阳",
+        "编辑",
+        "玩具车",
+        "九烛台",
+        "雄性符号",
+        "旅程",
+        "十字架",
+        "停电",
+        "三叉戟",
+        "捕捉",
+        "步道",
+        "带轮物",
+        "无穷大",
+        "星系",
+        "触角",
+        "小径",
+        "树木倒塌",
+        "雨衣",
+        "符号",
+        "雌性符号"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "快照",
+                "绿色的",
+                "手推车"
+            ]
+        },
+        {
+            "cards": [
+                "照片",
+                "科幻",
+                "外星人",
+                "唵"
+            ]
+        },
+        {
+            "cards": [
+                "风暴影响",
+                "残骸",
+                "X档案",
+                "行李箱",
+                "不明飞行物"
+            ]
+        }
+    ]
+}

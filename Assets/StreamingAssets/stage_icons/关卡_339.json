@@ -1,0 +1,369 @@
+{
+    "levelId": 339,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "游戏",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "得分",
+                    "icon": false
+                },
+                {
+                    "wordId": "玩家",
+                    "icon": false
+                },
+                {
+                    "wordId": "虚拟形象",
+                    "icon": false
+                },
+                {
+                    "wordId": "连胜",
+                    "icon": false
+                },
+                {
+                    "wordId": "胜利",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖励",
+                    "icon": false
+                },
+                {
+                    "wordId": "关卡",
+                    "icon": false
+                },
+                {
+                    "wordId": "规则",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "凹陷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "空洞",
+                    "icon": false
+                },
+                {
+                    "wordId": "角落",
+                    "icon": false
+                },
+                {
+                    "wordId": "虚空",
+                    "icon": false
+                },
+                {
+                    "wordId": "深坑",
+                    "icon": false
+                },
+                {
+                    "wordId": "洼地",
+                    "icon": false
+                },
+                {
+                    "wordId": "峡谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "小谷",
+                    "icon": false
+                },
+                {
+                    "wordId": "壁龛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "披萨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蘑菇披萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡尔佐内",
+                    "icon": false
+                },
+                {
+                    "wordId": "玛莉娜拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "那不勒斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "西西里",
+                    "icon": false
+                },
+                {
+                    "wordId": "罗马",
+                    "icon": false
+                },
+                {
+                    "wordId": "蔬菜",
+                    "icon": false
+                },
+                {
+                    "wordId": "白底",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "信号",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩斯电码",
+                    "icon": false
+                },
+                {
+                    "wordId": "信标",
+                    "icon": false
+                },
+                {
+                    "wordId": "寻呼机",
+                    "icon": false
+                },
+                {
+                    "wordId": "脉冲",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪光",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "夸克",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "上夸克",
+                    "icon": false
+                },
+                {
+                    "wordId": "下夸克",
+                    "icon": false
+                },
+                {
+                    "wordId": "粲夸克",
+                    "icon": false
+                },
+                {
+                    "wordId": "奇夸克",
+                    "icon": false
+                },
+                {
+                    "wordId": "顶夸克",
+                    "icon": false
+                },
+                {
+                    "wordId": "底夸克",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "漩涡",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "回旋",
+                    "icon": true
+                },
+                {
+                    "wordId": "旋风",
+                    "icon": true
+                },
+                {
+                    "wordId": "涡流",
+                    "icon": true
+                },
+                {
+                    "wordId": "螺旋",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "卵石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "燧石",
+                    "icon": true
+                },
+                {
+                    "wordId": "叶岩",
+                    "icon": true
+                },
+                {
+                    "wordId": "板岩",
+                    "icon": true
+                },
+                {
+                    "wordId": "粗砂",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "任务",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "搜寻",
+                    "icon": false
+                },
+                {
+                    "wordId": "救援",
+                    "icon": false
+                },
+                {
+                    "wordId": "护送",
+                    "icon": false
+                },
+                {
+                    "wordId": "取回",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "公园",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长椅",
+                    "icon": false
+                },
+                {
+                    "wordId": "喷泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "秋千",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "劳动",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "辛劳",
+                    "icon": false
+                },
+                {
+                    "wordId": "汗水",
+                    "icon": false
+                },
+                {
+                    "wordId": "奋斗",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "卵石",
+        "胜利",
+        "回旋",
+        "长椅",
+        "虚空",
+        "喷泉",
+        "粲夸克",
+        "得分",
+        "信标",
+        "顶夸克",
+        "西西里",
+        "角落",
+        "漩涡",
+        "燧石",
+        "奖励",
+        "玛莉娜拉",
+        "取回",
+        "关卡",
+        "深坑",
+        "奇夸克",
+        "摩斯电码",
+        "秋千",
+        "上夸克",
+        "螺旋",
+        "连胜",
+        "闪烁",
+        "蔬菜",
+        "旋风",
+        "公园",
+        "搜寻",
+        "寻呼机",
+        "汗水",
+        "辛劳",
+        "护送",
+        "凹陷",
+        "白底",
+        "罗马",
+        "披萨",
+        "叶岩",
+        "板岩",
+        "下夸克",
+        "小谷"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "空洞",
+                "奋斗",
+                "虚拟形象",
+                "蘑菇披萨"
+            ]
+        },
+        {
+            "cards": [
+                "粗砂",
+                "规则",
+                "任务",
+                "信号",
+                "救援"
+            ]
+        },
+        {
+            "cards": [
+                "劳动",
+                "底夸克",
+                "卡尔佐内",
+                "壁龛",
+                "玩家",
+                "涡流"
+            ]
+        },
+        {
+            "cards": [
+                "夸克",
+                "那不勒斯",
+                "脉冲",
+                "洼地",
+                "游戏",
+                "峡谷",
+                "闪光"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "levelId": 87,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "多刺的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "仙人掌",
+                    "icon": false
+                },
+                {
+                    "wordId": "荆棘",
+                    "icon": false
+                },
+                {
+                    "wordId": "针刺",
+                    "icon": false
+                },
+                {
+                    "wordId": "刺猬",
+                    "icon": false
+                },
+                {
+                    "wordId": "玫瑰",
+                    "icon": false
+                },
+                {
+                    "wordId": "尖锐",
+                    "icon": false
+                },
+                {
+                    "wordId": "藤蔓",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁丝网",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笔直之物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尺子",
+                    "icon": true
+                },
+                {
+                    "wordId": "剑",
+                    "icon": true
+                },
+                {
+                    "wordId": "栏杆",
+                    "icon": true
+                },
+                {
+                    "wordId": "杆",
+                    "icon": true
+                },
+                {
+                    "wordId": "柱",
+                    "icon": true
+                },
+                {
+                    "wordId": "指针",
+                    "icon": true
+                },
+                {
+                    "wordId": "圆柱",
+                    "icon": true
+                },
+                {
+                    "wordId": "梯子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "卧室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "床垫",
+                    "icon": false
+                },
+                {
+                    "wordId": "枕头",
+                    "icon": false
+                },
+                {
+                    "wordId": "床",
+                    "icon": false
+                },
+                {
+                    "wordId": "毯子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "笑声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "咯咯笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "大笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂笑",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻笑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "浪漫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "约会",
+                    "icon": false
+                },
+                {
+                    "wordId": "亲吻",
+                    "icon": false
+                },
+                {
+                    "wordId": "调情",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "圣诞夜",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛奶",
+                    "icon": true
+                },
+                {
+                    "wordId": "饼干",
+                    "icon": true
+                },
+                {
+                    "wordId": "圣诞老人",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "笔直之物",
+        "牛奶",
+        "床",
+        "针刺",
+        "咯咯笑",
+        "藤蔓",
+        "指针",
+        "杆",
+        "调情",
+        "柱",
+        "荆棘",
+        "圆柱",
+        "仙人掌",
+        "约会",
+        "刺猬",
+        "玫瑰",
+        "尖锐",
+        "亲吻",
+        "枕头",
+        "饼干",
+        "卧室",
+        "床垫",
+        "圣诞老人",
+        "浪漫"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "笑声",
+                "剑",
+                "轻笑"
+            ]
+        },
+        {
+            "cards": [
+                "多刺的",
+                "毯子",
+                "圣诞夜",
+                "大笑"
+            ]
+        },
+        {
+            "cards": [
+                "尺子",
+                "栏杆",
+                "梯子",
+                "铁丝网",
+                "狂笑"
+            ]
+        }
+    ]
+}

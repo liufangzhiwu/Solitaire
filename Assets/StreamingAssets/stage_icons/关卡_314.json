@@ -1,0 +1,217 @@
+{
+    "levelId": 314,
+    "slotsDefault": 3,
+    "slotsRewarded": 4,
+    "movesLimit": 75,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "糖果",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "太妃糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉太妃糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "果冻软糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "软糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "松露糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "焦糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "棒棒糖",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛轧糖",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "园艺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "铲子",
+                    "icon": false
+                },
+                {
+                    "wordId": "栅栏",
+                    "icon": false
+                },
+                {
+                    "wordId": "树篱",
+                    "icon": false
+                },
+                {
+                    "wordId": "覆盖物",
+                    "icon": false
+                },
+                {
+                    "wordId": "泥铲",
+                    "icon": false
+                },
+                {
+                    "wordId": "修枝剪",
+                    "icon": false
+                },
+                {
+                    "wordId": "浇水",
+                    "icon": false
+                },
+                {
+                    "wordId": "花盆",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "标志",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "停止",
+                    "icon": false
+                },
+                {
+                    "wordId": "禁止转弯",
+                    "icon": false
+                },
+                {
+                    "wordId": "进入",
+                    "icon": false
+                },
+                {
+                    "wordId": "出口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "战术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "侧翼包抄",
+                    "icon": false
+                },
+                {
+                    "wordId": "伏击",
+                    "icon": false
+                },
+                {
+                    "wordId": "围攻",
+                    "icon": false
+                },
+                {
+                    "wordId": "佯攻",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氩气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氡气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氙气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "体裁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "恐怖片",
+                    "icon": true
+                },
+                {
+                    "wordId": "喜剧片",
+                    "icon": true
+                },
+                {
+                    "wordId": "爱情片",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "拉太妃糖",
+        "战术",
+        "出口",
+        "栅栏",
+        "树篱",
+        "果冻软糖",
+        "松露糖",
+        "浇水",
+        "园艺",
+        "侧翼包抄",
+        "围攻",
+        "覆盖物",
+        "软糖",
+        "喜剧片",
+        "进入",
+        "伏击",
+        "停止",
+        "太妃糖",
+        "佯攻",
+        "棒棒糖",
+        "铲子",
+        "泥铲",
+        "恐怖片",
+        "体裁"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "氩气",
+                "牛轧糖",
+                "花盆"
+            ]
+        },
+        {
+            "cards": [
+                "氡气",
+                "禁止转弯",
+                "焦糖",
+                "糖果"
+            ]
+        },
+        {
+            "cards": [
+                "爱情片",
+                "标志",
+                "气体",
+                "氙气",
+                "修枝剪"
+            ]
+        }
+    ]
+}

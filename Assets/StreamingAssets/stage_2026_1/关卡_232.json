@@ -1,0 +1,369 @@
+{
+    "levelId": 232,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "奖励",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奖品",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖金",
+                    "icon": false
+                },
+                {
+                    "wordId": "回报",
+                    "icon": false
+                },
+                {
+                    "wordId": "款待",
+                    "icon": false
+                },
+                {
+                    "wordId": "收益",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "赚取",
+                    "icon": false
+                },
+                {
+                    "wordId": "功绩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "24小时营业",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "便利店",
+                    "icon": true
+                },
+                {
+                    "wordId": "药店",
+                    "icon": true
+                },
+                {
+                    "wordId": "医院",
+                    "icon": true
+                },
+                {
+                    "wordId": "赌场",
+                    "icon": true
+                },
+                {
+                    "wordId": "热线",
+                    "icon": true
+                },
+                {
+                    "wordId": "机场",
+                    "icon": true
+                },
+                {
+                    "wordId": "警察局",
+                    "icon": true
+                },
+                {
+                    "wordId": "消防队",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "演出",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "音乐会",
+                    "icon": false
+                },
+                {
+                    "wordId": "音乐",
+                    "icon": false
+                },
+                {
+                    "wordId": "门票",
+                    "icon": false
+                },
+                {
+                    "wordId": "手环",
+                    "icon": false
+                },
+                {
+                    "wordId": "乐队",
+                    "icon": false
+                },
+                {
+                    "wordId": "观众",
+                    "icon": false
+                },
+                {
+                    "wordId": "表演",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞台",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "尴尬的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生硬",
+                    "icon": false
+                },
+                {
+                    "wordId": "胆怯",
+                    "icon": false
+                },
+                {
+                    "wordId": "笨拙",
+                    "icon": false
+                },
+                {
+                    "wordId": "尬尴",
+                    "icon": false
+                },
+                {
+                    "wordId": "不安",
+                    "icon": false
+                },
+                {
+                    "wordId": "笨拙的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "清洁用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "毛巾",
+                    "icon": true
+                },
+                {
+                    "wordId": "清洁剂",
+                    "icon": true
+                },
+                {
+                    "wordId": "消毒剂",
+                    "icon": true
+                },
+                {
+                    "wordId": "肥皂",
+                    "icon": true
+                },
+                {
+                    "wordId": "餐巾纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "卫生纸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "默认",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "设置",
+                    "icon": false
+                },
+                {
+                    "wordId": "重置",
+                    "icon": false
+                },
+                {
+                    "wordId": "预设",
+                    "icon": false
+                },
+                {
+                    "wordId": "自动",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "无聊的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "打哈欠",
+                    "icon": false
+                },
+                {
+                    "wordId": "乏味",
+                    "icon": false
+                },
+                {
+                    "wordId": "疲倦",
+                    "icon": false
+                },
+                {
+                    "wordId": "疲惫",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "憎恨",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "厌恶",
+                    "icon": false
+                },
+                {
+                    "wordId": "鄙视",
+                    "icon": false
+                },
+                {
+                    "wordId": "痛恨",
+                    "icon": false
+                },
+                {
+                    "wordId": "轻蔑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "生物相关",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "生物燃料",
+                    "icon": false
+                },
+                {
+                    "wordId": "杀虫剂",
+                    "icon": false
+                },
+                {
+                    "wordId": "沼气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "涂抹酱",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "甜椒酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹰嘴豆泥",
+                    "icon": false
+                },
+                {
+                    "wordId": "猪油膏",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "尴尬的",
+        "生硬",
+        "轻蔑",
+        "门票",
+        "清洁剂",
+        "疲倦",
+        "24小时营业",
+        "热线",
+        "消防队",
+        "鹰嘴豆泥",
+        "音乐会",
+        "乏味",
+        "赚取",
+        "奖金",
+        "肥皂",
+        "回报",
+        "赌场",
+        "鄙视",
+        "不安",
+        "预设",
+        "便利店",
+        "音乐",
+        "卫生纸",
+        "杀虫剂",
+        "医院",
+        "疲惫",
+        "表演",
+        "生物燃料",
+        "生物相关",
+        "涂抹酱",
+        "奖品",
+        "乐队",
+        "沼气",
+        "打哈欠",
+        "机场",
+        "痛恨",
+        "笨拙的",
+        "观众",
+        "无聊的",
+        "舞台",
+        "功绩",
+        "药店"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "憎恨",
+                "清洁用品",
+                "设置",
+                "毛巾"
+            ]
+        },
+        {
+            "cards": [
+                "消毒剂",
+                "自动",
+                "厌恶",
+                "警察局",
+                "甜椒酱"
+            ]
+        },
+        {
+            "cards": [
+                "奖励",
+                "奖杯",
+                "重置",
+                "胆怯",
+                "餐巾纸",
+                "尬尴"
+            ]
+        },
+        {
+            "cards": [
+                "笨拙",
+                "手环",
+                "默认",
+                "演出",
+                "收益",
+                "猪油膏",
+                "款待"
+            ]
+        }
+    ]
+}

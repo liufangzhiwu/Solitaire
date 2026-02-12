@@ -1,0 +1,369 @@
+{
+    "levelId": 181,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "流体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "汽油",
+                    "icon": false
+                },
+                {
+                    "wordId": "血液",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗发水",
+                    "icon": false
+                },
+                {
+                    "wordId": "油",
+                    "icon": false
+                },
+                {
+                    "wordId": "唾液",
+                    "icon": false
+                },
+                {
+                    "wordId": "胶水",
+                    "icon": false
+                },
+                {
+                    "wordId": "肉汤",
+                    "icon": false
+                },
+                {
+                    "wordId": "酱汁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "思想",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "判断",
+                    "icon": false
+                },
+                {
+                    "wordId": "想法",
+                    "icon": false
+                },
+                {
+                    "wordId": "观点",
+                    "icon": false
+                },
+                {
+                    "wordId": "意见",
+                    "icon": false
+                },
+                {
+                    "wordId": "信念",
+                    "icon": false
+                },
+                {
+                    "wordId": "观念",
+                    "icon": false
+                },
+                {
+                    "wordId": "概念",
+                    "icon": false
+                },
+                {
+                    "wordId": "见解",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "罗马皇帝",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "凯撒",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡利古拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼禄",
+                    "icon": false
+                },
+                {
+                    "wordId": "克劳狄乌斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "提图斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "图拉真",
+                    "icon": false
+                },
+                {
+                    "wordId": "哈德良",
+                    "icon": false
+                },
+                {
+                    "wordId": "提比略",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "头发用品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "梳子",
+                    "icon": true
+                },
+                {
+                    "wordId": "发夹",
+                    "icon": true
+                },
+                {
+                    "wordId": "发带",
+                    "icon": true
+                },
+                {
+                    "wordId": "发圈",
+                    "icon": true
+                },
+                {
+                    "wordId": "鲨鱼夹",
+                    "icon": true
+                },
+                {
+                    "wordId": "条形发夹",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "杂草",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "宝盖草",
+                    "icon": false
+                },
+                {
+                    "wordId": "旋花",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛蒡",
+                    "icon": false
+                },
+                {
+                    "wordId": "狗舌草",
+                    "icon": false
+                },
+                {
+                    "wordId": "藜",
+                    "icon": false
+                },
+                {
+                    "wordId": "酸模",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "愤怒",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "暴怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂怒",
+                    "icon": false
+                },
+                {
+                    "wordId": "怒火",
+                    "icon": false
+                },
+                {
+                    "wordId": "忿怒",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "木管乐器",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "长笛",
+                    "icon": false
+                },
+                {
+                    "wordId": "双簧管",
+                    "icon": false
+                },
+                {
+                    "wordId": "单簧管",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴松管",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "有尖牙的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "吸血鬼",
+                    "icon": true
+                },
+                {
+                    "wordId": "眼镜蛇",
+                    "icon": true
+                },
+                {
+                    "wordId": "熊",
+                    "icon": true
+                },
+                {
+                    "wordId": "狼",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "胡言乱语",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "含糊话",
+                    "icon": false
+                },
+                {
+                    "wordId": "夸夸其谈",
+                    "icon": false
+                },
+                {
+                    "wordId": "废话",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "连接点",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "交叉点",
+                    "icon": false
+                },
+                {
+                    "wordId": "连接",
+                    "icon": false
+                },
+                {
+                    "wordId": "耦合",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "克劳狄乌斯",
+        "宝盖草",
+        "发圈",
+        "头发用品",
+        "狗舌草",
+        "杂草",
+        "唾液",
+        "见解",
+        "条形发夹",
+        "藜",
+        "肉汤",
+        "熊",
+        "酸模",
+        "血液",
+        "油",
+        "发夹",
+        "眼镜蛇",
+        "胡言乱语",
+        "凯撒",
+        "吸血鬼",
+        "观点",
+        "意见",
+        "想法",
+        "鲨鱼夹",
+        "愤怒",
+        "怒火",
+        "夸夸其谈",
+        "忿怒",
+        "提图斯",
+        "连接点",
+        "暴怒",
+        "旋花",
+        "耦合",
+        "牛蒡",
+        "单簧管",
+        "观念",
+        "尼禄",
+        "洗发水",
+        "双簧管",
+        "狂怒",
+        "判断",
+        "信念"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "长笛",
+                "提比略",
+                "哈德良",
+                "酱汁"
+            ]
+        },
+        {
+            "cards": [
+                "图拉真",
+                "有尖牙的",
+                "卡利古拉",
+                "胶水",
+                "连接"
+            ]
+        },
+        {
+            "cards": [
+                "流体",
+                "巴松管",
+                "梳子",
+                "思想",
+                "狼",
+                "交叉点"
+            ]
+        },
+        {
+            "cards": [
+                "废话",
+                "汽油",
+                "木管乐器",
+                "发带",
+                "含糊话",
+                "概念",
+                "罗马皇帝"
+            ]
+        }
+    ]
+}

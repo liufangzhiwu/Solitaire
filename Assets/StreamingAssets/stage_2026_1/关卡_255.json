@@ -1,0 +1,369 @@
+{
+    "levelId": 255,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "椭圆形",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛋",
+                    "icon": true
+                },
+                {
+                    "wordId": "咖啡豆",
+                    "icon": true
+                },
+                {
+                    "wordId": "西瓜",
+                    "icon": true
+                },
+                {
+                    "wordId": "飞艇",
+                    "icon": true
+                },
+                {
+                    "wordId": "鳄梨",
+                    "icon": true
+                },
+                {
+                    "wordId": "橄榄球",
+                    "icon": true
+                },
+                {
+                    "wordId": "橄榄",
+                    "icon": true
+                },
+                {
+                    "wordId": "球拍",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "地图类型",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "专题地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "自然地理图",
+                    "icon": false
+                },
+                {
+                    "wordId": "道路地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "天气图",
+                    "icon": false
+                },
+                {
+                    "wordId": "资源地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "地质图",
+                    "icon": false
+                },
+                {
+                    "wordId": "经济地图",
+                    "icon": false
+                },
+                {
+                    "wordId": "世界地图",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "舞蹈",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "探戈",
+                    "icon": false
+                },
+                {
+                    "wordId": "萨尔萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "伦巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "狐步舞",
+                    "icon": false
+                },
+                {
+                    "wordId": "小步舞",
+                    "icon": false
+                },
+                {
+                    "wordId": "牛仔舞",
+                    "icon": false
+                },
+                {
+                    "wordId": "康康舞",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴恰塔",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "触手",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海葵",
+                    "icon": true
+                },
+                {
+                    "wordId": "章鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "鱿鱼",
+                    "icon": true
+                },
+                {
+                    "wordId": "乌贼",
+                    "icon": true
+                },
+                {
+                    "wordId": "水母",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹦鹉螺",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "酱料",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "味噌",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹰嘴豆泥",
+                    "icon": false
+                },
+                {
+                    "wordId": "马麦酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "橄榄酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "芝麻酱",
+                    "icon": false
+                },
+                {
+                    "wordId": "维吉麦",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "高耸的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "高的",
+                    "icon": false
+                },
+                {
+                    "wordId": "高大的",
+                    "icon": false
+                },
+                {
+                    "wordId": "高耸云霄的",
+                    "icon": false
+                },
+                {
+                    "wordId": "极高的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "衬衫",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "袖子",
+                    "icon": false
+                },
+                {
+                    "wordId": "袖口",
+                    "icon": false
+                },
+                {
+                    "wordId": "袖孔",
+                    "icon": false
+                },
+                {
+                    "wordId": "衣领",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "仪式",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "婚礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "洗礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "开幕礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "命名礼",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "空的",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "空白",
+                    "icon": false
+                },
+                {
+                    "wordId": "虚空",
+                    "icon": false
+                },
+                {
+                    "wordId": "空置",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "偶像",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "英雄",
+                    "icon": false
+                },
+                {
+                    "wordId": "图示",
+                    "icon": false
+                },
+                {
+                    "wordId": "神",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "袖孔",
+        "高大的",
+        "空置",
+        "鹦鹉螺",
+        "衬衫",
+        "自然地理图",
+        "图示",
+        "经济地图",
+        "芝麻酱",
+        "命名礼",
+        "巴恰塔",
+        "鹰嘴豆泥",
+        "章鱼",
+        "洗礼",
+        "空白",
+        "开幕礼",
+        "西瓜",
+        "飞艇",
+        "神",
+        "舞蹈",
+        "探戈",
+        "虚空",
+        "球拍",
+        "马麦酱",
+        "袖子",
+        "水母",
+        "袖口",
+        "海葵",
+        "小步舞",
+        "康康舞",
+        "酱料",
+        "橄榄酱",
+        "世界地图",
+        "极高的",
+        "专题地图",
+        "地图类型",
+        "橄榄",
+        "资源地图",
+        "触手",
+        "乌贼",
+        "道路地图",
+        "维吉麦"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "味噌",
+                "高的",
+                "蛋",
+                "空的"
+            ]
+        },
+        {
+            "cards": [
+                "狐步舞",
+                "牛仔舞",
+                "高耸的",
+                "婚礼",
+                "伦巴"
+            ]
+        },
+        {
+            "cards": [
+                "英雄",
+                "鳄梨",
+                "鱿鱼",
+                "衣领",
+                "椭圆形",
+                "橄榄球"
+            ]
+        },
+        {
+            "cards": [
+                "天气图",
+                "偶像",
+                "咖啡豆",
+                "萨尔萨",
+                "高耸云霄的",
+                "仪式",
+                "地质图"
+            ]
+        }
+    ]
+}

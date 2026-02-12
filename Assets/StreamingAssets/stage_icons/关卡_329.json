@@ -1,0 +1,369 @@
+{
+    "levelId": 329,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "铠甲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "头盔",
+                    "icon": false
+                },
+                {
+                    "wordId": "胸甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "铁手套",
+                    "icon": false
+                },
+                {
+                    "wordId": "护胫",
+                    "icon": false
+                },
+                {
+                    "wordId": "前臂甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "腿甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢靴",
+                    "icon": false
+                },
+                {
+                    "wordId": "肩甲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "草甸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "草原",
+                    "icon": false
+                },
+                {
+                    "wordId": "牧场",
+                    "icon": false
+                },
+                {
+                    "wordId": "荒野",
+                    "icon": false
+                },
+                {
+                    "wordId": "干草原",
+                    "icon": false
+                },
+                {
+                    "wordId": "草皮",
+                    "icon": false
+                },
+                {
+                    "wordId": "草地",
+                    "icon": false
+                },
+                {
+                    "wordId": "林间空地",
+                    "icon": false
+                },
+                {
+                    "wordId": "三叶草",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "金字塔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "狮身人面像",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉萨",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡夫金字塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡夫拉金字塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "孟卡拉金字塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "方尖碑",
+                    "icon": false
+                },
+                {
+                    "wordId": "陵墓",
+                    "icon": false
+                },
+                {
+                    "wordId": "古坟",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圣杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "神像",
+                    "icon": false
+                },
+                {
+                    "wordId": "护身符",
+                    "icon": false
+                },
+                {
+                    "wordId": "遗物",
+                    "icon": false
+                },
+                {
+                    "wordId": "石板",
+                    "icon": false
+                },
+                {
+                    "wordId": "旗帜",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "传送门",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大门",
+                    "icon": false
+                },
+                {
+                    "wordId": "门",
+                    "icon": false
+                },
+                {
+                    "wordId": "拱门",
+                    "icon": false
+                },
+                {
+                    "wordId": "漩涡",
+                    "icon": false
+                },
+                {
+                    "wordId": "镜子",
+                    "icon": false
+                },
+                {
+                    "wordId": "入口",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "质数",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "十一",
+                    "icon": true
+                },
+                {
+                    "wordId": "十三",
+                    "icon": true
+                },
+                {
+                    "wordId": "四十一",
+                    "icon": true
+                },
+                {
+                    "wordId": "十九",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "美术",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "画架",
+                    "icon": false
+                },
+                {
+                    "wordId": "调色板",
+                    "icon": false
+                },
+                {
+                    "wordId": "画笔",
+                    "icon": false
+                },
+                {
+                    "wordId": "底料",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神秘生物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "天蛾人",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥古普古",
+                    "icon": false
+                },
+                {
+                    "wordId": "大脚怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼斯湖水怪",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "折纸",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小船折纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "千纸鹤",
+                    "icon": true
+                },
+                {
+                    "wordId": "青蛙折纸",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "讽刺",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "戏仿",
+                    "icon": false
+                },
+                {
+                    "wordId": "恶搞",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘲讽",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "护胫",
+        "牧场",
+        "门",
+        "护身符",
+        "吉萨",
+        "干草原",
+        "圣杯",
+        "遗物",
+        "腿甲",
+        "千纸鹤",
+        "入口",
+        "美术",
+        "古坟",
+        "镜子",
+        "林间空地",
+        "草地",
+        "漩涡",
+        "荒野",
+        "画架",
+        "头盔",
+        "文物",
+        "底料",
+        "奥古普古",
+        "钢靴",
+        "前臂甲",
+        "恶搞",
+        "旗帜",
+        "陵墓",
+        "尼斯湖水怪",
+        "铠甲",
+        "神像",
+        "肩甲",
+        "折纸",
+        "十三",
+        "胸甲",
+        "草甸",
+        "大脚怪",
+        "调色板",
+        "狮身人面像",
+        "画笔",
+        "嘲讽",
+        "拱门"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "金字塔",
+                "戏仿",
+                "卡夫拉金字塔",
+                "质数"
+            ]
+        },
+        {
+            "cards": [
+                "方尖碑",
+                "四十一",
+                "草皮",
+                "讽刺",
+                "孟卡拉金字塔"
+            ]
+        },
+        {
+            "cards": [
+                "胡夫金字塔",
+                "三叶草",
+                "十九",
+                "小船折纸",
+                "大门",
+                "神秘生物"
+            ]
+        },
+        {
+            "cards": [
+                "草原",
+                "铁手套",
+                "石板",
+                "传送门",
+                "十一",
+                "天蛾人",
+                "青蛙折纸"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 79,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "纹身图案",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "图案",
+                    "icon": false
+                },
+                {
+                    "wordId": "墨水",
+                    "icon": false
+                },
+                {
+                    "wordId": "皮肤",
+                    "icon": false
+                },
+                {
+                    "wordId": "设计",
+                    "icon": false
+                },
+                {
+                    "wordId": "针头",
+                    "icon": false
+                },
+                {
+                    "wordId": "永久",
+                    "icon": false
+                },
+                {
+                    "wordId": "艺术",
+                    "icon": false
+                },
+                {
+                    "wordId": "风格",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "面条",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "意面",
+                    "icon": false
+                },
+                {
+                    "wordId": "汤汁",
+                    "icon": false
+                },
+                {
+                    "wordId": "小麦",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉面",
+                    "icon": false
+                },
+                {
+                    "wordId": "米粉",
+                    "icon": false
+                },
+                {
+                    "wordId": "煮沸",
+                    "icon": false
+                },
+                {
+                    "wordId": "酱料",
+                    "icon": false
+                },
+                {
+                    "wordId": "弹性",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "火箭",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "燃料",
+                    "icon": false
+                },
+                {
+                    "wordId": "发射",
+                    "icon": false
+                },
+                {
+                    "wordId": "太空",
+                    "icon": false
+                },
+                {
+                    "wordId": "座舱",
+                    "icon": false
+                },
+                {
+                    "wordId": "恒星",
+                    "icon": false
+                },
+                {
+                    "wordId": "舱",
+                    "icon": false
+                },
+                {
+                    "wordId": "太空舱",
+                    "icon": false
+                },
+                {
+                    "wordId": "重力加速度",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海港",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海湾",
+                    "icon": false
+                },
+                {
+                    "wordId": "突堤码头",
+                    "icon": false
+                },
+                {
+                    "wordId": "泊位",
+                    "icon": false
+                },
+                {
+                    "wordId": "海岸",
+                    "icon": false
+                },
+                {
+                    "wordId": "游艇码头",
+                    "icon": false
+                },
+                {
+                    "wordId": "船只",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "押韵",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "对句",
+                    "icon": false
+                },
+                {
+                    "wordId": "诗节",
+                    "icon": false
+                },
+                {
+                    "wordId": "吟唱",
+                    "icon": false
+                },
+                {
+                    "wordId": "流畅",
+                    "icon": false
+                },
+                {
+                    "wordId": "俳句",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌曲",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绿洲",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "平静",
+                    "icon": false
+                },
+                {
+                    "wordId": "静止",
+                    "icon": false
+                },
+                {
+                    "wordId": "安宁",
+                    "icon": false
+                },
+                {
+                    "wordId": "和平的",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "彗星",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尾巴",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                },
+                {
+                    "wordId": "夜晚",
+                    "icon": false
+                },
+                {
+                    "wordId": "微光",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "街道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "砖",
+                    "icon": true
+                },
+                {
+                    "wordId": "司机",
+                    "icon": true
+                },
+                {
+                    "wordId": "角落",
+                    "icon": true
+                },
+                {
+                    "wordId": "自行车",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "镜子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "反射",
+                    "icon": false
+                },
+                {
+                    "wordId": "玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "影像",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "工作室",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "房间",
+                    "icon": true
+                },
+                {
+                    "wordId": "麦克风架",
+                    "icon": true
+                },
+                {
+                    "wordId": "音符",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "反射",
+        "俳句",
+        "砖",
+        "突堤码头",
+        "微光",
+        "设计",
+        "舱",
+        "彗星",
+        "音符",
+        "对句",
+        "司机",
+        "图案",
+        "海岸",
+        "煮沸",
+        "房间",
+        "影像",
+        "流畅",
+        "风格",
+        "自行车",
+        "小麦",
+        "夜晚",
+        "麦克风架",
+        "静止",
+        "墨水",
+        "发射",
+        "意面",
+        "闪烁",
+        "尾巴",
+        "平静",
+        "火箭",
+        "拉面",
+        "弹性",
+        "太空舱",
+        "和平的",
+        "街道",
+        "泊位",
+        "角落",
+        "汤汁",
+        "绿洲",
+        "工作室",
+        "太空",
+        "重力加速度"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "诗节",
+                "押韵",
+                "皮肤",
+                "游艇码头"
+            ]
+        },
+        {
+            "cards": [
+                "艺术",
+                "海湾",
+                "针头",
+                "永久",
+                "恒星"
+            ]
+        },
+        {
+            "cards": [
+                "座舱",
+                "吟唱",
+                "面条",
+                "镜子",
+                "船只",
+                "燃料"
+            ]
+        },
+        {
+            "cards": [
+                "玻璃",
+                "纹身图案",
+                "安宁",
+                "酱料",
+                "海港",
+                "米粉",
+                "歌曲"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 207,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "风味",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "香气",
+                    "icon": false
+                },
+                {
+                    "wordId": "香水",
+                    "icon": false
+                },
+                {
+                    "wordId": "气味",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗅觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "感官",
+                    "icon": false
+                },
+                {
+                    "wordId": "感知",
+                    "icon": false
+                },
+                {
+                    "wordId": "味道",
+                    "icon": false
+                },
+                {
+                    "wordId": "酒香",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "逻辑",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "定理",
+                    "icon": false
+                },
+                {
+                    "wordId": "论证",
+                    "icon": false
+                },
+                {
+                    "wordId": "悖论",
+                    "icon": false
+                },
+                {
+                    "wordId": "思维的",
+                    "icon": false
+                },
+                {
+                    "wordId": "分析",
+                    "icon": false
+                },
+                {
+                    "wordId": "预测",
+                    "icon": false
+                },
+                {
+                    "wordId": "数学",
+                    "icon": false
+                },
+                {
+                    "wordId": "公理",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "古埃及",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "卷轴",
+                    "icon": true
+                },
+                {
+                    "wordId": "象形文字",
+                    "icon": true
+                },
+                {
+                    "wordId": "金字塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "法老",
+                    "icon": true
+                },
+                {
+                    "wordId": "克利奥帕特拉",
+                    "icon": true
+                },
+                {
+                    "wordId": "芦苇笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "纸莎草",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "烘焙",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蛋糕",
+                    "icon": true
+                },
+                {
+                    "wordId": "面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "小圆面包",
+                    "icon": true
+                },
+                {
+                    "wordId": "披萨",
+                    "icon": true
+                },
+                {
+                    "wordId": "曲奇",
+                    "icon": true
+                },
+                {
+                    "wordId": "猪肉",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "清洁",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "浴室",
+                    "icon": true
+                },
+                {
+                    "wordId": "马桶",
+                    "icon": true
+                },
+                {
+                    "wordId": "厨房",
+                    "icon": true
+                },
+                {
+                    "wordId": "地板",
+                    "icon": true
+                },
+                {
+                    "wordId": "窗户",
+                    "icon": true
+                },
+                {
+                    "wordId": "水桶",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "营养素",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "能量",
+                    "icon": false
+                },
+                {
+                    "wordId": "酶",
+                    "icon": false
+                },
+                {
+                    "wordId": "脂肪",
+                    "icon": false
+                },
+                {
+                    "wordId": "碳水化合物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "松鼠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跳跃",
+                    "icon": false
+                },
+                {
+                    "wordId": "树木",
+                    "icon": false
+                },
+                {
+                    "wordId": "松果",
+                    "icon": false
+                },
+                {
+                    "wordId": "啃咬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "获胜者",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "奖杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "诺贝尔奖",
+                    "icon": false
+                },
+                {
+                    "wordId": "奖品",
+                    "icon": false
+                },
+                {
+                    "wordId": "马拉松",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "眨眼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "眼睛",
+                    "icon": false
+                },
+                {
+                    "wordId": "反射",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪烁",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "陷入",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "跌倒",
+                    "icon": false
+                },
+                {
+                    "wordId": "入睡",
+                    "icon": false
+                },
+                {
+                    "wordId": "坠入爱河",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "跌倒",
+        "香气",
+        "嗅觉",
+        "感官",
+        "陷入",
+        "眼睛",
+        "芦苇笔",
+        "香水",
+        "公理",
+        "数学",
+        "披萨",
+        "分析",
+        "啃咬",
+        "地板",
+        "气味",
+        "浴室",
+        "纸莎草",
+        "获胜者",
+        "法老",
+        "蛋糕",
+        "树木",
+        "闪烁",
+        "入睡",
+        "营养素",
+        "感知",
+        "脂肪",
+        "象形文字",
+        "诺贝尔奖",
+        "反射",
+        "小圆面包",
+        "味道",
+        "纸",
+        "跳跃",
+        "酶",
+        "猪肉",
+        "奖杯",
+        "窗户",
+        "坠入爱河",
+        "水桶",
+        "古埃及",
+        "马拉松",
+        "逻辑"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "奖品",
+                "预测",
+                "眨眼",
+                "思维的"
+            ]
+        },
+        {
+            "cards": [
+                "松鼠",
+                "面包",
+                "定理",
+                "曲奇",
+                "松果"
+            ]
+        },
+        {
+            "cards": [
+                "金字塔",
+                "悖论",
+                "厨房",
+                "卷轴",
+                "碳水化合物",
+                "清洁"
+            ]
+        },
+        {
+            "cards": [
+                "烘焙",
+                "酒香",
+                "能量",
+                "论证",
+                "风味",
+                "克利奥帕特拉",
+                "马桶"
+            ]
+        }
+    ]
+}

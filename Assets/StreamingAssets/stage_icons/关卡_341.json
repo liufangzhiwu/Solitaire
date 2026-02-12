@@ -1,0 +1,553 @@
+{
+    "levelId": 341,
+    "slotsDefault": 5,
+    "slotsRewarded": 6,
+    "movesLimit": 200,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "问候",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "你好",
+                    "icon": false
+                },
+                {
+                    "wordId": "嗨",
+                    "icon": false
+                },
+                {
+                    "wordId": "嘿",
+                    "icon": false
+                },
+                {
+                    "wordId": "哟",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "日安",
+                    "icon": false
+                },
+                {
+                    "wordId": "Ciao",
+                    "icon": false
+                },
+                {
+                    "wordId": "Salaam",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "星空",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "猎户座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天龙座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹅座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天琴座",
+                    "icon": false
+                },
+                {
+                    "wordId": "金牛座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天蝎座",
+                    "icon": false
+                },
+                {
+                    "wordId": "天鹰座",
+                    "icon": false
+                },
+                {
+                    "wordId": "英仙座",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "文物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "花瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "神像",
+                    "icon": false
+                },
+                {
+                    "wordId": "硬币",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣杯",
+                    "icon": false
+                },
+                {
+                    "wordId": "石板",
+                    "icon": false
+                },
+                {
+                    "wordId": "面具",
+                    "icon": false
+                },
+                {
+                    "wordId": "挂毯",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷轴",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "节日",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "耶诞节",
+                    "icon": false
+                },
+                {
+                    "wordId": "光明节",
+                    "icon": false
+                },
+                {
+                    "wordId": "胡里节",
+                    "icon": false
+                },
+                {
+                    "wordId": "排灯节",
+                    "icon": false
+                },
+                {
+                    "wordId": "狂欢节",
+                    "icon": false
+                },
+                {
+                    "wordId": "复活节",
+                    "icon": false
+                },
+                {
+                    "wordId": "斋月",
+                    "icon": false
+                },
+                {
+                    "wordId": "逾越节",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "冰岛",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "间歇泉",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰川",
+                    "icon": false
+                },
+                {
+                    "wordId": "北欧的",
+                    "icon": false
+                },
+                {
+                    "wordId": "维京人",
+                    "icon": false
+                },
+                {
+                    "wordId": "火山",
+                    "icon": false
+                },
+                {
+                    "wordId": "苔原",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "君主",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "亨利",
+                    "icon": false
+                },
+                {
+                    "wordId": "路易",
+                    "icon": false
+                },
+                {
+                    "wordId": "亚瑟",
+                    "icon": false
+                },
+                {
+                    "wordId": "拿破仑",
+                    "icon": false
+                },
+                {
+                    "wordId": "维多利亚",
+                    "icon": false
+                },
+                {
+                    "wordId": "尼禄",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "暗影",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阴暗",
+                    "icon": false
+                },
+                {
+                    "wordId": "阴影",
+                    "icon": false
+                },
+                {
+                    "wordId": "幻影",
+                    "icon": false
+                },
+                {
+                    "wordId": "怨灵",
+                    "icon": false
+                },
+                {
+                    "wordId": "食尸鬼",
+                    "icon": false
+                },
+                {
+                    "wordId": "幽灵",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "军衔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海军上将",
+                    "icon": false
+                },
+                {
+                    "wordId": "上尉",
+                    "icon": false
+                },
+                {
+                    "wordId": "少校",
+                    "icon": false
+                },
+                {
+                    "wordId": "上校",
+                    "icon": false
+                },
+                {
+                    "wordId": "将军",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "地下墓穴",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "地窖",
+                    "icon": false
+                },
+                {
+                    "wordId": "尸骨存放所",
+                    "icon": false
+                },
+                {
+                    "wordId": "骨灰堂",
+                    "icon": false
+                },
+                {
+                    "wordId": "墓穴",
+                    "icon": false
+                },
+                {
+                    "wordId": "坟墓",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "绘图",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "钢笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "铅笔",
+                    "icon": true
+                },
+                {
+                    "wordId": "橡皮",
+                    "icon": true
+                },
+                {
+                    "wordId": "尺子",
+                    "icon": true
+                },
+                {
+                    "wordId": "马克笔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "首码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "单",
+                    "icon": false
+                },
+                {
+                    "wordId": "双",
+                    "icon": false
+                },
+                {
+                    "wordId": "三",
+                    "icon": false
+                },
+                {
+                    "wordId": "四",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "塔",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "埃菲尔铁塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "大本钟",
+                    "icon": true
+                },
+                {
+                    "wordId": "比萨斜塔",
+                    "icon": true
+                },
+                {
+                    "wordId": "加拿大国家电视塔",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "食现象",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "日食",
+                    "icon": false
+                },
+                {
+                    "wordId": "月食",
+                    "icon": false
+                },
+                {
+                    "wordId": "环食",
+                    "icon": false
+                },
+                {
+                    "wordId": "全食",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "向量",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "力",
+                    "icon": false
+                },
+                {
+                    "wordId": "动量",
+                    "icon": false
+                },
+                {
+                    "wordId": "扭矩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "潮汐",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "退潮",
+                    "icon": false
+                },
+                {
+                    "wordId": "涨潮",
+                    "icon": false
+                },
+                {
+                    "wordId": "涌潮",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "上校",
+        "光明节",
+        "日安",
+        "将军",
+        "海军上将",
+        "塔",
+        "月食",
+        "硬币",
+        "地窖",
+        "狂欢节",
+        "斋月",
+        "火山",
+        "胡里节",
+        "比萨斜塔",
+        "天鹰座",
+        "北欧的",
+        "嘿",
+        "全食",
+        "Ciao",
+        "骨灰堂",
+        "苔原",
+        "猎户座",
+        "涨潮",
+        "地下墓穴",
+        "君主",
+        "钢笔",
+        "英仙座",
+        "尸骨存放所",
+        "Salaam",
+        "四",
+        "冰川",
+        "文物",
+        "加拿大国家电视塔",
+        "神像",
+        "坟墓",
+        "大本钟",
+        "金牛座",
+        "动量",
+        "花瓶",
+        "马克笔",
+        "阴暗",
+        "耶诞节",
+        "亨利",
+        "环食",
+        "阴影",
+        "少校",
+        "天蝎座",
+        "日食",
+        "双",
+        "单",
+        "天鹅座",
+        "维多利亚",
+        "星空",
+        "天龙座",
+        "尼禄",
+        "暗影",
+        "维京人",
+        "尺子",
+        "铅笔",
+        "哟",
+        "圣杯",
+        "军衔",
+        "石板"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "绘图",
+                "亚瑟",
+                "幻影",
+                "首码",
+                "挂毯"
+            ]
+        },
+        {
+            "cards": [
+                "奥拉",
+                "橡皮",
+                "上尉",
+                "食现象",
+                "涌潮",
+                "节日"
+            ]
+        },
+        {
+            "cards": [
+                "食尸鬼",
+                "路易",
+                "你好",
+                "潮汐",
+                "天琴座",
+                "三",
+                "嗨"
+            ]
+        },
+        {
+            "cards": [
+                "幽灵",
+                "拿破仑",
+                "逾越节",
+                "问候",
+                "墓穴",
+                "复活节",
+                "间歇泉",
+                "怨灵"
+            ]
+        },
+        {
+            "cards": [
+                "扭矩",
+                "排灯节",
+                "埃菲尔铁塔",
+                "向量",
+                "退潮",
+                "面具",
+                "卷轴",
+                "力",
+                "冰岛"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 315,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "缎带",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蝴蝶结",
+                    "icon": false
+                },
+                {
+                    "wordId": "卷曲",
+                    "icon": false
+                },
+                {
+                    "wordId": "环圈",
+                    "icon": false
+                },
+                {
+                    "wordId": "扭转",
+                    "icon": false
+                },
+                {
+                    "wordId": "飘带",
+                    "icon": false
+                },
+                {
+                    "wordId": "线轴",
+                    "icon": false
+                },
+                {
+                    "wordId": "褶边",
+                    "icon": false
+                },
+                {
+                    "wordId": "结",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "人体组织",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "肌肉组织",
+                    "icon": true
+                },
+                {
+                    "wordId": "神经组织",
+                    "icon": true
+                },
+                {
+                    "wordId": "皮肤组织",
+                    "icon": true
+                },
+                {
+                    "wordId": "血液",
+                    "icon": true
+                },
+                {
+                    "wordId": "脂肪组织",
+                    "icon": true
+                },
+                {
+                    "wordId": "骨组织",
+                    "icon": true
+                },
+                {
+                    "wordId": "腺体组织",
+                    "icon": true
+                },
+                {
+                    "wordId": "淋巴组织",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "数字",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "零",
+                    "icon": false
+                },
+                {
+                    "wordId": "一",
+                    "icon": false
+                },
+                {
+                    "wordId": "二",
+                    "icon": false
+                },
+                {
+                    "wordId": "三",
+                    "icon": false
+                },
+                {
+                    "wordId": "四",
+                    "icon": false
+                },
+                {
+                    "wordId": "五",
+                    "icon": false
+                },
+                {
+                    "wordId": "六",
+                    "icon": false
+                },
+                {
+                    "wordId": "七",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "公制单位",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "米",
+                    "icon": false
+                },
+                {
+                    "wordId": "升",
+                    "icon": false
+                },
+                {
+                    "wordId": "克",
+                    "icon": false
+                },
+                {
+                    "wordId": "秒",
+                    "icon": false
+                },
+                {
+                    "wordId": "安培",
+                    "icon": false
+                },
+                {
+                    "wordId": "开尔文",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "山峰",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珠穆朗玛峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "德纳里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "富士山",
+                    "icon": false
+                },
+                {
+                    "wordId": "乔戈里峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "马卡鲁峰",
+                    "icon": false
+                },
+                {
+                    "wordId": "卡兹别克峰",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "气体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "氦气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氖气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氩气",
+                    "icon": false
+                },
+                {
+                    "wordId": "氙气",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "感官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "视觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "听觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "触觉",
+                    "icon": false
+                },
+                {
+                    "wordId": "平衡觉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "射线",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "阿尔法射线",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝塔射线",
+                    "icon": false
+                },
+                {
+                    "wordId": "伽马射线",
+                    "icon": false
+                },
+                {
+                    "wordId": "德尔塔射线",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海滩",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "邦迪海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "威基基海滩",
+                    "icon": false
+                },
+                {
+                    "wordId": "伊帕内玛海滩",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "轨道",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "圆形轨道",
+                    "icon": true
+                },
+                {
+                    "wordId": "椭圆轨道",
+                    "icon": true
+                },
+                {
+                    "wordId": "螺旋轨道",
+                    "icon": true
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "二",
+        "卡兹别克峰",
+        "德纳里峰",
+        "德尔塔射线",
+        "秒",
+        "圆形轨道",
+        "五",
+        "触觉",
+        "七",
+        "脂肪组织",
+        "环圈",
+        "贝塔射线",
+        "一",
+        "肌肉组织",
+        "人体组织",
+        "数字",
+        "螺旋轨道",
+        "线轴",
+        "氩气",
+        "皮肤组织",
+        "视觉",
+        "伊帕内玛海滩",
+        "四",
+        "缎带",
+        "零",
+        "感官",
+        "珠穆朗玛峰",
+        "结",
+        "蝴蝶结",
+        "威基基海滩",
+        "邦迪海滩",
+        "平衡觉",
+        "山峰",
+        "富士山",
+        "扭转",
+        "氙气",
+        "听觉",
+        "克",
+        "安培",
+        "马卡鲁峰",
+        "氦气",
+        "六"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "海滩",
+                "三",
+                "伽马射线",
+                "射线"
+            ]
+        },
+        {
+            "cards": [
+                "米",
+                "骨组织",
+                "飘带",
+                "轨道",
+                "淋巴组织"
+            ]
+        },
+        {
+            "cards": [
+                "褶边",
+                "椭圆轨道",
+                "乔戈里峰",
+                "神经组织",
+                "公制单位",
+                "气体"
+            ]
+        },
+        {
+            "cards": [
+                "升",
+                "血液",
+                "卷曲",
+                "腺体组织",
+                "阿尔法射线",
+                "开尔文",
+                "氖气"
+            ]
+        }
+    ]
+}

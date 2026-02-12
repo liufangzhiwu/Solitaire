@@ -1,0 +1,369 @@
+{
+    "levelId": 285,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "灯笼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "蜡烛灯笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "火炬",
+                    "icon": false
+                },
+                {
+                    "wordId": "电石灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤气灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "电灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "煤油灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "油灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "LED灯",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "美食",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "寿司",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔可",
+                    "icon": false
+                },
+                {
+                    "wordId": "西班牙海鲜饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "玉米饼",
+                    "icon": false
+                },
+                {
+                    "wordId": "古拉什",
+                    "icon": false
+                },
+                {
+                    "wordId": "拉面",
+                    "icon": false
+                },
+                {
+                    "wordId": "意式烩饭",
+                    "icon": false
+                },
+                {
+                    "wordId": "法拉费",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "器官",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "心脏",
+                    "icon": true
+                },
+                {
+                    "wordId": "肝脏",
+                    "icon": true
+                },
+                {
+                    "wordId": "肺",
+                    "icon": true
+                },
+                {
+                    "wordId": "肾脏",
+                    "icon": true
+                },
+                {
+                    "wordId": "大脑",
+                    "icon": true
+                },
+                {
+                    "wordId": "脾脏",
+                    "icon": true
+                },
+                {
+                    "wordId": "阑尾",
+                    "icon": true
+                },
+                {
+                    "wordId": "胃",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "塔罗牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "愚者",
+                    "icon": false
+                },
+                {
+                    "wordId": "魔法师",
+                    "icon": false
+                },
+                {
+                    "wordId": "倒吊人",
+                    "icon": false
+                },
+                {
+                    "wordId": "高塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "世界",
+                    "icon": false
+                },
+                {
+                    "wordId": "太阳",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小装置",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "杠杆",
+                    "icon": false
+                },
+                {
+                    "wordId": "刻度盘",
+                    "icon": false
+                },
+                {
+                    "wordId": "转子",
+                    "icon": false
+                },
+                {
+                    "wordId": "齿轮",
+                    "icon": false
+                },
+                {
+                    "wordId": "阀门",
+                    "icon": false
+                },
+                {
+                    "wordId": "活塞",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "宝石",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "红宝石",
+                    "icon": true
+                },
+                {
+                    "wordId": "托帕石",
+                    "icon": true
+                },
+                {
+                    "wordId": "翡翠",
+                    "icon": true
+                },
+                {
+                    "wordId": "蓝宝石",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "修辞手法",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "情节",
+                    "icon": false
+                },
+                {
+                    "wordId": "陈词滥调",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜语",
+                    "icon": false
+                },
+                {
+                    "wordId": "反转",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "肉类",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牛排",
+                    "icon": false
+                },
+                {
+                    "wordId": "培根",
+                    "icon": false
+                },
+                {
+                    "wordId": "火腿",
+                    "icon": false
+                },
+                {
+                    "wordId": "鹿肉",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "大洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "太平洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "大西洋",
+                    "icon": false
+                },
+                {
+                    "wordId": "北冰洋",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "史诗",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "伊利亚特",
+                    "icon": false
+                },
+                {
+                    "wordId": "奥德赛",
+                    "icon": false
+                },
+                {
+                    "wordId": "贝奥武夫",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "肝脏",
+        "玉米饼",
+        "世界",
+        "情节",
+        "拉面",
+        "魔法师",
+        "红宝石",
+        "倒吊人",
+        "美食",
+        "蜡烛灯笼",
+        "肺",
+        "太平洋",
+        "鹿肉",
+        "伊利亚特",
+        "塔可",
+        "活塞",
+        "高塔",
+        "北冰洋",
+        "反转",
+        "寿司",
+        "LED灯",
+        "贝奥武夫",
+        "转子",
+        "奥德赛",
+        "煤油灯",
+        "肾脏",
+        "翡翠",
+        "法拉费",
+        "肉类",
+        "修辞手法",
+        "电石灯",
+        "史诗",
+        "刻度盘",
+        "大脑",
+        "阑尾",
+        "牛排",
+        "陈词滥调",
+        "杠杆",
+        "大洋",
+        "火腿",
+        "胃",
+        "火炬"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "托帕石",
+                "塔罗牌",
+                "阀门",
+                "小装置"
+            ]
+        },
+        {
+            "cards": [
+                "油灯",
+                "宝石",
+                "脾脏",
+                "器官",
+                "古拉什"
+            ]
+        },
+        {
+            "cards": [
+                "谜语",
+                "大西洋",
+                "培根",
+                "煤气灯",
+                "意式烩饭",
+                "电灯"
+            ]
+        },
+        {
+            "cards": [
+                "心脏",
+                "愚者",
+                "太阳",
+                "齿轮",
+                "西班牙海鲜饭",
+                "灯笼",
+                "蓝宝石"
+            ]
+        }
+    ]
+}

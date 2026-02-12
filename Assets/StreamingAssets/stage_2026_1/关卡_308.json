@@ -1,0 +1,369 @@
+{
+    "levelId": 308,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "信标",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "法罗斯灯塔",
+                    "icon": false
+                },
+                {
+                    "wordId": "火炬",
+                    "icon": false
+                },
+                {
+                    "wordId": "闪光信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "信号",
+                    "icon": false
+                },
+                {
+                    "wordId": "篝火",
+                    "icon": false
+                },
+                {
+                    "wordId": "灯笼",
+                    "icon": false
+                },
+                {
+                    "wordId": "光束灯",
+                    "icon": false
+                },
+                {
+                    "wordId": "雾号",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "海洋",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "珊瑚",
+                    "icon": false
+                },
+                {
+                    "wordId": "礁石",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲨鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鲸鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "海龟",
+                    "icon": false
+                },
+                {
+                    "wordId": "章鱼",
+                    "icon": false
+                },
+                {
+                    "wordId": "海豚",
+                    "icon": false
+                },
+                {
+                    "wordId": "海马",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "镜子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "玻璃",
+                    "icon": false
+                },
+                {
+                    "wordId": "碎片",
+                    "icon": false
+                },
+                {
+                    "wordId": "抛光",
+                    "icon": false
+                },
+                {
+                    "wordId": "表面",
+                    "icon": false
+                },
+                {
+                    "wordId": "反射",
+                    "icon": false
+                },
+                {
+                    "wordId": "框架",
+                    "icon": false
+                },
+                {
+                    "wordId": "银色",
+                    "icon": false
+                },
+                {
+                    "wordId": "光泽",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "书卷",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "纸莎草",
+                    "icon": true
+                },
+                {
+                    "wordId": "古籍手抄本",
+                    "icon": true
+                },
+                {
+                    "wordId": "卷轴",
+                    "icon": true
+                },
+                {
+                    "wordId": "犊皮纸",
+                    "icon": true
+                },
+                {
+                    "wordId": "大部头",
+                    "icon": true
+                },
+                {
+                    "wordId": "传单",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "柱子",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "支柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "立柱",
+                    "icon": false
+                },
+                {
+                    "wordId": "桥墩",
+                    "icon": false
+                },
+                {
+                    "wordId": "扶壁",
+                    "icon": false
+                },
+                {
+                    "wordId": "支撑",
+                    "icon": false
+                },
+                {
+                    "wordId": "直立",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "球体",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "篮球",
+                    "icon": true
+                },
+                {
+                    "wordId": "地球仪",
+                    "icon": true
+                },
+                {
+                    "wordId": "球",
+                    "icon": true
+                },
+                {
+                    "wordId": "珠子",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "面具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "面甲",
+                    "icon": false
+                },
+                {
+                    "wordId": "面纱",
+                    "icon": false
+                },
+                {
+                    "wordId": "外表",
+                    "icon": false
+                },
+                {
+                    "wordId": "伪装",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "小瓶",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "安瓿",
+                    "icon": false
+                },
+                {
+                    "wordId": "小药瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "烧瓶",
+                    "icon": false
+                },
+                {
+                    "wordId": "瓶子",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "头冠",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "额冠",
+                    "icon": true
+                },
+                {
+                    "wordId": "头饰",
+                    "icon": true
+                },
+                {
+                    "wordId": "小冠冕",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "回声",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "混响",
+                    "icon": false
+                },
+                {
+                    "wordId": "回响",
+                    "icon": false
+                },
+                {
+                    "wordId": "重复",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "海马",
+        "灯笼",
+        "伪装",
+        "光泽",
+        "海龟",
+        "海豚",
+        "传单",
+        "犊皮纸",
+        "立柱",
+        "框架",
+        "小瓶",
+        "球",
+        "雾号",
+        "重复",
+        "安瓿",
+        "头冠",
+        "珠子",
+        "烧瓶",
+        "卷轴",
+        "支撑",
+        "银色",
+        "珊瑚",
+        "瓶子",
+        "支柱",
+        "桥墩",
+        "外表",
+        "抛光",
+        "玻璃",
+        "混响",
+        "回声",
+        "柱子",
+        "面甲",
+        "表面",
+        "古籍手抄本",
+        "礁石",
+        "扶壁",
+        "小冠冕",
+        "纸莎草",
+        "法罗斯灯塔",
+        "信标",
+        "闪光信号",
+        "篮球"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "镜子",
+                "头饰",
+                "球体",
+                "面具"
+            ]
+        },
+        {
+            "cards": [
+                "直立",
+                "反射",
+                "小药瓶",
+                "碎片",
+                "大部头"
+            ]
+        },
+        {
+            "cards": [
+                "鲸鱼",
+                "地球仪",
+                "光束灯",
+                "篝火",
+                "面纱",
+                "额冠"
+            ]
+        },
+        {
+            "cards": [
+                "鲨鱼",
+                "海洋",
+                "章鱼",
+                "书卷",
+                "信号",
+                "火炬",
+                "回响"
+            ]
+        }
+    ]
+}

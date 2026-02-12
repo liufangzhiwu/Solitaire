@@ -1,0 +1,369 @@
+{
+    "levelId": 301,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "怪物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "哥布林",
+                    "icon": false
+                },
+                {
+                    "wordId": "巨怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "食人魔",
+                    "icon": false
+                },
+                {
+                    "wordId": "九头蛇",
+                    "icon": false
+                },
+                {
+                    "wordId": "喀迈拉",
+                    "icon": false
+                },
+                {
+                    "wordId": "蛇怪",
+                    "icon": false
+                },
+                {
+                    "wordId": "北海巨妖",
+                    "icon": false
+                },
+                {
+                    "wordId": "独眼巨人",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "岛屿",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "牙买加",
+                    "icon": false
+                },
+                {
+                    "wordId": "冰岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "巴厘岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔希提岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "马耳他",
+                    "icon": false
+                },
+                {
+                    "wordId": "科西嘉岛",
+                    "icon": false
+                },
+                {
+                    "wordId": "塞浦路斯",
+                    "icon": false
+                },
+                {
+                    "wordId": "撒丁岛",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "博物馆",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "图画",
+                    "icon": false
+                },
+                {
+                    "wordId": "展品",
+                    "icon": false
+                },
+                {
+                    "wordId": "画廊",
+                    "icon": false
+                },
+                {
+                    "wordId": "雕像",
+                    "icon": false
+                },
+                {
+                    "wordId": "立体模型",
+                    "icon": false
+                },
+                {
+                    "wordId": "湿壁画",
+                    "icon": false
+                },
+                {
+                    "wordId": "陈列",
+                    "icon": false
+                },
+                {
+                    "wordId": "文物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "神圣之物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "护身符",
+                    "icon": false
+                },
+                {
+                    "wordId": "圣物",
+                    "icon": false
+                },
+                {
+                    "wordId": "塔利斯曼",
+                    "icon": false
+                },
+                {
+                    "wordId": "神像",
+                    "icon": false
+                },
+                {
+                    "wordId": "图腾",
+                    "icon": false
+                },
+                {
+                    "wordId": "象形符号",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "装饰品",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "小摆件",
+                    "icon": false
+                },
+                {
+                    "wordId": "吊坠",
+                    "icon": false
+                },
+                {
+                    "wordId": "手镯",
+                    "icon": false
+                },
+                {
+                    "wordId": "镶嵌",
+                    "icon": false
+                },
+                {
+                    "wordId": "浮雕",
+                    "icon": false
+                },
+                {
+                    "wordId": "盒式吊坠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "爬行动物",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "石龙子",
+                    "icon": true
+                },
+                {
+                    "wordId": "凯门鳄",
+                    "icon": true
+                },
+                {
+                    "wordId": "科莫多龙",
+                    "icon": true
+                },
+                {
+                    "wordId": "安乐蜥",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "吸血鬼",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "尖牙",
+                    "icon": false
+                },
+                {
+                    "wordId": "不死族",
+                    "icon": false
+                },
+                {
+                    "wordId": "咬痕",
+                    "icon": false
+                },
+                {
+                    "wordId": "永生者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "谜题",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "密码",
+                    "icon": false
+                },
+                {
+                    "wordId": "悖论",
+                    "icon": false
+                },
+                {
+                    "wordId": "谜团",
+                    "icon": false
+                },
+                {
+                    "wordId": "困境",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "代码",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "摩斯电码",
+                    "icon": false
+                },
+                {
+                    "wordId": "二进制",
+                    "icon": false
+                },
+                {
+                    "wordId": "盲文",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "机场",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "航站楼",
+                    "icon": false
+                },
+                {
+                    "wordId": "跑道",
+                    "icon": false
+                },
+                {
+                    "wordId": "机库",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "巨怪",
+        "机场",
+        "二进制",
+        "安乐蜥",
+        "盒式吊坠",
+        "图画",
+        "爬行动物",
+        "石龙子",
+        "文物",
+        "哥布林",
+        "镶嵌",
+        "密码",
+        "神圣之物",
+        "塞浦路斯",
+        "手镯",
+        "不死族",
+        "机库",
+        "画廊",
+        "北海巨妖",
+        "怪物",
+        "谜团",
+        "凯门鳄",
+        "雕像",
+        "塔希提岛",
+        "永生者",
+        "困境",
+        "牙买加",
+        "象形符号",
+        "摩斯电码",
+        "神像",
+        "撒丁岛",
+        "湿壁画",
+        "食人魔",
+        "塔利斯曼",
+        "岛屿",
+        "立体模型",
+        "科莫多龙",
+        "悖论",
+        "马耳他",
+        "航站楼",
+        "浮雕",
+        "跑道"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "独眼巨人",
+                "博物馆",
+                "尖牙",
+                "吊坠"
+            ]
+        },
+        {
+            "cards": [
+                "装饰品",
+                "陈列",
+                "冰岛",
+                "科西嘉岛",
+                "喀迈拉"
+            ]
+        },
+        {
+            "cards": [
+                "图腾",
+                "盲文",
+                "吸血鬼",
+                "展品",
+                "小摆件",
+                "蛇怪"
+            ]
+        },
+        {
+            "cards": [
+                "谜题",
+                "九头蛇",
+                "圣物",
+                "代码",
+                "咬痕",
+                "护身符",
+                "巴厘岛"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "levelId": 354,
+    "slotsDefault": 4,
+    "slotsRewarded": 5,
+    "movesLimit": 130,
+    "isRandom": true,
+    "categories": [
+        {
+            "categoryId": "品牌",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "标志",
+                    "icon": false
+                },
+                {
+                    "wordId": "口号",
+                    "icon": false
+                },
+                {
+                    "wordId": "身份",
+                    "icon": false
+                },
+                {
+                    "wordId": "命名",
+                    "icon": false
+                },
+                {
+                    "wordId": "徽章",
+                    "icon": false
+                },
+                {
+                    "wordId": "标语",
+                    "icon": false
+                },
+                {
+                    "wordId": "商品",
+                    "icon": false
+                },
+                {
+                    "wordId": "吉祥物",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "表演",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "乐队",
+                    "icon": false
+                },
+                {
+                    "wordId": "歌手",
+                    "icon": false
+                },
+                {
+                    "wordId": "舞者",
+                    "icon": false
+                },
+                {
+                    "wordId": "合唱团",
+                    "icon": false
+                },
+                {
+                    "wordId": "钢琴家",
+                    "icon": false
+                },
+                {
+                    "wordId": "体操运动员",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂技演员",
+                    "icon": false
+                },
+                {
+                    "wordId": "杂耍演员",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "礼仪",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "请",
+                    "icon": false
+                },
+                {
+                    "wordId": "谢谢",
+                    "icon": false
+                },
+                {
+                    "wordId": "对不起",
+                    "icon": false
+                },
+                {
+                    "wordId": "原谅",
+                    "icon": false
+                },
+                {
+                    "wordId": "抱歉",
+                    "icon": false
+                },
+                {
+                    "wordId": "问候",
+                    "icon": false
+                },
+                {
+                    "wordId": "合十礼",
+                    "icon": false
+                },
+                {
+                    "wordId": "鞠躬",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "贝壳",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "海螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "宝螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "鸟蛤",
+                    "icon": true
+                },
+                {
+                    "wordId": "扇贝",
+                    "icon": true
+                },
+                {
+                    "wordId": "鹦鹉螺",
+                    "icon": true
+                },
+                {
+                    "wordId": "贻贝",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "刀具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "削皮刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "锯齿刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "去骨刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "主厨刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "鱼片刀",
+                    "icon": false
+                },
+                {
+                    "wordId": "黄油刀",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "零售",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "销售",
+                    "icon": false
+                },
+                {
+                    "wordId": "价格",
+                    "icon": false
+                },
+                {
+                    "wordId": "折扣",
+                    "icon": false
+                },
+                {
+                    "wordId": "优惠",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "间谍",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "特工",
+                    "icon": false
+                },
+                {
+                    "wordId": "卧底",
+                    "icon": false
+                },
+                {
+                    "wordId": "处理者",
+                    "icon": false
+                },
+                {
+                    "wordId": "告密者",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "锁具",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "挂锁",
+                    "icon": true
+                },
+                {
+                    "wordId": "死栓",
+                    "icon": true
+                },
+                {
+                    "wordId": "门闩",
+                    "icon": true
+                },
+                {
+                    "wordId": "自行车锁",
+                    "icon": true
+                }
+            ]
+        },
+        {
+            "categoryId": "步态",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "行走",
+                    "icon": false
+                },
+                {
+                    "wordId": "小跑",
+                    "icon": false
+                },
+                {
+                    "wordId": "慢跑",
+                    "icon": false
+                }
+            ]
+        },
+        {
+            "categoryId": "房间",
+            "icon": false,
+            "wordsData": [
+                {
+                    "wordId": "大厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "客厅",
+                    "icon": false
+                },
+                {
+                    "wordId": "地窖",
+                    "icon": false
+                }
+            ]
+        }
+    ],
+    "stock": [
+        "价格",
+        "合十礼",
+        "锯齿刀",
+        "命名",
+        "鹦鹉螺",
+        "鱼片刀",
+        "身份",
+        "乐队",
+        "优惠",
+        "原谅",
+        "黄油刀",
+        "贝壳",
+        "吉祥物",
+        "削皮刀",
+        "房间",
+        "小跑",
+        "杂技演员",
+        "自行车锁",
+        "死栓",
+        "抱歉",
+        "杂耍演员",
+        "徽章",
+        "锁具",
+        "告密者",
+        "鸟蛤",
+        "去骨刀",
+        "刀具",
+        "主厨刀",
+        "销售",
+        "卧底",
+        "步态",
+        "歌手",
+        "折扣",
+        "体操运动员",
+        "贻贝",
+        "地窖",
+        "谢谢",
+        "大厅",
+        "钢琴家",
+        "舞者",
+        "行走",
+        "鞠躬"
+    ],
+    "cardColumns": [
+        {
+            "cards": [
+                "问候",
+                "请",
+                "商品",
+                "标语"
+            ]
+        },
+        {
+            "cards": [
+                "对不起",
+                "间谍",
+                "客厅",
+                "特工",
+                "合唱团"
+            ]
+        },
+        {
+            "cards": [
+                "宝螺",
+                "海螺",
+                "口号",
+                "品牌",
+                "处理者",
+                "慢跑"
+            ]
+        },
+        {
+            "cards": [
+                "标志",
+                "零售",
+                "门闩",
+                "礼仪",
+                "扇贝",
+                "表演",
+                "挂锁"
+            ]
+        }
+    ]
+}
