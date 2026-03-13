@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Middleware;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -20,6 +21,10 @@ public class FailedPanel : UIWindow
         base.OnEnable();
         
         AudioManager.Instance.PlaySoundEffect("GameOver");
+        Game.Ads.ShowInterstitial((bool result) =>
+        {
+            
+        });
     }
     
     private void ReloadLevel()

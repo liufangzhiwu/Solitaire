@@ -1,5 +1,5 @@
 %YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
+%TAG !u! tag:yousandi.cn,2023:
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -124,12 +124,12 @@ MonoBehaviour:
     spriteAtlasName: OnboardingFlow
     prefab: {fileID: 2508230401924753788, guid: 80d9b9ce78383854fb95ccd9ac86a9d1, type: 3}
   - panelName: SuccessPanel
-    panelLayer: UpPopPanel
+    panelLayer: TopPanel
     bundleName: RootCanvas
     spriteAtlasName: UI_MainBase
     prefab: {fileID: 5955586738691443900, guid: 6c11c3f479a6b544c91425faf0b08120, type: 3}
   - panelName: FailedPanel
-    panelLayer: UpPopPanel
+    panelLayer: TopPanel
     bundleName: RootCanvas
     spriteAtlasName: UI_MainBase
     prefab: {fileID: 8963399367186043632, guid: 82a96cd03561c89428044edd22e61cac, type: 3}

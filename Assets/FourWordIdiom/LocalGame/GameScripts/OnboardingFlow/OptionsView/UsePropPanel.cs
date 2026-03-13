@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Middleware;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
@@ -42,24 +43,54 @@ public class UsePropPanel : UIWindow
         }
 
         rewardBtn.GetComponentInChildren<Text>().text = _toolInfo.cost.ToString();
+        if (GameDataManager.Instance.UserData.Gold < _toolInfo.cost)
+        {
+            propName.text = "金币不足";
+            rewardBtn.transform.GetChild(0).GetComponent<Image>().sprite =
+                AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("ads");
+            rewardBtn.GetComponentInChildren<Text>().text = "观看获取";
+            rewardBtn.GetComponentInChildren<Text>().fontSize = 62;
+        }
     }
     
     private void OnRewardClick()
     {
         if(GameDataManager.Instance.UserData.Gold <_toolInfo.cost)
         {
-            MessageSystem.Instance.ShowTip(MultilingualManager.Instance.GetString("TipGoldInsufficient"));
+            Game.Ads.ShowReward(Define.AdKey.RewardAdIdStoreGold,UpdateAdsRewardHandler);
             return ;
         }
-        GameDataManager.Instance.UserData.UpdateGold(-_toolInfo.cost, false, true, "购买道具");
         if (_toolInfo.type == "Hint")
         {
-            GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Tipstool, 1, "道具购买");
+            GameDataManager.Instance.UserData.UpdateGold(-_toolInfo.cost, false, true, "购买提示道具");
+            GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Tipstool, 1, "提示道具购买");
         }else if (_toolInfo.type == "Undo")
         {
-            GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undoes, 1, "道具购买");
+            GameDataManager.Instance.UserData.UpdateGold(-_toolInfo.cost, false, true, "购买测绘道具");
+            GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undoes, 1, "撤回道具购买");
         }
         _finishedCallback?.Invoke(true);
+        Close();
+    }
+
+    private void UpdateAdsRewardHandler(bool result)
+    {
+        if (result)
+        {
+            if (_toolInfo.type == "Hint")
+            {
+                GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Tipstool, 1, "看广告获取提示道具");
+            }else if (_toolInfo.type == "Undo")
+            {
+                GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undoes, 1, "看广告获取撤回道具");
+            }
+            _finishedCallback?.Invoke(true);
+        }
+        else
+        {
+            MessageSystem.Instance.ShowTip(MultilingualManager.Instance.GetString("失败了, 请稍后再试!"));
+        }
+        
         Close();
     }
 
@@ -67,6 +98,7 @@ public class UsePropPanel : UIWindow
     {
         _toolInfo = null;
         _finishedCallback = null;
+        rewardBtn.GetComponentInChildren<Text>().fontSize = 94;
         base.Close(method);
     }
 }

@@ -1686,7 +1686,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stockButton: {fileID: 1765391356296658855}
   stockRoot: {fileID: 3374047500856728038}
-  stockBackPrefab: {fileID: 39423455216875463, guid: c3201509a849b974aa47e95c6071887c, type: 3}
   maxStackVisual: 2
   stackOffset: {x: -2, y: 3}
   visualStackCards: []
@@ -1695,7 +1694,6 @@ MonoBehaviour:
   visibleFanCount: 3
   visiblePileCount: 2
   wasteRoot: {fileID: 8907584765367012047}
-  cardPrefab: {fileID: 39423455216875463, guid: bcdbd794b63ff3f4b8b950fb01504f68, type: 3}
   wasteCards: []
   stockData: []
 --- !u!1 &4272907607877792177
@@ -1748,8 +1746,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 256e571e4da8aee42ad15b49ca589da1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  columnPrefab: {fileID: 5684214146691702274, guid: a8f35e7c6a45eca4d867c46ce2a710f2, type: 3}
-  cardPrefab: {fileID: 39423455216875463, guid: bcdbd794b63ff3f4b8b950fb01504f68, type: 3}
   tableauContainer: {fileID: 1257040773754867820}
   columns: []
 --- !u!114 &1754401781454209649
@@ -2179,6 +2175,7 @@ GameObject:
   - component: {fileID: 7903180670925500684}
   - component: {fileID: 3614656437635321616}
   - component: {fileID: 8511652682163146714}
+  - component: {fileID: 3330351783475884226}
   m_Layer: 5
   m_Name: ChainPlayArea
   m_TagString: Untagged
@@ -2298,7 +2295,18 @@ MonoBehaviour:
   handArea: {fileID: 9071661783236997244}
   dragLayer: {fileID: 5477856193741146030}
   graveyardRoot: {fileID: 4235130303602405159}
-  maxIdleTime: 120
+--- !u!114 &3330351783475884226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7687168886129013081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee8bca33777d3de4899d8f133f8f3c85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7722580702202793409
 GameObject:
   m_ObjectHideFlags: 0

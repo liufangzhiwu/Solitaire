@@ -95,6 +95,7 @@ public class ChainGuideSystem : MonoBehaviour
         
         if (result)
         {
+            RestoreCanvasLayers();
             CurrentTutorial++;
             guideUI.ShowAutoGuideByPriority();
             // if (TryGetComponent<GraphicRaycaster>(out var raycaster)) Destroy(raycaster);
@@ -162,6 +163,14 @@ public class ChainGuideSystem : MonoBehaviour
             Debug.LogError("UI管理器未初始化！");
         }
     }
+
+    public void RestoreCanvasLayers()
+    {
+        if (guideUI != null)
+        {
+            guideUI.RestoreCanvasLayers();
+        }
+    }
     /// <summary>
     /// 校验玩家的操作是否符合当前教程步骤的目标
     /// </summary>
@@ -214,6 +223,26 @@ public class ChainGuideSystem : MonoBehaviour
 
             default:
                 return true; // 其他情况默认通过
+        }
+    }
+    // 1. 询问系统：当前是否处于强引导拦截状态？
+    public bool IsStrictGuideActive()
+    {
+        if (guideUI == null || !guideUI.gameObject.activeInHierarchy) return false;
+        return guideUI.IsStrictGuideActive();
+    }
+    // 2. 询问系统：玩家试图放下的这个目标，是教程允许的高亮目标吗？
+    public bool IsTargetAllowed(GameObject targetObj)
+    {
+        if (guideUI == null || targetObj == null) return false;
+        return guideUI.IsTargetElevated(targetObj);
+    }
+    // 3. 告诉系统：玩家拖拽失败了/乱扔了，请重新激活指引动画
+    public void ResumeGuide()
+    {
+        if (guideUI != null && guideUI.gameObject.activeInHierarchy)
+        {
+            guideUI.ResumeGuideAnim();
         }
     }
     #endregion

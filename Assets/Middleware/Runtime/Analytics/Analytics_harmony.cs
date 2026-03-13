@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Threading;
+using Middleware.Runtime.Analytics;
 using ThinkingData.Analytics;
 using UnityEngine;
 

@@ -1,5 +1,6 @@
 using System.Collections;
 using DG.Tweening;
+using Middleware;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -39,12 +40,21 @@ public class LoadingController : MonoBehaviour
     /// </summary>
     IEnumerator InitializeLoadingProcess()
     {
-        yield return new WaitForSeconds(0.05f);
+        yield return null;
         _loadStartTime = Time.time;
         GameDataManager.Instance.LoadPlayerProfile();
         InitializeLocalization();
         // SetupRandomLoadingHint();
+        yield return null;
+        #if UNITY_EDITOR
+        Game.Instance.ShowLoginErrorPanel();
+        #endif
+        Game.Instance.InitGame();
         StartCoroutine(LoadingSequence());
+        yield return new WaitUntil(() => Game.Accounts.IsLogin);
+        Game.Instance.InitManagers();
+        AnalyticMgr.SetLoginUser(Game.Accounts.UserId);
+        
     }
  
     /// <summary>
@@ -78,6 +88,8 @@ public class LoadingController : MonoBehaviour
       
         yield return simulation;
         yield return loading;
+        Debug.Log("模拟已结束, 但登录似乎未成功 =>" + Game.Accounts.IsLogin);
+        yield return new WaitUntil(() => Game.Accounts.IsLogin);
         FinalizeLoading();
     }
 

@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using DG.Tweening;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -19,8 +20,24 @@ public enum MoveErrorType
     SlotIsFull,             // 槽位满了
     Unknown                 // 其他未知错误
 }
+
 public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
+    public enum CardZone
+    {
+        Deck,           // 在发牌堆（背面）
+        WastePile,      // 在废牌堆（翻开，较小，特定背景）
+        Column,         // 在下方的列中（正常大小，普通背景）
+        CategorySlot,   // 在上方的收集槽中
+        Dragging        // 正在被玩家拖拽中
+    }
+    
+    [Header("UI References - 双面渲染控制")]
+    [SerializeField] private GameObject frontFaceObj; // 🔥 拖入新建的 FrontFace 节点
+    [SerializeField] private Image frontBgImage;      // 🔥 拖入 FrontFace 节点 (获取它的Image组件)
+    [SerializeField] private GameObject backFace;     // 拖入 BackFace 节点
+    [SerializeField] private RectTransform contentRoot; // 拖入 ContentRoot
+
     [Header("UI References - 文字")]
     [SerializeField] public Text bigText;
     [SerializeField] private Text smallText;
@@ -31,8 +48,6 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     
     [Header("UI References - 其他")]
     [SerializeField] private Text countText;
-    [SerializeField] private RectTransform contentRoot;
-    [SerializeField] private GameObject backFace;
     
     [Header("Anchors")] 
     [SerializeField] private Transform centerAnchor;
@@ -42,6 +57,7 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     [Header("Assets")]
     [SerializeField] private Sprite normalBgSprite;
     [SerializeField] private Sprite categoryBgSprite;
+    [SerializeField] private Sprite wastePileBgSprite; // 🔥 废牌堆的专属背景
     
     [Header("Runtime Data")] 
     public string cardId;
@@ -50,20 +66,20 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     public bool isFaceUp = false;
     public bool usedIcon = false;
     public bool IsInHand { get; set; } = false;
+    public CardZone currentZone;
     
     // 引用所属的列 (方便交互)
     public ColumnView currentColumn;
    
     private bool _isCompressed = false;
     private Coroutine _animCoroutine;
+    private Coroutine _visualTransitionCoroutine;
+
+    // 删除了 Awake 里的 GetComponent<Image>()，因为根节点不再挂载 Image
 
     /// <summary>
     /// 初始化卡牌数据
     /// </summary>
-    /// <param name="wId">词条ID</param>
-    /// <param name="cId">分类ID</param>
-    /// <param name="faceUp">是否正面朝上</param>
-    /// <param name="totalCount">总数</param>
     public void Initialization(string wId, string cId, bool faceUp, int totalCount)
     {
         name = $"{wId}";
@@ -74,14 +90,20 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         countText.gameObject.SetActive(type == CardType.Category);
         countText.text = "0/" + totalCount.ToString();
         
-       transform.GetComponent<Image>().sprite = (type == CardType.Category) ? categoryBgSprite : normalBgSprite;
+        // 🔥 将背景图赋值给 FrontFace 的 Image
+        // if (frontBgImage != null)
+        // {
+        //     frontBgImage.sprite = (currentZone == CardZone.WastePile) ? wastePileBgSprite : 
+        //                           ((type == CardType.Category) ? categoryBgSprite : normalBgSprite);
+        // }
         
         _isCompressed = false;
-        if (contentRoot !=null && centerAnchor != null)
+        if (contentRoot != null && centerAnchor != null)
         {
             contentRoot.localPosition = centerAnchor.localPosition;
             contentRoot.localScale = centerAnchor.localScale;
         }
+        
         bigImage.sprite = null;
         smallImage.sprite = null;
         SetupContentDisplay();
@@ -116,6 +138,17 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     }
 
     /// <summary>
+    /// 翻牌控制（🔥 极度节省性能的写法）
+    /// </summary>
+    public void SetFaceUp(bool faceUp)
+    {
+        isFaceUp = faceUp;
+        // 直接开关正反面的根节点，盖住时绝不渲染正面内容
+        if (frontFaceObj != null) frontFaceObj.SetActive(faceUp);
+        if (backFace != null) backFace.SetActive(!faceUp);
+    }
+
+    /// <summary>
     /// 设置压缩/展开状态 (普通牌被压住时内容上滑)
     /// </summary>
     public void SetCompressedState(bool isCompressed, bool immediate = false)
@@ -123,6 +156,24 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         if (_isCompressed == isCompressed && !immediate) return;
         
         _isCompressed = isCompressed;
+        UpdateBackground();
+        
+        if (!gameObject.activeInHierarchy) 
+        {
+            immediate = true;
+        }
+        if (_errorCoroutine != null)
+        {
+            immediate = true;
+        }
+        // if (_errorCoroutine != null)
+        // {
+        //     StopCoroutine(_errorCoroutine);
+        //     _errorCoroutine = null;
+        //     if (frontFaceObj != null) frontFaceObj.transform.localPosition = Vector3.zero;
+        //     if (backFace != null) backFace.transform.localPosition = Vector3.zero;
+        // }
+        
         if(_animCoroutine != null) StopCoroutine(_animCoroutine);
 
         Transform target;
@@ -163,7 +214,6 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         {
             _animCoroutine = StartCoroutine(AnimateContent(target));
         }
-        
     }
 
     private IEnumerator AnimateContent(Transform target)
@@ -174,15 +224,12 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         Vector3 startScale = contentRoot.localScale;
         Quaternion startRot = contentRoot.localRotation;
         
-        // 1. 准备工作：在渐变开始前，必须把两个都激活，否则看不见淡入效果
         PreAnimateSetup();
-        // 2. 确定透明度目标
-        // 如果变成了压缩状态：小图(Small)要显示(1)，大图(Big)要隐藏(0)
+        
         float targetSmallAlpha = _isCompressed ? 1f : 0f;
         float targetBigAlpha   = _isCompressed ? 0f : 1f;
-        // 获取当前透明度作为起点 (防止动画打断时跳变)
-        float startSmallAlpha = GetGroupAlpha(true); // true 代表获取 Small 组
-        float startBigAlpha   = GetGroupAlpha(false); // false 代表获取 Big 组
+        float startSmallAlpha = GetGroupAlpha(true);
+        float startBigAlpha   = GetGroupAlpha(false);
         
         while (time < duration)
         {
@@ -193,8 +240,8 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
             contentRoot.localPosition = Vector3.Lerp(startPos, target.localPosition, smoothT);
             contentRoot.localScale = Vector3.Lerp(startScale, target.localScale, smoothT);
             contentRoot.localRotation = Quaternion.Lerp(startRot, target.localRotation, smoothT);
-            SetGroupAlpha(true, Mathf.Lerp(startSmallAlpha, targetSmallAlpha, smoothT));  // 设置小组件
-            SetGroupAlpha(false, Mathf.Lerp(startBigAlpha, targetBigAlpha, smoothT));     // 设置大组件
+            SetGroupAlpha(true, Mathf.Lerp(startSmallAlpha, targetSmallAlpha, smoothT));
+            SetGroupAlpha(false, Mathf.Lerp(startBigAlpha, targetBigAlpha, smoothT));
             yield return null;
         }
         contentRoot.localPosition = target.localPosition;
@@ -204,10 +251,7 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         SetGroupAlpha(false, targetBigAlpha);
         UpdateVisualState();
     }
-    /// <summary>
-    /// 设置某一组(Small/Big)的透明度
-    /// isSmallGroup: true=操作小物体, false=操作大物体
-    /// </summary>
+
     private void SetGroupAlpha(bool isSmallGroup, float alpha)
     {
         if (usedIcon)
@@ -244,122 +288,212 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         }
     }
 
-    /// <summary>
-    /// 动画开始前的准备：把需要参与渐变的物体都由 SetActive(true)
-    /// </summary>
     private void PreAnimateSetup()
     {
         if (usedIcon)
         {
-            // 图片模式：激活大小图片
             if (smallImage) smallImage.gameObject.SetActive(true);
             if (bigImage) bigImage.gameObject.SetActive(true);
         }
         else
         {
-            // 文字模式：激活大小文字
             if (smallText) smallText.gameObject.SetActive(true);
             if (bigText) bigText.gameObject.SetActive(true);
         }
     }
-
-    public void SetFaceUp(bool faceUp)
-    {
-        isFaceUp = faceUp;
-        contentRoot.gameObject.SetActive(faceUp);
-        backFace.SetActive(!faceUp);
-    }
     
-    // 单独提取显示逻辑，清晰易懂
     public void UpdateVisualState()
     {
-        // 目标：
-        // 1. 如果是压缩状态 (_isCompressed) -> 显示 Small 系列
-        // 2. 如果是展开状态 (!isCompressed) -> 显示 Big 系列
-        // 3. 具体显示 Image 还是 Text，取决于 _hasIcon
-        
         bool showSmall = _isCompressed;
         bool showBig = !_isCompressed;
 
-        if (usedIcon)
-        {
-            // 图片模式：操作 Image 组件
-            if (smallImage) smallImage.gameObject.SetActive(showSmall);
-            if (bigImage) bigImage.gameObject.SetActive(showBig);
-            
-            // 确保文字彻底隐藏
-            if (smallText) smallText.gameObject.SetActive(false);
-            if (bigText) bigText.gameObject.SetActive(false);
+        if (smallImage) 
+        { 
+            Color c = smallImage.color; c.a = 1f; smallImage.color = c; 
+            smallImage.gameObject.SetActive(usedIcon && showSmall); 
         }
-        else
-        {
-            // 文字模式：操作 Text 组件
-            if (smallText) smallText.gameObject.SetActive(showSmall);
-            if (bigText) bigText.gameObject.SetActive(showBig);
-
-            // 确保图片彻底隐藏
-            if (smallImage) smallImage.gameObject.SetActive(false);
-            if (bigImage) bigImage.gameObject.SetActive(false);
+        if (bigImage)   
+        { 
+            Color c = bigImage.color; c.a = 1f; bigImage.color = c; 
+            bigImage.gameObject.SetActive(usedIcon && showBig); 
+        }
+        if (smallText)  
+        { 
+            Color c = smallText.color; c.a = 1f; smallText.color = c; 
+            smallText.gameObject.SetActive(!usedIcon && showSmall); 
+        }
+        if (bigText)    
+        { 
+            Color c = bigText.color; c.a = 1f; bigText.color = c; 
+            bigText.gameObject.SetActive(!usedIcon && showBig); 
         }
     }
-    // 添加一个辅助方法：把字符串变成竖排
+
     private string GetVerticalString(string originText)
     {
         if (string.IsNullOrEmpty(originText)) return "";
-        // 把字符拆开，用换行符拼起来
-        // "腰果" -> "腰\n果"
         return string.Join("\n", originText.ToCharArray());
     }
-    #region 🔥 核心交互：将事件转发给管理器 (ChainPlayArea)
+    
+    /// <summary>
+    /// 统一管理卡牌背景图的逻辑
+    /// </summary>
+    public void UpdateBackground()
+    {
+        if (frontBgImage == null) return;
+        
+        // 1. 在废牌区，且被其他牌压住（处于压缩状态）
+        // if (currentZone == CardZone.WastePile && _isCompressed)
+        if (_isCompressed)
+        {
+            frontBgImage.sprite = wastePileBgSprite; // 对应你的 hand_insert_bg
+        }
+        // 2. 没被压住（废牌区最上面），或者在下方的列中
+        else
+        {
+            frontBgImage.sprite = (type == CardType.Category) ? categoryBgSprite : normalBgSprite;
+        }
+    }
+    
 
+    #region 🔥 核心交互：将事件转发给管理器
     public void OnBeginDrag(PointerEventData eventData)
     {
-        // 1. 如果是背面，或者管理器不存在，直接不允许拖
         if (!isFaceUp || ChainPlayArea.Instance == null) return;
-        // 2. 将控制权交给管理器
+        transform.DOKill();
+        if (TryGetComponent<RectTransform>(out var rt)) rt.DOKill();
+        // 🔥 玩家摸到牌的瞬间，立刻杀死残留的抖动
+        StopErrorAnimation();
+        
+        if (TryGetComponent<Canvas>(out var myCanvas))
+        {
+            myCanvas.sortingOrder = 3000; 
+        }
         ChainPlayArea.Instance.OnCardBeginDrag(this, eventData);
     }
 
     public void OnDrag(PointerEventData eventData)
     {
         if (!isFaceUp || ChainPlayArea.Instance == null) return;
-        
-        // 告诉管理器我在移动
         ChainPlayArea.Instance.OnCardDrag(this, eventData);
     }
 
     public void OnEndDrag(PointerEventData eventData)
     {
         if (!isFaceUp || ChainPlayArea.Instance == null) return;
-        
-        // 告诉管理器我松手了
         ChainPlayArea.Instance.OnCardEndDrag(this, eventData);
     }
     #endregion
 
+    #region 🔥 区域视觉状态管理 (大小 & 背景)
+
     /// <summary>
-    /// 播放错误动画
+    /// 核心方法：改变卡牌的视觉状态（大小、背景），带平滑动画
     /// </summary>
+    public void UpdateZoneVisuals(bool inWastePile, bool immediate = false)
+    {
+        currentZone = inWastePile ? CardZone.WastePile : CardZone.Column;
+        
+        UpdateBackground();
+        
+        Vector3 targetScale = inWastePile ? new Vector3(0.94f, 0.94f, 1f) : Vector3.one;
+        if (immediate)
+        {
+            if (_visualTransitionCoroutine != null) StopCoroutine(_visualTransitionCoroutine);
+            transform.localScale = targetScale;
+        }
+        else
+        {
+            if (_visualTransitionCoroutine != null) StopCoroutine(_visualTransitionCoroutine);
+            _visualTransitionCoroutine = StartCoroutine(TransitionVisualsCoroutine(targetScale));
+        }
+    }
+
+    private IEnumerator TransitionVisualsCoroutine(Vector3 targetScale)
+    {
+        float duration = 0.25f;
+        float time = 0;
+        Vector3 startScale = transform.localScale;
+        
+        while (time < duration)
+        {
+            time += Time.deltaTime;
+            float t = time / duration;
+            float smoothT = t * t * (3f - 2f * t);
+
+            transform.localScale = Vector3.Lerp(startScale, targetScale, smoothT);
+            yield return null;
+        }
+
+        transform.localScale = targetScale;
+        _visualTransitionCoroutine = null;
+    }
+    #endregion
+
+    #region 🔥 错误抖动动画
+    private Coroutine _errorCoroutine;
     public void PlayErrorAnimation()
     {
-        StartCoroutine(DoErrorShake(transform.GetChild(0)));
+        // SetCompressedState(_isCompressed, true);
+        if (_animCoroutine != null) StopCoroutine(_animCoroutine);
+        if (_errorCoroutine != null) StopCoroutine(_errorCoroutine);
+        
+        _errorCoroutine = StartCoroutine(DoErrorShake());
     }
     
-    private IEnumerator DoErrorShake(Transform target)
+    private IEnumerator DoErrorShake()
     {
-        Vector3 originalPos = target.localPosition;
-        Vector3 centerPos = new Vector3(0f, originalPos.y, originalPos.z);
         float duration = 0.3f;
         float magnitude = 15f;
-
         float elapsed = 0f;
         while (elapsed < duration)
         {
             elapsed += Time.deltaTime;
+            // 计算带有阻尼的左右偏移量
             float x = Mathf.Sin(elapsed * 50f) * magnitude * (1 - elapsed / duration);
-            target.localPosition = centerPos + new Vector3(x, 0f, 0f);
+            Vector3 offset = new Vector3(x, 0f, 0f);
+            if (frontFaceObj != null) frontFaceObj.transform.localPosition = offset;
+            if (backFace != null) backFace.transform.localPosition = offset;
+            if (contentRoot != null)
+            {
+                // 找出当前内容正确的归属地
+                Transform targetAnchor = centerAnchor;
+                if (_isCompressed) targetAnchor = IsInHand ? rightAnchor : topAnchor;
+                
+                contentRoot.localPosition = targetAnchor.localPosition + offset;
+            }
             yield return null;
         }
-        target.localPosition = centerPos;
+        // 抖动结束，将所有组件完美强行复位
+        if (frontFaceObj != null) frontFaceObj.transform.localPosition = Vector3.zero;
+        if (backFace != null) backFace.transform.localPosition = Vector3.zero;
+        if (contentRoot != null)
+        {
+            Transform targetAnchor = centerAnchor;
+            if (_isCompressed) targetAnchor = IsInHand ? rightAnchor : topAnchor;
+            contentRoot.localPosition = targetAnchor.localPosition;
+        }
+        _errorCoroutine = null;
     }
+    
+    // 🔥 新增：强行终止错误抖动并复位
+    public void StopErrorAnimation()
+    {
+        if (_errorCoroutine != null)
+        {
+            StopCoroutine(_errorCoroutine);
+            _errorCoroutine = null;
+            
+            // 完美复位
+            if (frontFaceObj != null) frontFaceObj.transform.localPosition = Vector3.zero;
+            if (backFace != null) backFace.transform.localPosition = Vector3.zero;
+            if (contentRoot != null)
+            {
+                Transform targetAnchor = centerAnchor;
+                if (_isCompressed) targetAnchor = IsInHand ? rightAnchor : topAnchor;
+                contentRoot.localPosition = targetAnchor.localPosition;
+            }
+        }
+    }
+    #endregion
 }

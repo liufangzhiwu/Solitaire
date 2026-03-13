@@ -159,7 +159,7 @@ public class GameDataManager : SingletonMono<GameDataManager>
             requireFocusCheck = true;
             // Debug.Log("应用进入后台，数据已保存");
         }
-        else if (requireFocusCheck)
+        else if (requireFocusCheck && Game.Accounts!= null && Game.Accounts.IsLogin)
         {
             AnalyticMgr.GameStart();
             // Debug.Log("应用回到前台，验证数据");

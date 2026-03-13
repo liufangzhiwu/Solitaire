@@ -128,6 +128,44 @@ public partial class AnalyticMgr
         SetLoginProperties();
         Game.Analytics.LogEvent("login", Define.DataTarget.Think);
     }
+    public static void OnAnalyticsStart()
+    {
+        if (!GameDataManager.Instance.UserData.Rigister)
+        {      
+            Game.Analytics.LogEvent("ta_app_install", Define.DataTarget.Think);
+            Game.Analytics.LogEvent("ta_app_startFirst", Define.DataTarget.Think);
+            Game.Analytics.LogEvent("register", Define.DataTarget.Think);
+            GameDataManager.Instance.UserData.Rigister = true;
+            GameDataManager.Instance.UserData.firstLoginStamp = DateTime.Now.Ticks;
+        }
+        
+        SetCommonProperties();
+        SetLoginProperties();
+        Game.Analytics.LogEvent("login", Define.DataTarget.Think);
+    }
+    public static void SetLoginUser(string tuid)
+    {
+        var uid = tuid;
+#if UNITY_EDITOR
+        if (string.IsNullOrEmpty(uid))
+        {
+            uid = Game.GetUniqueId();
+        }
+#endif
+        
+        var cacheUid = GameDataManager.Instance.UserData.UserId;
+        
+        Debug.Log("用户唯一id为："+uid+"当前用户id"+cacheUid);
+        if (string.IsNullOrEmpty(cacheUid) || cacheUid != uid)
+        {
+            Debug.Log("赋值中用户唯一id为："+uid);
+            GameDataManager.Instance.UserData.UserId = uid;
+            Game.Analytics.Login(GameDataManager.Instance.UserData.UserId);
+        }
+        
+        Debug.Log("赋值后用户唯一id为："+ GameDataManager.Instance.UserData.UserId);
+        OnAnalyticsStart();
+    }
     
     public static void GuideBegin()
     {

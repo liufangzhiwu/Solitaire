@@ -1,38 +1,65 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using Middleware.Runtime.Analytics;
 using Newtonsoft.Json;
 using UnityEngine;
 
 namespace Middleware
 {
+    public enum CommonErrorType
+    {
+        LoginFail,
+        ExitPopup,
+    }
     public class Game : MonoBehaviour
     {
+        public static Game Instance;
         public static IAds Ads { private set; get; }
+        public static IAccounts Accounts { private set; get; }
         public static IAnalytics Analytics { private set; get; }
         public static IShop Shop { private set; get; }
+        
+       [SerializeField] private Transform uiRoot;
+        public CommonErrorType CurrentErrorType { private set; get; }
+
         private void Awake()
         {
+            Instance = this;
+            
             DontDestroyOnLoad(gameObject);
             gameObject.AddComponent<UnityTimer>();
-    
-            // CreateAd();
-            CreateAnalytic();
-            // CreateShop();
-            InitManagers();
         }
 
-        private void InitManagers()
+        public void InitGame()
         {
+            CreateAccounts();
+            CreateAd();
+        }
+        public void InitManagers()
+        {
+            CreateAnalytic();
 	        GameDataManager.Instance.Init();
 	        //AudioManager.Instance.Init();
 	        LimitTimeManager.Instance.Init();
         }
-    
+        private void CreateAccounts()
+        {
+            
+#if UNITY_ANDROID
+            Accounts = new Account_android();
+#elif UNITY_huawei
+            Accounts = new Account_huaweiandroid();
+            Accounts.Init(0.2f);
+#elif UNITY_OPENHARMONY
+            Accounts = new Account_harmony();
+#endif
+            Accounts.Init(0.2f);
+        }
         private void CreateAd()
         {
     #if UNITY_ANDROID
-            // Ads = new Ads_android();
+            Ads = new Ads_android();
     #elif UNITY_IOS
             Ads = new Ads_ios();
     #elif UNITY_OPENHARMONY
@@ -44,7 +71,7 @@ namespace Middleware
         private void CreateAnalytic()
         {
     #if UNITY_ANDROID
-            Analytics = new Analytics_huawei();
+            Analytics = new Analytics_android();
     #elif UNITY_IOS
             Analytics = new Analytics_ios();
     #elif UNITY_OPENHARMONY
@@ -88,6 +115,24 @@ namespace Middleware
 #else
             return SystemInfo.deviceUniqueIdentifier;
 #endif
+        }
+        public void ShowLoginErrorPanel()
+        {
+            if(uiRoot == null) return;
+            
+            CurrentErrorType = CommonErrorType.LoginFail;
+            GameObject pg = Resources.Load<GameObject>("Privacy/NetErrorView");
+            GameObject ps = Instantiate(pg, uiRoot.transform);
+            ps.SetActive(true);
+        }
+        public void ShowQuitGamePanel()
+        {
+            if(uiRoot == null) return;
+            
+            CurrentErrorType = CommonErrorType.ExitPopup;
+            GameObject pg = Resources.Load<GameObject>("Privacy/NetErrorView");
+            GameObject ps = Instantiate(pg, uiRoot.transform);
+            ps.SetActive(true);
         }
     }
 

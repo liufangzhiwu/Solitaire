@@ -91,6 +91,11 @@ public class ColumnView : MonoBehaviour
                 // 🔥 这里调用！
                 // CardView 内部会判断状态是否改变，如果改变了就会 StartCoroutine(AnimateContent(...))
                 currentCard.SetCompressedState(hasCardAbove);
+                if (!currentCard.TryGetComponent<CanvasGroup>(out var cg))
+                {
+                    cg = currentCard.gameObject.AddComponent<CanvasGroup>();
+                }
+                cg.blocksRaycasts = !hasCardAbove;
                 
                 if (hasCardAbove)
                 {
@@ -140,18 +145,21 @@ public class ColumnView : MonoBehaviour
         }
         return result;
     }
-
+    
     public void Clear()
     {
+        for (int i = cards.Count - 1; i >= 0; i--)
+        {
+            CardView card = cards[i];
+            if (card != null)
+                CardPoolManager.Instance.ReturnCardPrefab(card);
+        }
+        
         foreach (Transform child in transform)
         {
             Destroy(child.gameObject);
         }
         
-        // foreach (var card in cards)
-        // {
-        //     if(cards!=null) Destroy(card.gameObject);
-        // }
         cards.Clear();
     }
 }

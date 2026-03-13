@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Middleware;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -23,6 +24,10 @@ public class SuccessPanel : UIWindow
 
         coinGo.GetComponentInChildren<Text>().text = AppGameSettings.LevelCompleteBonus.ToString();
         StartCoroutine(PlayRewardSequence());
+        Game.Ads.ShowInterstitial((bool result) =>
+        {
+            
+        });
     }
     
     private void LoadNextLevel()

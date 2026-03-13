@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using Middleware;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -70,7 +71,17 @@ public class ChainPlayArea : UIWindow
     {
         if (dragLayer != null)
         {
+            
             dragLayer.SetAsLastSibling(); 
+            // 🔥 新增：给拖拽层强行注入最高层级 Canvas！
+            if (!dragLayer.TryGetComponent<Canvas>(out var dragCanvas))
+            {
+                dragCanvas = dragLayer.gameObject.AddComponent<Canvas>();
+            }
+            dragCanvas.overrideSorting = true;
+            // 使用你项目里最高级的 Layer 名，这里参考了你手势用的层级
+            dragCanvas.sortingLayerName = UIPanelLayer.PopPanel;
+            dragCanvas.sortingOrder = 3000; // 霸道数值，保证绝对压过新手引导遮罩！
         }
             
         hintButton.AddClickAction(OnHintClick);
@@ -114,6 +125,10 @@ public class ChainPlayArea : UIWindow
     //         yield return null;
     //     }
     // }
+    
+    /// <summary>
+    /// 重置待机时间, 不让弹提示
+    /// </summary>
     public void ResetIdleTimer()
     {
         // idleTimer = 0f;
@@ -137,7 +152,7 @@ public class ChainPlayArea : UIWindow
         // AudioManager.Instance.PlaySoundEffect("BGM_Calm_Bouncy");
         StartTime = DateTime.Now;
         completedCategoriesCount = currentData.finishedCategoryCount;
-        
+        Game.Ads?.ShowBanner();
     }
 
     private void InitUI()
@@ -196,9 +211,18 @@ public class ChainPlayArea : UIWindow
         yield return null;
         
         goalArea.InitGoalSlots(levelData.slotsDefault, currentData.categorySlots,categoryTotalCounts,OnSingleCategoryFinished);
-        tableauArea.InitTableau(currentData.tableauColumns, wordToCategoryMap ,categoryTotalCounts);
         handArea.InitHand(currentData.stockCardIds, currentData.wasteCardIds, wordToCategoryMap,categoryTotalCounts );
+
+        // 改为发牌
+        yield return StartCoroutine(tableauArea.DealTableauCardsAnim(
+            currentData.tableauColumns, 
+            wordToCategoryMap, 
+            categoryTotalCounts, 
+            handArea.stockRoot // 发牌起点
+        ));
         
+        // tableauArea.InitTableau(currentData.tableauColumns, wordToCategoryMap ,categoryTotalCounts);
+      
         yield return new WaitForSeconds(0.3f);
         SystemManager.Instance.ShowPanel(PanelType.HeaderSection);
         EventDispatcher.Instance.TriggerLevelStarted(currentData.stageId);
@@ -263,6 +287,7 @@ public class ChainPlayArea : UIWindow
         {
             isDraggingFromHand = true;
             draggingStack.Add(card);
+            handArea.RemoveCardFromWaste(card);
         }
         else
         {
@@ -351,6 +376,29 @@ public class ChainPlayArea : UIWindow
         }
         else if (bestSlot != null) useSlot = true;
         else if (bestCol != null) useCol = true;
+        
+        // 🚨🚨🚨【通过 GuideSystem 中转的强引导拦截】🚨🚨🚨
+        if (ChainGuideSystem.Instance != null && ChainGuideSystem.Instance.IsStrictGuideActive())
+        {
+            // 想放槽位，但槽位没被允许，无情拒绝
+            if (useSlot && bestSlot != null && !ChainGuideSystem.Instance.IsTargetAllowed(bestSlot.gameObject))
+            {
+                useSlot = false; 
+            }
+            
+            // 想放列里，但列（和顶牌）没被允许，无情拒绝
+            if (useCol && bestCol != null)
+            {
+                bool colAllowed = ChainGuideSystem.Instance.IsTargetAllowed(bestCol.gameObject);
+                bool topCardAllowed = bestCol.GetTopCard() != null && ChainGuideSystem.Instance.IsTargetAllowed(bestCol.GetTopCard().gameObject);
+                
+                if (!colAllowed && !topCardAllowed)
+                {
+                    useCol = false; 
+                }
+            }
+        }
+        
         // ---> 尝试放入 Slot
         if (useSlot)
         {
@@ -364,10 +412,10 @@ public class ChainPlayArea : UIWindow
             }
             else
             {
-                HandleMoveFailure(bestSlot, null);
-                EventDispatcher.Instance.TriggerCardDragResult(dragHead, bestSlot,false);
                 ReturnToSource();
                 CleanUpDrag();
+                HandleMoveFailure(bestSlot, null);
+                EventDispatcher.Instance.TriggerCardDragResult(dragHead, bestSlot,false);
                 return;
             }
         }
@@ -380,6 +428,8 @@ public class ChainPlayArea : UIWindow
                 foreach (var c in draggingStack)
                 {
                     bestCol.AddCard(c);
+                    c.IsInHand = false; // 确保标记离开手牌区
+                    c.UpdateZoneVisuals(false, false); // 🔥 播放变大并恢复背景的动画
                 }
                 
                 bool revealedNewCard = false; // 🔥 新增：记录是否翻开了新牌
@@ -398,15 +448,19 @@ public class ChainPlayArea : UIWindow
             }
             else
             {
-                HandleMoveFailure(null, bestCol);
-                EventDispatcher.Instance.TriggerCardDragResult(dragHead, bestCol, false);
                 ReturnToSource();
                 CleanUpDrag();
+                HandleMoveFailure(null, bestCol);
+                EventDispatcher.Instance.TriggerCardDragResult(dragHead, bestCol, false);
                 return;
             }
         }
         ReturnToSource();
         CleanUpDrag();
+        if (ChainGuideSystem.Instance != null && ChainGuideSystem.Instance.IsStrictGuideActive())
+        {
+            ChainGuideSystem.Instance.ResumeGuide();
+        }
     }
    
     private void ReturnToSource()
@@ -417,6 +471,7 @@ public class ChainPlayArea : UIWindow
             foreach (var c in draggingStack)
             {
                 handArea.AddCardToWaste(c);
+                c.UpdateZoneVisuals(true, false); // 🔥 确保恢复为小牌状态
                 c.PlayErrorAnimation();
             }
         }
@@ -527,6 +582,7 @@ public class ChainPlayArea : UIWindow
                     int total = categoryTotalCounts.GetValueOrDefault(card.categoryId, 5);
                     slot.ActivateCategory(card, total);
                     acceptedCards.Add(card);
+                    slot.PlayHighlightEffect();
                 }
                 else
                 {
@@ -542,6 +598,7 @@ public class ChainPlayArea : UIWindow
                 {
                     slot.AddWordCard(card);
                     acceptedCards.Add(card);
+                    slot.PlayHighlightEffect();
                 }
                 else
                 {
@@ -605,9 +662,9 @@ public class ChainPlayArea : UIWindow
         {
             ChainStageController.Instance.SyncHandState(handArea.stockData,handArea.wasteCards);
         }
-        draggingStack.Clear();
-        sourceColumn = null;
-        isDraggingFromHand = false;
+        // draggingStack.Clear();
+        // sourceColumn = null;
+        // isDraggingFromHand = false;
         // 播放音效？
     }
 
@@ -856,7 +913,14 @@ public class ChainPlayArea : UIWindow
             lastMove.card.gameObject.SetActive(true);
             cardsToReturn.Add(lastMove.card);
         }
-
+        foreach (var c in cardsToReturn)
+        {
+            if (c.TryGetComponent<CanvasGroup>(out var cg))
+            {
+                cg.blocksRaycasts = true;
+            }
+        }
+        
         // B. 放回原处
         if (lastMove.fromWaste)
         {
@@ -1311,7 +1375,9 @@ public class ChainPlayArea : UIWindow
     {
         // 1. 停止所有协程 (包括提示动画、自动消失文本、游戏流程等)
         StopAllCoroutines();
-
+        // 🔥 新增：重玩时，强行清空手牌区残留
+        // handArea?.ClearHand();
+        
         // 2. 销毁提示系统的幻影
         if (_currentGhostObj != null) 
         {
@@ -1329,7 +1395,10 @@ public class ChainPlayArea : UIWindow
             // 稍后调用 tableauArea.Clear() 会统一销毁
             draggingStack.Clear();
         }
-        
+        if (ChainGuideSystem.Instance != null)
+        {
+            ChainGuideSystem.Instance.RestoreCanvasLayers();
+        }
         // 4. 重置UI
         if (msgText && msgText.transform.parent) 
             msgText.transform.parent.gameObject.SetActive(false);
@@ -1354,7 +1423,8 @@ public class ChainPlayArea : UIWindow
     
     protected override void OnDisable()
     {
-        base.OnDisable();
         CleanUp();
+        Game.Ads?.HideBanner();
+        base.OnDisable();
     }
 }

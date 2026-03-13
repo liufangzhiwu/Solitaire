@@ -16,7 +16,8 @@ public class LearningGuide : UIWindow
     [HideInInspector]
     [Tooltip("当前使用的教学工具对象")]
     public GameObject activeToolObject;
-    
+    // 🔥 1.用来记录所有被提升了层级的物体，方便事后清理
+    private List<GameObject> _elevatedObjects = new List<GameObject>();
     // private CanvasGroup canvasGroup;
     private GameObject _currentGhostObj;     // 当前显示的幻影物体
     private Coroutine _currentGuideCoroutine; // 当前的动画协程
@@ -170,6 +171,11 @@ public class LearningGuide : UIWindow
         if (!active.TryGetComponent<UnityEngine.UI.GraphicRaycaster>(out var raycaster))
         {
             active.AddComponent<UnityEngine.UI.GraphicRaycaster>();
+        }
+        // 🔥 2. 记录下来，方便拖拽/引导结束后清理
+        if (!_elevatedObjects.Contains(active))
+        {
+            _elevatedObjects.Add(active);
         }
     }
     
@@ -768,6 +774,9 @@ public class LearningGuide : UIWindow
             // 强制隐藏
             dianShouTable.gameObject.SetActive(false); 
         }
+        // 🔥 4. 恢复所有物体的原始层级！
+        // if (background != null) background.SetActive(false);
+        // RestoreCanvasLayers();
     }
     #endregion
 /// <summary>
@@ -777,7 +786,7 @@ public class LearningGuide : UIWindow
 public void ShowAutoGuideByPriority()
 {
     StopGuide(); // 先清理旧动画
-
+    if (background != null) background.SetActive(true);
     // ------------------------------------------------------
     // 优先级 1：消除/收集 (最爽的操作，永远优先)
     // ------------------------------------------------------
@@ -959,5 +968,46 @@ public void ShowAutoGuideByPriority()
     {
         StopGuide();
         base.OnDisable();
+    }
+    
+    // 🔥 3. 清理强加在卡牌和槽位上的最高层级
+    public void RestoreCanvasLayers()
+    {
+        foreach (var obj in _elevatedObjects)
+        {
+            if (obj != null)
+            {
+                // 销毁为了新手引导强行添加的组件
+                if (obj.TryGetComponent<UnityEngine.UI.GraphicRaycaster>(out var raycaster))
+                {
+                    Destroy(raycaster);
+                }
+                if (obj.TryGetComponent<Canvas>(out var canvas))
+                {
+                    Destroy(canvas);
+                }
+            }
+        }
+        _elevatedObjects.Clear();
+    }
+    
+    // 🔥 新增 1：检查是否有强引导（黑屏是否激活）
+    public bool IsStrictGuideActive()
+    {
+        return background != null && background.activeInHierarchy;
+    }
+
+    // 🔥 新增 2：检查目标物体是不是被高亮的那个“正确答案”
+    public bool IsTargetElevated(GameObject obj)
+    {
+        if (obj == null) return false;
+        return _elevatedObjects.Contains(obj);
+    }
+
+    // 🔥 新增 3：玩家如果乱扔扔错了，重新唤醒动画继续教他
+    public void ResumeGuideAnim()
+    {
+        // 直接重新触发一次当前的正确引导即可
+        ShowAutoGuideByPriority();
     }
 }

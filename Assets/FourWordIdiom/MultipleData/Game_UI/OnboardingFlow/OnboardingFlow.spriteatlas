@@ -1,5 +1,5 @@
 %YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
+%TAG !u! tag:yousandi.cn,2023:
 --- !u!687078895 &4343727234628468602
 SpriteAtlas:
   m_ObjectHideFlags: 0
@@ -7,10 +7,11 @@ SpriteAtlas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: OnboardingFlow
+  serializedVersion: 2
   m_EditorData:
     serializedVersion: 2
     textureSettings:
-      serializedVersion: 2
+      serializedVersion: 3
       anisoLevel: 1
       compressionQuality: 50
       maxTextureSize: 2048
@@ -19,11 +20,13 @@ SpriteAtlas:
       generateMipMaps: 0
       readable: 0
       crunchedCompression: 0
+      webStreaming: 0
       sRGB: 1
     platformSettings:
     - serializedVersion: 3
       m_BuildTarget: OpenHarmony
       m_MaxTextureSize: 8192
+      m_MaxPlaceholderSize: 32
       m_ResizeAlgorithm: 0
       m_TextureFormat: 50
       m_TextureCompression: 1
@@ -37,6 +40,7 @@ SpriteAtlas:
     - serializedVersion: 3
       m_BuildTarget: Android
       m_MaxTextureSize: 8192
+      m_MaxPlaceholderSize: 32
       m_ResizeAlgorithm: 0
       m_TextureFormat: 50
       m_TextureCompression: 1
@@ -112,7 +116,6 @@ SpriteAtlas:
     - 8de6cd26152cde64ea1bbd236345e239: 21300000
     - ce02f9564d4d55d438164203b6877727: 21300000
     - d2141866f630f1a4fae9bea33e803149: 21300000
-    - 45270c8608e746346b22959eac6a1158: 21300000
     - 0b6798d61db29364787b4566f4a98a15: 21300000
     - 20e20ff64567c604f9948d96073756cd: 21300000
     - c7f57e178f5e0ee40b2a227c207844b0: 21300000
@@ -221,7 +224,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 8de6cd26152cde64ea1bbd236345e239, type: 3}
   - {fileID: 21300000, guid: ce02f9564d4d55d438164203b6877727, type: 3}
   - {fileID: 21300000, guid: d2141866f630f1a4fae9bea33e803149, type: 3}
-  - {fileID: 21300000, guid: 45270c8608e746346b22959eac6a1158, type: 3}
   - {fileID: 21300000, guid: 0b6798d61db29364787b4566f4a98a15, type: 3}
   - {fileID: 21300000, guid: 20e20ff64567c604f9948d96073756cd, type: 3}
   - {fileID: 21300000, guid: c7f57e178f5e0ee40b2a227c207844b0, type: 3}
@@ -329,7 +331,6 @@ SpriteAtlas:
   - discount
   - ldeng
   - discount
-  - ads
   - itembg
   - timei
   - showtip_bg
@@ -390,3 +391,4 @@ SpriteAtlas:
   m_RenderDataMap: {}
   m_Tag: OnboardingFlow
   m_IsVariant: 0
+  m_IsPlaceholder: 0

@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Middleware
+namespace Middleware.Runtime.Analytics
 {
     public interface IAnalytics
     {

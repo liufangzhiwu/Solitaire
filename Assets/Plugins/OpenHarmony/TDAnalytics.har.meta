@@ -1,7 +1,32 @@
 fileFormatVersion: 2
-guid: 06cf9675e8f47cc45b0466df212c3810
-DefaultImporter:
+guid: WX4Y5iukVS/iJK3MqYYKyl6wvH3a2IsPtc1TYkeuwJTsx2UvhiGMFqQ=
+PluginImporter:
   externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Any: 
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  - first:
+      OpenHarmony: OpenHarmony
+    second:
+      enabled: 1
+      settings: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -86,12 +86,13 @@ namespace Middleware
 		#endregion
 
 		#region 编辑器一键打包
+		#if UNITY_OPENHARMONY
 		[MenuItem("Tools/自动化打包/Harmony/Debug", false, 110)]
 		public static void BuildHarmonyDebug()
 		{
 			BuildHarmony(new BuildParam()
 			{
-				BuildVersion = "1.6.0",
+				BuildVersion = "1.0.0",
 				BuildType = BuildType.EditorBuild,
 				IsBuildRelease = false,
 				IsBuildShowLog = true
@@ -103,12 +104,13 @@ namespace Middleware
 		{
 			BuildHarmony(new BuildParam()
 			{
-				BuildVersion = "1.6.0",
+				BuildVersion = "1.0.0",
 				BuildType = BuildType.EditorBuild,
 				IsBuildRelease = true,
 				IsBuildShowLog = false
 			});
 		}
+		#endif
 		
 		[MenuItem("Tools/自动化打包/Android/Debug", false, 112)]
 		public static void BuildAndroidDebug()
@@ -161,6 +163,7 @@ namespace Middleware
 		#endregion
 
 		#region 切换平台
+		#if TUANJIE_2022_3_OR_NEWER
 		[MenuItem("Tools/切换平台/Harmony", false, 101)]
 		public static void SwitchToHarmony()
 		{
@@ -168,6 +171,7 @@ namespace Middleware
 			if (AssetDatabase.IsValidFolder("Assets/GeneratedLocalRepo"))
 				AssetDatabase.DeleteAsset("Assets/GeneratedLocalRepo");
 		}
+		#endif
 		
 		[MenuItem("Tools/切换平台/Android", false, 102)]
 		public static void SwitchToAndroid()
@@ -239,6 +243,7 @@ namespace Middleware
 
 		#endregion
 		
+		#if UNITY_OPENHARMONY
 		private static void BuildHarmony(BuildParam buildParam)
 		{
 			if (EditorUserBuildSettings.activeBuildTarget != BuildTarget.OpenHarmony)
@@ -252,26 +257,27 @@ namespace Middleware
 			//打包设置
 			EditorUserBuildSettings.exportAsOpenHarmonyProject = true;
 			EditorUserBuildSettings.development = false;
+			// EditorUserBuildSettings.symlinkSources = false;
 			PlayerSettings.stripEngineCode = true;
 			PlayerSettings.bundleVersion = buildParam.BuildVersion;
 			PlayerSettings.OpenHarmony.bundleVersionCode = GenBuildNumber();
-			PlayerSettings.OpenHarmony.compatibleSdkVersion = 14;
+			// PlayerSettings.OpenHarmony.compatibleSdkVersion = 14;
 			PlayerSettings.OpenHarmony.targetArchitectures = OpenHarmonyArchitecture.ARM64;
 			//账户设置
-			SetDefaultIcon(1);
+			SetDefaultIcon(4);
 			PlayerSettings.companyName = "NeoPlay";
-			PlayerSettings.productName = "词语接龙";
-			PlayerSettings.applicationIdentifier = "chain.idiom.neoplay.com.huawei";
+			PlayerSettings.productName = "词语纸牌接龙";
+			PlayerSettings.applicationIdentifier = "word.solitaire.association.puzzle.huawei";
 			PlayerSettings.OpenHarmony.useCustomKeystore = true;
 			PlayerSettings.OpenHarmony.keystoreName =
-				Path.GetFullPath($"{Application.dataPath}/../platform/Harmony/word_huawei.p12");
-			PlayerSettings.OpenHarmony.keystorePass = "word123456";
-			PlayerSettings.OpenHarmony.keyaliasName = "word";
-			PlayerSettings.OpenHarmony.keyaliasPass = "word123456";
-			PlayerSettings.OpenHarmony.openHarmonyAppID = "6917574075102471091";
-			PlayerSettings.OpenHarmony.openHarmonyClientID = "461323198429956566";
-			var p7Name = buildParam.IsBuildRelease ? "profile01Release.p7b" : "profile02Debug.p7b";
-			var cerName = buildParam.IsBuildRelease ? "release01.cer" : "debug01.cer";
+				Path.GetFullPath($"{Application.dataPath}/../platform/Harmony/solitaire.p12");
+			PlayerSettings.OpenHarmony.keystorePass = "soli123456";
+			PlayerSettings.OpenHarmony.keyaliasName = "soli";
+			PlayerSettings.OpenHarmony.keyaliasPass = "soli123456";
+			PlayerSettings.OpenHarmony.openHarmonyAppID = "6917596030656181846";
+			PlayerSettings.OpenHarmony.openHarmonyClientID = "1872570774804559168";
+			var p7Name = buildParam.IsBuildRelease ? "solitaireRelease.p7b" : "soliDebug.p7b";
+			var cerName = buildParam.IsBuildRelease ? "solitaireRelease.cer" : "soliDebug.cer";
 			PlayerSettings.OpenHarmony.openHarmonyProfile =
 				Path.GetFullPath($"{Application.dataPath}/../platform/Harmony/{p7Name}");
 			PlayerSettings.OpenHarmony.openHarmonyCertificate =
@@ -288,7 +294,7 @@ namespace Middleware
 			var harProject = Path.Combine(outputDir, "project");
 
 			var report = BuildPipeline.BuildPlayer(GetBuildScenes(), harProject, BuildTarget.OpenHarmony,
-				BuildOptions.None);
+				BuildOptions.AcceptExternalModificationsToPlayer);
 			if (report.summary.result != BuildResult.Succeeded)
 			{
 				Debug.Log("打包失败");
@@ -300,6 +306,7 @@ namespace Middleware
 				Application.OpenURL(@"file://" + outputDir);
 			//todo: hdc install xxx
 		}
+		#endif
 		
 		private static void BuildAndroid(BuildParam buildParam)
 		{

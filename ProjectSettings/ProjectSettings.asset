@@ -14,7 +14,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: NeoPlay
-  productName: "\u8BCD\u8BED\u63A5\u9F99"
+  productName: "\u8BCD\u8BED\u7EB8\u724C\u63A5\u9F99"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
@@ -46,7 +46,6 @@ PlayerSettings:
   - logo: {fileID: 21300000, guid: 1bc926c70b46956459d070ee63102e71, type: 3}
     duration: 2
   m_VirtualRealitySplashScreen: {fileID: 0}
-  expectedBundleIdentifier: chengyu.idiom.block.zen.huawei
   integrityHash: 
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1920
@@ -87,10 +86,7 @@ PlayerSettings:
   androidFullscreenMode: 1
   androidAutoRotationBehavior: 1
   androidUrasMode: 0
-  disableBluetoothAudioUpdate: 0
-  enableURASMultiView: 0
   androidEnableSensors: 0
-  androidPredictiveBackSupport: 1
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 1
@@ -157,7 +153,7 @@ PlayerSettings:
   openHarmonyStartInFullscreen: 1
   openHarmonyRenderOutsideSafeArea: 1
   openHarmonyResizableWindow: 0
-  openHarmonyEnableLowLatencyAudio: 1
+  openHarmonyEnableLowLatencyAudio: 0
   openHarmonyFullscreenMode: 1
   openHarmonyAutoRotationBehavior: 1
   openHarmonyBlitType: 0
@@ -165,8 +161,6 @@ PlayerSettings:
   openHarmonyDefaultWindowHeight: 1080
   openHarmonyMinimumWindowWidth: 400
   openHarmonyMinimumWindowHeight: 300
-  openHarmonyMaximumWindowRatio: 10
-  openHarmonyMinimumWindowRatio: 0.1
   stadiaPresentMode: 0
   stadiaTargetFramerate: 0
   vulkanNumSwapchainBuffers: 3
@@ -199,20 +193,20 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.neoplay.zen.idiom.chain
-    OpenHarmony: chengyu.idiom.block.zen.huawei
+    Android: chain.idiom.neoplay.com
+    OpenHarmony: word.solitaire.association.puzzle.huawei
   buildNumber:
     Standalone: 0
     VisionOS: 0
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 26012272
+  AndroidBundleVersionCode: 26030537
   AndroidMinSdkVersion: 24
   AndroidTargetSdkVersion: 35
   AndroidPreferredInstallLocation: 1
   aotOptions: 
-  stripEngineCode: 1
+  stripEngineCode: 0
   iPhoneStrippingLevel: 0
   iPhoneScriptCallOptimization: 0
   ForceInternetPermission: 0
@@ -318,7 +312,7 @@ PlayerSettings:
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
-  androidUseCustomKeystore: 0
+  androidUseCustomKeystore: 1
   m_AndroidBanners:
   - width: 320
     height: 180
@@ -797,14 +791,6 @@ PlayerSettings:
     Android: 1
     iPhone: 1
     tvOS: 1
-  m_VirtualGeometryRuntimeMap:
-    Android: 1
-    Standalone: 1
-    iPhone: 1
-  m_VirtualGeometryDataEncodingMap:
-    Android: 1
-    Standalone: 2
-    iPhone: 1
   m_BuildTargetGroupLightmapEncodingQuality:
   - m_BuildTarget: Android
     m_EncodingQuality: 1
@@ -831,6 +817,8 @@ PlayerSettings:
   m_BuildTargetDefaultTextureCompressionFormat:
   - m_BuildTarget: Android
     m_Format: 3
+  - m_BuildTarget: OpenHarmony
+    m_Format: 2
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -1090,15 +1078,16 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: Unity_ShowLog
-    OpenHarmony: Unity_Release
+    Android: Unity_ShowLog;Unity_ResourceAb
+    OpenHarmony: Unity_ShowLog
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
     Android: 1
     OpenHarmony: 1
   il2cppCompilerConfiguration: {}
-  il2cppCodeGeneration: {}
+  il2cppCodeGeneration:
+    Android: 1
   managedStrippingLevel:
     Android: 1
     EmbeddedLinux: 1
@@ -1208,32 +1197,26 @@ PlayerSettings:
   embeddedLinuxEnableGamepadInput: 1
   logStartupTiming: 0
   hmiCpuConfiguration: 
-  customShaderCachePath: 
   openHarmonySplashScreen: {fileID: 0}
   openHarmonySplashScreenScale: 0
   OpenHarmonyTargetArchitectures: 2
-  openHarmonyClientID: 
-  openHarmonyAppID: 
-  openHarmonyDeviceTypes: 7
-  openHarmonyAppIconTypes: 1
+  openHarmonyClientID: 6917596030656181846
+  openHarmonyAppID: 6917596030656181846
+  openHarmonyDeviceTypes: 3
   openHarmonySupportWindowModes: 1
   OpenHarmonyBundleVersionCode: 1
   forceOpenHarmonyInternetPermission: 0
   forceOpenHarmonySDCardPermission: 0
   openHarmonyUseLowAccuracyLocation: 0
   openHarmonyPredefinedPermissions: []
-  openHarmonyUseTuanjieLogo: 1
-  openHarmonyLaunchImage: {fileID: 0}
-  openHarmonyLaunchBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-  OpenHarmonyKeystoreName: 
-  OpenHarmonyKeyaliasName: 
-  OpenHarmonyProfile: 
-  OpenHarmonyCertificate: 
-  OpenHarmonyCompatibleSdkVersion: 14
-  OpenHarmonyUseCustomKeystore: 0
-  OpenHarmonyUseCustomModuleJsonFive: 0
-  OpenHarmonyUseCustomTuanjiePlayerAbility: 0
-  apiCompatibilityLevel: 3
+  OpenHarmonyKeystoreName: '{inproject}: platform/Harmony/solitaire.p12'
+  OpenHarmonyKeyaliasName: soli
+  OpenHarmonyProfile: E:\UnityProjects\WordChain\platform\Harmony\soliDebug.p7b
+  OpenHarmonyCertificate: E:\UnityProjects\WordChain\platform\Harmony\soliDebug.cer
+  OpenHarmonyUseCustomKeystore: 1
+  OpenHarmonyUseCustomModuleJsonFive: 1
+  OpenHarmonyUseCustomTuanjiePlayerAbility: 1
+  apiCompatibilityLevel: 6
   weixinMiniGameMemorySize: 32
   weixinMiniGameExceptionSupport: 1
   weixinMiniGameExceptionOnlyEnableForUserCodes: 0
@@ -1264,10 +1247,7 @@ PlayerSettings:
   weixinMiniGameInjectStrippedMethodLogger: 0
   weixinMiniGameEnableDotNetWasmExceptionHandling: 1
   weixinMiniGamePreserveEventDelegate: 0
-  activeSubplatform: 0
-  serializedFileTypeTreeMemoryOptimization: 0
-  activeHtmlChannel: -1
-  stripBuiltinResources: 0
+  activeSubplatform: 1
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
   cloudProjectId: 8eaf40af-61c0-4e20-9383-b3e5e0394190
@@ -1278,10 +1258,8 @@ PlayerSettings:
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
-  qnxEGLPriority: 0
-  embeddedLinuxEGLPriority: 0
-  androidEGLPriority: 0
   platformRequiresReadableAssets: 0
   virtualTexturingSupportEnabled: 0
+  packClustersForPlayer: 0
   insecureHttpOption: 0
   useStringInternPool: 0

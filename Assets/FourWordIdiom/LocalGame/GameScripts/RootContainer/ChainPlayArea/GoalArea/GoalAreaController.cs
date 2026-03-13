@@ -12,19 +12,23 @@ public class GoalAreaController : MonoBehaviour
 
     public List<CategorySlotView> allSlots = new List<CategorySlotView>();
 
+    private ObjectPool _slotPool;
+
+    private void Awake()
+    {
+        if (categorySlotPrefab == null)
+            categorySlotPrefab = AdvancedBundleLoader.SharedInstance.LoadGameObject("commonitem", "CateSlotView");
+        
+        _slotPool = new ObjectPool(categorySlotPrefab, slotContainer, 3, PoolBehaviour.GameObject);
+    }
 
     public void InitGoalSlots(int defaultCount, List<CategoryData> savedSlots, Dictionary<string, int> categoryTotalCounts, Action<string> onCategoryCompleted)
     {
-        foreach (Transform child in slotContainer)
-        {
-            Destroy(child.gameObject);
-        }
-        allSlots.Clear();
+        ClearSlots();
         
         for (int i = 0; i < defaultCount; i++)
         {
-            GameObject go = Instantiate(categorySlotPrefab, slotContainer);
-            CategorySlotView slotView = go.GetComponent<CategorySlotView>();
+            CategorySlotView slotView = _slotPool.GetObject<CategorySlotView>();
             
             bool hasSaveData = (savedSlots != null && i < savedSlots.Count);
             if (hasSaveData && !string.IsNullOrEmpty(savedSlots[i].categoryId))
@@ -46,6 +50,21 @@ public class GoalAreaController : MonoBehaviour
             slotView.OnCategoryCompleted = onCategoryCompleted;
             allSlots.Add(slotView);
         }
+    }
+    
+    public void ClearSlots()
+    {
+        StopAllCoroutines();
+        foreach (var slot in allSlots)
+        {
+            if (slot.TryGetComponent<Canvas>(out var canvas))
+            {
+                canvas.sortingOrder = 0;
+                canvas.sortingLayerName = "Default";
+            }
+        }
+        allSlots.Clear();
+        _slotPool.ReturnAllObjectsToPool();
     }
     
 }

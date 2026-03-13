@@ -23,9 +23,9 @@ namespace Middleware
         #if UNITY_OPENHARMONY
         public struct ConfigHarmony
         {
-            public const string TestBannerAdId = "testw6vs28auh3";
-            public const string TestInterstitialAdId = "testb4znbuh3n2";
-            public const string TestRewardAdId = "testx9dtjwj8hp";
+            public const string TestBannerAdId = "c7k25kjsxd";
+            public const string TestInterstitialAdId = "f874la36yq";
+            public const string TestRewardAdId = "h9ekpys8y7";
         }
         #endif
         

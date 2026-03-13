@@ -1,17 +1,18 @@
 %YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
+%TAG !u! tag:yousandi.cn,2023:
 --- !u!1 &1255567189582647730
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
+  serializedVersion: 7
   m_Component:
   - component: {fileID: 6254845980922114740}
   - component: {fileID: 6206541085657776458}
   - component: {fileID: 9088448023606634999}
   m_Layer: 5
+  m_HasEditorInfo: 1
   m_Name: TypeBg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82,12 +83,13 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
+  serializedVersion: 7
   m_Component:
   - component: {fileID: 2496823168958781008}
   - component: {fileID: 2309502725892223266}
   - component: {fileID: 3609023446367470577}
   m_Layer: 5
+  m_HasEditorInfo: 1
   m_Name: Count
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -161,12 +163,13 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
+  serializedVersion: 7
   m_Component:
   - component: {fileID: 5182721644967935554}
   - component: {fileID: 8999640510606610837}
   - component: {fileID: 2228609265297971552}
   m_Layer: 5
+  m_HasEditorInfo: 1
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -236,12 +239,13 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
+  serializedVersion: 7
   m_Component:
   - component: {fileID: 379978713310513268}
   - component: {fileID: 3072607564660225432}
   - component: {fileID: 4668386666006652019}
   m_Layer: 5
+  m_HasEditorInfo: 1
   m_Name: Word
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -309,18 +313,95 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "\u9762\u5305\u5E97"
+--- !u!1 &4747514018494510727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 7
+  m_Component:
+  - component: {fileID: 5302629297915797752}
+  - component: {fileID: 2925217517500897039}
+  - component: {fileID: 1244400161777140714}
+  m_Layer: 5
+  m_HasEditorInfo: 1
+  m_Name: GlowOutline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &5302629297915797752
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4747514018494510727}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5176283467694912216}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 118.61511, y: 167.92194}
+  m_SizeDelta: {x: 417.1168, y: 447.4496}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &2925217517500897039
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4747514018494510727}
+  m_CullTransparentMesh: 1
+--- !u!114 &1244400161777140714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4747514018494510727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: e141d5a937c4cd5439b456df45161f90, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 1
+  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &5679137904616628236
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
+  serializedVersion: 7
   m_Component:
   - component: {fileID: 6409682243615158195}
   - component: {fileID: 4206012590890948203}
   - component: {fileID: 1564446638287987225}
   m_Layer: 5
+  m_HasEditorInfo: 1
   m_Name: Content
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -393,12 +474,13 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
+  serializedVersion: 7
   m_Component:
   - component: {fileID: 8744575604350121701}
   - component: {fileID: 4935199784387253158}
   - component: {fileID: 7386691167277059735}
   m_Layer: 5
+  m_HasEditorInfo: 1
   m_Name: Text (Legacy)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -472,7 +554,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
+  serializedVersion: 7
   m_Component:
   - component: {fileID: 5176283467694912216}
   - component: {fileID: 926794067046756668}
@@ -480,6 +562,7 @@ GameObject:
   - component: {fileID: 433876990066747392}
   - component: {fileID: 1833195759662307264}
   m_Layer: 5
+  m_HasEditorInfo: 1
   m_Name: CateSlotView
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -500,6 +583,7 @@ RectTransform:
   m_Children:
   - {fileID: 6254845980922114740}
   - {fileID: 6409682243615158195}
+  - {fileID: 5302629297915797752}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -561,6 +645,8 @@ MonoBehaviour:
   content: {fileID: 5679137904616628236}
   checkMark: {fileID: 0}
   contentImage: {fileID: 2228609265297971552}
+  glowOutlineImage: {fileID: 1244400161777140714}
+  particleMaterial: {fileID: 2100000, guid: 5ed2b0117a5e1424db6e5f0f6223708b, type: 2}
   isOccupied: 0
   categoryId: 
   currentHeaderId: 
