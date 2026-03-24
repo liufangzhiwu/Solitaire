@@ -16,7 +16,7 @@ public class RewardAdsScreen : UIWindow
     [SerializeField] private Image adsIcon;
     [SerializeField] private Button ClaimBtn;
     [SerializeField] private Button ClaimAdsBtn;
- 
+
     private bool isCanClaim = false;
 
     protected override void OnEnable()
@@ -25,19 +25,19 @@ public class RewardAdsScreen : UIWindow
         UpdateCliamBtn(false);
         InitUI();
         AudioManager.Instance.PlaySoundEffect("ShowUI");
-        EventDispatcher.Instance.TriggerUpdateLayerCoin(true,false);
+        EventDispatcher.Instance.TriggerUpdateLayerCoin(true, false);
     }
 
     private void InitUI()
     {
         title.text = MultilingualManager.Instance.GetString("ADPopTitle");
-        ClaimAdsBtn.GetComponentInChildren<Text>().text= MultilingualManager.Instance.GetString("ADPopWatch");
-        ClaimBtn.GetComponentInChildren<Text>().text= MultilingualManager.Instance.GetString("ADPopReceive");
-        count.text = "x"+GameDataManager.Instance.UserData.ABseeAdsRewardCoins;
+        ClaimAdsBtn.GetComponentInChildren<Text>().text = MultilingualManager.Instance.GetString("ADPopWatch");
+        ClaimBtn.GetComponentInChildren<Text>().text = MultilingualManager.Instance.GetString("ADPopReceive");
+        count.text = ""+ GameDataManager.Instance.UserData.ABseeAdsRewardCoins;
         adsloading.gameObject.SetActive(false);
         adsIcon.gameObject.SetActive(true);
         StartCoroutine(CheckIsReadyToShowAd());
-        
+
         AnalyticMgr.VideoAdShow("金币弹窗广告");
     }
 
@@ -62,16 +62,16 @@ public class RewardAdsScreen : UIWindow
 
         // 轮询检查
         int attempt = 0;
-        while (attempt < maxAttempts && isConnected&&!isReady)
+        while (attempt < maxAttempts && isConnected && !isReady)
         {
             yield return new WaitForSeconds(checkInterval);
-    
+
             attempt++;
             isReady = Game.Ads.IsReady(Define.AdKey.RewardAdIdStoreGold);
             isConnected = GameCoreManager.Instance.IsNetworkActive;
-    
+
             // 状态变化处理
-            if (isReady&&isConnected)
+            if (isReady && isConnected)
             {
                 adsloading.gameObject.SetActive(false);
                 yield break;
@@ -101,8 +101,8 @@ public class RewardAdsScreen : UIWindow
     {
         //FirebaseManager.Instance.VideoAdClick("商店弹窗",SaveSystem.Instance.UserData.CurrentStage.ToString());
         AnalyticMgr.VideoAdClick("金币弹窗广告");
-        
-        Game.Ads.ShowReward(Define.AdKey.RewardAdIdStoreGold,UpdateAdsRewardUI);
+
+        Game.Ads.ShowReward(Define.AdKey.RewardAdIdStoreGold, UpdateAdsRewardUI);
     }
 
     private void UpdateAdsRewardUI(bool isClaimed)
@@ -112,10 +112,11 @@ public class RewardAdsScreen : UIWindow
             UpdateCliamBtn(true);
             AnalyticMgr.VideoAdSuccess("金币弹窗广告");
             GameDataManager.Instance.UserData.totalSeeAds++;
-            DailyTaskManager.Instance.UpdateTaskProgress(TaskEvent.NeedSeeAds,1);
+            // DailyTaskManager.Instance.UpdateTaskProgress(TaskEvent.NeedSeeAds,1);
         }
         else
         {
+            MessageSystem.Instance.ShowTip("广告失败");
             AnalyticMgr.VideoAdFail("金币弹窗广告");
             //FirebaseManager.Instance.VideoFail("商店弹窗",SaveSystem.Instance.UserData.CurrentStage.ToString());
         }
@@ -127,7 +128,7 @@ public class RewardAdsScreen : UIWindow
         ClaimAdsBtn.gameObject.SetActive(!isCanClaim);
         ClaimBtn.gameObject.SetActive(isCanClaim);
     }
-    
+
     IEnumerator GetAdsReward()
     {
         ClaimBtn.interactable = false;
@@ -136,25 +137,24 @@ public class RewardAdsScreen : UIWindow
         {
             CustomFlyInManager.Instance.FlyInGold(AwardIcon.transform, () =>
             {
-                int coins=GameDataManager.Instance.UserData.ABseeAdsRewardCoins;
+                int coins = GameDataManager.Instance.UserData.ABseeAdsRewardCoins;
                 EventDispatcher.Instance.TriggerChangeGoldUI(coins, true);
-                GameDataManager.Instance.UserData.UpdateGold(coins,true,true,"金币广告弹窗获得");
+                GameDataManager.Instance.UserData.UpdateGold(coins, true, true, "金币广告弹窗获得");
             });
             isCanClaim = false;
-            
+
             yield return new WaitForSeconds(0.8f);
         }
-        
+
         base.Close(); // 隐藏面板
-       
     }
-    
-    
+
+
     private void GetRewardClose()
     {
         StartCoroutine(GetAdsReward());
     }
-    
+
     public override void OnHideAnimationEnd()
     {
         base.OnHideAnimationEnd();
@@ -165,11 +165,11 @@ public class RewardAdsScreen : UIWindow
         base.OnDisable();
         ClaimBtn.interactable = true;
         closeBtn.interactable = true;
-        if(SystemManager.Instance.IsPanelTypeShowing())
-            EventDispatcher.Instance.TriggerUpdateLayerCoin(true,true);
+        if (SystemManager.Instance.IsPanelTypeShowing())
+            EventDispatcher.Instance.TriggerUpdateLayerCoin(true, true);
         else
         {
-            EventDispatcher.Instance.TriggerUpdateLayerCoin(false,true);
+            EventDispatcher.Instance.TriggerUpdateLayerCoin(false, true);
         }
     }
 }

@@ -54,10 +54,10 @@ public class LightItem : MonoBehaviour
                 count.text=rlist[1].ToString();
                 count.GetComponent<RectTransform>().sizeDelta = new Vector2(130,83);
                 break;
-            case LimitRewordType.Butterfly:
-                icon.GetComponent<RectTransform>().sizeDelta = new Vector2(135,118);
-                count.text=rlist[1].ToString();
-                break;
+            // case LimitRewordType.Butterfly:
+            //     icon.GetComponent<RectTransform>().sizeDelta = new Vector2(135,118);
+            //     count.text=rlist[1].ToString();
+                // break;
             case LimitRewordType.Min5Double:
                 count.text="<size=50>x<size=60>2</size></size>\n5min";
                 count.fontSize = 35;
@@ -83,8 +83,8 @@ public class LightItem : MonoBehaviour
                 if(max)
                     return AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("Coin2");
                 return AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("Coin1");
-            case LimitRewordType.Butterfly:
-                return AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("UI_Icon_Butterfly");
+            // case LimitRewordType.Butterfly:
+            //     return AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("UI_Icon_Butterfly");
             case LimitRewordType.Tipstool:
                 return AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("Tips");
             case LimitRewordType.Resettool:
@@ -225,10 +225,10 @@ public class LightItem : MonoBehaviour
                     //NextLevelBtn.gameObject.SetActive(true);
                 });
                 break;
-            case LimitRewordType.Butterfly:
-                //GameDataManager.MainInstance.UserData.toolInfo[103].count+=rlist[1];
-                GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Butterfly, rlist[1],message);
-                break;
+            // case LimitRewordType.Butterfly:
+            //     //GameDataManager.MainInstance.UserData.toolInfo[103].count+=rlist[1];
+            //     GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Butterfly, rlist[1],message);
+            //     break;
             case LimitRewordType.Tipstool:
                 //GameDataManager.MainInstance.UserData.toolInfo[102].count+=rlist[1];
                 GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Tipstool, rlist[1],message);

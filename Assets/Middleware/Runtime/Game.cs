@@ -83,7 +83,7 @@ namespace Middleware
         private void CreateShop()
         {
     #if UNITY_ANDROID
-            Shop = new Shop_android();
+            // Shop = new Shop_android();
     #elif UNITY_IOS
             Shop = new Shop_ios();
     #elif UNITY_OPENHARMONY

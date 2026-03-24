@@ -27,10 +27,10 @@ public class GiftItem : MonoBehaviour
                 spritename = "gold2";
                 countText.text = "x "+data[1]; // 假设 productContent 是数量
                 break;
-            case (int)LimitRewordType.Butterfly:
-                spritename = "Butterfly";
-                countText.text = "x "+data[1]; // 假设 productContent 是数量
-                break;
+            // case (int)LimitRewordType.Butterfly:
+            //     spritename = "Butterfly";
+            //     countText.text = "x "+data[1]; // 假设 productContent 是数量
+            //     break;
             case (int)LimitRewordType.Tipstool:
                 spritename = "tipicon";
                 countText.text = "x "+data[1]; // 假设 productContent 是数量

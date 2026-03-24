@@ -9,7 +9,7 @@ public class ChainLevelTools
 {
     static string sourceDir = "Assets/StreamingAssets/stage_2026_1";
  
-    [MenuItem("Tools/生成关卡清单 (Manifest)")]
+    [MenuItem("Tools/关卡处理/生成关卡清单 (Manifest)")]
     public static void GenerateManifest()
     {
         // 确保目录存在

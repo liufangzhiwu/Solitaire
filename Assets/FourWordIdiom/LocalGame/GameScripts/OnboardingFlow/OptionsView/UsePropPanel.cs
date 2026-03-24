@@ -9,11 +9,13 @@ using UnityEngine.UI;
 public class UsePropPanel : UIWindow
 {
     [Header("UI Elements")] 
+    [SerializeField] private Text title;
     [SerializeField] private Text propName;
     [SerializeField] private Transform propValue;
 
     [SerializeField] private Button closeBtn;
-    [SerializeField] private Button rewardBtn;
+    [SerializeField] private Button coinBtn;
+    [SerializeField] private Button adsBtn;
 
     private ToolInfo _toolInfo;
     private Action<bool> _finishedCallback;
@@ -21,7 +23,8 @@ public class UsePropPanel : UIWindow
     {
         base.InitializeUIComponents();
         closeBtn.AddClickAction(()=>Close());
-        rewardBtn.AddClickAction(OnRewardClick);
+        coinBtn.AddClickAction(OnCoinRewardClick);
+        adsBtn.AddClickAction(OnAdsRewardClick);
     }
 
     public void Setup(ToolInfo toolInfo, Action<bool> finishedCallback)
@@ -42,22 +45,23 @@ public class UsePropPanel : UIWindow
             propName.text = "撤回道具";
         }
 
-        rewardBtn.GetComponentInChildren<Text>().text = _toolInfo.cost.ToString();
-        if (GameDataManager.Instance.UserData.Gold < _toolInfo.cost)
-        {
-            propName.text = "金币不足";
-            rewardBtn.transform.GetChild(0).GetComponent<Image>().sprite =
-                AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("ads");
-            rewardBtn.GetComponentInChildren<Text>().text = "观看获取";
-            rewardBtn.GetComponentInChildren<Text>().fontSize = 62;
-        }
+        coinBtn.GetComponentInChildren<Text>().text = _toolInfo.cost.ToString();
+        // if (GameDataManager.Instance.UserData.Gold < _toolInfo.cost)
+        // {
+        //     propName.text = "金币不足";
+        //     coinBtn.transform.GetChild(0).GetComponent<Image>().sprite =
+        //         AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("ads");
+        //     coinBtn.GetComponentInChildren<Text>().text = "观看获取";
+        //     coinBtn.GetComponentInChildren<Text>().fontSize = 62;
+        // }
     }
     
-    private void OnRewardClick()
+    private void OnCoinRewardClick()
     {
         if(GameDataManager.Instance.UserData.Gold <_toolInfo.cost)
         {
-            Game.Ads.ShowReward(Define.AdKey.RewardAdIdStoreGold,UpdateAdsRewardHandler);
+            // Game.Ads.ShowReward(Define.AdKey.RewardAdIdStoreGold,UpdateAdsRewardHandler);
+            MessageSystem.Instance.ShowTip("金币不足！ 无法购买该道具");
             return ;
         }
         if (_toolInfo.type == "Hint")
@@ -67,12 +71,16 @@ public class UsePropPanel : UIWindow
         }else if (_toolInfo.type == "Undo")
         {
             GameDataManager.Instance.UserData.UpdateGold(-_toolInfo.cost, false, true, "购买测绘道具");
-            GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undoes, 1, "撤回道具购买");
+            GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undotool, 1, "撤回道具购买");
         }
         _finishedCallback?.Invoke(true);
         Close();
     }
 
+    private void OnAdsRewardClick()
+    {
+        Game.Ads.ShowReward(Define.AdKey.RewardAdIdStoreGold,UpdateAdsRewardHandler);
+    }
     private void UpdateAdsRewardHandler(bool result)
     {
         if (result)
@@ -82,7 +90,7 @@ public class UsePropPanel : UIWindow
                 GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Tipstool, 1, "看广告获取提示道具");
             }else if (_toolInfo.type == "Undo")
             {
-                GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undoes, 1, "看广告获取撤回道具");
+                GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undotool, 1, "看广告获取撤回道具");
             }
             _finishedCallback?.Invoke(true);
         }
@@ -98,7 +106,7 @@ public class UsePropPanel : UIWindow
     {
         _toolInfo = null;
         _finishedCallback = null;
-        rewardBtn.GetComponentInChildren<Text>().fontSize = 94;
+        // rewardBtn.GetComponentInChildren<Text>().fontSize = 94;
         base.Close(method);
     }
 }

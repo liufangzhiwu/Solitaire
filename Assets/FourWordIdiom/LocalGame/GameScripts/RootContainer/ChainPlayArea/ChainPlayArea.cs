@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using DG.Tweening;
 using Middleware;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -27,7 +28,9 @@ public class ChainPlayArea : UIWindow
     [SerializeField] private Text msgText;
     [SerializeField] private Button hintButton;
     [SerializeField] private Button undoButton;
+    [SerializeField] private Button bangButton;
     [SerializeField] private GameObject fingerPrefab; // 手指
+    
     // 分类槽
     public GoalAreaController goalArea;
     // 列槽
@@ -37,6 +40,7 @@ public class ChainPlayArea : UIWindow
     [Header("拖拽设置")] 
     public Transform dragLayer;
     public Transform graveyardRoot;
+    public float dragSpacing = 74f;
     
     [Header("运行时数据")] 
     private Dictionary<string, string> wordToCategoryMap = new Dictionary<string, string>();
@@ -48,14 +52,20 @@ public class ChainPlayArea : UIWindow
     public int currentSteps  { get => currentData.currentSteps; set => currentData.currentSteps = value; }     // 当前步数
     // 拖拽的数量
     private List<CardView> draggingStack = new List<CardView>();
-    private ColumnView sourceColumn;
-    private bool isDraggingFromHand = false;
-
+    private ColumnView sourceColumn;     //从列来源
+    private bool isDraggingFromHand = false;  // 从手牌区
+    private Vector2 _dragOffset; // 👇 🔥 新增：用于记录鼠标抓取点到头牌的偏移量
+    public bool IsDraggingProgress { get; private set; } = false; // 是否在拖拽中
+    private bool _isGameEnded = false; // 记录游戏是否已经结算（防连弹）
+    
     private bool _isHintActive;   // 当前是否使用了提示
     private bool _canUndoNow;     // 是否允许撤回
     private Coroutine _currentHintCoroutine;  // 当前正在播放的动画
     private GameObject _currentGhostObj;     // 手指物体
-    
+    // 👇 🔥 新增：用于记录拖拽时当前悬停的底座
+    private CategorySlotView _lastHoverSlot;
+    private ColumnView _lastHoverCol;
+    private CardView _lastHoverCard;
     public DateTime StartTime;
 
     protected override void Awake()
@@ -86,14 +96,13 @@ public class ChainPlayArea : UIWindow
             
         hintButton.AddClickAction(OnHintClick);
         undoButton.AddClickAction(OnUndoClick);
-        
-        hintButton.transform.GetChild(2).gameObject.SetActive(false);
-        undoButton.transform.GetChild(2).gameObject.SetActive(false);
+
     }
 
     protected override void OnEnable()
     {
         base.OnEnable();
+        GameCoreManager.Instance.SwitchBackground(true);
         EnterGame();
     }
 
@@ -167,12 +176,14 @@ public class ChainPlayArea : UIWindow
         bool undoActive = (_moveHistory.Count > 0) && _canUndoNow && !_isHintActive;
         undoButton.interactable = undoActive;
         // 如果你想让提示正在播放时，撤回按钮看起来完全灰掉：
-        undoButton.GetComponent<CanvasGroup>().alpha = undoActive ? 1f : 0.5f; 
+        // undoButton.GetComponent<CanvasGroup>().alpha = undoActive ? 1f : 0.5f; 
         
         hintButton.interactable = !_isHintActive;
-        Transform hintip = hintButton.transform.GetChild(1);
+        Transform hintip = hintButton.transform.GetChild(0);
+        Transform hintcost = hintButton.transform.GetChild(1);
         if (GameDataManager.Instance.UserData.toolInfo[101].count > 0)
         {
+            hintcost.gameObject.SetActive(false);
             hintip.GetChild(0).gameObject.SetActive(false);
             Text hintext = hintip.GetComponentInChildren<Text>(true);
             hintext.text = GameDataManager.Instance.UserData.toolInfo[101].count.ToString();
@@ -180,13 +191,18 @@ public class ChainPlayArea : UIWindow
         }
         else
         {
+            hintcost.gameObject.SetActive(true);
+            hintcost.GetComponentInChildren<Text>().text =
+                GameDataManager.Instance.UserData.toolInfo[101].cost.ToString();
+            hintip.GetComponentInChildren<Text>()?.gameObject.SetActive(false);
             hintip.GetChild(0).gameObject.SetActive(true);
-            hintip.GetChild(1).gameObject.SetActive(false);
         }   
         
-        Transform undotip = undoButton.transform.GetChild(1);
+        Transform undotip = undoButton.transform.GetChild(0);
+        Transform undocost = undoButton.transform.GetChild(1);
         if (GameDataManager.Instance.UserData.toolInfo[102].count > 0)
         {
+            undocost.gameObject.SetActive(false);
             undotip.GetChild(0).gameObject.SetActive(false);
             Text undotext =  undotip.GetComponentInChildren<Text>(true);
             undotext .text = GameDataManager.Instance.UserData.toolInfo[102].count.ToString();
@@ -194,11 +210,30 @@ public class ChainPlayArea : UIWindow
         }
         else
         {
+            undocost.gameObject.SetActive(true);
+            undocost.GetComponentInChildren<Text>().text = GameDataManager.Instance.UserData.toolInfo[102].cost.ToString();
+            undotip.GetComponentInChildren<Text>()?.gameObject.SetActive(false);
             undotip.GetChild(0).gameObject.SetActive(true);
-            undotip.GetChild(1).gameObject.SetActive(false);
+        }
+        
+        Transform bangtip = bangButton.transform.GetChild(0);
+        Transform bangcost = bangButton.transform.GetChild(1);
+        if (GameDataManager.Instance.UserData.toolInfo[103].count > 0)
+        {
+            bangcost.gameObject.SetActive(false);
+            bangtip.GetChild(0).gameObject.SetActive(false);
+            Text bangtext =  bangtip.GetComponentInChildren<Text>(true);
+            bangtext .text = GameDataManager.Instance.UserData.toolInfo[103].count.ToString();
+            bangtext.gameObject.SetActive(true);
+        }
+        else
+        {
+            bangcost.gameObject.SetActive(true);
+            bangcost.GetComponentInChildren<Text>().text = GameDataManager.Instance.UserData.toolInfo[103].cost.ToString();
+            bangtip.GetComponentInChildren<Text>()?.gameObject.SetActive(false);
+            bangtip.GetChild(0).gameObject.SetActive(true);
         }
     }
-    
 
     private IEnumerator StartGame(LevelData levelData)
     {
@@ -206,13 +241,35 @@ public class ChainPlayArea : UIWindow
         sourceColumn = null;
         draggingStack.Clear();
         currentLevelConfig = levelData;
+        // 👇 🔥 核心：计算当前需要多大的缩放比例
+        const float scaleFor4Cols = 1.0f;        // 3列和4列的默认比例 (271x363)
+        const float scaleFor5Cols = 0.804f;      // 5列的精确缩小比例 (218x292)
+        int colCount = currentData.tableauColumns.Count;
+        float targetScale = colCount >= 5 ? scaleFor5Cols : scaleFor4Cols;
+        Vector3 scaleVec = new Vector3(targetScale, targetScale, 1f);
+
+        // 分别对这4个独立模块进行缩放
+        // 因为我们在 Unity 里设置了神级 Pivot，它们会各自朝着正确的方向变小！
+        goalArea.transform.localScale = scaleVec;
+        tableauArea.transform.localScale = scaleVec;
+        handArea.transform.GetChild(0).localScale = scaleVec;
+        handArea.transform.GetChild(1).localScale = scaleVec;
+        dragLayer.localScale = scaleVec;
         BuildMap(levelData);
         PrecalculateTotals(levelData);
-        yield return null;
         
-        goalArea.InitGoalSlots(levelData.slotsDefault, currentData.categorySlots,categoryTotalCounts,OnSingleCategoryFinished);
+        goalArea.InitGoalSlotsEmpty(levelData.slotsDefault, OnSingleCategoryFinished);
+        // goalArea.InitGoalSlots(levelData.slotsDefault, currentData.categorySlots,categoryTotalCounts,OnSingleCategoryFinished);
         handArea.InitHand(currentData.stockCardIds, currentData.wasteCardIds, wordToCategoryMap,categoryTotalCounts );
-
+        tableauArea.InitTableauSlots(currentData.tableauColumns.Count);
+        Sequence entranceAnim = PlayUIEntranceAnim();
+        
+        yield return null;
+        SystemManager.Instance.ShowPanel(PanelType.HeaderSection);
+        EventDispatcher.Instance.TriggerChangeTopRaycast(false);
+        entranceAnim.Play();
+        yield return entranceAnim.WaitForCompletion();
+        yield return StartCoroutine(goalArea.DealGoalCardsAnim(currentData.categorySlots, categoryTotalCounts, handArea.stockRoot));
         // 改为发牌
         yield return StartCoroutine(tableauArea.DealTableauCardsAnim(
             currentData.tableauColumns, 
@@ -224,8 +281,93 @@ public class ChainPlayArea : UIWindow
         // tableauArea.InitTableau(currentData.tableauColumns, wordToCategoryMap ,categoryTotalCounts);
       
         yield return new WaitForSeconds(0.3f);
-        SystemManager.Instance.ShowPanel(PanelType.HeaderSection);
+        EventDispatcher.Instance.TriggerChangeTopRaycast(true);
         EventDispatcher.Instance.TriggerLevelStarted(currentData.stageId);
+    }
+    
+    private Sequence PlayUIEntranceAnim()
+    {
+        // 动画时间设置
+        float duration = 0.6f;
+        Sequence seq = DOTween.Sequence();
+        seq.Pause();
+        // 1. 步数面板：从左边 800 像素外飞进来 (使用 OutBack 会有一点点回弹的 Q 弹效果)
+        if (handArea.transform.GetChild(0).TryGetComponent<RectTransform>(out var stepRt))
+        {
+            // .From(true) 表示以当前位置为基准，相对偏移 -800
+            seq.Insert(0, stepRt.DOAnchorPosX(-800f, duration).From(true).SetEase(Ease.OutBack));
+        }
+
+        // 2. 牌堆区：从右边 800 像素外飞进来
+        if (handArea.transform.GetChild(1).TryGetComponent<RectTransform>(out var pileRt))
+        {
+            seq.Insert(0, pileRt.DOAnchorPosX(800f, duration).From(true).SetEase(Ease.OutBack));
+        }
+
+        // 3. 分类槽：从下方移上来，并从透明到显现
+        if (goalArea.TryGetComponent<RectTransform>(out var goalRt))
+        {
+            seq.Insert(0.2f, goalRt.DOAnchorPosY(-400f, duration).From(true).SetEase(Ease.OutCubic));
+            
+            // 如果没有 CanvasGroup 就自动加上，用来做渐隐渐现
+            if (!goalArea.TryGetComponent<CanvasGroup>(out var goalCg)) goalCg = goalArea.gameObject.AddComponent<CanvasGroup>();
+            goalCg.alpha = 1f; // 确保最终是1
+            seq.Insert(0.2f, goalCg.DOFade(0f, duration).From()); // 从 0 渐变到 1
+        }
+
+        // 4. 列槽区域：从下方更深的地方移上来，并透明显现 (稍微延迟一点点，形成错落感)
+        if (tableauArea.TryGetComponent<RectTransform>(out var tabRt))
+        {
+            seq.Insert(0.3f, tabRt.DOAnchorPosY(-600f, duration).From(true).SetEase(Ease.OutCubic));
+            
+            if (!tableauArea.TryGetComponent<CanvasGroup>(out var tabCg)) tabCg = tableauArea.gameObject.AddComponent<CanvasGroup>();
+            tabCg.alpha = 1f;
+            seq.Insert(0.3f, tabCg.DOFade(0f, duration).From());
+        }
+        
+        // ==========================================
+        // 👇 🔥 新增：按钮的 Q 弹入场动画！
+        // ==========================================
+        float btnStartTime = 0.4f;   // 面板滑入得差不多了，按钮开始弹
+        float stagger = 0.1f;        // 每个按钮依次弹出的时间差 (啵、啵、啵的效果)
+        // 把你的功能按钮加进数组里统一处理（确保变量名和你上面定义的一致）
+        Button[] bottomButtons = { hintButton, undoButton, bangButton };
+        for (int i = 0; i < bottomButtons.Length; i++)
+        {
+            if (bottomButtons[i] != null && bottomButtons[i].gameObject.activeSelf)
+            {
+                Transform btnT = bottomButtons[i].transform;
+                
+                // 提前把按钮强行缩到 0，防止第一帧走光
+                btnT.localScale = Vector3.zero;
+
+                // 🔥 核心：为每个按钮单独创建一个“弹跳子序列”
+                Sequence bounceSeq = DOTween.Sequence();
+                
+                // 【第 1 次大弹】：从 0 猛冲到 1.25 倍
+                bounceSeq.Append(btnT.DOScale(1.25f, 0.2f).SetEase(Ease.OutQuad));
+                
+                // 【第 1 次回缩】：缩回 0.85 倍
+                bounceSeq.Append(btnT.DOScale(0.85f, 0.12f).SetEase(Ease.InOutSine));
+                
+                // 【第 2 次小弹】：冲到 1.1 倍
+                bounceSeq.Append(btnT.DOScale(1.1f, 0.1f).SetEase(Ease.InOutSine));
+                
+                // 【第 2 次回缩】：缩回 0.95 倍
+                bounceSeq.Append(btnT.DOScale(0.95f, 0.08f).SetEase(Ease.InOutSine));
+                
+                // 【最终停稳】：回到 1.0 标准大小
+                bounceSeq.Append(btnT.DOScale(1.0f, 0.08f).SetEase(Ease.OutQuad));
+
+                // 将这个子序列插入到主进场序列的指定时间点
+                seq.Insert(btnStartTime + (i * stagger), bounceSeq);
+            }
+        }
+        return seq;
+        // 等待整个进场动画播完
+        // bool isComplete = false;
+        // seq.OnComplete(() => isComplete = true);
+        // yield return new WaitUntil(() => isComplete);
     }
     
     private void PrecalculateTotals(LevelData data)
@@ -235,6 +377,17 @@ public class ChainPlayArea : UIWindow
         {
             categoryTotalCounts[category.categoryId] = category.wordsData.Count;
         }
+    }
+    /// <summary>
+    /// 获取某个分类一共需要几张词语牌
+    /// </summary>
+    public int GetCategoryTotalCount(string catId)
+    {
+        if (categoryTotalCounts.TryGetValue(catId, out int count))
+        {
+            return count;
+        }
+        return 999; // 没查到时给个极大值，防止意外触发全收集打勾
     }
 
     private void BuildMap(LevelData levelData)
@@ -274,12 +427,21 @@ public class ChainPlayArea : UIWindow
 
             CardView startCard = FindChainRoot(card, sourceColumn);
             int index = sourceColumn.cards.IndexOf(startCard);
+            // ==========================================
+            // 👇 🔥 核心修复 2：防弹衣！绝不允许 -1 越界摧毁游戏！
+            // ==========================================
+            if (index < 0) 
+            {
+                Debug.LogWarning($"[极度异常] 卡牌 {card.name} 记录的 Column 中找不到它自己！已拦截崩溃。");
+                eventData.pointerDrag = null; // 强行终止拖拽
+                return;
+            }
             for (int i = index; i < sourceColumn.cards.Count; i++)
             {
                 draggingStack.Add(sourceColumn.cards[i]);
             }
 
-            sourceColumn.RemoveCardsFrom(startCard);
+            // sourceColumn.RemoveCardsFrom(startCard);
             ChainStageController.Instance.SyncTableauState(tableauArea.columns);
         }
         // B. 从手牌区拖拽 (废牌堆)
@@ -307,6 +469,26 @@ public class ChainPlayArea : UIWindow
                 cg.blocksRaycasts = false;
             }
         }
+
+        IsDraggingProgress = true;
+        foreach (var c in draggingStack)
+        {
+            c.SetDragHighlight(true);
+        }
+        
+        if (RectTransformUtility.ScreenPointToLocalPointInRectangle(
+                (RectTransform)dragLayer,
+                eventData.position,
+                eventData.pressEventCamera,
+                out Vector2 localMousePos
+            ))
+        {
+            // 我们要保持鼠标和【整摞牌】的相对位置
+            // 因为代码里移动的参照物永远是头牌 (draggingStack[0])
+            // 所以 偏移量 = 头牌当前的位置 - 鼠标的位置
+            CardView rootCard = draggingStack[0];
+            _dragOffset = (Vector2)rootCard.transform.localPosition - localMousePos;
+        }
     }
 
     // 拖拽中
@@ -323,15 +505,66 @@ public class ChainPlayArea : UIWindow
                     out Vector2 localPoint
                 ))
             {
-                targetCard.transform.localPosition = localPoint;
+                // targetCard.transform.localPosition = localPoint;
+                targetCard.transform.localPosition = localPoint + _dragOffset;
             }
-
-            float dragSpacing = 40f;
+            
             for (int i = 1; i < draggingStack.Count; i++)
             {
                 CardView current = draggingStack[i];
-                CardView prev = draggingStack[i - 1];
-                current.transform.localPosition = prev.transform.localPosition + new Vector3(0, -dragSpacing, -0);
+                if (i > 0)
+                {
+                    CardView prev = draggingStack[i - 1];
+                    current.transform.localPosition = prev.transform.localPosition + new Vector3(0, -dragSpacing, 0);
+                }
+                current.transform.SetAsLastSibling();
+                if (current.TryGetComponent<Canvas>(out var myCanvas))
+                {
+                    myCanvas.sortingOrder = 30000 + i; 
+                }
+            }
+            // 👇 🔥 新增：拖拽过程中的嗅探预警（底座绿框亮起）
+            CardView dragHead = draggingStack[0];
+            CategorySlotView currentHoverSlot = GetSlotUnderMouse(eventData, dragHead);
+            ColumnView currentHoverCol = GetColumnUnderMouse(eventData, dragHead);
+            CardView currentHoverCard = null; // 🔥 新增：当前悬停的牌
+            
+            // 为了防止同时亮起，做个简单优先级：碰到顶部分类槽就忽略下方的列
+            if (currentHoverSlot != null) currentHoverCol = null;
+
+            // 👇 🔥 核心逻辑：如果悬停在列上，且列里有牌，就让顶牌作为目标！
+            if (currentHoverCol != null)
+            {
+                currentHoverCard = currentHoverCol.GetTopCard();
+                if (currentHoverCard != null)
+                {
+                    // 列里有牌，强制把列底座置空，让列底座不要亮！
+                    currentHoverCol = null; 
+                }
+            }
+            
+            // 刷新分类槽的悬停绿框
+            if (_lastHoverSlot != currentHoverSlot)
+            {
+                if (_lastHoverSlot != null) _lastHoverSlot.SetHoverHighlight(false);
+                if (currentHoverSlot != null) currentHoverSlot.SetHoverHighlight(true);
+                _lastHoverSlot = currentHoverSlot;
+            }
+
+            // 刷新列的悬停绿框
+            if (_lastHoverCol != currentHoverCol)
+            {
+                if (_lastHoverCol != null) _lastHoverCol.SetHoverHighlight(false);
+                if (currentHoverCol != null) currentHoverCol.SetHoverHighlight(true);
+                _lastHoverCol = currentHoverCol;
+            }
+            
+            // 👇 🔥 新增：刷新顶牌绿框
+            if (_lastHoverCard != currentHoverCard)
+            {
+                if (_lastHoverCard != null) _lastHoverCard.SetHoverHighlight(false);
+                if (currentHoverCard != null) currentHoverCard.SetHoverHighlight(true);
+                _lastHoverCard = currentHoverCard;
             }
         }
     }
@@ -340,6 +573,14 @@ public class ChainPlayArea : UIWindow
     public void OnCardEndDrag(CardView card, PointerEventData eventData)
     {
         ResetIdleTimer();
+        IsDraggingProgress = false;
+        
+        // 👇 🔥 新增：一松手，立刻关掉卡牌和底座的绿框！
+        foreach (var c in draggingStack) c.SetDragHighlight(false);
+        if (_lastHoverSlot != null) { _lastHoverSlot.SetHoverHighlight(false); _lastHoverSlot = null; }
+        if (_lastHoverCol != null) { _lastHoverCol.SetHoverHighlight(false); _lastHoverCol = null; }
+        if (_lastHoverCard != null) { _lastHoverCard.SetHoverHighlight(false); _lastHoverCard = null; }
+        
         // 1. 获取最佳 Slot 和 最佳 Column
         CardView dragHead = draggingStack[0];
         CategorySlotView bestSlot = GetSlotUnderMouse(eventData, dragHead);
@@ -404,6 +645,11 @@ public class ChainPlayArea : UIWindow
         {
             if (IsValidMove(draggingStack, bestSlot)) 
             {
+                if (!isDraggingFromHand && sourceColumn != null)
+                {
+                    sourceColumn.RemoveCardsFrom(draggingStack[0]);
+                }
+                
                 OnCardMovedSuccess(draggingStack[0], sourceColumn, null, isDraggingFromHand, bestSlot,false);
                 HandleDropToSlot(bestSlot, draggingStack);
                 EventDispatcher.Instance.TriggerCardDragResult(dragHead, bestSlot,true);
@@ -422,14 +668,40 @@ public class ChainPlayArea : UIWindow
 
         if (useCol)
         {
+            if (!isDraggingFromHand && bestCol == sourceColumn)
+            {
+                ReturnToSource();
+                CleanUpDrag();
+                
+                // 恢复强引导
+                if (ChainGuideSystem.Instance != null && ChainGuideSystem.Instance.IsStrictGuideActive())
+                {
+                    ChainGuideSystem.Instance.ResumeGuide();
+                }
+                
+                // 彻底退出，不走下面的 IsValidMove，绝不扣步数！
+                return; 
+            }
             if (IsValidMove(draggingStack, bestCol))
             {
-                // >> 放置成功 <<
-                foreach (var c in draggingStack)
+                if (!isDraggingFromHand && sourceColumn != null)
                 {
+                    sourceColumn.RemoveCardsFrom(draggingStack[0]);
+                }
+                // >> 放置成功 <<
+                for (int i = 0; i < draggingStack.Count; i++)
+                {
+                    CardView c = draggingStack[i];
                     bestCol.AddCard(c);
                     c.IsInHand = false; // 确保标记离开手牌区
-                    c.UpdateZoneVisuals(false, false); // 🔥 播放变大并恢复背景的动画
+                    c.UpdateZoneVisuals(false, true); // 🔥 播放变大并恢复背景的动画
+                    bool isTopCard = (i == draggingStack.Count - 1);
+                    c.SetCompressedState(!isTopCard, true);
+                    c.transform.SetAsLastSibling(); 
+                    if (c.TryGetComponent<Canvas>(out var myCanvas))
+                    { 
+                        myCanvas.overrideSorting = false;
+                    }
                 }
                 
                 bool revealedNewCard = false; // 🔥 新增：记录是否翻开了新牌
@@ -477,13 +749,15 @@ public class ChainPlayArea : UIWindow
         }
         else if (sourceColumn != null)
         {
+            // 👇 核心修复：不走 AddCard，走专门的回弹方法！
+            sourceColumn.ReturnCardsFromDrag(draggingStack);
             foreach (var c in draggingStack)
             {
-                sourceColumn.AddCard(c);
+                // sourceColumn.AddCard(c);
                 c.PlayErrorAnimation();
             }
 
-            ChainStageController.Instance.SyncTableauState(tableauArea.columns);
+            // ChainStageController.Instance.SyncTableauState(tableauArea.columns);
         }
     }
     // 提取一个清理方法，避免重复代码
@@ -515,11 +789,24 @@ public class ChainPlayArea : UIWindow
         // 1. 如果鼠标下面是【槽位】，诊断槽位错误
         if (hitSlot != null)
         {
+            // 👇 🔥 新增：触发分类槽的红框和摇头动画！
+            hitSlot.ShowErrorFeedback();
             IsValidMoveWithReason(draggingStack, hitSlot, out error);
         }
         // 2. 如果鼠标下面是【列】，诊断列错误
         else if (hitCol != null)
         {
+            // 👇 🔥 核心逻辑：失败时，如果列里有顶牌，就让顶牌爆红框！否则列底座爆红框！
+            CardView topCard = hitCol.GetTopCard();
+            // 👇 🔥 新增：触发分类槽的红框和摇头动画！
+            if (topCard != null)
+            {
+                topCard.ShowErrorFeedback();
+            }
+            else
+            {
+                hitCol.ShowErrorFeedback(); 
+            }
             IsValidMoveWithReason(draggingStack, hitCol, out error);
         }
         else
@@ -673,15 +960,27 @@ public class ChainPlayArea : UIWindow
         if (currentSteps > 0)
         {
             currentSteps--;
-            UpdateStepUI();
-            // 最后一张牌成功
-            if (completedCategoriesCount >= categoryTotalCounts.Count) return;
-            if (currentSteps <= 0 && completedCategoriesCount < categoryTotalCounts.Count)
+            UpdateStepUI(true);
+            if (currentSteps <= 0)
             {
-                Debug.Log("步数耗尽, 游戏结束! ");
-                StartCoroutine(CheckCompleted(false));
+                StartCoroutine(DelayCheckFail());
             }
         }
+    }
+    private IEnumerator DelayCheckFail()
+    {
+        // 延迟 0.5 秒（根据你游戏里卡牌飞入槽位动画的时间可以微调）
+        yield return new WaitForSeconds(0.5f);
+        
+        // 🔥 关键拦截：如果在这 0.5 秒内，槽位吸收完毕并触发了胜利，就绝对不要再弹失败了！
+        if (_isGameEnded || completedCategoriesCount >= categoryTotalCounts.Count)
+        {
+            yield break;
+        }
+
+        _isGameEnded = true; // 上锁
+        Debug.Log("步数耗尽, 游戏结束! ");
+        StartCoroutine(CheckCompleted(false));
     }
 
     public bool IsGameOver() => completedCategoriesCount == categoryTotalCounts.Count;
@@ -691,6 +990,8 @@ public class ChainPlayArea : UIWindow
         completedCategoriesCount++;
         if (completedCategoriesCount >= categoryTotalCounts.Count)
         {
+            if (_isGameEnded) return;
+            _isGameEnded = true;
             Debug.Log("🎉 胜利！所有分类已完成！");
             StartCoroutine(CheckCompleted());
         }
@@ -714,8 +1015,8 @@ public class ChainPlayArea : UIWindow
             if (!prevCard.isFaceUp) break;
             if (prevCard.categoryId == currentRoot.categoryId)
             {
-                if (prevCard.type == CardType.Category) break;
                 currentRoot = prevCard;
+                if (prevCard.type == CardType.Category) break;
             }
             else break;
         }
@@ -794,10 +1095,61 @@ public class ChainPlayArea : UIWindow
 
         return bestCol;
     }
-
-    private void UpdateStepUI()
+    
+    private float _stepTextBaseY;
+    private Color _originalStepColor;
+    private bool _isStepBaseYInitialized = false;
+    private void UpdateStepUI(bool playAnim = false)
     {
-        if (stepsText) stepsText.text = currentSteps.ToString();
+        stepsText.text = currentSteps.ToString();
+
+        // 1. 初始化基准高度和原始颜色
+        if (!_isStepBaseYInitialized)
+        {
+            _stepTextBaseY = stepsText.GetComponent<RectTransform>().anchoredPosition.y;
+            _originalStepColor = stepsText.color; // 记录美术在面板里配好的原本颜色
+            _isStepBaseYInitialized = true;
+        }
+
+        // 2. 👇 🔥 步数告急变色：最后 5 步变红，重开/撤回高于 5 步时恢复原色
+        if (currentSteps <= 5)
+        {
+            // 如果你想用特定的暗红，可以写 new Color(1f, 0.2f, 0.2f, 1f)
+            stepsText.color = Color.red; 
+        }
+        else
+        {
+            stepsText.color = _originalStepColor;
+        }
+
+        // 3. 播放跳跃动效
+        if (playAnim)
+        {
+            RectTransform txtRt = stepsText.GetComponent<RectTransform>();
+                
+            // 强行打断旧动画，瞬间复位（高度和缩放全部复位，防连点）
+            txtRt.DOKill();
+            txtRt.anchoredPosition = new Vector2(txtRt.anchoredPosition.x, _stepTextBaseY);
+            txtRt.localScale = Vector3.one;
+
+            Sequence seq = DOTween.Sequence();
+                
+            // 【阶段 1：被微微拎起来】
+            // 👇 🔥 高度改小：从 25f 改成了 12f，不会飞得太夸张
+            seq.Append(txtRt.DOAnchorPosY(_stepTextBaseY + 6f, 0.05f).SetEase(Ease.OutQuad));
+            seq.Join(txtRt.DOScale(new Vector3(0.8f, 1.2f, 1f), 0.05f).SetEase(Ease.OutQuad));
+                
+            // 【阶段 2：重重砸在地上】
+            // 往下压扁向左右拉伸
+            seq.Append(txtRt.DOAnchorPosY(_stepTextBaseY, 0.05f).SetEase(Ease.InQuad));
+            seq.Join(txtRt.DOScale(new Vector3(1.3f, 0.7f, 1f), 0.05f).SetEase(Ease.InQuad));
+                
+            // 【阶段 3：果冻第一次回弹】
+            seq.Append(txtRt.DOScale(new Vector3(0.9f, 1.1f, 1f), 0.1f).SetEase(Ease.InOutSine));
+                
+            // 【阶段 4：定格恢复正常】
+            seq.Append(txtRt.DOScale(Vector3.one, 0.05f).SetEase(Ease.OutBack));
+        }
     }
     
     // 是否需要显示图片
@@ -899,7 +1251,7 @@ public class ChainPlayArea : UIWindow
             InitUI();
             return;
         }
-        GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undoes, -1, "关卡内使用");
+        GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undotool, -1, "关卡内使用");
      
         List<CardView> cardsToReturn = new List<CardView>();
         // A. 从当前列移除
@@ -948,10 +1300,11 @@ public class ChainPlayArea : UIWindow
         lastMove.card.UpdateVisualState();
 
         currentSteps++;
+        UpdateStepUI(true);
         _canUndoNow = false;
         InitUI();
         // AudioManager.Instance.PlaySoundEffect("ResetTool");
-        StartCoroutine(ButtonHintCoroutine("撤回成功，步数已返还!"));
+        StartCoroutine(ButtonHintCoroutine(MultilingualManager.Instance.GetString("ItemTips01")));
         
     }
 
@@ -1373,10 +1726,16 @@ public class ChainPlayArea : UIWindow
     /// </summary>
     public void CleanUp()
     {
+        _isGameEnded = false; // 🔥 新增：重置结束状态
         // 1. 停止所有协程 (包括提示动画、自动消失文本、游戏流程等)
         StopAllCoroutines();
         // 🔥 新增：重玩时，强行清空手牌区残留
         // handArea?.ClearHand();
+        // 👇 🔥 核心大扫除：绝对不能留到下一局去清理！在这里立刻销毁所有残影！
+        if (tableauArea != null) tableauArea.ClearTableau();
+        if (handArea != null) handArea.ClearHand();
+        // 如果你的 goalArea 也有清理方法（比如清空槽位），也在这里调用：
+        if (goalArea != null) goalArea.ClearSlots();
         
         // 2. 销毁提示系统的幻影
         if (_currentGhostObj != null) 
@@ -1395,6 +1754,7 @@ public class ChainPlayArea : UIWindow
             // 稍后调用 tableauArea.Clear() 会统一销毁
             draggingStack.Clear();
         }
+        IsDraggingProgress = false;
         if (ChainGuideSystem.Instance != null)
         {
             ChainGuideSystem.Instance.RestoreCanvasLayers();

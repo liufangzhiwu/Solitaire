@@ -12,18 +12,35 @@ public class HandAreaController : MonoBehaviour
     
     [Header("UI 组件")] 
     public Button stockButton;    // 牌堆按钮
+    public GameObject stockPile;
+    public Text stockCountText;   // 剩余牌量文本
     
     [Header("牌堆视觉")] 
     public Transform stockRoot;
     public int maxStackVisual = 2;
-    public Vector2 stackOffset = new Vector2(-4f, 5f);
+    public Vector2 stackOffset = new Vector2(-4f, -4f);
     public List<GameObject> visualStackCards = new List<GameObject>();
     
     private GameObject _stockBackPrefab;
     private ObjectPool _stockBackPool;
+    public ObjectPool StockBackPool
+    {
+        get
+        {
+            if (_stockBackPool == null)
+            {
+                if (_stockBackPrefab == null)
+                    _stockBackPrefab = AdvancedBundleLoader.SharedInstance.LoadGameObject("commonitem","Stockback");
+                
+                // 注意：这里第二个参数我帮你填了 stockRoot，让它默认生成在牌堆节点下，更干净
+                _stockBackPool = new ObjectPool(_stockBackPrefab, stockRoot, 3, PoolBehaviour.GameObject);
+            }
+            return _stockBackPool;
+        }
+    }
     
     [Header("废牌堆")] 
-    public float fanSpacing = 60f;     // 扇形展开的间距 (正数，代码里会处理方向)
+    public float fanSpacing = 74f;     // 扇形展开的间距 (正数，代码里会处理方向)
     public float pileSpacing = 5f;     // 底部堆叠的微小偏移 (模拟厚度)
     public int visibleFanCount = 3;    // 可以看到多少张展开的牌(不含顶牌)
     public int visiblePileCount = 2;   // 底部保留多少张堆叠显示
@@ -36,11 +53,11 @@ public class HandAreaController : MonoBehaviour
     
     // 动画锁，防止连续点击导致动画错乱
     private bool isDealing = false;
+    private CardView _dealingCard;
     private void Awake()
     {
         stockButton.onClick.AddListener(OnStockClicked);
-        _stockBackPrefab = AdvancedBundleLoader.SharedInstance.LoadGameObject("commonitem","Stockback");
-        _stockBackPool = new ObjectPool(_stockBackPrefab, null,3,PoolBehaviour.GameObject);
+        var init = StockBackPool;
     }
 
     public void InitHand(List<string> stockList, List<string> wasteList, Dictionary<string, string> map, Dictionary<string, int> categoryCounts)
@@ -59,9 +76,8 @@ public class HandAreaController : MonoBehaviour
                 string catId = map.GetValueOrDefault(cardId, cardId);
                 CardView cardView = CardPoolManager.Instance.GetCardPrefab(wasteRoot);
                 cardView.IsInHand = true;
-                cardView.currentZone = CardView.CardZone.WastePile;
                 cardView.Initialization(cardId,catId, true, categoryTotalCounts.GetValueOrDefault(catId, 0));
-                cardView.transform.localPosition= Vector3.one;
+                // cardView.transform.localPosition= Vector3.one;
                 
                 cardView.UpdateZoneVisuals(true, true);
                 wasteCards.Add(cardView);
@@ -79,7 +95,7 @@ public class HandAreaController : MonoBehaviour
         if (isDealing) return;
         
         AudioManager.Instance.PlaySoundEffect("FlipCard");
-        stockButton.transform.DOScale(new Vector3(0.85f, 0.85f, 0.85f), 0.11f).OnComplete(() =>
+        stockButton.transform.DOScale(new Vector3(0.95f, 0.95f, 0.95f), 0.11f).OnComplete(() =>
         {
             if (stockData.Count > 0)
             {
@@ -101,6 +117,7 @@ public class HandAreaController : MonoBehaviour
             }
             else if (wasteCards.Count > 0)
             {
+                isDealing = true;
                 RecycleWasteToStock();
             }
             ChainPlayArea.Instance.NotifyPlayerAction();
@@ -108,8 +125,108 @@ public class HandAreaController : MonoBehaviour
         });
         ChainPlayArea.Instance.ResetIdleTimer();
     }
-
     private void RecycleWasteToStock()
+    {
+        if (wasteCards.Count == 0) return;
+
+        // --- 🎥 核心动画导演节奏配置 ---
+        float gatherDuration = 0.2f;  
+        float gatherStagger = 0.02f;  
+        float pauseBeforeFly = 0.1f;  
+        // 稍微加长一点点飞行时间，让“大动作”有时间完美展示
+        float flyDuration = 0.35f;    
+        float flyStagger = 0.05f;     
+
+        Vector2 gatherLocalPos = wasteCards[0].GetComponent<RectTransform>().anchoredPosition;
+        Vector3 targetPos = stockRoot.position;
+
+        Sequence recycleSeq = DOTween.Sequence();
+        recycleSeq.SetId(this);
+        recycleSeq.SetLink(gameObject, LinkBehaviour.KillOnDisable);
+        float flyPhaseStartTime = (wasteCards.Count * gatherStagger) + gatherDuration + pauseBeforeFly;
+
+        for (int i = 0; i < wasteCards.Count; i++)
+        {
+            CardView card = wasteCards[i];
+            
+            if (card.TryGetComponent<CanvasGroup>(out var cg)) cg.blocksRaycasts = false;
+            
+            // 👇 🔥 核心修复 1：赋予飞行特权！让它们绝对盖住牌堆按钮！
+            if (!card.TryGetComponent<Canvas>(out var myCanvas))
+                myCanvas = card.gameObject.AddComponent<Canvas>();
+            if (!card.TryGetComponent<GraphicRaycaster>(out var raycaster))
+                card.gameObject.AddComponent<GraphicRaycaster>();
+            
+            myCanvas.overrideSorting = true;
+            myCanvas.sortingLayerName = "PopPanel"; 
+            myCanvas.sortingOrder = 3000 + i; // 保持内部叠放顺序
+
+            RectTransform rt = card.GetComponent<RectTransform>();
+            rt.DOKill();
+            card.transform.DOKill();
+
+            // 【阶段 A：折扇式合牌】
+            float gatherDelay = (wasteCards.Count - 1 - i) * gatherStagger;
+            recycleSeq.Insert(gatherDelay, rt.DOAnchorPos(gatherLocalPos, gatherDuration).SetEase(Ease.OutQuart));
+            
+            // 【阶段 B：流水线式飞回】
+            int reverseIndex = wasteCards.Count - 1 - i;
+            float cardFlyStartTime = flyPhaseStartTime + (reverseIndex * flyStagger);
+
+            // 1. 飞向牌堆
+            recycleSeq.Insert(cardFlyStartTime, card.transform.DOMove(targetPos, flyDuration).SetEase(Ease.InOutQuad));
+            
+            // 2. 空中同步翻面 (前半段合上，后半段展开)
+            recycleSeq.Insert(cardFlyStartTime, card.transform.DOScaleX(0f, flyDuration * 0.5f).SetEase(Ease.InSine).OnComplete(() =>
+            {
+                card.SetFaceUp(false); 
+            }));
+            recycleSeq.Insert(cardFlyStartTime + flyDuration * 0.5f, card.transform.DOScaleX(1f, flyDuration * 0.5f).SetEase(Ease.OutSine));
+
+            // 3. 👇 🔥 核心修复 2：动作大一点！模拟抛物线
+            // 飞行的前半段，卡牌 Y轴 猛然放大到 1.3 倍，就像被高高抛起！
+            recycleSeq.Insert(cardFlyStartTime, card.transform.DOScaleY(1.3f, flyDuration * 0.5f).SetEase(Ease.OutQuad));
+            // 飞行的后半段，卡牌重重落下，变回 1.0 原大小
+            recycleSeq.Insert(cardFlyStartTime + flyDuration * 0.5f, card.transform.DOScaleY(1f, flyDuration * 0.5f).SetEase(Ease.InQuad));
+
+            // 4. 到达终点瞬间隐藏，并卸载特权，防止污染对象池
+            recycleSeq.InsertCallback(cardFlyStartTime + flyDuration, () => {
+                 card.gameObject.SetActive(false);
+                 if (card.TryGetComponent<Canvas>(out var canvas)) canvas.overrideSorting = false;
+            });
+        }
+
+        // 【阶段 C：清算与重新洗牌】
+        recycleSeq.OnComplete(() =>
+        {
+            List<string> tempIds = new List<string>();
+            foreach (var card in wasteCards)
+            {
+                tempIds.Add(card.cardId);
+                card.transform.localScale = Vector3.one; // 恢复正常大小
+                card.gameObject.SetActive(true);         // 恢复可见性
+                CardPoolManager.Instance.ReturnCardPrefab(card);
+            }
+            
+            // 洗牌算法
+            for (int i = 0; i < tempIds.Count; i++)
+            {
+                string temp = tempIds[i];
+                int randomIndex = Random.Range(i, tempIds.Count);
+                tempIds[i] = tempIds[randomIndex];
+                tempIds[randomIndex] = temp;
+            }
+            
+            stockData.AddRange(tempIds);
+            wasteCards = new List<CardView>(); 
+            
+            UpdateStockVisual();
+            RefreshWasteVisual();
+            
+            isDealing = false; 
+        });
+    }
+    private void RecycleWasteToStock2()
     {
         List<string> tempIds = new List<string>();
         foreach (var card in wasteCards)
@@ -131,40 +248,131 @@ public class HandAreaController : MonoBehaviour
         RefreshWasteVisual();
         // LayoutRebuilder.ForceRebuildLayoutImmediate(wasteRoot.GetComponent<RectTransform>());
     }
-    
+    private void RecycleWasteToStock3()
+    {
+        if (wasteCards.Count == 0) return;
+
+        // 动画时间设置
+        float gatherDuration = 0.25f; // 收拢到一起的时间
+        float flyDuration = 0.35f;    // 飞回牌堆的时间
+
+        // 👇 🔥 核心修复：收拢目标点改为【最顶上/最外侧】那张牌的本地 UI 坐标！绝对不会乱跑！
+        Vector2 gatherLocalPos = wasteCards[0].GetComponent<RectTransform>().anchoredPosition;
+        
+        // 最终飞回的目标点（牌堆中心全局坐标）
+        Vector3 targetPos = stockRoot.position;
+
+        Sequence recycleSeq = DOTween.Sequence();
+        
+        // 遍历所有废牌，分配动画指令
+        foreach (var card in wasteCards)
+        {
+            // 1. 切断射线，防止在天上飞的时候被玩家拖走
+            if (card.TryGetComponent<CanvasGroup>(out var cg)) cg.blocksRaycasts = false;
+            
+            // 2. 获取 UI 变换组件并杀死旧动画
+            RectTransform rt = card.GetComponent<RectTransform>();
+            rt.DOKill();
+            card.transform.DOKill();
+
+            // 阶段 A：向顶牌收拢合上 (使用更精准的 UI 坐标动画)
+            recycleSeq.Insert(0, rt.DOAnchorPos(gatherLocalPos, gatherDuration).SetEase(Ease.OutCubic));
+            
+            // 阶段 B：收拢完毕的瞬间，把牌翻过去（背面朝上）
+            recycleSeq.InsertCallback(gatherDuration, () => card.SetFaceUp(false));
+
+            // 阶段 C：集体飞回牌堆
+            recycleSeq.Insert(gatherDuration, card.transform.DOMove(targetPos, flyDuration).SetEase(Ease.InQuad));
+            recycleSeq.Insert(gatherDuration, card.transform.DOScale(0.9f, flyDuration)); 
+        }
+
+        // 阶段 D：全部飞行结束后，进行数据清理和洗牌
+        recycleSeq.OnComplete(() =>
+        {
+            List<string> tempIds = new List<string>();
+            foreach (var card in wasteCards)
+            {
+                tempIds.Add(card.cardId);
+                card.transform.localScale = Vector3.one; // 恢复正常大小
+                CardPoolManager.Instance.ReturnCardPrefab(card);
+            }
+            
+            // 洗牌算法 (Fisher-Yates)
+            for (int i = 0; i < tempIds.Count; i++)
+            {
+                string temp = tempIds[i];
+                int randomIndex = Random.Range(i, tempIds.Count);
+                tempIds[i] = tempIds[randomIndex];
+                tempIds[randomIndex] = temp;
+            }
+            
+            stockData.AddRange(tempIds);
+            wasteCards = new List<CardView>(); // 切断引用
+            
+            UpdateStockVisual();
+            RefreshWasteVisual();
+            
+            isDealing = false; // 动画彻底结束，解锁操作！
+        });
+    }
     // 使用 DOTween 替代协程，更稳定
     private void DealCardWithTween(string cardId)
     {
         string catId = wordToCategoryMap.GetValueOrDefault(cardId, cardId);
         
-        CardView cardScript = CardPoolManager.Instance.GetCardPrefab(stockRoot.parent);
-        cardScript.IsInHand = true;
-        cardScript.currentZone = CardView.CardZone.WastePile;
-        cardScript.Initialization(cardId, catId, false, categoryTotalCounts.GetValueOrDefault(catId, 0));
-        cardScript.transform.position = stockRoot.position;
+        _dealingCard = CardPoolManager.Instance.GetCardPrefab(stockRoot.parent);
+        _dealingCard.IsInHand = true;
+        _dealingCard.Initialization(cardId, catId, false, categoryTotalCounts.GetValueOrDefault(catId, 0));
+        _dealingCard.transform.position = stockRoot.position;
+        _dealingCard.transform.localScale = Vector3.one;
 
         Vector3 targetLocalPos = CalculateTargetLocalPos(wasteCards.Count);
         Vector3 targetWorldPos = wasteRoot.TransformPoint(targetLocalPos);
 
         Sequence seq = DOTween.Sequence();
         seq.SetId(this);
-        seq.SetLink(cardScript.gameObject, LinkBehaviour.KillOnDisable);
-        float duration = 0.55f;
+        seq.SetLink(_dealingCard.gameObject, LinkBehaviour.KillOnDisable);
+        // 我们稍微收紧一点时间，让动作更凌厉
+        float duration = 0.4f; 
         
-        seq.Insert(0,cardScript.transform.DOMove(targetWorldPos, duration).SetEase(Ease.OutQuad));
-        seq.Insert(0,cardScript.transform.DOScaleX(0, duration / 2).OnComplete(() =>
+        // 1. 直达目标：保持 OutQuad (平滑减速)
+        seq.Insert(0, _dealingCard.transform.DOMove(targetWorldPos, duration).SetEase(Ease.OutQuad));
+
+        // ==========================================
+        // 👇 🔥 核心改造：初始爆发力的微微放大效果
+        // ==========================================
+        
+        // 【第 1 段：爆发（快速放大）】
+        // 在前 0.12 秒（约 30% 的路程），将 Y轴（高度）微微放大 1.15 倍，模拟卡牌离开桌面时的“弹跳”或“被捏起”的瞬间
+        seq.Insert(0, _dealingCard.transform.DOScaleY(1.15f, duration * 0.3f).SetEase(Ease.OutQuad));
+        
+        // 【第 2 段：回归（缓慢变回原样）】
+        // 从 0.12 秒开始，用剩下的时间，让卡牌慢慢变回 1.0 的标准高度，确保落地时完美归位
+        seq.Insert(duration * 0.3f, _dealingCard.transform.DOScaleY(1f, duration * 0.7f).SetEase(Ease.OutQuad));
+        // ==========================================
+
+
+        // 2. 空中同步翻面：时间完美等分，一半合上一半展开
+        // 前半段：牌面压扁至0
+        seq.Insert(0, _dealingCard.transform.DOScaleX(0f, duration * 0.5f).SetEase(Ease.InSine).OnComplete(() =>
         {
-           cardScript.SetFaceUp(true); 
+            // 飞到中途时，瞬间换成正面贴图
+            _dealingCard.SetFaceUp(true); 
         }));
-        seq.Insert(duration/2,cardScript.transform.DOScaleX(1,duration / 2));
+        
+        // 后半段：牌面展开
+        // (保持了之前那一点点 OutBack(1.2f) 的微回弹，保留“啪”地拍桌上的力量感)
+        seq.Insert(duration * 0.5f, _dealingCard.transform.DOScaleX(1f, duration * 0.5f).SetEase(Ease.OutBack, 1.2f));
         seq.OnComplete(() =>
         {
-            AddCardToWaste(cardScript);
-            // cardScript.transform.localScale = Vector3.one;
+            AddCardToWaste(_dealingCard);
+            _dealingCard.transform.localScale = Vector3.one;
             // cardScript.transform.localScale = new Vector3(0.8f, 0.8f, 1f);
-            cardScript.UpdateZoneVisuals(true, true);
+            _dealingCard.UpdateZoneVisuals(true, true);
             isDealing = false;
-            EventDispatcher.Instance.TriggerCardDragResult(null, cardScript,true);
+            EventDispatcher.Instance.TriggerCardDragResult(null, _dealingCard,true);
+
+            _dealingCard = null;
         });
     }
     // 辅助：计算新卡牌在废牌区的理论本地坐标
@@ -191,7 +399,7 @@ public class HandAreaController : MonoBehaviour
         if (targetIndex <= stackTopIndex)
         {
             int distFromStack = stackTopIndex - targetIndex;
-            targetX = stackBaseX + (distFromStack * pileSpacing);
+            targetX = stackBaseX + distFromStack * pileSpacing;
         }
         else
         {
@@ -201,64 +409,17 @@ public class HandAreaController : MonoBehaviour
         
         return new Vector3(targetX, 0, 0);
     }
-    /// <summary>
-    /// 已弃用
-    /// </summary>
-    private IEnumerator DealCardRoutine(string cardId)
-    {
-        string catId = wordToCategoryMap.GetValueOrDefault(cardId, cardId);
-        CardView cardScript = CardPoolManager.Instance.GetCardPrefab(stockRoot.parent);
-        cardScript.IsInHand = true;
-        cardScript.Initialization(cardId, catId,  false, categoryTotalCounts.GetValueOrDefault(catId, 0));
-        // RectTransform rect = tempCard.GetComponent<RectTransform>();
-        // if(rect != null) rect.pivot = new Vector2(0.5f, 0.5f);
-        cardScript.transform.position = stockRoot.position;
-        GameObject placeholder = new GameObject("Placeholder", typeof(RectTransform));
-        placeholder.transform.SetParent(wasteRoot, false);
-        LayoutRebuilder.ForceRebuildLayoutImmediate(wasteRoot.GetComponent<RectTransform>());
-        Vector3 targetPos = placeholder.transform.position;
-        Destroy(placeholder);
-
-        float duration = 0.3f;
-        float time = 0;
-        Vector3 startPos = cardScript.transform.position;
-        Vector3 originalScale = cardScript.transform.localScale;
-        while (time <　duration)
-        {
-            time += Time.deltaTime;
-            float t = time / duration;
-            cardScript.transform.position = Vector3.Lerp(startPos, targetPos, t);
-            // 飞到一半翻开
-            if (t < 0.5f)
-            {
-                float scaleT = t / 0.5f; // 0~1
-                cardScript.transform.localScale = new Vector3(Mathf.Lerp(originalScale.x, 0, scaleT), originalScale.y, originalScale.z);
-            }
-            else
-            {
-                if (!cardScript.isFaceUp)
-                {
-                    cardScript.SetFaceUp(true); // 翻开
-                }
-                float scaleT = (t - 0.5f) / 0.5f; // 0~1
-                cardScript.transform.localScale = new Vector3(Mathf.Lerp(0, originalScale.x, scaleT), originalScale.y, originalScale.z);
-            }
-            // if (t >= 0.5f && !cardScript.isFaceUp)
-            // {
-            //     cardScript.SetFaceUp(true);
-            // }
-            yield return null;
-        }
-        cardScript.transform.localScale = originalScale;
-        cardScript.IsInHand = true;
-        AddCardToWaste(cardScript);
-    }
+    
     // 新增：拖拽时暂时将牌从废牌区脱离，触发下方的牌展开
     public void RemoveCardFromWaste(CardView card)
     {
         if (wasteCards.Contains(card))
         {
             wasteCards.Remove(card);
+            // if (card.TryGetComponent<Canvas>(out var myCanvas))
+            // {
+            //     myCanvas.overrideSorting = false;
+            // }
             RefreshWasteVisual(); // 🔥 这行会让底下的牌立刻知道自己成了老大，文字弹回中间！
         }
     }
@@ -268,24 +429,28 @@ public class HandAreaController : MonoBehaviour
     {
         foreach (var obj in visualStackCards)
         {
-            _stockBackPool.ReturnObjectToPool(obj.GetComponent<PoolObject>());
+            StockBackPool.ReturnObjectToPool(obj.GetComponent<PoolObject>());
         }
-        foreach (Transform child in stockRoot)
-        {
-            Destroy(child.gameObject);
-        }
+        // foreach (Transform child in stockRoot)
+        // {
+        //     Destroy(child.gameObject);
+        // }
         visualStackCards.Clear();
 
         int count = stockData.Count;
-        int visualCount = Mathf.Min(count, maxStackVisual);
+        int visualThicknessCount = count > 0 ? Mathf.Min(count - 1, maxStackVisual) : 0;
         
-        for (int i = 0; i < visualCount; i++)
+        for (int i = 0; i < visualThicknessCount; i++)
         {
-            GameObject back = _stockBackPool.GetObject(stockRoot);
-            back.transform.localPosition = stackOffset * i;
+            GameObject back = StockBackPool.GetObject(stockRoot);
+            back.transform.localPosition = stackOffset * (i + 1);
+            back.transform.SetAsFirstSibling();
             visualStackCards.Add(back);
         }
-
+        
+        stockCountText.text = count.ToString();
+        stockPile.SetActive(count > 0);
+        
         stockButton.interactable = stockData.Count > 0 || wasteCards.Count > 0;
         ChainStageController.Instance.SyncHandState(stockData, wasteCards);
     }
@@ -298,9 +463,7 @@ public class HandAreaController : MonoBehaviour
             wasteCards.Remove(newCard);
         }
         newCard.transform.SetParent(wasteRoot, true);
-        newCard.transform.SetAsLastSibling();
-        // RectTransform rect = newCard.GetComponent<RectTransform>();
-        // rect.pivot = new Vector2(0.5f, 1f);
+        // newCard.transform.SetAsLastSibling();
         wasteCards.Add(newCard);
         RefreshWasteVisual();
         ChainStageController.Instance.SyncHandState(stockData, wasteCards);
@@ -341,9 +504,10 @@ public class HandAreaController : MonoBehaviour
             
             bool shouldShow = (i >= minShowIndex);
             if(card.gameObject.activeSelf != shouldShow) card.gameObject.SetActive(shouldShow);
+            card.transform.SetSiblingIndex(i);
             if(!shouldShow) continue;
             
-            // B. 计算坐标 X
+            // 计算坐标 X
             float targetX = 0f;
             if (i <= stackTopIndex)
             {
@@ -355,14 +519,41 @@ public class HandAreaController : MonoBehaviour
                 int distFromStack = i - stackTopIndex;
                 targetX = stackBaseX - distFromStack * fanSpacing;
             }
+         
             rt.DOKill();
-            rt.DOAnchorPos(new Vector2(targetX,0), 0.2f).SetEase(Ease.OutQuad);
-            // rt.anchoredPosition = new Vector2(targetX, 0);
-            card.transform.SetAsLastSibling();
+            // 👇 🔥 核心终极补丁：不仅要有 Canvas，还必须强行修改它的渲染层 (Sorting Layer)！
+            if (!card.TryGetComponent<Canvas>(out var myCanvas))
+            {
+                myCanvas = card.gameObject.AddComponent<Canvas>();
+            }
+            if (!card.TryGetComponent<GraphicRaycaster>(out var raycaster))
+            {
+                card.gameObject.AddComponent<GraphicRaycaster>();
+            }
+            
+            // 🔥 这三行是灵魂：开启覆盖、设为拖拽层的顶级面板层、设置递增Order保证不打架
+            myCanvas.overrideSorting = true;
+            // 获取和 dragLayer 一模一样的无敌层级 (通常是 "PopPanel")
+            myCanvas.sortingLayerName = "PopPanel"; 
+            myCanvas.sortingOrder = 2000 + i;
+            
+            Tween moveTween = rt.DOAnchorPos(new Vector2(targetX, 0), 0.2f).SetEase(Ease.OutQuad);
+            moveTween.SetId(this);
+            moveTween.OnComplete(() => {
+                if (card != null && card.TryGetComponent<Canvas>(out var canvas))
+                {
+                    if (canvas.sortingLayerName == "PopPanel")
+                    {
+                        canvas.overrideSorting = false;
+                    }
+                }
+            });
+            card.transform.localScale = Vector3.one;
+            // card.transform.SetAsLastSibling();
             
             bool isTop = (i == totalCount - 1);
             card.IsInHand = true; 
-            card.SetCompressedState(!isTop, false);
+            card.SetCompressedState(!isTop, true);
             if (!card.TryGetComponent<CanvasGroup>(out CanvasGroup cg))
             {
                 cg = card.gameObject.AddComponent<CanvasGroup>();
@@ -412,7 +603,7 @@ public class HandAreaController : MonoBehaviour
         card.IsInHand = true; // 🔥 确保它知道自己回到了手牌区
         card.SetCompressedState(false, true);
         
-        // card.transform.localScale = Vector3.one;
+        card.transform.localScale = Vector3.one;
         card.transform.localPosition = Vector3.zero;
         card.UpdateZoneVisuals(true, false);
         wasteCards.Add(card);
@@ -424,12 +615,26 @@ public class HandAreaController : MonoBehaviour
     {
         DOTween.Kill(this);
         isDealing = false;
+        if (_dealingCard != null)
+        {
+            _dealingCard.transform.DOKill();
+            _dealingCard.transform.localScale = Vector3.one; // 强行把拍扁的牌救回来
+            CardPoolManager.Instance.ReturnCardPrefab(_dealingCard);
+            _dealingCard = null;
+        }
+        
         List<CardView> tempWasteCards = new List<CardView>(wasteCards);
-        wasteCards.Clear();
+        wasteCards = new List<CardView>();
         foreach (var card in tempWasteCards)
         {
             if (card != null)
+            {
+                card.transform.DOKill();
+                if (card.TryGetComponent<RectTransform>(out var rt)) rt.DOKill();
+                
+                card.transform.localScale = Vector3.one; // 保证进对象池时是正常的
                 CardPoolManager.Instance.ReturnCardPrefab(card);
+            }
         }
         
         List<GameObject> tempVisuals = new List<GameObject>(visualStackCards);
@@ -444,7 +649,11 @@ public class HandAreaController : MonoBehaviour
                     Destroy(obj);
             }
         }
-        stockData.Clear();
+
+        stockData = new List<string>();
+        
+        // 清理时重置文本
+        stockPile.SetActive(false);
     }
 
     private void OnDisable()

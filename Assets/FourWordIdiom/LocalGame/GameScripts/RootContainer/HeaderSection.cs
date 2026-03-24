@@ -57,10 +57,14 @@ public class HeaderSection : UIWindow
         SetBtn.AddClickAction(OnSetClick);
         BackBtn.AddClickAction(OnBackClick);
         ShopBtn.AddClickAction(OnShopClick);
+        // if (ShopBtn.TryGetComponent(out Canvas canvas))
+        // {
+        //     canvas.sortingLayerName = UIPanelLayer.TopPanel;
+        // }
 #if Unity_ShowLog || UNITY_EDITOR
         GmBtn.AddClickAction(OnGmClick, "", false);
 #endif
-        PuzzlebookBtn.AddClickAction(OnClickPuzzleVocabulary);
+        PuzzlebookBtn.AddClickAction(OnSetClick);
         LevelPuzzleBtn.AddClickAction(OnClickStagePuzzleScreen);
     }
 
@@ -70,21 +74,21 @@ public class HeaderSection : UIWindow
         EventDispatcher.Instance.OnChangeGoldUI += InitUI;
         EventDispatcher.Instance.OnChangeTopRaycast += ChangeTopRaycast;
         bool ishomeshow = SystemManager.Instance.PanelIsShowing(PanelType.PrimaryInterface);
-        // PuzzlebookBtn.gameObject.SetActive(ishomeshow&& GameDataManager.Instance.UserData.isShowVocabulary);
+        PuzzlebookBtn.gameObject.SetActive(!ishomeshow);
         GmBtn.gameObject.SetActive(ishomeshow);
-        BackBtn.gameObject.SetActive(false);
-        SetBtn.gameObject.SetActive(true);
+        BackBtn.gameObject.SetActive(!ishomeshow);
+        SetBtn.gameObject.SetActive(ishomeshow);
 
         CustomFlyInManager.Instance.GoldObj = GoldImage.gameObject;
 
-        if (SystemManager.Instance.PanelIsShowing(PanelType.StageFinishView))
-        {
-            BackBtn.GetComponent<Image>().sprite =AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("UI_Icon_Home");
-        }
-        else
-        {
-            BackBtn.GetComponent<Image>().sprite =AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("UI_Icon_back");
-        }
+        // if (SystemManager.Instance.PanelIsShowing(PanelType.StageFinishView))
+        // {
+        //     BackBtn.GetComponent<Image>().sprite =AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("UI_Icon_Home");
+        // }
+        // else
+        // {
+        //     BackBtn.GetComponent<Image>().sprite =AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("UI_Icon_back");
+        // }
         EventDispatcher.Instance.TriggerChangeTopRaycast(true);
         EventDispatcher.Instance.TriggerChangeGoldUI(0,false);       
 
@@ -134,13 +138,13 @@ public class HeaderSection : UIWindow
         {
             canvas.overrideSorting=true;
             canvas.sortingLayerName="TipsPanel";
-            canvas.sortingOrder=100;
+            canvas.sortingOrder = 100;
         }
         else
         {
             canvas.overrideSorting=true;
             canvas.sortingLayerName="TopPanel";
-            canvas.sortingOrder=0;
+            canvas.sortingOrder = 1;
         }
         
         ShopBtn.enabled = isshopbtnEnable;
@@ -173,18 +177,14 @@ public class HeaderSection : UIWindow
 
     private void OnSetClick()
     {
-        
         SystemManager.Instance.ShowPanel(PanelType.OptionsView);
         ChainGuideSystem.Instance.CloseGuide();
     }
 
     private void OnShopClick()
     {
-#if UNITY_OPENHARMONY
         SystemManager.Instance.ShowPanel(PanelType.RewardAdsScreen);
-#else
-        SystemManager.Instance.ShowPanel(PanelType.ShopScreen);
-#endif
+        // SystemManager.Instance.ShowPanel(PanelType.ShopScreen);
         ChainGuideSystem.Instance.CloseGuide();
     }
 
@@ -197,9 +197,9 @@ public class HeaderSection : UIWindow
             ChangeBackBtnState(false);
         });
 
-        if (SystemManager.Instance.PanelIsShowing(PanelType.StageFinishView))
+        if (SystemManager.Instance.PanelIsShowing(PanelType.SuccessPanel))
         {
-            SystemManager.Instance.HidePanel(PanelType.StageFinishView);
+            SystemManager.Instance.HidePanel(PanelType.SuccessPanel);
         }
         if (SystemManager.Instance.PanelIsShowing(PanelType.ChainPlayArea))
         {
@@ -208,7 +208,7 @@ public class HeaderSection : UIWindow
         }    
         
         
-        // ChainGuideSystem.Instance.CloseGuide();
+        ChainGuideSystem.Instance.CloseGuide();
     }
 
     public void ChangeBackBtnState(bool isshow)
@@ -220,6 +220,7 @@ public class HeaderSection : UIWindow
 
     private void ChangeTopRaycast(bool isblock)
     {
+        
         transform.GetComponent<CanvasGroup>().blocksRaycasts = isblock;
     }
     
@@ -229,6 +230,8 @@ public class HeaderSection : UIWindow
         //EventManager.ChangeBackBtnHandler -= ChangeBackBtnState;
         CustomFlyInManager.Instance.GoldObj = null;
         EventDispatcher.Instance.OnChangeGoldUI -= InitUI;
+        EventDispatcher.Instance.OnUpdateLayerCoin -= UpdateCoinLayer;
+        EventDispatcher.Instance.OnChangeTopRaycast -= ChangeTopRaycast;
         LevelPuzzleBtn.gameObject.SetActive(false);
         // 禁用时取消调用
         CancelInvoke(nameof(CheckLevelPuzzleVisibility));

@@ -85,21 +85,29 @@ public class SystemManager : MonoBehaviour
     public UIWindow ShowPanel(string panelName)
     {
         if (string.IsNullOrEmpty(panelName)) return null;
-
-        UIWindow panel;
         
-
-        if (_loadedPanels.TryGetValue(panelName, out panel))
+        if (_loadedPanels.TryGetValue(panelName, out UIWindow panel))
         {
-            panel.gameObject.SetActive(true);
+            // 👇 🔥 核心改造 3：捞出来发现肉体已经被 Destroy 了！
+            if (panel == null)
+            {
+                Debug.LogWarning($"[UI修复] 发现被异常销毁的面板: {panelName}，正在清理并重建...");
+                _loadedPanels.Remove(panelName); // 把死数据踢出字典
+                
+                // 此时 panel 是 null，它会自动进入下面的重建 if 分支
+            }
         }
-        else
+        if(panel == null)
         {
             panel = LoadAndInstantiatePanel(panelName);
             if (panel == null) return null;
             
-            _loadedPanels.Add(panelName, panel);
+            _loadedPanels[panelName] =  panel;
             InitializePanelInfo(panel, panelName);
+        }
+        else
+        {
+            panel.gameObject.SetActive(true);
         }
        
         RaisePanelEvent(panel, PanelState.Show);
@@ -129,18 +137,35 @@ public class SystemManager : MonoBehaviour
     /// </summary>
     public bool IsPanelTypeShowing(string excludePanel = "")
     {
-        foreach (var panel in _loadedPanels.Values)
+        bool isShowing = false;
+        List<string> deadPanels = null;
+        foreach (var kvp in _loadedPanels)
         {
+            UIWindow panel = kvp.Value;
+            if (panel == null)
+            {
+                if (deadPanels == null) deadPanels = new List<string>();
+                deadPanels.Add(kvp.Key);
+                continue;
+            }
             if (!string.IsNullOrEmpty(excludePanel) && panel.WindowName == excludePanel) 
                 continue;
                 
-            if (panel.IsWindowVisible && panel.WindowCategory == UIPanelLayer.UpPopPanel)
-                return true;
-            
-            if (panel.IsWindowVisible && panel.WindowCategory == UIPanelLayer.PopPanel)
-                return true;
+            if (panel.IsWindowVisible && (panel.WindowCategory == UIPanelLayer.UpPopPanel || panel.WindowCategory == UIPanelLayer.PopPanel))
+            {
+                isShowing = true;
+                break; // 找到了就不往下找了，准备去执行下面的清理工作
+            }
         }
-        return false;
+        if (deadPanels != null)
+        {
+            foreach (var deadKey in deadPanels)
+            {
+                _loadedPanels.Remove(deadKey);
+            }
+        }
+        
+        return isShowing;
     }
 
     /// <summary>

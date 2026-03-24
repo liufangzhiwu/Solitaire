@@ -22,13 +22,14 @@ public static class AppGameSettings
     {
         public static int HintCost { get; } = 80;        // 提示开销
         public static int StartingHints { get; } = 1;     // 提示初始值
-        public static int UndoCost { get; } = 100;       // 撤回开销
+        public static int UndoCost { get; } = 50;       // 撤回开销
         public static int StartingUndoes { get; } = 1;    // 初始撤回数量
+        
+        public static int MagicBangCost { get; } = 50;       // 魔法棒开销
+        public static int StartingMagicBangs { get; } = 1;       // 魔法棒开销
         
         public static int ResetCost { get; } = 200;       
         public static int StartingResets { get; } = 1;   
-        
-        public static int ButterflyCost { get; } = 50;   
         public static int AutoCompleteCost { get; } = 150;   
         public static int StartingButterflies { get; } = 0; 
     }

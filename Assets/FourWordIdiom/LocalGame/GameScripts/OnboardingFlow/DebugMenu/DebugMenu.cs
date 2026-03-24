@@ -170,7 +170,7 @@ public class DebugMenu : UIWindow
     {
         InputField Stagenumtxt = AddButterflyToolBtn.GetComponentInChildren<InputField>();
         int value = int.Parse(Stagenumtxt.text);
-        GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Butterfly, value);
+        // GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Butterfly, value);
         //EventManager.OnChangeLanguageUpdateUI?.Invoke();
         MessageSystem.Instance.ShowTip("蝴蝶道具增加成功！");
     }
@@ -226,7 +226,7 @@ public class DebugMenu : UIWindow
     private void EnterStageClick()
     {
         //StageController.Instance.SetStageData(StageController.Instance.CurStageData.StageId);
-        SystemManager.Instance.ShowPanel(PanelType.GamePlayArea);
+        SystemManager.Instance.ShowPanel(PanelType.ChainPlayArea);
         //EventManager.RequestChangeBack(true);
     }
     

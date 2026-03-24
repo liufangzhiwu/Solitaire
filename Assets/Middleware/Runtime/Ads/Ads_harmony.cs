@@ -55,7 +55,7 @@ namespace Middleware
         }
         public bool IsReady(Define.AdKey key)
         {
-            return IsLoadReady;
+            return true;
         }
         
         public void ShowReward(Define.AdKey key, Action<bool> callback)

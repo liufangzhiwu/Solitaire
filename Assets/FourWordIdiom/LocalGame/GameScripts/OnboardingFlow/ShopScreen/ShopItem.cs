@@ -419,9 +419,9 @@ public class ShopItem : MonoBehaviour,IPointerDownHandler, IPointerUpHandler
                         GameDataManager.Instance.UserData.UpdateGold(count);
                         EventDispatcher.Instance.TriggerChangeGoldUI(count,true);
                         break;
-                    case (int)LimitRewordType.Butterfly:
-                        GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Butterfly,count);
-                        break;
+                    // case (int)LimitRewordType.Butterfly:
+                    //     GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Butterfly,count);
+                    //     break;
                     case (int)LimitRewordType.Tipstool:
                         GameDataManager.Instance.UserData.toolInfo[102].count += count;
                         break;

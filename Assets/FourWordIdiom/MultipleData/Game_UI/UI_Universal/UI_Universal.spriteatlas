@@ -1,5 +1,5 @@
 %YAML 1.1
-%TAG !u! tag:yousandi.cn,2023:
+%TAG !u! tag:unity3d.com,2011:
 --- !u!687078895 &4343727234628468602
 SpriteAtlas:
   m_ObjectHideFlags: 0
@@ -7,11 +7,10 @@ SpriteAtlas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: UI_Universal
-  serializedVersion: 2
   m_EditorData:
     serializedVersion: 2
     textureSettings:
-      serializedVersion: 3
+      serializedVersion: 2
       anisoLevel: 1
       compressionQuality: 50
       maxTextureSize: 2048
@@ -20,13 +19,11 @@ SpriteAtlas:
       generateMipMaps: 0
       readable: 0
       crunchedCompression: 0
-      webStreaming: 0
       sRGB: 1
     platformSettings:
     - serializedVersion: 3
       m_BuildTarget: OpenHarmony
       m_MaxTextureSize: 4096
-      m_MaxPlaceholderSize: 32
       m_ResizeAlgorithm: 0
       m_TextureFormat: 65
       m_TextureCompression: 1
@@ -40,7 +37,6 @@ SpriteAtlas:
     - serializedVersion: 3
       m_BuildTarget: Android
       m_MaxTextureSize: 4096
-      m_MaxPlaceholderSize: 32
       m_ResizeAlgorithm: 0
       m_TextureFormat: 50
       m_TextureCompression: 1
@@ -54,7 +50,6 @@ SpriteAtlas:
     - serializedVersion: 3
       m_BuildTarget: WeixinMiniGame
       m_MaxTextureSize: 2048
-      m_MaxPlaceholderSize: 32
       m_ResizeAlgorithm: 0
       m_TextureFormat: 50
       m_TextureCompression: 1
@@ -84,6 +79,7 @@ SpriteAtlas:
     - ef1dd2001559be741bcbfa5e4901576d: 21300000
     - 319dd8303ca66244bbce8b795978ae0e: 21300000
     - 9da8fd409e3e42a41a6391ca0d241cac: 21300000
+    - cb9c4d906ac57ce4bb90a8b8d9f55c99: 21300000
     - a9a27ad0cec7579488a144dc765a96b5: 21300000
     - 4122e6115fb1c5c4b86f0b105d7337c3: 21300000
     - 29f4be31c0a82154e977a80e238ef3ca: 21300000
@@ -92,6 +88,7 @@ SpriteAtlas:
     - 33c4a581f20ab1042bb1bdb638f721ed: 21300000
     - b81d6c91741f55f4ab90b72153d7b2ad: 21300000
     - e5091bb18807fb34e8b309e8fce031a0: 21300000
+    - 1294dfb110aaff640b29b67034f5236c: 21300000
     - 1daf83d140a1f984d8bd9e971856c6cb: 21300000
     - db1978d1e957448a19675ec66420c620: 21300000
     - cff7d1125563ebb40a14afdd485fb45f: 21300000
@@ -123,6 +120,7 @@ SpriteAtlas:
     - 5864a9064d99ea64bb620a77ef8df3ac: 21300000
     - ce54751635b2aba46bafa121b91264f4: 21300000
     - eb5bc936ab2851a439a5ea0d55d50a82: 21300000
+    - 5faa024668e313c46bed025c845734d0: 21300000
     - eb019256be774e94baf6ac60babe8577: 21300000
     - 1c0aad566086cfe4eae55fef857257a8: 21300000
     - 580e4086b9f6b6d4080dbf24b3b4dd1d: 21300000
@@ -148,7 +146,6 @@ SpriteAtlas:
     - c65734f8ae62e5c46af4ee5d238a988a: 21300000
     - d6d7bef890f431a4a94a87276eb1b141: 21300000
     - 1d604b2990fb1aa469fd72e9596f215d: 21300000
-    - 954d646994b29fa428080e33d5a78790: 21300000
     - 42b22e89cf042164faf95656eeab2e46: 21300000
     - a1b5679973450f34393f56b41dabeb9b: 21300000
     - c28c09c9562976c44b78277848d48c4c: 21300000
@@ -183,6 +180,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: ef1dd2001559be741bcbfa5e4901576d, type: 3}
   - {fileID: 21300000, guid: 319dd8303ca66244bbce8b795978ae0e, type: 3}
   - {fileID: 21300000, guid: 9da8fd409e3e42a41a6391ca0d241cac, type: 3}
+  - {fileID: 21300000, guid: cb9c4d906ac57ce4bb90a8b8d9f55c99, type: 3}
   - {fileID: 21300000, guid: a9a27ad0cec7579488a144dc765a96b5, type: 3}
   - {fileID: 21300000, guid: 4122e6115fb1c5c4b86f0b105d7337c3, type: 3}
   - {fileID: 21300000, guid: 29f4be31c0a82154e977a80e238ef3ca, type: 3}
@@ -191,6 +189,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 33c4a581f20ab1042bb1bdb638f721ed, type: 3}
   - {fileID: 21300000, guid: b81d6c91741f55f4ab90b72153d7b2ad, type: 3}
   - {fileID: 21300000, guid: e5091bb18807fb34e8b309e8fce031a0, type: 3}
+  - {fileID: 21300000, guid: 1294dfb110aaff640b29b67034f5236c, type: 3}
   - {fileID: 21300000, guid: 1daf83d140a1f984d8bd9e971856c6cb, type: 3}
   - {fileID: 21300000, guid: db1978d1e957448a19675ec66420c620, type: 3}
   - {fileID: 21300000, guid: cff7d1125563ebb40a14afdd485fb45f, type: 3}
@@ -222,6 +221,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 5864a9064d99ea64bb620a77ef8df3ac, type: 3}
   - {fileID: 21300000, guid: ce54751635b2aba46bafa121b91264f4, type: 3}
   - {fileID: 21300000, guid: eb5bc936ab2851a439a5ea0d55d50a82, type: 3}
+  - {fileID: 21300000, guid: 5faa024668e313c46bed025c845734d0, type: 3}
   - {fileID: 21300000, guid: eb019256be774e94baf6ac60babe8577, type: 3}
   - {fileID: 21300000, guid: 1c0aad566086cfe4eae55fef857257a8, type: 3}
   - {fileID: 21300000, guid: 580e4086b9f6b6d4080dbf24b3b4dd1d, type: 3}
@@ -247,7 +247,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: c65734f8ae62e5c46af4ee5d238a988a, type: 3}
   - {fileID: 21300000, guid: d6d7bef890f431a4a94a87276eb1b141, type: 3}
   - {fileID: 21300000, guid: 1d604b2990fb1aa469fd72e9596f215d, type: 3}
-  - {fileID: 21300000, guid: 954d646994b29fa428080e33d5a78790, type: 3}
   - {fileID: 21300000, guid: 42b22e89cf042164faf95656eeab2e46, type: 3}
   - {fileID: 21300000, guid: a1b5679973450f34393f56b41dabeb9b, type: 3}
   - {fileID: 21300000, guid: c28c09c9562976c44b78277848d48c4c, type: 3}
@@ -281,6 +280,7 @@ SpriteAtlas:
   - jian
   - head20
   - Mintool
+  - ui_home_bg
   - twoBox
   - Reset
   - UI_Icon_adsloading
@@ -289,6 +289,7 @@ SpriteAtlas:
   - head21
   - head13
   - ui_coin
+  - ads
   - Coin2
   - targetgrey
   - UI_Icon_adscircle
@@ -320,6 +321,7 @@ SpriteAtlas:
   - head0
   - bookbtn
   - shop_tip
+  - ui_coin2
   - oneBox
   - head17
   - head16
@@ -345,7 +347,6 @@ SpriteAtlas:
   - UI_Icon_Home
   - UI_Icon_gold
   - head15
-  - ads
   - head24
   - head5
   - head14
@@ -378,4 +379,3 @@ SpriteAtlas:
   m_RenderDataMap: {}
   m_Tag: UI_Universal
   m_IsVariant: 0
-  m_IsPlaceholder: 0

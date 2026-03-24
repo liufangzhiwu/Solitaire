@@ -15,7 +15,7 @@ namespace Middleware
         private static void Test()
         {
             var icon = "Assets/Middleware/Resource/icon.png";
-            var icon2 = "Assets/Middleware/Resource/icon1.png";
+            var icon2 = "Assets/Middleware/Resource/icon5.png";
 
             File.Copy(icon2, icon, true);
             AssetDatabase.ImportAsset(icon);

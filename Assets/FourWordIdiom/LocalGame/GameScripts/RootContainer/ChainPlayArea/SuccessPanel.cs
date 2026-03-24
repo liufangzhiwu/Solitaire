@@ -10,6 +10,7 @@ public class SuccessPanel : UIWindow
     [Header("UI Elements")]
     [SerializeField] private Button levelBtn;
     [SerializeField] private GameObject coinGo;
+    [SerializeField] private Text coinText;
     // Start is called before the first frame update
     private void Start()
     {
@@ -22,12 +23,13 @@ public class SuccessPanel : UIWindow
         levelBtn.GetComponentInChildren<Text>().text = MultilingualManager.Instance.GetString("Level") + " " + ChainStageController.Instance.CurrentStage.ToString();
         ChainStageController.Instance.SetStageData(ChainStageController.Instance.CurrentStage);
 
-        coinGo.GetComponentInChildren<Text>().text = AppGameSettings.LevelCompleteBonus.ToString();
+        coinText.text = AppGameSettings.LevelCompleteBonus.ToString();
         StartCoroutine(PlayRewardSequence());
         Game.Ads.ShowInterstitial((bool result) =>
         {
             
         });
+        ChainGuideSystem.Instance.CloseGuide();
     }
     
     private void LoadNextLevel()

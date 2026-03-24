@@ -85,6 +85,7 @@ public class PrimaryInterface : UIWindow
         
         // Game.Ads.HideBanner();
         Stagetxt.text = MultilingualManager.Instance.GetString("Level")+" " + ChainStageController.Instance.CurrentStage;
+        GameCoreManager.Instance.SwitchBackground(false);
     }
     
     private IEnumerator UpdateFishRankUI()

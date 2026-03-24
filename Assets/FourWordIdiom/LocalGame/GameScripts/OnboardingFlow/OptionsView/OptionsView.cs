@@ -20,6 +20,8 @@ public class OptionsView : UIWindow
     [SerializeField] private GameObject muHandle; // 音乐开关的视觉手柄
     [SerializeField] private GameObject soHandle; // 音效开关的视觉手柄
     [SerializeField] private GameObject viHandle; // 震动开关的视觉手柄
+    [SerializeField] private Image selectImage;
+    [SerializeField] private Image closeImage;
 
     [SerializeField] private Text VersionText;
     [SerializeField] private Text HeaderText;
@@ -28,18 +30,16 @@ public class OptionsView : UIWindow
     [SerializeField] private Text vibrateText; // 震动文本显示
 
     [Header("游戏内控制")]
-    [SerializeField] private GameObject funcBtn;
-    [SerializeField] private Button backHome;
     [SerializeField] private Button redoGame;
-    // Sprite Opensprite;
-    // Sprite Closesprite;
+    Sprite Opensprite;
+    Sprite Closesprite;
 
     protected void Start()
     {
        
         AttachToggleListeners(); // 绑定开关监听器
-        // Opensprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("UI_Icon_OpenToggle");
-        // Closesprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("UI_Icon_CloseToggle");
+        Opensprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("ui_tg_select", "OnboardingFlow");
+        Closesprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("ui_tg_close","OnboardingFlow");
         UpdateToggleStates(false); // 启用时更新状态，不带动画
 #if UNITY_OPENHARMONY
         opinionBtn.gameObject.SetActive(true);
@@ -55,13 +55,17 @@ public class OptionsView : UIWindow
     protected override void OnEnable()
     {
         AudioManager.Instance.PlaySoundEffect("ShowUI");
+        
+        redoGame.gameObject.SetActive(SystemManager.Instance.PanelIsShowing(PanelType.ChainPlayArea));
+        privacyBtn.gameObject.SetActive(!SystemManager.Instance.PanelIsShowing(PanelType.ChainPlayArea));
+        termsBtn.gameObject.SetActive(!SystemManager.Instance.PanelIsShowing(PanelType.ChainPlayArea));
+        
         //EventManager.OnChangeLanguageUpdateUI += OnChangeLanguage; // 订阅语言更新事件           
         OnChangeLanguage(); // 更新语言显示
         opinionBtn.GetComponentInChildren<Text>().text = MultilingualManager.Instance.GetString("EvaluateButton03");
         privacyBtn.GetComponentInChildren<Text>().text = MultilingualManager.Instance.GetString("PrivacyPolicy");
         termsBtn.GetComponentInChildren<Text>().text = MultilingualManager.Instance.GetString("TermsAndService");
         VersionText.text = "Ver " + Application.version;
-        funcBtn.SetActive(SystemManager.Instance.PanelIsShowing(PanelType.ChainPlayArea));
     }
 
     private void UpdateToggleStates(bool animate)
@@ -87,9 +91,9 @@ public class OptionsView : UIWindow
 
     private void SetToggleVisuals(GameObject handle, bool isOn)
     {
-        // handle.GetComponent<Image>().sprite = isOn ? Opensprite : Closesprite;
+        handle.transform.parent.GetComponent<Image>().sprite = isOn ? Opensprite : Closesprite;
         // 直接设置位置，不带动画
-        handle.transform.localPosition = new Vector3(isOn ? 52 : -52, handle.transform.localPosition.y, handle.transform.localPosition.z);
+        handle.transform.localPosition = new Vector3(isOn ? 65 : -65, handle.transform.localPosition.y, handle.transform.localPosition.z);
     }
 
     private void AttachToggleListeners()
@@ -124,6 +128,7 @@ public class OptionsView : UIWindow
     private void ToggleMusic(bool isOn)
     {
         GameDataManager.Instance.UserData.IsMusicOn = isOn; // 保存音乐开关状态
+        GameDataManager.Instance.UserData.SaveData();
         AudioManager.Instance.ToggleMusic();; // 切换音乐状态
         UpdateToggleVisuals(muHandle, isOn); // 更新音乐手柄视觉
 
@@ -137,12 +142,14 @@ public class OptionsView : UIWindow
     private void ToggleVibrate(bool isOn)
     {
         GameDataManager.Instance.UserData.IsVibrationOn = isOn; // 保存音效开关状态
+        GameDataManager.Instance.UserData.SaveData();
         UpdateToggleVisuals(viHandle, isOn); // 更新音效手柄视觉
     }
 
     private void ToggleSounds(bool isOn)
     {
         GameDataManager.Instance.UserData.IsSoundOn = isOn; // 保存音效开关状态
+        GameDataManager.Instance.UserData.SaveData();
         UpdateToggleVisuals(soHandle, isOn); // 更新音效手柄视觉
 
         // 无意义的额外操作
@@ -155,9 +162,9 @@ public class OptionsView : UIWindow
 
     private void UpdateToggleVisuals(GameObject handle, bool isOn, float time = 0.2f)
     {
-        // handle.GetComponent<Image>().sprite = isOn ? Opensprite : Closesprite;
+        handle.transform.parent.GetComponent<Image>().sprite = isOn ? Opensprite : Closesprite;
         // 带动画更新位置
-        float targetPosition = isOn ? 55 : -55;
+        float targetPosition = isOn ? 65 : -65;
         handle.transform.DOLocalMoveX(targetPosition, time);
 
         // 添加无意义的额外动画
@@ -174,20 +181,19 @@ public class OptionsView : UIWindow
         termsBtn.AddClickAction(OntermsBtn);
         opinionBtn.AddClickAction(OnOpinionBtn);
         restoreBuyBtn.AddClickAction(OnRestoreBuyBtn);
-        backHome.AddClickAction(OnBackHomeBtn);
         redoGame.AddClickAction(OnRedoGameBtn);
         // 添加无用的点击监听器
-        var buttons = new Button[] { HideButton, privacyBtn, termsBtn };
-        foreach (var btn in buttons)
-        {
-            btn.onClick.AddListener(() => {
-                // 无意义的回调
-                if (Random.value > 0.85f)
-                {
-                    Debug.Log($"[OptionsView] Button clicked: {btn.name}");
-                }
-            });
-        }
+        // var buttons = new Button[] { HideButton, privacyBtn, termsBtn };
+        // foreach (var btn in buttons)
+        // {
+        //     btn.onClick.AddListener(() => {
+        //         // 无意义的回调
+        //         if (Random.value > 0.85f)
+        //         {
+        //             Debug.Log($"[OptionsView] Button clicked: {btn.name}");
+        //         }
+        //     });
+        // }
     }
     
     private void OnOpinionBtn()
@@ -250,5 +256,5 @@ public class OptionsView : UIWindow
         });
         SystemManager.Instance.ShowPanel(PanelType.PrimaryInterface);
     }
-
+    
 }

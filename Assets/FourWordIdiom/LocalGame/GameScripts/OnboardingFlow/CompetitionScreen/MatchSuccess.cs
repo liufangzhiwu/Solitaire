@@ -117,14 +117,14 @@ public class MatchSuccess : UIWindow
                 case LimitRewordType.Coins:
                     GameDataManager.Instance.UserData.UpdateGold(award[1],true,true,message);
                     break;
-                case LimitRewordType.Butterfly:
-                    GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Butterfly, award[1],message);
-                    break;
                 case LimitRewordType.Tipstool:
                     GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Tipstool, award[1],message);
                     break;
-                case LimitRewordType.Resettool:
-                    GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Resettool, award[1],message);
+                case LimitRewordType.Undotool:
+                    GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.Undotool, award[1],message);
+                    break;
+                case LimitRewordType.MagicBangtool:
+                    GameDataManager.Instance.UserData.UpdateTool(LimitRewordType.MagicBangtool, award[1],message);
                     break;
             }
         }
@@ -154,11 +154,11 @@ public class MatchSuccess : UIWindow
                 case LimitRewordType.Coins:
                     awardIcon.sprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("Coin2");
                     break;
-                case LimitRewordType.Butterfly:
-                    awardIcon.sprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("Butterfly");
-                    break;
                 case LimitRewordType.Tipstool:
                     awardIcon.sprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("Tips");
+                    break;
+                case LimitRewordType.Undotool:
+                    awardIcon.sprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("Butterfly");
                     break;
                 case LimitRewordType.Resettool:
                     awardIcon.sprite = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("Reset");

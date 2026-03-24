@@ -32,7 +32,7 @@ public class MultilingualManager:MonoBehaviour
     {
         // 从AssetBundle中加载CSV文件
         TextAsset defCsvFile = AdvancedBundleLoader.SharedInstance.LoadTextFile("gameinfo", "config_multilingual");
-        localizedStrings = ToolUtil.ParseCvsLanguage(defCsvFile,"config_multilingual");
+        localizedStrings = ToolUtil.ReadCvsLanguage(defCsvFile,"config_multilingual");
     }
 
     public string GetString(string key, string filename = "multilingual")

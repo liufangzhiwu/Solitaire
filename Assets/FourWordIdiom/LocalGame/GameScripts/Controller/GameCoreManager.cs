@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.UI;
 #if UNITY_IOS
 using UnityEngine.iOS;
 #endif
@@ -24,6 +25,9 @@ public sealed class GameCoreManager: MonoBehaviour
      
     [HideInInspector] public bool IsNetworkActive;
 
+    [SerializeField] private Image backgroundImage;
+    [SerializeField] private Sprite homeBg;
+    [SerializeField] private Sprite playBg;
     void Awake()
     {
         if (Instance == null)
@@ -62,12 +66,12 @@ public sealed class GameCoreManager: MonoBehaviour
         
         if (GameDataManager.Instance.UserData.IsFirstLaunch)
         {
-#if UNITY_ANDROID || UNITY_IOS
-            ShowPrivacyScreen();
-#else
+// #if UNITY_ANDROID || UNITY_IOS
+//             ShowPrivacyScreen();
+// #else
             // ShowGamePanel();
             SystemManager.Instance.ShowPanel(PanelType.PrimaryInterface);
-#endif
+// #endif
         }
         else
         {
@@ -93,9 +97,19 @@ public sealed class GameCoreManager: MonoBehaviour
     {
         SystemManager.Instance.ShowPanel(PanelType.PolicyView);
     }
+
+    /// <summary>
+    /// 切换背景图
+    /// </summary>
+    /// <param name="play"></param>
+    public void SwitchBackground(bool play)
+    {
+        backgroundImage.sprite = play ? playBg : homeBg;
+    }
     
     private IEnumerator CheckNetworkConnection()
     {
+        WaitForSeconds wait = new WaitForSeconds(5);
         while (true)
         {
             bool isSuccess = false;
@@ -126,7 +140,7 @@ public sealed class GameCoreManager: MonoBehaviour
             IsNetworkActive = isSuccess;
             //Debug.Log("网络状态: " + (IsNetworkActive ? "已连接" : "未连接"));
 
-            yield return new WaitForSeconds(5);
+            yield return wait;
         }
     }
 

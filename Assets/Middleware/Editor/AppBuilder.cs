@@ -264,7 +264,7 @@ namespace Middleware
 			// PlayerSettings.OpenHarmony.compatibleSdkVersion = 14;
 			PlayerSettings.OpenHarmony.targetArchitectures = OpenHarmonyArchitecture.ARM64;
 			//账户设置
-			SetDefaultIcon(4);
+			SetDefaultIcon(5);
 			PlayerSettings.companyName = "NeoPlay";
 			PlayerSettings.productName = "词语纸牌接龙";
 			PlayerSettings.applicationIdentifier = "word.solitaire.association.puzzle.huawei";
@@ -336,9 +336,9 @@ namespace Middleware
 			PlayerSettings.Android.targetSdkVersion = AndroidSdkVersions.AndroidApiLevel35;
 
 			//账户设置
-			SetDefaultIcon(4);
+			SetDefaultIcon(5);
 			PlayerSettings.companyName = "NeoPlay";
-			PlayerSettings.productName = "词语接龙";
+			PlayerSettings.productName = "词语纸牌接龙";
 			PlayerSettings.applicationIdentifier = "chain.idiom.neoplay.com";
 			PlayerSettings.Android.useCustomKeystore = true;
 			PlayerSettings.Android.keystoreName =

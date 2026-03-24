@@ -23,21 +23,16 @@ public enum MoveErrorType
 
 public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
-    public enum CardZone
-    {
-        Deck,           // 在发牌堆（背面）
-        WastePile,      // 在废牌堆（翻开，较小，特定背景）
-        Column,         // 在下方的列中（正常大小，普通背景）
-        CategorySlot,   // 在上方的收集槽中
-        Dragging        // 正在被玩家拖拽中
-    }
-    
+
     [Header("UI References - 双面渲染控制")]
     [SerializeField] private GameObject frontFaceObj; // 🔥 拖入新建的 FrontFace 节点
     [SerializeField] private Image frontBgImage;      // 🔥 拖入 FrontFace 节点 (获取它的Image组件)
     [SerializeField] private GameObject backFace;     // 拖入 BackFace 节点
     [SerializeField] private RectTransform contentRoot; // 拖入 ContentRoot
-
+    [SerializeField] private GameObject dragGreenFrame;
+    public GameObject hoverGreenFrame; // 别人悬停在自己头上时的绿框
+    public GameObject errorRedFrame;   // 别人往自己头上放失败时的红框
+    
     [Header("UI References - 文字")]
     [SerializeField] public Text bigText;
     [SerializeField] private Text smallText;
@@ -45,9 +40,13 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     [Header("UI References - 图片")]
     [SerializeField] public Image bigImage;
     [SerializeField] private Image smallImage;
-    
+
     [Header("UI References - 其他")]
     [SerializeField] private Text countText;
+    [Header("UI References - 连击角标")]
+    [SerializeField] private GameObject comboBadgeObj;     // 角标根节点 (放在卡牌右上角)
+    [SerializeField] private Text comboCountText;          // 显示数量的文本 (如 5, 6...)
+    [SerializeField] private GameObject comboCheckmarkObj; // 显示打勾的图片
     
     [Header("Anchors")] 
     [SerializeField] private Transform centerAnchor;
@@ -66,7 +65,6 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     public bool isFaceUp = false;
     public bool usedIcon = false;
     public bool IsInHand { get; set; } = false;
-    public CardZone currentZone;
     
     // 引用所属的列 (方便交互)
     public ColumnView currentColumn;
@@ -89,7 +87,7 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         
         countText.gameObject.SetActive(type == CardType.Category);
         countText.text = "0/" + totalCount.ToString();
-        
+        currentColumn = null;
         // 🔥 将背景图赋值给 FrontFace 的 Image
         // if (frontBgImage != null)
         // {
@@ -110,6 +108,7 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         UpdateVisualState(); // 刷新显隐
         SetCompressedState(false, true);
         SetFaceUp(faceUp);
+        SetComboBadge(0, false);
     }
 
     private void SetupContentDisplay()
@@ -354,21 +353,49 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
             frontBgImage.sprite = (type == CardType.Category) ? categoryBgSprite : normalBgSprite;
         }
     }
+    /// <summary>
+    /// 设置卡牌被拎起来拖拽时的状态
+    /// </summary>
+    public void SetDragHighlight(bool isDragging)
+    {
+        dragGreenFrame.SetActive(isDragging);
+    }
+    public void SetHoverHighlight(bool isHovering)
+    {
+        if (hoverGreenFrame != null) hoverGreenFrame.SetActive(isHovering);
+    }
+    // 👇 🔥 新增：被错误放置时的爆红框方法
+    public void ShowErrorFeedback()
+    {
+        if (errorRedFrame != null)
+        {
+            errorRedFrame.SetActive(true);
+            errorRedFrame.transform.DOKill();
+            if (errorRedFrame.TryGetComponent<Image>(out var img))
+            {
+                img.DOKill();
+                Color c = img.color; c.a = 1f; img.color = c;
+                img.DOFade(0f, 0.35f).SetDelay(0.15f).OnComplete(() => errorRedFrame.SetActive(false));
+            }
+        }
+        
+        // 直接复用你之前写好的绝赞摇头动画！
+        // PlayErrorAnimation(); 
+    }
     
-
     #region 🔥 核心交互：将事件转发给管理器
     public void OnBeginDrag(PointerEventData eventData)
     {
-        if (!isFaceUp || ChainPlayArea.Instance == null) return;
+        if (!isFaceUp || ChainPlayArea.Instance == null || ChainPlayArea.Instance.IsDraggingProgress) return;
         transform.DOKill();
         if (TryGetComponent<RectTransform>(out var rt)) rt.DOKill();
         // 🔥 玩家摸到牌的瞬间，立刻杀死残留的抖动
         StopErrorAnimation();
         
-        if (TryGetComponent<Canvas>(out var myCanvas))
-        {
-            myCanvas.sortingOrder = 3000; 
-        }
+        // if (TryGetComponent<Canvas>(out var myCanvas))
+        // {
+        //     myCanvas.sortingOrder = 3000; 
+        // }
         ChainPlayArea.Instance.OnCardBeginDrag(this, eventData);
     }
 
@@ -392,11 +419,10 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     /// </summary>
     public void UpdateZoneVisuals(bool inWastePile, bool immediate = false)
     {
-        currentZone = inWastePile ? CardZone.WastePile : CardZone.Column;
-        
         UpdateBackground();
         
-        Vector3 targetScale = inWastePile ? new Vector3(0.94f, 0.94f, 1f) : Vector3.one;
+        // Vector3 targetScale = inWastePile ? new Vector3(0.94f, 0.94f, 1f) : Vector3.one;
+        Vector3 targetScale = Vector3.one;
         if (immediate)
         {
             if (_visualTransitionCoroutine != null) StopCoroutine(_visualTransitionCoroutine);
@@ -427,6 +453,47 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
 
         transform.localScale = targetScale;
         _visualTransitionCoroutine = null;
+    }
+    
+    /// <summary>
+    /// 控制卡牌右上角“连击/收集完成”角标的显示
+    /// </summary>
+    public void SetComboBadge(int count, bool isFull)
+    {
+        if (comboBadgeObj == null) return;
+        
+        // 只有连击数 >= 5 或者 全收集了，才显示角标
+        if (count < 5 && !isFull)
+        {
+            comboBadgeObj.SetActive(false);
+            return;
+        }
+        if (isFull)
+        {
+            // 全收集：显示对勾，隐藏数字
+            if (comboCheckmarkObj) comboCheckmarkObj.SetActive(true);
+            if (comboCountText)
+            {
+                comboBadgeObj.SetActive(false);
+                comboCountText.gameObject.SetActive(false);
+            }
+            
+            // 可以加个小动画，让打勾弹出来更爽
+            comboBadgeObj.transform.DOKill();
+            comboBadgeObj.transform.localScale = Vector3.one;
+            comboBadgeObj.transform.DOPunchScale(new Vector3(0.3f, 0.3f, 0), 0.3f);
+        }
+        else
+        {
+            // 连击中：显示数字，隐藏对勾
+            if (comboCheckmarkObj) comboCheckmarkObj.SetActive(false);
+            if (comboCountText)
+            {
+                comboBadgeObj.SetActive(true);
+                comboCountText.gameObject.SetActive(true);
+                comboCountText.text = count.ToString();
+            }
+        }
     }
     #endregion
 
@@ -476,6 +543,7 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         _errorCoroutine = null;
     }
     
+
     // 🔥 新增：强行终止错误抖动并复位
     public void StopErrorAnimation()
     {

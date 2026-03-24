@@ -385,6 +385,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IsNetworkActive: 0
+  backgroundImage: {fileID: 1800883486}
+  homeBg: {fileID: 21300000, guid: 9233925c4c5899b4885b249b0dc98dfe, type: 3}
+  playBg: {fileID: 21300000, guid: 59c94a848f0aa4740b4f17629f2f49eb, type: 3}
 --- !u!114 &963194230
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -762,15 +765,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d5f403e37e1223749b44783cc4168503, type: 3}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 59c94a848f0aa4740b4f17629f2f49eb, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-  m_UseSpriteMesh: 0
+  m_UseSpriteMesh: 1
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1800883487
 CanvasRenderer:

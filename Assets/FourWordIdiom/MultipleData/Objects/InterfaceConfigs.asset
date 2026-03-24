@@ -1,5 +1,5 @@
 %YAML 1.1
-%TAG !u! tag:yousandi.cn,2023:
+%TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58,6 +58,11 @@ MonoBehaviour:
     bundleName: OnboardingFlow
     spriteAtlasName: OnboardingFlow
     prefab: {fileID: 4165248868016293823, guid: 0405853341f0aa841837fa413d182b50, type: 3}
+  - panelName: RewardAdsScreen
+    panelLayer: UpPopPanel
+    bundleName: OnboardingFlow
+    spriteAtlasName: OnboardingFlow
+    prefab: {fileID: 2508230401924753788, guid: 80d9b9ce78383854fb95ccd9ac86a9d1, type: 3}
   - panelName: LimitTimeScreen
     panelLayer: UpPopPanel
     bundleName: OnboardingFlow
@@ -118,11 +123,6 @@ MonoBehaviour:
     bundleName: OnboardingFlow
     spriteAtlasName: OnboardingFlow
     prefab: {fileID: 2508230401924753788, guid: 2a51c3225d5da4e43b5af8a7cbf419e3, type: 3}
-  - panelName: RewardAdsScreen
-    panelLayer: UpPopPanel
-    bundleName: OnboardingFlow
-    spriteAtlasName: OnboardingFlow
-    prefab: {fileID: 2508230401924753788, guid: 80d9b9ce78383854fb95ccd9ac86a9d1, type: 3}
   - panelName: SuccessPanel
     panelLayer: TopPanel
     bundleName: RootCanvas

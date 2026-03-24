@@ -26,6 +26,9 @@ public class CategorySlotView : MonoBehaviour
     [Header("特效引用")]
     public Image glowOutlineImage;    // 发光外框的 Image
     public Material particleMaterial;     // 粒子的贴图 (星星或圆点)
+    [Header("拖拽吸附视觉")]
+    public GameObject hoverGreenFrame; // 鼠标悬停时的绿色预警框
+    public GameObject errorRedFrame;   // 放置失败时的红色错误框
     
     [Header("运行时数据")] 
     public bool isOccupied = false;
@@ -33,6 +36,9 @@ public class CategorySlotView : MonoBehaviour
     public string currentHeaderId;
     private int _totalNeeded;
     private int _currentCount;
+
+    private Sprite _slotImage;
+    private Sprite _defaultImage;
     
     private Text _progressText;
     private Text _wordText;
@@ -49,9 +55,9 @@ public class CategorySlotView : MonoBehaviour
             // 假设 Text 是第2个子物体，Image 是第3个子物体，或者你自己安排
             if (_wordText == null) _wordText = content.transform.GetChild(1).GetComponent<Text>();
         }
-        // if(_starBurstPrefab == null)
-        //     _starBurstPrefab = AdvancedBundleLoader.SharedInstance.LoadGameObject("useritems", "StarBurstEffect");
-        // _starPool = new ObjectPool(_starBurstPrefab, transform, 3, PoolBehaviour.GameObject);
+
+        _slotImage = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("cate_active_bg","UI_MainBase");
+        _defaultImage = AdvancedBundleLoader.SharedInstance.GetSpriteFromAtlas("card_front_bg","UI_MainBase");
     }
 
     private void OnEnable()
@@ -187,6 +193,11 @@ public class CategorySlotView : MonoBehaviour
         categoryName.SetActive(_currentCount > 0);
         if (_wordText) _wordText.text = currentHeaderId;
         if (_progressText) _progressText.text = $"{_currentCount}/{_totalNeeded}";
+        if (_currentCount > 0)
+            content.GetComponent<Image>().sprite = _defaultImage;
+        else
+            content.GetComponent<Image>().sprite = _slotImage;
+        
     }
 
     private IEnumerator CheckCompletion()
@@ -199,15 +210,66 @@ public class CategorySlotView : MonoBehaviour
         }
    
         if (contentImage) contentImage.gameObject.SetActive(false); // 隐藏内容图片
-        if (checkMark) checkMark.SetActive(true);
-        yield return new WaitForSeconds(0.8f);
-        
+        // ==========================================
+        // 🌟 阶段 1：高光展示 (打勾 Q弹出现 + 外框发光)
+        // ==========================================
+        // if (checkMark) 
+        // {
+        //     checkMark.SetActive(true);
+        //     // 给对勾加一个可爱的 Q 弹放大效果
+        //     checkMark.transform.localScale = Vector3.zero;
+        //     checkMark.transform.DOScale(Vector3.one, 0.4f).SetEase(Ease.OutBack);
+        // }
+        if (glowOutlineImage != null)
+        {
+            glowOutlineImage.gameObject.SetActive(true);
+            glowOutlineImage.DOKill();
+            Color glowColor = glowOutlineImage.color;
+            glowColor.a = 0f;
+            glowOutlineImage.color = glowColor;
+            // 外围发光图快速亮起
+            glowOutlineImage.DOFade(1f, 0.3f).SetEase(Ease.OutQuad);
+        }
+        yield return new WaitForSeconds(0.6f);
+        // ==========================================
+        // 🌟 阶段 2：整体缓慢淡出
+        // ==========================================
+        // 动态添加 CanvasGroup 用来控制整个槽位（含发光、打勾、背景）的透明度
+        CanvasGroup nameCG = GetOrAddCanvasGroup(categoryName);
+        CanvasGroup contentCG = GetOrAddCanvasGroup(content);
+        // 耗时 0.8 秒，平滑地淡出到 0
+        // 两个部位同时开始淡出
+        if (nameCG != null) nameCG.DOFade(0f, 0.6f).SetEase(Ease.InOutQuad);
+        if (contentCG != null) 
+        {
+            // 等待 content 彻底淡出完毕
+            yield return contentCG.DOFade(0f, 0.6f).SetEase(Ease.InOutQuad).WaitForCompletion();
+        }
+        else
+        {
+            yield return new WaitForSeconds(0.6f); // 兜底防空
+        }
+        // ==========================================
+        // 🌟 阶段 3：数据清理与视觉复位
+        // ==========================================
         OnCategoryCompleted?.Invoke(categoryId);
         InitEmpty();
         if (checkMark) checkMark.SetActive(false);
+        if (glowOutlineImage != null) glowOutlineImage.gameObject.SetActive(false);
+        // ⚠️ 极其重要：淡出完成后，必须把它们的透明度恢复为 1！
+        if (nameCG != null) nameCG.alpha = 1f; 
+        if (contentCG != null) contentCG.alpha = 1f;
     }
-
-
+    // 👇 新增一个小辅助方法，用来安全地获取或添加 CanvasGroup
+    private CanvasGroup GetOrAddCanvasGroup(GameObject obj)
+    {
+        if (obj == null) return null;
+        if (!obj.TryGetComponent<CanvasGroup>(out var cg))
+        {
+            cg = obj.AddComponent<CanvasGroup>();
+        }
+        return cg;
+    }
     public bool IsFull()
     {
         return isOccupied && (_currentCount >= _totalNeeded); 
@@ -316,10 +378,66 @@ public class CategorySlotView : MonoBehaviour
             pSeq.OnComplete(() => Destroy(pObj));
         }
     }
+    
+    /// <summary>
+    /// 当有卡牌拖拽到自己上方时调用
+    /// </summary>
+    public void SetHoverHighlight(bool isHovering)
+    {
+       
+            hoverGreenFrame.SetActive(isHovering);
+        
+    }
+    /// <summary>
+    /// 放置失败时触发的红色警告 + 震动动画
+    /// </summary>
+    public void ShowErrorFeedback()
+    {
+        
+            errorRedFrame.SetActive(true);
+            
+            // 杀掉旧动画，防止连击报错
+            errorRedFrame.transform.DOKill();
+            if (errorRedFrame.TryGetComponent<Image>(out var img))
+            {
+                img.DOKill();
+                Color c = img.color;
+                c.a = 1f; // 初始完全不透明
+                img.color = c;
+                
+                // 红色框停留 0.15 秒后，慢慢消散
+                img.DOFade(0f, 0.35f).SetDelay(0.15f).OnComplete(() => errorRedFrame.SetActive(false));
+            }
 
+            // 加一个微小的左右晃动（摇头）效果，极其生动！
+            // transform.DOKill(false); // 不杀掉其他动画，只杀位移
+            // transform.DOShakePosition(0.3f, new Vector3(8f, 0, 0), 20, 90, false, true);
+            //
+            // 顺便可以播个错误音效
+            // AudioManager.Instance.PlaySoundEffect("ErrorDrop");
+        
+    }
+    /// <summary>
+    /// 清理单个槽位里的卡牌，恢复到空置状态
+    /// </summary>
+    public void ClearSlot()
+    {
+        // 1. 停止当前槽位身上正在播放的所有 DOTween 动画（比如高光、缩放等）
+        transform.DOKill();
+        if (glowOutlineImage != null) glowOutlineImage.DOKill();
+        
+        InitEmpty();
+        // 如果你用了一个 List (比如 collectedCards) 存了卡牌，记得 Clear 它：
+        // if (collectedCards != null) collectedCards.Clear();
+        
+        // 3. 重置槽位的 UI 视觉（进度条归零、隐藏文字等）
+        // ResetVisuals();
+    }
+    
     private void OnDisable()
     {
         _historyStack.Clear();
+        ClearSlot();
         // _starPool.ReturnAllObjectsToPool();
     }
 }

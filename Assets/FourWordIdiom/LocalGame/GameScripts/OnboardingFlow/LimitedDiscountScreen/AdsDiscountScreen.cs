@@ -235,9 +235,9 @@ public class AdsDiscountScreen : UIWindow
                         GameDataManager.Instance.UserData.Gold += count;
                         EventDispatcher.Instance.TriggerChangeGoldUI(count,true);
                         break;
-                    case (int)LimitRewordType.Butterfly:
-                        GameDataManager.Instance.UserData.toolInfo[103].count += count;
-                        break;
+                    // case (int)LimitRewordType.Butterfly:
+                    //     GameDataManager.Instance.UserData.toolInfo[103].count += count;
+                    //     break;
                     case (int)LimitRewordType.Tipstool:
                         GameDataManager.Instance.UserData.toolInfo[102].count += count;
                         break;

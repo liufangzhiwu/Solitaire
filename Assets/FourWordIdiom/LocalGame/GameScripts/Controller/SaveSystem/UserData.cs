@@ -212,7 +212,7 @@ public class UserData
         {
             { 101, new ToolInfo { cost = AppGameSettings.ShopItems.HintCost, type = "Hint", count = AppGameSettings.ShopItems.StartingHints } },
             { 102, new ToolInfo { cost = AppGameSettings.ShopItems.UndoCost, type = "Undo", count = AppGameSettings.ShopItems.StartingUndoes } },
-            { 103, new ToolInfo { cost = AppGameSettings.ShopItems.ButterflyCost, type = "Butterfly", count = AppGameSettings.ShopItems.StartingButterflies } },
+            { 103, new ToolInfo { cost = AppGameSettings.ShopItems.MagicBangCost, type = "Butterfly", count = AppGameSettings.ShopItems.StartingMagicBangs } },
             { 104, new ToolInfo { cost = AppGameSettings.ShopItems.AutoCompleteCost, type = "AutoComplete", count = AppGameSettings.ShopItems.StartingHints } }
         };
         
@@ -329,15 +329,6 @@ public class UserData
         
         // 道具数据
         toolInfo = user.toolInfo;
-        if (!toolInfo.ContainsKey(104))
-        {
-            toolInfo.Add(104,
-                new ToolInfo
-                {
-                    cost = AppGameSettings.ShopItems.AutoCompleteCost, type = "AutoComplete",
-                    count = AppGameSettings.ShopItems.StartingHints
-                });
-        }
 
         totalLogin++;
         // 检查是否需要重置每日数据
@@ -755,6 +746,7 @@ public class UserData
     /// </summary>
     /// <param name="type">道具类型</param>
     /// <param name="value">变化值</param>
+    /// <param name="message">描述</param>
     public void UpdateTool(LimitRewordType type, int value,string message = "")
     {
         int toolId = GetToolIdByType(type);
@@ -782,14 +774,11 @@ public class UserData
                 case LimitRewordType.Tipstool:
                     toolName = "提示道具";
                     break;
-                case LimitRewordType.Butterfly:
-                    toolName = "蝴蝶道具";
-                    break;
-                case LimitRewordType.AutoComplete:
-                    toolName = "自动拼字";
-                    break;
-                case LimitRewordType.Undoes:
+                case LimitRewordType.Undotool:
                     toolName = "撤回一步";
+                    break;
+                case LimitRewordType.MagicBangtool:
+                    toolName = "魔法棒";
                     break;
             }
             
@@ -806,8 +795,8 @@ public class UserData
         return type switch
         {
             LimitRewordType.Tipstool => 101,
-            LimitRewordType.Undoes => 102,
-            LimitRewordType.Butterfly => 103, 
+            LimitRewordType.Undotool => 102,
+            LimitRewordType.MagicBangtool => 103, 
             LimitRewordType.AutoComplete => 104,
             _ => 0
         };
