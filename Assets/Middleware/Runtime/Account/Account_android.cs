@@ -15,14 +15,8 @@ namespace Middleware
         {
             UnityTimer.Delay(delay, () =>
             {
-#if UNITY_OPENHARMONY
-                OHSDKKitManager.Instance.InitGameService();
-                InitGamePerformance();
-                Register();
-#elif UNITY_ANDROID
                 IsLogin = true;
                 UserId = SystemInfo.deviceUniqueIdentifier;
-#endif
             });
         }
 

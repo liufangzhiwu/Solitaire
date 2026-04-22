@@ -56,7 +56,7 @@ namespace Middleware
         }
         private void CreateAccounts()
         {
-            
+            Accounts = new Account_android();
 #if UNITY_ANDROID
             Accounts = new Account_android();
 #elif UNITY_HUAWEI
@@ -74,7 +74,7 @@ namespace Middleware
     #elif UNITY_HUAWEI 
             Ads = new Ads_huawei();
     #elif UNITY_IOS
-            Ads = new Ads_ios();
+            Ads = new Ads_ios2();
     #elif UNITY_OPENHARMONY
             Ads = new Ads_harmony();
     #endif
