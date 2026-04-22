@@ -116,5 +116,5 @@ InitTestScene*.unity*
 huawei_126
 Il2CppBackup
 
-Packages/local_packages
-platform
+#Packages/local_packages
+#platform
