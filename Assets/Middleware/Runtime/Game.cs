@@ -1,9 +1,11 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using Middleware.Runtime.Analytics;
 using Newtonsoft.Json;
 using UnityEngine;
+using UnityEngine.HuaweiAppGallery;
 
 namespace Middleware
 {
@@ -21,14 +23,22 @@ namespace Middleware
         public static IShop Shop { private set; get; }
         
        [SerializeField] private Transform uiRoot;
+       [HideInInspector] public static bool IsNetworkActive { get; private set; }
         public CommonErrorType CurrentErrorType { private set; get; }
 
         private void Awake()
         {
             Instance = this;
-            
             DontDestroyOnLoad(gameObject);
             gameObject.AddComponent<UnityTimer>();
+#if UNITY_HUAWEI && !UNITY_EDITOR
+            HuaweiGameService.AppInit();
+#endif
+        }
+        private IEnumerator Start()
+        {
+            yield return null;
+            StartCoroutine(CheckNetworkConnection());
         }
 
         public void InitGame()
@@ -38,6 +48,7 @@ namespace Middleware
         }
         public void InitManagers()
         {
+          
             CreateAnalytic();
 	        GameDataManager.Instance.Init();
 	        //AudioManager.Instance.Init();
@@ -48,7 +59,7 @@ namespace Middleware
             
 #if UNITY_ANDROID
             Accounts = new Account_android();
-#elif UNITY_huawei
+#elif UNITY_HUAWEI
             Accounts = new Account_huaweiandroid();
             Accounts.Init(0.2f);
 #elif UNITY_OPENHARMONY
@@ -58,8 +69,10 @@ namespace Middleware
         }
         private void CreateAd()
         {
-    #if UNITY_ANDROID
+    #if UNITY_ANDROID && !UNITY_HUAWEI
             Ads = new Ads_android();
+    #elif UNITY_HUAWEI 
+            Ads = new Ads_huawei();
     #elif UNITY_IOS
             Ads = new Ads_ios();
     #elif UNITY_OPENHARMONY
@@ -133,6 +146,47 @@ namespace Middleware
             GameObject pg = Resources.Load<GameObject>("Privacy/NetErrorView");
             GameObject ps = Instantiate(pg, uiRoot.transform);
             ps.SetActive(true);
+        }
+        
+        private IEnumerator CheckNetworkConnection()
+        {
+            WaitForSeconds wait = new WaitForSeconds(0.5f);
+            while (true)
+            {
+                bool isSuccess = false;
+                Ping ping = new Ping("8.8.8.8");
+                float timeout = 3.0f;
+                float startTime = Time.time;
+
+                // 等待Ping完成或超时
+                while (!ping.isDone && Time.time - startTime < timeout)
+                {
+                    yield return null;
+                }
+
+                // 关键修改：明确超时和成功的条件
+                if (ping.isDone && ping.time > 0 && ping.time < 2000)
+                {
+                    isSuccess = true;
+                }
+                else
+                {
+                    isSuccess = false;
+                }
+
+                // 释放Ping资源（Unity需手动销毁）
+                ping.DestroyPing();
+                ping = null;
+
+                IsNetworkActive = isSuccess;
+                Debug.Log("PrivacyGuidance 网络状态: " + (IsNetworkActive ? "已连接" : "未连接"));
+
+                yield return wait;
+            }
+        }
+        public  void StopCheckNetCoroutine()
+        {
+            StopCoroutine(CheckNetworkConnection());
         }
     }
 

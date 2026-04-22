@@ -72,7 +72,11 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     private bool _isCompressed = false;
     private Coroutine _animCoroutine;
     private Coroutine _visualTransitionCoroutine;
-
+    
+    // 👇 🔥 新增：用于记录角标数据和拖拽状态
+    private int _comboCount = 0;
+    private bool _isFullCombo = false;
+    private bool _isDragging = false;
     // 删除了 Awake 里的 GetComponent<Image>()，因为根节点不再挂载 Image
 
     /// <summary>
@@ -358,7 +362,10 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     /// </summary>
     public void SetDragHighlight(bool isDragging)
     {
+        _isDragging = isDragging;
         dragGreenFrame.SetActive(isDragging);
+        // 拖拽状态改变时，检查是否需要显示/隐藏角标
+        UpdateComboBadgeDisplay();
     }
     public void SetHoverHighlight(bool isHovering)
     {
@@ -381,6 +388,15 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         
         // 直接复用你之前写好的绝赞摇头动画！
         // PlayErrorAnimation(); 
+    }
+    /// <summary>
+    /// 接收 ColumnView 传来的连击数据（只记录，不一定马上显示）
+    /// </summary>
+    public void SetComboBadge(int count, bool isFull)
+    {
+        _comboCount = count;
+        _isFullCombo = isFull;
+        UpdateComboBadgeDisplay();
     }
     
     #region 🔥 核心交互：将事件转发给管理器
@@ -458,26 +474,23 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     /// <summary>
     /// 控制卡牌右上角“连击/收集完成”角标的显示
     /// </summary>
-    public void SetComboBadge(int count, bool isFull)
+    public void UpdateComboBadgeDisplay()
     {
         if (comboBadgeObj == null) return;
         
         // 只有连击数 >= 5 或者 全收集了，才显示角标
-        if (count < 5 && !isFull)
+        bool shouldShow = _isDragging && (_comboCount >= 5 || _isFullCombo);
+        if (!shouldShow)
         {
             comboBadgeObj.SetActive(false);
+            comboCheckmarkObj.SetActive(false);
             return;
         }
-        if (isFull)
+        if (_isFullCombo)
         {
             // 全收集：显示对勾，隐藏数字
             if (comboCheckmarkObj) comboCheckmarkObj.SetActive(true);
-            if (comboCountText)
-            {
-                comboBadgeObj.SetActive(false);
-                comboCountText.gameObject.SetActive(false);
-            }
-            
+            comboBadgeObj.SetActive(false);
             // 可以加个小动画，让打勾弹出来更爽
             comboBadgeObj.transform.DOKill();
             comboBadgeObj.transform.localScale = Vector3.one;
@@ -487,11 +500,11 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         {
             // 连击中：显示数字，隐藏对勾
             if (comboCheckmarkObj) comboCheckmarkObj.SetActive(false);
-            if (comboCountText)
+            if (comboBadgeObj)
             {
                 comboBadgeObj.SetActive(true);
                 comboCountText.gameObject.SetActive(true);
-                comboCountText.text = count.ToString();
+                comboCountText.text = _comboCount.ToString();
             }
         }
     }

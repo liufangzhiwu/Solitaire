@@ -22,8 +22,6 @@ public sealed class GameCoreManager: MonoBehaviour
     public static GameCoreManager Instance;
     
     #endregion
-     
-    [HideInInspector] public bool IsNetworkActive;
 
     [SerializeField] private Image backgroundImage;
     [SerializeField] private Sprite homeBg;
@@ -42,9 +40,17 @@ public sealed class GameCoreManager: MonoBehaviour
     private void Start()
     {
         StartCoroutine(InitializeGameRoutine());
-        StartCoroutine(CheckNetworkConnection());
+        // StartCoroutine(CheckNetworkConnection());
     }
    
+    private void Update()
+    {
+        // 监听安卓系统返回键 (全面屏侧滑)
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SystemManager.Instance.ShowPanel(PanelType.QuitConfirmView);
+        }
+    }
     #endregion
 
     #region 私有方法
@@ -137,7 +143,7 @@ public sealed class GameCoreManager: MonoBehaviour
             ping.DestroyPing();
             ping = null;
 
-            IsNetworkActive = isSuccess;
+            // IsNetworkActive = isSuccess;
             //Debug.Log("网络状态: " + (IsNetworkActive ? "已连接" : "未连接"));
 
             yield return wait;

@@ -121,7 +121,7 @@ public class PrimaryInterface : UIWindow
     #region 功能按钮
     private void OnFishClick()
     {
-        if (GameCoreManager.Instance.IsNetworkActive)
+        if (Game.IsNetworkActive)
         {
             if (string.IsNullOrEmpty(GameDataManager.Instance.FishUserSave.roundstarttime))
             {
@@ -165,7 +165,7 @@ public class PrimaryInterface : UIWindow
     
     private void UpdateFishRank()
     {
-        if (GameCoreManager.Instance.IsNetworkActive)
+        if (Game.IsNetworkActive)
         {
             fishwifiimage.gameObject.SetActive(false);
             if (GameDataManager.Instance.FishUserSave.rank > 0&& !string.IsNullOrEmpty(GameDataManager.Instance.FishUserSave.roundstarttime))

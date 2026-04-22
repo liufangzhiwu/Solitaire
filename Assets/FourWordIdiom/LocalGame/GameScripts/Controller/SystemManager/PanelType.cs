@@ -17,7 +17,7 @@ public class PanelType  // Renamed class
     /* 系统功能界面 (System Function Screens) */
     public const string AppRating = "AppRating";  // Changed from RateUsScreen
     public const string PolicyView = "PolicyView";  // Changed from PrivacyScreen
-
+    public const string QuitConfirmView = "QuitConfirmView";
 
     public const string LearningGuide = "LearningGuide";  // Changed from TutorialScreen
     public const string ChessLearningGuide = "ChessLearningGuide";

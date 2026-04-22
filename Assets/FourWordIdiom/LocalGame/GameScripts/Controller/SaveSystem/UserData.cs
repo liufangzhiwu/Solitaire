@@ -52,7 +52,7 @@ public class UserData
     public bool IsSoundOn = true;        // 音效开关
     public bool IsVibrationOn ;    // 震动反馈开关
     public int levelMode;               // 关卡模式
-
+    public bool IsAgreePrivacy = false;
     #endregion
 
     #region 游戏进度数据
@@ -177,7 +177,7 @@ public class UserData
 #else
         IsVibrationOn = false;
 #endif
-        
+        IsAgreePrivacy = false;
         // 游戏进度
         TutorialProgress = 0;
         IsFirstLaunch = true;
@@ -272,7 +272,7 @@ public class UserData
         levelMode = user.levelMode;
         curIsEnter = user.curIsEnter;
         Rigister = user.Rigister;
-
+        IsAgreePrivacy = user.IsAgreePrivacy;
         // 游戏进度
         TutorialProgress = user.TutorialProgress;
         IsFirstLaunch = user.IsFirstLaunch;

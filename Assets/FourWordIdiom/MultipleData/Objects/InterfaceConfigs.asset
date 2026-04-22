@@ -138,3 +138,8 @@ MonoBehaviour:
     bundleName: OnboardingFlow
     spriteAtlasName: UI_MainBase
     prefab: {fileID: 1687803871549185564, guid: e955b688f17ac5b4b9b9396241ab1731, type: 3}
+  - panelName: QuitConfirmView
+    panelLayer: TipsPanel
+    bundleName: RootCanvas
+    spriteAtlasName: UI_MainBase
+    prefab: {fileID: 2661952136077159141, guid: 704620955c0cd2a4dbb9ae8fda1ac187, type: 3}

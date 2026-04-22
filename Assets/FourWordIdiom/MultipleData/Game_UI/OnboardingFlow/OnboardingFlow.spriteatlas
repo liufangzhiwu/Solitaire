@@ -168,7 +168,6 @@ SpriteAtlas:
     - b58db45e30a3261419b12f97d231cd0d: 21300000
     - 37c6516e1ac1ed8438cab5b411f4daac: 21300000
     - 8320fe7ed7bab0542afd8b9a2d735cb7: 21300000
-    - dabcd98edce6323469a71a236255bef4: 21300000
     - 9e44fa8eee07e4628b4e63245e066d5c: 21300000
     - b1a88eaed4fb3fe4cb47a74bd70fbc8d: 21300000
     - 34f9fddeed90fdf4bb2312aab8bc4975: 21300000
@@ -287,7 +286,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: b58db45e30a3261419b12f97d231cd0d, type: 3}
   - {fileID: 21300000, guid: 37c6516e1ac1ed8438cab5b411f4daac, type: 3}
   - {fileID: 21300000, guid: 8320fe7ed7bab0542afd8b9a2d735cb7, type: 3}
-  - {fileID: 21300000, guid: dabcd98edce6323469a71a236255bef4, type: 3}
   - {fileID: 21300000, guid: 9e44fa8eee07e4628b4e63245e066d5c, type: 3}
   - {fileID: 21300000, guid: b1a88eaed4fb3fe4cb47a74bd70fbc8d, type: 3}
   - {fileID: 21300000, guid: 34f9fddeed90fdf4bb2312aab8bc4975, type: 3}
@@ -405,7 +403,6 @@ SpriteAtlas:
   - taskbg
   - jd
   - ui_laba
-  - UI_Icon_tutorialbg
   - lingqu
   - UI_Icon_sound2
   - ui_fun_bg

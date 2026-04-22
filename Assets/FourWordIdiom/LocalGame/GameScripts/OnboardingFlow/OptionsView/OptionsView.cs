@@ -204,11 +204,30 @@ public class OptionsView : UIWindow
     private void OnprivacyBtn()
     {
         Application.OpenURL(ConfigManager.Instance.GetString("PrivacyUrl"));
+        if (!Game.IsNetworkActive)
+        {
+            GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
+            GameObject pi = Instantiate(pg, transform.parent);
+            pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yszc");
+            pi.SetActive(true);
+            base.Close();
+        }
+        else
+            Application.OpenURL(ConfigManager.Instance.GetString("PrivacyUrl"));
     }
 
     private void OntermsBtn()
     {
-        Application.OpenURL(ConfigManager.Instance.GetString("TermsUrl"));
+        if (!Game.IsNetworkActive)
+        {
+            GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
+            GameObject pi = Instantiate(pg, transform.parent);
+            pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yhxy");
+            pi.SetActive(true);
+            base.Close();
+        }
+        else
+            Application.OpenURL(ConfigManager.Instance.GetString("TermsUrl"));
     }
 
     private void OnHideButton()

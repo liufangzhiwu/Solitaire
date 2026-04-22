@@ -9,6 +9,13 @@ namespace Middleware
             public const string TestInterstitialAdId = "ca-app-pub-3940256099942544/1033173712";
             public const string TestRewardAdId = "ca-app-pub-3940256099942544/5224354917";
         }
+        
+        public struct ConfigHuaweiAndroid
+        {
+            public const string TestBannerAdId = "ca-app-pub-3940256099942544/6300978111";
+            public const string TestInterstitialAdId = "testb4znbuh3n2";
+            public const string TestRewardAdId = "testx9dtjwj8hp";
+        }
         #endif
         
         #if UNITY_IOS

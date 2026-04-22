@@ -77,12 +77,14 @@ namespace Middleware
 			BuildAndroid(buildParam);
 		}
 
+		#if UNITY_IOS
 		public static void JenkinsBuildIOS()
 		{
 			var buildParam = ParseJenkinsBuildSetting(Environment.GetCommandLineArgs());
 			buildParam.BuildType = BuildType.JenkinsBuild;
 			BuildIOS(buildParam);
 		}
+		#endif
 		#endregion
 
 		#region 编辑器一键打包
@@ -135,7 +137,7 @@ namespace Middleware
 				IsBuildShowLog = false
 			});
 		}
-
+		#if UNITY_IOS
 		[MenuItem("Tools/自动化打包/IOS/Debug", false, 114)]
 		public static void BuildIOSDebug()
 		{
@@ -159,7 +161,7 @@ namespace Middleware
 				IsBuildShowLog = false
 			});
 		}
-		
+		#endif
 		#endregion
 
 		#region 切换平台
@@ -201,8 +203,8 @@ namespace Middleware
 			var googles = new List<string>()
 			{
 				//"\"com.liufangzhiwu.google-ext\": \"git@github.com:liufangzhiwu/GoogleExt.git\",",
-				"\"com.liufangzhiwu.google-ext\": \"file:local_packages/com.liufangzhiwu.google-ext\",",
-				"\"com.unity.purchasing\": \"4.13.0\","
+				// "\"com.liufangzhiwu.google-ext\": \"file:local_packages/com.liufangzhiwu.google-ext\",",
+				// "\"com.unity.purchasing\": \"4.13.0\","
 			};
 			var hormanys = new List<string>()
 			{
@@ -339,13 +341,13 @@ namespace Middleware
 			SetDefaultIcon(5);
 			PlayerSettings.companyName = "NeoPlay";
 			PlayerSettings.productName = "词语纸牌接龙";
-			PlayerSettings.applicationIdentifier = "chain.idiom.neoplay.com";
+			PlayerSettings.applicationIdentifier = "word.solitaire.association.puzzle.android.huawei";
 			PlayerSettings.Android.useCustomKeystore = true;
 			PlayerSettings.Android.keystoreName =
-				Path.GetFullPath($"{Application.dataPath}/../platform/Android/puzzle.keystore");
-			PlayerSettings.Android.keystorePass = "neo654321";
-			PlayerSettings.Android.keyaliasName = "neo";
-			PlayerSettings.Android.keyaliasPass = "neo654321";
+				Path.GetFullPath($"{Application.dataPath}/../platform/Android/user.keystore");
+			PlayerSettings.Android.keystorePass = "chain654321";
+			PlayerSettings.Android.keyaliasName = "chain";
+			PlayerSettings.Android.keyaliasPass = "chain654321";
 			//打资源包
 			AssetBundleBuilder.BuildAssetBundles(false);
 			//打版本包
@@ -370,7 +372,7 @@ namespace Middleware
 				Application.OpenURL(@"file://" + outputDir);
 			//todo: adb install xxx
 		}
-
+		# if UNITY_IOS
 		private static void BuildIOS(BuildParam buildParam)
 		{
 			if (EditorUserBuildSettings.activeBuildTarget != BuildTarget.iOS)
@@ -420,7 +422,8 @@ namespace Middleware
 				Application.OpenURL(@"file://" + xcodePath);
 			//iOSUtil.WriteLanguage(xcodePath);
 		}
-
+		#endif
+		
 		private static void SetDefaultIcon(int id)
 		{
 			var iconPath = "Assets/FourWordIdiom/LocalGame/Icons/app_icon.png";

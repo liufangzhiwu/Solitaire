@@ -51,17 +51,23 @@ public class LoadingController : MonoBehaviour
         _loadStartTime = Time.time;
         GameDataManager.Instance.LoadPlayerProfile();
         InitializeLocalization();
-        SetupRandomLoadingHint();
-        yield return null;
-        #if UNITY_EDITOR
-        Game.Instance.ShowLoginErrorPanel();
+        yield return new WaitForSeconds(0.01f);
+        #if UNITY_HUAWEI 
+        if (GameDataManager.Instance.UserData.IsAgreePrivacy == false)
+        {
+            GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyGuidance");
+            GameObject ps = Instantiate(pg, transform);
+            ps.SetActive(true);
+        }
+        yield return new WaitUntil(()=>GameDataManager.Instance.UserData.IsAgreePrivacy);
         #endif
-        Game.Instance.InitGame();
+        SetupRandomLoadingHint();
         StartCoroutine(LoadingSequence());
+        Game.Instance.InitGame();
         yield return new WaitUntil(() => Game.Accounts.IsLogin);
         Game.Instance.InitManagers();
         AnalyticMgr.SetLoginUser(Game.Accounts.UserId);
-        
+        UnityMainThreadDispatcher.Instance();
     }
  
     /// <summary>

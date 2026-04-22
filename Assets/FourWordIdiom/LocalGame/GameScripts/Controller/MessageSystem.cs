@@ -30,7 +30,7 @@ public class MessageSystem : MonoBehaviour
     [Header("资源配置")]
     [SerializeField] private string bundleName = "commonitem";
     [SerializeField] private string prefabName = "MessageWindow";
-
+    
     [Header("位置设置")]
     [SerializeField] private int topPosition = TOP_POSITION_Y;
     [SerializeField] private int bottomPosition = BOTTOM_POSITION_Y;
@@ -40,6 +40,8 @@ public class MessageSystem : MonoBehaviour
     private GameObject _tipPrefab;
     private ObjectPool<MessageWindow> _tipPool;
     private bool _isActiveTip;
+    
+    private GameObject loadingPanel;
     #endregion
 
     #region Unity生命周期
@@ -78,9 +80,12 @@ public class MessageSystem : MonoBehaviour
             bundleName,
             prefabName
         );
-
         yield return loadRequest;
-
+        
+        GameObject prefab = AdvancedBundleLoader.SharedInstance.LoadGameObject(bundleName, "LoadingScreen");
+        loadingPanel = Instantiate(prefab,transform); // 实例化加载面板
+        loadingPanel.gameObject.SetActive(false);
+        
         if (loadRequest == null)
         {
             Debug.LogError($"提示预制件加载失败: {bundleName}/{prefabName}");
@@ -112,7 +117,15 @@ public class MessageSystem : MonoBehaviour
         );
     }
     #endregion
+    public void ShowLoadingAnimation()
+    {
+        // loadingPanel.SetActive(true); // 显示加载动画Panel
+    }
 
+    public void HideLoadingAnimation()
+    {
+        // loadingPanel.SetActive(false); // 隐藏加载动画Panel
+    }
     #region 提示显示接口
     /// <summary>
     /// 显示提示信息（主入口）

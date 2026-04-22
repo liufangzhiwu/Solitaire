@@ -48,7 +48,7 @@ public class RewardAdsScreen : UIWindow
 
         // 初始状态检查
         bool isReady = Game.Ads.IsReady(Define.AdKey.RewardAdIdStoreGold);
-        bool isConnected = GameCoreManager.Instance.IsNetworkActive;
+        bool isConnected = Game.IsNetworkActive;
 
         // 立即更新UI状态
         adsIcon.gameObject.SetActive(isReady);
@@ -68,7 +68,7 @@ public class RewardAdsScreen : UIWindow
 
             attempt++;
             isReady = Game.Ads.IsReady(Define.AdKey.RewardAdIdStoreGold);
-            isConnected = GameCoreManager.Instance.IsNetworkActive;
+            isConnected = Game.IsNetworkActive;
 
             // 状态变化处理
             if (isReady && isConnected)
