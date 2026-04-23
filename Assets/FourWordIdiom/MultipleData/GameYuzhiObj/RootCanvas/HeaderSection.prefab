@@ -789,7 +789,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 16c3864f34bcb3d40b0e1eaa830e6f5a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e65e52ee7fae7f342ba0ad3b9b33cd3d, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -838,7 +838,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 1731384552369112345}
   m_OnClick:
     m_PersistentCalls:
@@ -903,8 +903,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 13.7017, y: 7.4584}
-  m_SizeDelta: {x: 164.9829, y: 91.0827}
+  m_AnchoredPosition: {x: 35.3402, y: 7.4584}
+  m_SizeDelta: {x: 208.26, y: 91.0827}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &176832865076089887
 CanvasRenderer:
@@ -1362,7 +1362,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &3300433921927202891
 RectTransform:
   m_ObjectHideFlags: 0

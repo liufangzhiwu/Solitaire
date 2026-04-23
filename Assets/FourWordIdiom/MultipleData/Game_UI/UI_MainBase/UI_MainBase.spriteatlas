@@ -156,6 +156,7 @@ SpriteAtlas:
     - 11a8ffce1a5aa384f95d2b563c532b27: 21300000
     - 1820f1deb54de334dbcb5a6324bb9e45: 21300000
     - 90dbb4de6c480ce40a45bcfbd1e4ce1f: 21300000
+    - e65e52ee7fae7f342ba0ad3b9b33cd3d: 21300000
     - 26ac63ee1d65619499d0439d7a1af124: 21300000
     - 2345a40f1fd2ee84984b7f09fe07c393: 21300000
     - 68cd0e2f370e7f3439af6fba489a65ab: 21300000
@@ -259,6 +260,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 11a8ffce1a5aa384f95d2b563c532b27, type: 3}
   - {fileID: 21300000, guid: 1820f1deb54de334dbcb5a6324bb9e45, type: 3}
   - {fileID: 21300000, guid: 90dbb4de6c480ce40a45bcfbd1e4ce1f, type: 3}
+  - {fileID: 21300000, guid: e65e52ee7fae7f342ba0ad3b9b33cd3d, type: 3}
   - {fileID: 21300000, guid: 26ac63ee1d65619499d0439d7a1af124, type: 3}
   - {fileID: 21300000, guid: 2345a40f1fd2ee84984b7f09fe07c393, type: 3}
   - {fileID: 21300000, guid: 68cd0e2f370e7f3439af6fba489a65ab, type: 3}
@@ -361,6 +363,7 @@ SpriteAtlas:
   - LOGO
   - cardicon
   - ui_step_Bg
+  - UI_glod_bg
   - finger
   - Hand_bg
   - red_bg

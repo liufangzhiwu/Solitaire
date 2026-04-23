@@ -93,14 +93,18 @@ public class HandAreaController : MonoBehaviour
     public void OnStockClicked()
     {
         if (isDealing) return;
+        isDealing = true;
         
         AudioManager.Instance.PlaySoundEffect("FlipCard");
         stockButton.transform.DOScale(new Vector3(0.95f, 0.95f, 0.95f), 0.11f).OnComplete(() =>
         {
             if (stockData.Count > 0)
             {
-                if (ChainPlayArea.Instance.currentSteps <= 0) return;
-                isDealing = true; // 上锁
+                if (ChainPlayArea.Instance.currentSteps <= 0)
+                {
+                    isDealing = false; // 🔥 没步数了要记得解锁
+                    return;
+                }
                 
                 foreach (var card in wasteCards)
                 {
@@ -117,8 +121,11 @@ public class HandAreaController : MonoBehaviour
             }
             else if (wasteCards.Count > 0)
             {
-                isDealing = true;
                 RecycleWasteToStock();
+            }
+            else
+            {
+                isDealing = false;
             }
             ChainPlayArea.Instance.NotifyPlayerAction();
             stockButton.transform.DOScale(Vector3.one, 0.11f);
@@ -326,17 +333,19 @@ public class HandAreaController : MonoBehaviour
         _dealingCard.transform.position = stockRoot.position;
         _dealingCard.transform.localScale = Vector3.one;
 
+        CardView animatingCard = _dealingCard;
+        
         Vector3 targetLocalPos = CalculateTargetLocalPos(wasteCards.Count);
         Vector3 targetWorldPos = wasteRoot.TransformPoint(targetLocalPos);
 
         Sequence seq = DOTween.Sequence();
         seq.SetId(this);
-        seq.SetLink(_dealingCard.gameObject, LinkBehaviour.KillOnDisable);
+        seq.SetLink(animatingCard.gameObject, LinkBehaviour.KillOnDisable);
         // 我们稍微收紧一点时间，让动作更凌厉
         float duration = 0.4f; 
         
         // 1. 直达目标：保持 OutQuad (平滑减速)
-        seq.Insert(0, _dealingCard.transform.DOMove(targetWorldPos, duration).SetEase(Ease.OutQuad));
+        seq.Insert(0, animatingCard.transform.DOMove(targetWorldPos, duration).SetEase(Ease.OutQuad));
 
         // ==========================================
         // 👇 🔥 核心改造：初始爆发力的微微放大效果
@@ -344,35 +353,36 @@ public class HandAreaController : MonoBehaviour
         
         // 【第 1 段：爆发（快速放大）】
         // 在前 0.12 秒（约 30% 的路程），将 Y轴（高度）微微放大 1.15 倍，模拟卡牌离开桌面时的“弹跳”或“被捏起”的瞬间
-        seq.Insert(0, _dealingCard.transform.DOScaleY(1.15f, duration * 0.3f).SetEase(Ease.OutQuad));
+        seq.Insert(0, animatingCard.transform.DOScaleY(1.15f, duration * 0.3f).SetEase(Ease.OutQuad));
         
         // 【第 2 段：回归（缓慢变回原样）】
         // 从 0.12 秒开始，用剩下的时间，让卡牌慢慢变回 1.0 的标准高度，确保落地时完美归位
-        seq.Insert(duration * 0.3f, _dealingCard.transform.DOScaleY(1f, duration * 0.7f).SetEase(Ease.OutQuad));
+        seq.Insert(duration * 0.3f, animatingCard.transform.DOScaleY(1f, duration * 0.7f).SetEase(Ease.OutQuad));
         // ==========================================
 
 
         // 2. 空中同步翻面：时间完美等分，一半合上一半展开
         // 前半段：牌面压扁至0
-        seq.Insert(0, _dealingCard.transform.DOScaleX(0f, duration * 0.5f).SetEase(Ease.InSine).OnComplete(() =>
+        seq.Insert(0, animatingCard.transform.DOScaleX(0f, duration * 0.5f).SetEase(Ease.InSine).OnComplete(() =>
         {
             // 飞到中途时，瞬间换成正面贴图
-            _dealingCard.SetFaceUp(true); 
+            animatingCard.SetFaceUp(true); 
         }));
         
         // 后半段：牌面展开
         // (保持了之前那一点点 OutBack(1.2f) 的微回弹，保留“啪”地拍桌上的力量感)
-        seq.Insert(duration * 0.5f, _dealingCard.transform.DOScaleX(1f, duration * 0.5f).SetEase(Ease.OutBack, 1.2f));
+        seq.Insert(duration * 0.5f, animatingCard.transform.DOScaleX(1f, duration * 0.5f).SetEase(Ease.OutBack, 1.2f));
         seq.OnComplete(() =>
         {
-            AddCardToWaste(_dealingCard);
-            _dealingCard.transform.localScale = Vector3.one;
+            AddCardToWaste(animatingCard);
+            animatingCard.transform.localScale = Vector3.one;
             // cardScript.transform.localScale = new Vector3(0.8f, 0.8f, 1f);
-            _dealingCard.UpdateZoneVisuals(true, true);
+            animatingCard.UpdateZoneVisuals(true, true);
             isDealing = false;
-            EventDispatcher.Instance.TriggerCardDragResult(null, _dealingCard,true);
+            EventDispatcher.Instance.TriggerCardDragResult(null, animatingCard,true);
 
-            _dealingCard = null;
+            // 清理全局指针
+            if (_dealingCard == animatingCard) _dealingCard = null;
         });
     }
     // 辅助：计算新卡牌在废牌区的理论本地坐标
