@@ -1,4 +1,4 @@
-#if UNITY_GOOGLE
+#if UNITY_GOOGLE && UNITY_HUAWEI
 using System;
 using System.Collections.Generic;
 using UnityEngine;

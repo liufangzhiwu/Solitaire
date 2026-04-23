@@ -56,7 +56,7 @@ namespace Middleware
         }
         private void CreateAccounts()
         {
-            Accounts = new Account_android();
+            
 #if UNITY_ANDROID
             Accounts = new Account_android();
 #elif UNITY_HUAWEI
@@ -64,6 +64,8 @@ namespace Middleware
             Accounts.Init(0.2f);
 #elif UNITY_OPENHARMONY
             Accounts = new Account_harmony();
+#else
+            Accounts = new Account_android();
 #endif
             Accounts.Init(0.2f);
         }
@@ -74,7 +76,7 @@ namespace Middleware
     #elif UNITY_HUAWEI 
             Ads = new Ads_huawei();
     #elif UNITY_IOS
-            Ads = new Ads_ios2();
+            Ads = new Ads_none();
     #elif UNITY_OPENHARMONY
             Ads = new Ads_harmony();
     #endif
@@ -96,9 +98,9 @@ namespace Middleware
         private void CreateShop()
         {
     #if UNITY_ANDROID
-            // Shop = new Shop_android();
+            // Shop = new Shop_harmony();
     #elif UNITY_IOS
-            Shop = new Shop_ios();
+            Shop = new Shop_harmony();
     #elif UNITY_OPENHARMONY
             Shop = new Shop_harmony();
     #endif

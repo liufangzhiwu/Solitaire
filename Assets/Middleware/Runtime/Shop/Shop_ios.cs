@@ -1,4 +1,4 @@
-#if UNITY_IOS
+#if UNITY_IOS && UNITY_HUAWEI
 using System;
 using System.Collections.Generic;
 using UnityEngine;
