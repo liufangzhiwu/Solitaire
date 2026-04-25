@@ -39,6 +39,8 @@ public class LoadingController : MonoBehaviour
     private void Start()
     {
         if(progressSlider != null) progressSlider.value = 0f;
+        loadingHintText.text = "";
+        loadingHintName.text = "";
         StartCoroutine(InitializeLoadingProcess());
     }
 
@@ -76,7 +78,7 @@ public class LoadingController : MonoBehaviour
     private void InitializeLocalization()
     {
         MultilingualManager.Instance.LoadLocalization();
-        MultilingualManager.Instance.LoadLocalizationNameTable();
+        // MultilingualManager.Instance.LoadLocalizationNameTable();
         MultilingualManager.Instance.InitbiddenWords();
     }
 

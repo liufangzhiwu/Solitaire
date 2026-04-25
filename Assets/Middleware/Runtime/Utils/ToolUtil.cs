@@ -32,10 +32,13 @@ namespace Middleware
 #if UNITY_OPENHARMONY
                         _curBundle = "ChineseSimplified";
 #elif UNITY_ANDROID
-                        _curBundle = "ChineseSimplified";
+                        _curBundle = "English";
 #endif
                         break;
                 }    
+                #if UNITY_ANDROID
+                _curBundle = "English";
+                #endif
             }
             return _curBundle.ToLower();
         }

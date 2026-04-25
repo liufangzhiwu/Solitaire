@@ -44,7 +44,7 @@ public static class AppGameSettings
     public static int FishTargetWordCount { get; } = 100;   
 
     // ===== 关卡循环设置 =====
-    public static int LoopLevelStart { get; } = 200;     
+    public static int LoopLevelStart { get; } = 100;     
 
     // ===== 功能解锁关卡 =====
     public static class UnlockRequirements 

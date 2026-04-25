@@ -187,8 +187,22 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
                 target = rightAnchor;
                 if (smallText)
                 {
-                    smallText.text = GetVerticalString(cardId);
-                    smallText.lineSpacing = 0.85f;
+                    char firstChar = string.IsNullOrEmpty(cardId) ? ' ' : cardId[0];
+                    bool isEnglish = (firstChar >= 'a' && firstChar <= 'z') || (firstChar >= 'A' && firstChar <= 'Z');
+                    if (isEnglish)
+                    {
+                        // 英文：不换行，直接整个单词旋转 -90 度
+                        smallText.text = cardId;
+                        smallText.transform.localEulerAngles = new Vector3(0, 0, -90);
+                        smallText.lineSpacing = 1f;
+                    }
+                    else
+                    {
+                        // 中文：保留原来的竖排逻辑
+                        smallText.text = GetVerticalString(cardId);
+                        smallText.transform.localEulerAngles = Vector3.zero;
+                        smallText.lineSpacing = 0.85f;
+                    }
                 }
             }
             else
@@ -204,6 +218,7 @@ public class CardView : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
         else
         {
             target = centerAnchor;
+            smallText.transform.localEulerAngles = Vector3.zero;
         }
     
         if (immediate)

@@ -23,14 +23,14 @@ public class CardPoolManager : MonoBehaviour
                     GameObject go = new GameObject("CardPoolManager");
                     _instance = go.AddComponent<CardPoolManager>();
                 }
+                _instance.InitPoolIfNeeded();
             }
-            _instance.InitPoolIfNeeded();
             return _instance;
         }
     }
     private GameObject _cardPrefab;
     private ObjectPool _pool;
-    private bool _isInitialized;
+    private bool _isInitialized = false; // 严格的状态锁
     private void Awake()
     {
         if (_instance == null)
@@ -39,8 +39,6 @@ public class CardPoolManager : MonoBehaviour
             InitPoolIfNeeded();
         }else if(_instance != this)
             Destroy(gameObject);
-        _cardPrefab = AdvancedBundleLoader.SharedInstance.LoadGameObject("commonitem", "Cardinfo");
-        _pool = new ObjectPool(_cardPrefab, ObjectPool.CreatePoolContainer(transform, "CardPool"), 30, PoolBehaviour.GameObject);
     }
 
     private void InitPoolIfNeeded()
@@ -48,7 +46,8 @@ public class CardPoolManager : MonoBehaviour
         if (_isInitialized) return;
         
         _cardPrefab = AdvancedBundleLoader.SharedInstance.LoadGameObject("commonitem", "Cardinfo");
-        _pool = new ObjectPool(_cardPrefab, ObjectPool.CreatePoolContainer(transform, "CardPool"), 30, PoolBehaviour.GameObject);
+        Transform poolContainer = ObjectPool.CreatePoolContainer(transform, "CardPool");
+        _pool = new ObjectPool(_cardPrefab, poolContainer, 30, PoolBehaviour.GameObject);
         _isInitialized = true;
     }
 
@@ -61,9 +60,13 @@ public class CardPoolManager : MonoBehaviour
     public void ReturnCardPrefab(CardView cardPrefab)
     {
         if (cardPrefab == null) return;
+        InitPoolIfNeeded();
         // cardPrefab.transform.SetParent(transform,false);
         cardPrefab.transform.DOKill();
-        InitPoolIfNeeded();
+        
+        cardPrefab.transform.localScale = Vector3.one;
+        cardPrefab.gameObject.SetActive(false);
+        
         if (cardPrefab.TryGetComponent<PoolObject>(out var poolObj))
         {
             _pool.ReturnObjectToPool(poolObj);
@@ -71,6 +74,16 @@ public class CardPoolManager : MonoBehaviour
         else
         {
             Destroy(cardPrefab.gameObject);
+        }
+    }
+    
+    private void OnDestroy()
+    {
+        // 当场景销毁或管理器被销毁时，清空静态指针，防止下个场景调用时空指针异常
+        if (_instance == this)
+        {
+            _instance = null;
+            _isInitialized = false;
         }
     }
 }

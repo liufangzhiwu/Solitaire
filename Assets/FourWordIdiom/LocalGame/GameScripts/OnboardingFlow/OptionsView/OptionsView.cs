@@ -50,6 +50,12 @@ public class OptionsView : UIWindow
 #endif
         opinionBtn.gameObject.SetActive(false);
         restoreBuyBtn.gameObject.SetActive(false);
+
+        string redoStr = MultilingualManager.Instance.GetString("RestartBtn");
+        if (!string.IsNullOrEmpty(redoStr))
+        {
+            redoGame.GetComponentInChildren<Text>().text = redoStr;
+        }
     }
 
     protected override void OnEnable()
@@ -198,36 +204,35 @@ public class OptionsView : UIWindow
     
     private void OnOpinionBtn()
     {
-        Application.OpenURL(ConfigManager.Instance.GetString("OpinionUrl"));
+        Application.OpenURL("https://neoplaygame.com/contact");
     }
 
     private void OnprivacyBtn()
     {
-        Application.OpenURL(ConfigManager.Instance.GetString("PrivacyUrl"));
-        if (!Game.IsNetworkActive)
-        {
-            GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
-            GameObject pi = Instantiate(pg, transform.parent);
-            pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yszc");
-            pi.SetActive(true);
-            base.Close();
-        }
-        else
-            Application.OpenURL(ConfigManager.Instance.GetString("PrivacyUrl"));
+        // if (!Game.IsNetworkActive)
+        // {
+        //     GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
+        //     GameObject pi = Instantiate(pg, transform.parent);
+        //     pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yszc");
+        //     pi.SetActive(true);
+        //     base.Close();
+        // }
+        // else
+            Application.OpenURL("https://neoplaygame.com/privacy-policy");
     }
 
     private void OntermsBtn()
     {
-        if (!Game.IsNetworkActive)
-        {
-            GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
-            GameObject pi = Instantiate(pg, transform.parent);
-            pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yhxy");
-            pi.SetActive(true);
-            base.Close();
-        }
-        else
-            Application.OpenURL(ConfigManager.Instance.GetString("TermsUrl"));
+        // if (!Game.IsNetworkActive)
+        // {
+        //     GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
+        //     GameObject pi = Instantiate(pg, transform.parent);
+        //     pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yhxy");
+        //     pi.SetActive(true);
+        //     base.Close();
+        // }
+        // else
+            Application.OpenURL("https://neoplaygame.com/terms-and-conditions");
     }
 
     private void OnHideButton()

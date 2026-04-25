@@ -2772,6 +2772,7 @@ MonoBehaviour:
   _openDuration: 0.3
   _closeDuration: 0.3
   levelText: {fileID: 6473200744927539468}
+  stepNameText: {fileID: 6580908046148349380}
   stepsText: {fileID: 5650609536488334483}
   msgText: {fileID: 1666391106752435455}
   hintButton: {fileID: 6003660425709275510}

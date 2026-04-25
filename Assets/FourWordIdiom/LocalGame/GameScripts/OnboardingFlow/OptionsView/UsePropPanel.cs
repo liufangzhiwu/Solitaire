@@ -27,6 +27,15 @@ public class UsePropPanel : UIWindow
         adsBtn.AddClickAction(OnAdsRewardClick);
     }
 
+    private void Start()
+    {
+        string titleText = MultilingualManager.Instance.GetString("Item");
+        if (!string.IsNullOrEmpty(titleText))
+        {
+            title.text = titleText;
+        }
+    }
+
     public void Setup(ToolInfo toolInfo, Action<bool> finishedCallback)
     {
         _toolInfo = toolInfo;
@@ -36,13 +45,13 @@ public class UsePropPanel : UIWindow
         {
             propValue.GetChild(0).gameObject.SetActive(true);
             propValue.GetChild(1).gameObject.SetActive(false);
-            propName.text = "提示道具";
+            propName.text = MultilingualManager.Instance.GetString("HintItem");
           
         }else if (_toolInfo.type == "Undo")
         {
             propValue.GetChild(0).gameObject.SetActive(false);
             propValue.GetChild(1).gameObject.SetActive(true);
-            propName.text = "撤回道具";
+            propName.text = MultilingualManager.Instance.GetString("RecallItem");
         }
 
         coinBtn.GetComponentInChildren<Text>().text = _toolInfo.cost.ToString();
@@ -61,7 +70,7 @@ public class UsePropPanel : UIWindow
         if(GameDataManager.Instance.UserData.Gold <_toolInfo.cost)
         {
             // Game.Ads.ShowReward(Define.AdKey.RewardAdIdStoreGold,UpdateAdsRewardHandler);
-            MessageSystem.Instance.ShowTip("金币不足！ 无法购买该道具");
+            MessageSystem.Instance.ShowTip(MultilingualManager.Instance.GetString("TipGoldInsufficient"));
             return ;
         }
         if (_toolInfo.type == "Hint")

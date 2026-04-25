@@ -5,7 +5,9 @@ using System.IO;
 using Middleware.Runtime.Analytics;
 using Newtonsoft.Json;
 using UnityEngine;
+#if UNITY_HUAWEI
 using UnityEngine.HuaweiAppGallery;
+#endif
 
 namespace Middleware
 {
@@ -38,7 +40,7 @@ namespace Middleware
         private IEnumerator Start()
         {
             yield return null;
-            StartCoroutine(CheckNetworkConnection());
+            // StartCoroutine(CheckNetworkConnection());
         }
 
         public void InitGame()
@@ -61,7 +63,6 @@ namespace Middleware
             Accounts = new Account_android();
 #elif UNITY_HUAWEI
             Accounts = new Account_huaweiandroid();
-            Accounts.Init(0.2f);
 #elif UNITY_OPENHARMONY
             Accounts = new Account_harmony();
 #else
@@ -181,7 +182,7 @@ namespace Middleware
                 ping = null;
 
                 IsNetworkActive = isSuccess;
-                Debug.Log("PrivacyGuidance 网络状态: " + (IsNetworkActive ? "已连接" : "未连接"));
+                // Debug.Log("PrivacyGuidance 网络状态: " + (IsNetworkActive ? "已连接" : "未连接"));
 
                 yield return wait;
             }

@@ -24,6 +24,7 @@ public class ChainPlayArea : UIWindow
 
     [Header("管理区域")] 
     [SerializeField] private Text levelText;
+    [SerializeField] private Text stepNameText;
     [SerializeField] private Text stepsText; // 步数文本
     [SerializeField] private Text msgText;
     [SerializeField] private Button hintButton;
@@ -96,7 +97,11 @@ public class ChainPlayArea : UIWindow
             
         hintButton.AddClickAction(OnHintClick);
         undoButton.AddClickAction(OnUndoClick);
-
+        string stepName = MultilingualManager.Instance.GetString("StepCount");
+        if (!string.IsNullOrEmpty(stepName))
+        {
+            stepNameText.text = stepName;
+        }
     }
 
     protected override void OnEnable()
@@ -283,6 +288,12 @@ public class ChainPlayArea : UIWindow
         yield return new WaitForSeconds(0.3f);
         EventDispatcher.Instance.TriggerChangeTopRaycast(true);
         EventDispatcher.Instance.TriggerLevelStarted(currentData.stageId);
+        if (currentSteps <= 0 && !IsGameOver())
+        {
+            Debug.Log("⚠️ 侦测到死局存档！直接弹出失败窗口！");
+            // 复用你写好的延迟判定失败逻辑
+            StartCoroutine(DelayCheckFail()); 
+        }
     }
     
     private Sequence PlayUIEntranceAnim()

@@ -1,46 +1,46 @@
-﻿key,ChineseSimplified
-Level,关卡
-Japanese,日本語
-ChineseSimplified,简体中文
-ChineseTraditional,繁體中文
-English,English
-Music,音乐
-Sounds,音效
-Vibrate,振动
-LanguageSelection,语言选择
-Settings,设定
-PrivacyPolicy,隐私政策
-TermsAndService,用户协议
-Victory,挑战成功！
-CompleteTheLevel,恭喜通关！
-TipGoldInsufficient,金币不足！
-TipAllWordPrompted,所有词都已被提示！
-ButtonGotIt,了解
-StepCount,步数
-Replay,重玩
-GuidingTips01,将分类卡放入槽位，开启新的收集目标！
-GuidingTips02,发现可收集的卡牌!将它移动到对应分类槽中。
-GuidingTips03,"同类卡牌可以堆叠在一起,试试整理一下牌桌!"
-GuidingTips04,"当前牌桌没有可移动的牌了,点牌堆翻一张新牌吧!"
-GuidingTips05,"好运气!这张牌正好可以用,快拖进去!"
-StepsExhausted,步数已用完！
-ItemTips01,撤回成功，步数已返还！
-GetCoins,获取金币
-Reset,重置
-ShopTips01,购买成功！
-ShopTips02,购买失败！
-Shop,商店
-ADLoadingTips,广告加载中
-ADPopTitle,获取金币
-ADPopWatch,观看视频
-ADPopReceive,领取
-PrivacyAgreement02,如果您选择开始使用我们的应用，请点击「同意」
-PrivacyAgreement03,同意
-PrivacyAgreement04,不同意
-PrivacyAgreement05,"根据相关法律法规以及为了保障您的个人权益,我们制定了<href=https://mindwordplay.cn/yhxyb>《用户协议》</href>和<href=https://mindwordplay.cn/ysxy>《隐私政策》</href>，只有您同意了这些条款，我们才能为您服务。我们会保障您的隐私安全，若您仍然不同意本隐私和协议,很遗憾我们将无法继续为您提供服务。 "
-PrivacyAgreement06,再想想
-PrivacyAgreement07,拒绝并退出
-EvaluateDes,您已解开很多个文字谜题，真是文字高手！✍️若觉得这词海探秘有趣，诚邀用★5为游戏添点墨香
+﻿key,ChineseSimplified,English
+Level,关卡,Level
+Japanese,日本語,Japanese
+ChineseSimplified,简体中文,Simplified Chinese
+ChineseTraditional,繁體中文,Traditional Chinese
+English,English,English
+Music,音乐,Music
+Sounds,音效,Sound
+Vibrate,振动,Vibration
+LanguageSelection,语言选择,Language Selection
+Settings,设定,Settings
+PrivacyPolicy,隐私政策,Privacy Policy
+TermsAndService,用户协议,Terms of Service
+Victory,挑战成功！,Challenge Complete!
+CompleteTheLevel,恭喜通关！,Level Complete!
+TipGoldInsufficient,金币不足！,Not enough coins!
+TipAllWordPrompted,所有词都已被提示！,All words have already been hinted!
+ButtonGotIt,了解,Got It
+StepCount,步数,Moves
+Replay,重玩,Replay
+GuidingTips01,将分类卡放入槽位，开启新的收集目标！,Place category cards into the slots to unlock new collection goals!
+GuidingTips02,发现可收集的卡牌!将它移动到对应分类槽中。,A collectible card has appeared! Move it into the matching category slot.
+GuidingTips03,"同类卡牌可以堆叠在一起,试试整理一下牌桌!",Cards of the same type can be stacked together. Try organizing the table!
+GuidingTips04,"当前牌桌没有可移动的牌了,点牌堆翻一张新牌吧!",There are no movable cards on the table right now. Tap the deck to flip a new card!
+GuidingTips05,"好运气!这张牌正好可以用,快拖进去!",Lucky you! This card fits perfectly. Drag it in now!
+StepsExhausted,步数已用完！,No moves left!
+ItemTips01,撤回成功，步数已返还！,Undo successful. Your move has been refunded!
+GetCoins,获取金币,Get Coins
+Reset,重置,Reset
+ShopTips01,购买成功！,Purchase successful!
+ShopTips02,购买失败！,Purchase failed!
+Shop,商店,Shop
+ADLoadingTips,广告加载中,Loading Ad...
+ADPopTitle,获取金币,Get Coins
+ADPopWatch,观看视频,Watch Video
+ADPopReceive,领取,Claim
+PrivacyAgreement02,如果您选择开始使用我们的应用，请点击「同意」,"If you choose to start using our app, please tap Agree."
+PrivacyAgreement03,同意,Agree
+PrivacyAgreement04,不同意,Disagree
+PrivacyAgreement05,"根据相关法律法规以及为了保障您的个人权益,我们制定了<href=https://mindwordplay.cn/yhxyb>《用户协议》</href>和<href=https://mindwordplay.cn/ysxy>《隐私政策》</href>，只有您同意了这些条款，我们才能为您服务。我们会保障您的隐私安全，若您仍然不同意本隐私和协议,很遗憾我们将无法继续为您提供服务。 ","In accordance with relevant laws and regulations and to protect your personal rights and interests, we have prepared the <href=https://neoplaygame.com/terms-and-conditions>Terms of Service</href> and <href=https://neoplaygame.com/privacy-policy>Privacy Policy</href>. We can only provide services to you after you agree to these terms. We will protect your privacy and security. If you still do not agree to this privacy policy and agreement, unfortunately we will be unable to continue providing services to you. "
+PrivacyAgreement06,再想想,Think Again
+PrivacyAgreement07,拒绝并退出,Decline and Exit
+EvaluateDes,您已解开很多个文字谜题，真是文字高手！✍️若觉得这词海探秘有趣，诚邀用★5为游戏添点墨香,"You have solved many word puzzles already. You are truly a word master! If you enjoy this word-filled adventure, please consider giving the game a 5-star rating."
 PrivacyAgreement01,"欢迎来到「词语纸牌接龙」！
 为了向您提供更优质的游戏体验与相关服务，我们需要收集和使用您的部分个人信息。
 在您开启这段禅意之旅前，请知悉：
@@ -48,7 +48,14 @@ PrivacyAgreement01,"欢迎来到「词语纸牌接龙」！
 我们可能会收集设备信息（如设备型号、操作系统版本）、网络信息、游戏日志、等，用于游戏功能实现、服务优化、安全保障、广告投放（如适用）及合规要求。
 您可以查阅我们的<href=https://mindwordplay.cn/ysxy>《隐私政策》</href>了解详细信息，包括我们如何收集、使用、存储和保护您的信息，以及您的相关权利。
 您也需要同意我们的<href=https://mindwordplay.cn/yhxyb>《用户协议》</href>以使用本游戏。
-请您仔细阅读并理解以上内容。您的同意对我们至关重要。"
+请您仔细阅读并理解以上内容。您的同意对我们至关重要。","Welcome to Word Card Solitaire!
+To provide you with a better game experience and related services, we need to collect and use some of your personal information.
+Before you begin this peaceful journey, please note:
+We will strictly comply with relevant laws and regulations to protect the security of your personal information.
+We may collect device information (such as device model and operating system version), network information, game logs, and more for game functionality, service optimization, security protection, advertising delivery (where applicable), and compliance requirements.
+You can read our <href=https://neoplaygame.com/privacy-policy>Privacy Policy</href> for more details, including how we collect, use, store, and protect your information, as well as your related rights.
+You also need to agree to our <href=https://neoplaygame.com/terms-and-conditions>Terms of Service</href> to use this game.
+Please read and understand the above carefully. Your consent is very important to us."
 PrivacyAgreement01_general,"欢迎来到「词语纸牌接龙」！
 为了向您提供更优质的游戏体验与相关服务，我们需要收集和使用您的部分个人信息。
 在您开启这段禅意之旅前，请知悉：
@@ -56,7 +63,14 @@ PrivacyAgreement01_general,"欢迎来到「词语纸牌接龙」！
 我们可能会收集设备信息（如设备型号、操作系统版本）、网络信息、游戏日志、等，用于游戏功能实现、服务优化、安全保障、广告投放（如适用）及合规要求。
 您可以查阅我们的<href=https://mindwordplay.cn/ysxy>《隐私政策》</href>了解详细信息，包括我们如何收集、使用、存储和保护您的信息，以及您的相关权利。
 您也需要同意我们的<href=https://mindwordplay.cn/yhxyb>《用户协议》</href>以使用本游戏。
-请您仔细阅读并理解以上内容。您的同意对我们至关重要。"
+请您仔细阅读并理解以上内容。您的同意对我们至关重要。","Welcome to Word Card Solitaire!
+To provide you with a better game experience and related services, we need to collect and use some of your personal information.
+Before you begin this peaceful journey, please note:
+We will strictly comply with relevant laws and regulations to protect the security of your personal information.
+We may collect device information (such as device model and operating system version), network information, game logs, and more for game functionality, service optimization, security protection, advertising delivery (where applicable), and compliance requirements.
+You can read our <href=https://neoplaygame.com/privacy-policy>Privacy Policy</href> for more details, including how we collect, use, store, and protect your information, as well as your related rights.
+You also need to agree to our <href=https://neoplaygame.com/terms-and-conditions>Terms of Service</href> to use this game.
+Please read and understand the above carefully. Your consent is very important to us."
 UserAgreement,"用户服务协议
 1. 关于我们
 感谢您选择使用我们的产品。
@@ -113,7 +127,54 @@ UserAgreement,"用户服务协议
  
 生效日期：2025.8.20
 
-"
+","User Service Agreement
+1. About Us
+Thank you for choosing to use our product.
+This User Service Agreement is a valid agreement entered into between Liufangzhiwu and users (hereinafter referred to as you) regarding the use of our product.
+ 
+2. Scope, Purpose, and Confirmation of the Agreement
+This User Service Agreement, its supplementary agreements, and any separate agreements or rules displayed on the pages, as well as operation tips (collectively referred to as this Agreement), are the terms on which we provide product services to you. They are inseparable and must be observed together.
+Please read all contents of this Agreement carefully, especially the bolded parts.
+If you have any questions about this Agreement or the page prompts, please do not proceed to the next step. If you use our product or services, you will be deemed to have read and agreed to be bound by this Agreement.
+If you do not agree with any part of this Agreement, or cannot accurately understand its terms, please stop using the product and do not proceed with any follow-up actions.
+ 
+3. Requirements for Using This Service
+3.1 You must have full civil capacity to use our product. If you have no civil capacity or limited civil capacity, please inform your guardian, read this Agreement under your guardian's guidance, and use our product only after obtaining your guardian's consent;
+3.2 You expressly state and warrant that you have sufficient legal rights or authorization to sign and perform this Agreement; your signing and performance of this Agreement will not conflict with or cause a breach of any other agreement or arrangement you are required to perform;
+3.3 If the laws of your country or region exclude all or part of this Agreement, you shall immediately stop using our product. Otherwise, your continued use of our product will be deemed as your agreement to bear the relevant legal risks or liabilities.
+ 
+5. Rules for User Conduct
+5.1 Any actions performed or instructions issued using your identity credentials shall be deemed to have been made by you. You shall be responsible for all consequences arising from the use of your identity credentials (including but not limited to signing agreements, publishing information, paying for goods and services, and disclosing information). Any risks and losses caused by your account, password, or other information being impersonated, stolen, or illegally used due to reasons attributable to you shall be borne by you;
+5.2 When using our product, please fill in and verify your personal information carefully to ensure it is true, accurate, complete, and valid;
+5.3 Please consider your actual needs and carefully review information such as the Privacy Policy and User Agreement before confirming and choosing to use our product and services;
+5.4 You acknowledge and agree that if you suffer any financial loss or consequences due to input errors, improper operations, wrong selections, or similar situations on your part, you shall bear them yourself.
+ 
+6. Disclaimer
+Before using our product, you should have a certain understanding of the risks that may exist in e-commerce and network services. Failures, interruptions, or delays in our services caused by network failures, system inspection, maintenance or instability, hacker attacks, technical adjustments or failures by power departments, banks, or other reasons do not constitute a breach by Liufangzhiwu, but Liufangzhiwu will make every effort to restore normal services. As a technical service platform, Liufangzhiwu provides services on an as-is basis only. To the extent permitted by law, Liufangzhiwu shall not be liable for service interruptions, delays, or obstacles caused by the following circumstances:
+(1) Damage caused by computer viruses, Trojans or other malicious programs, or hacker attacks;
+(2) Failures in your or a third party's computer software, system, hardware, network, or communication lines;
+(3) Improper operations by you, including but not limited to submitting incorrect account or personal information, or program errors;
+(4) Other circumstances beyond Liufangzhiwu's control or reasonable foresight.
+ 
+7. Prohibited Conduct by Users
+When using this software, you must comply with laws and regulations and may not use the services provided by this software to engage in illegal or non-compliant acts, including but not limited to:
+(1) Publishing, transmitting, disseminating, or storing content that endangers national security and unity, undermines social stability, violates public order and good customs, is insulting, defamatory, obscene, violent, or otherwise violates national laws and regulations;
+(2) Publishing, transmitting, disseminating, or storing content that infringes the legitimate rights and interests of others, such as intellectual property rights and trade secrets;
+(3) Maliciously fabricating facts or concealing the truth to mislead or deceive others;
+(4) Publishing, transmitting, or disseminating advertising information or spam;
+(5) Other acts prohibited by laws and regulations.
+If you violate this clause and cause any damage to any third party, you shall bear sole responsibility. If Liufangzhiwu suffers losses as a result, you shall also compensate for them in full.
+ 
+8. Revisions to This Agreement
+You may review the relevant terms in the latest version of this software. Once published, the updated terms will replace the original terms, and we will promptly post changes to this Agreement on the service page. If revisions to this Agreement materially affect you or significantly restrict your access to or use of the service, we will notify you within a reasonable period before the changes take effect. For revisions made to meet security, legal, or regulatory requirements, we may not be able to meet the foregoing advance notice period, but we will notify you as soon as possible.
+After the terms of this Agreement are changed, if you do not accept the revised agreement, please stop using the service immediately; if you continue to access or use the service, you will be deemed to have accepted the revised agreement.
+ 
+9. Governing Law and Jurisdiction
+The formation, execution, interpretation, and dispute resolution of this Agreement shall be governed by the laws of the People's Republic of China.
+You agree that the place of signing of this Agreement is Hongshan District, Wuhan City, Hubei Province, China.
+If any dispute arises during the performance of this Agreement, both parties shall first resolve it through negotiation. If negotiation fails, both parties shall bring a lawsuit before the people's court with jurisdiction at the place where the Agreement is signed.
+ 
+Effective Date: 2025.8.20"
 UserPrivacyPolicy,"用户隐私协议
 该产品 是由 武汉市六方之物电子商务有限公司 （以下简称“我们”）为您提供的，用于休闲娱乐的游戏应用。本隐私声明由我们为处理您的个人信息而制定。
 我们非常重视您的个人信息和隐私保护，将会按照法律要求和业界成熟的安全标准，为您的个人信息提供相应的安全保护措施。
@@ -137,53 +198,80 @@ ThinkingAnalytics SDK 除上述信息外还会收集以下信息： 设备标识
 邮箱：Lfzw2025@163.com
 如果您对我们的回复不满意, 特别是当个人信息处理行为损害了您的合法权益时您还可以通过向有管辖权的人民法院提起诉讼、向行业自律协会或政府相关管理机构投诉等外部途径进行解决。 您也可以向我们了解可能适用的相关投诉途径的信息。
  
-生效日期：2025.8.20"
-EvaluateButton01,下次再说
-EvaluateButton02,关闭
-EvaluateButton03,反 馈
-limitedRewardsDes06,连出{0}个成语就能获得下一份奖励！
-TimeD,日
-TimeH,时
-TimeM,分
-ShopBoxName01,初级语汇锦囊
-ShopBoxName02,中级智慧宝盒
-ShopBoxName03,上级成语宝库
-ShopBoxName04,超级珠玉盛宴
-ShopBoxName05,7日免广告豪礼
-ShopBoxName06,免广告豪礼
-ShopBoxName07,限时宝箱
-RemoveADName,去广告 + 200金币
-RemoveAD7DaysName,移除7天内的强制广告
-RemoveADDes,去除游戏中激励视频以外的所有广告
-RemoveAD7DaysPointDes,此去广告功能仅在7天内有效
-RemoveADPointDes,永久去除本游戏中激励视频以外的所有广告
-ShopDiscount,OFF
-RemoveADName02,去广告
-RemoveADSign01,剩余 {0} 天
-RemoveADSign02,永久版
-RestorePurchases,恢复购买
-RestorePurchasesTips01,操作超时，请检查网络链接！
-RestorePurchasesTips02,当前账号没有可恢复购买的产品
-RestorePurchasesTips03,恢复成功！
-RestorePurchasesTips04,恢复失败！
-CharacterInfoTitle,角色信息
-CharacterInfoAvatar,头像
-UIConfirm,确定
-CharacterInfoTips01,名称含有不当用语\n请修改后重新提交
-EntranceUITitle,游戏模式
-EntranceUIName01,成语消
-EntranceUIName02,成语填字
-EntranceUIName03,层层消
-PromotionalText01,点击前往下载
-loadText01,“玩分类就像理乱麻，抽丝剥茧，心自清明。”
-loadText02,“消除的不是牌堆，是脑海里的杂乱无章。”
-loadText03,“焦虑的时候，把词语送回它们的家，心就定了。”
-loadText04,“词语像迷路的孩子，碎片时间帮它们归队，静待圆满。”
-loadText05,“今天理顺的逻辑，是明日出口成章的底气。”
-loadText06,“分类是思维的断舍离，同色相连处自有乾坤。”
-loadText07,“玩分类给脑子大扫除，方寸牌桌修秩序。”
-loadText08,“加载的不是进度，是一次次思维的归位。”
-loadText09,“思路越理越顺，牌堆越消越轻。”
-loadText10,“万物各归其类，正如你此刻内心的井然有序。”
-loadText11,“每天理顺三十分钟，你会睡得更踏实。”
-loadText101,——《词语纸牌接龙》
+生效日期：2025.8.20","User Privacy Policy
+This privacy statement is formulated by us for the processing of your personal information.
+We attach great importance to the protection of your personal information and privacy, and we will provide appropriate security measures for your personal information in accordance with legal requirements and mature industry security standards.
+ 
+1. How We Collect and Use Your Personal Information
+We only use your personal information when there is a lawful basis to do so. Under applicable laws, we may use your personal information based on your consent, when necessary for the performance or conclusion of a contract between you and us, when necessary to fulfill legal obligations, or on other lawful bases.
+Based on the performance of legal obligations or other circumstances stipulated by laws and regulations, we may process the following personal information:
+For analytics purposes, after obtaining your consent, we need to collect your game account information, IP region, user identifier, game data, software and hardware parameters or system settings, operating system information, device status, WiFi status, network type, IP address, app usage information, basic app information, app running status, and app running logs.
+Our game integrates the ThinkingAnalytics SDK provided by ThinkingData to analyze user behavior and optimize the product experience.
+In addition to the above information, the ThinkingAnalytics SDK will also collect the following information: device identifiers (such as ANDROID ID)
+ 
+2. Managing Your Personal Information
+If you have further requests regarding your data subject rights or have any questions, comments, or suggestions, you may contact us as described in the How to Contact Us section of this statement to exercise your related rights.
+ 
+3. Data Storage Location and Retention Period
+3.1 We promise that, unless otherwise required by laws and regulations, we will retain your information for the shortest period necessary to achieve the purpose of processing.
+3.2 The above information will be transmitted to and stored on servers located within China.
+ 
+
+If you are not satisfied with our reply, especially if our personal information processing has harmed your legitimate rights and interests, you may also resolve the issue through external channels such as filing a lawsuit with a competent people's court, filing a complaint with an industry self-regulatory association, or filing a complaint with the relevant government authorities. You may also contact us to learn about any applicable complaint channels.
+ 
+Effective Date: 2025.8.20"
+EvaluateButton01,下次再说,Maybe Later
+EvaluateButton02,关闭,Close
+EvaluateButton03,反 馈,Feedback
+limitedRewardsDes06,连出{0}个成语就能获得下一份奖励！,Chain {0} idioms to earn the next reward!
+TimeD,日,Day
+TimeH,时,Hour
+TimeM,分,Minute
+ShopBoxName01,初级语汇锦囊,Beginner Vocabulary Pouch
+ShopBoxName02,中级智慧宝盒,Intermediate Wisdom Box
+ShopBoxName03,上级成语宝库,Advanced Idiom Vault
+ShopBoxName04,超级珠玉盛宴,Super Gem Feast
+ShopBoxName05,7日免广告豪礼,7-Day Ad-Free Gift Pack
+ShopBoxName06,免广告豪礼,Ad-Free Gift Pack
+ShopBoxName07,限时宝箱,Limited-Time Chest
+RemoveADName,去广告 + 200金币,Remove Ads + 200 Coins
+RemoveAD7DaysName,移除7天内的强制广告,Remove forced ads for 7 days
+RemoveADDes,去除游戏中激励视频以外的所有广告,Remove all ads in the game except rewarded videos
+RemoveAD7DaysPointDes,此去广告功能仅在7天内有效,This ad removal is only valid for 7 days
+RemoveADPointDes,永久去除本游戏中激励视频以外的所有广告,Permanently remove all ads in this game except rewarded videos
+ShopDiscount,OFF,OFF
+RemoveADName02,去广告,Remove Ads
+RemoveADSign01,剩余 {0} 天,{0} days left
+RemoveADSign02,永久版,Permanent
+RestorePurchases,恢复购买,Restore Purchases
+RestorePurchasesTips01,操作超时，请检查网络链接！,Request timed out. Please check your network connection!
+RestorePurchasesTips02,当前账号没有可恢复购买的产品,There are no restorable purchases on this account
+RestorePurchasesTips03,恢复成功！,Restore successful!
+RestorePurchasesTips04,恢复失败！,Restore failed!
+CharacterInfoTitle,角色信息,Character Info
+CharacterInfoAvatar,头像,Avatar
+UIConfirm,确定,Confirm
+CharacterInfoTips01,名称含有不当用语\n请修改后重新提交,The name contains inappropriate language\nPlease modify it and submit again
+EntranceUITitle,游戏模式,Game Modes
+EntranceUIName01,成语消,Idiom Match
+EntranceUIName02,成语填字,Idiom Fill-In
+EntranceUIName03,层层消,Layer Match
+PromotionalText01,点击前往下载,Tap to Download
+RestartBtn,重新开始,Restart
+Item,道具,Item
+RecallItem,撤回道具,Recall Item
+HintItem,提示道具,Hint Item
+Completed,已完成,Completed
+Unstoppable,势不可挡！,Unstoppable!
+loadText01,“玩分类就像理乱麻，抽丝剥茧，心自清明。”,"Playing classification is like untangling a knot; as the threads come free, so does the mind."
+loadText02,“消除的不是牌堆，是脑海里的杂乱无章。”,"What disappears is not just the pile of cards, but the clutter in your mind."
+loadText03,“焦虑的时候，把词语送回它们的家，心就定了。”,"When anxiety rises, send each word back home and your heart will settle."
+loadText04,“词语像迷路的孩子，碎片时间帮它们归队，静待圆满。”,Words are like lost children; use spare moments to help them find their way back and wait for wholeness.
+loadText05,“今天理顺的逻辑，是明日出口成章的底气。”,The logic you sort out today becomes tomorrow's confidence in speaking with ease.
+loadText06,“分类是思维的断舍离，同色相连处自有乾坤。”,"Classification is decluttering for the mind; where like colors connect, a whole world unfolds."
+loadText07,“玩分类给脑子大扫除，方寸牌桌修秩序。”,Playing classification gives your mind a deep clean and restores order on the tabletop.
+loadText08,“加载的不是进度，是一次次思维的归位。”,"What is loading is not progress,but your thoughts returning to order again and again."
+loadText09,“思路越理越顺，牌堆越消越轻。”,"The clearer your thinking becomes, the lighter the card pile grows."
+loadText10,“万物各归其类，正如你此刻内心的井然有序。”,"Everything returns to its proper kind, just like the order in your heart right now."
+loadText11,“每天理顺三十分钟，你会睡得更踏实。”,"Spend thirty minutes sorting things out each day, and you will sleep more soundly."
+loadText101,——《词语纸牌接龙》,—— 《Word Card Solitaire》

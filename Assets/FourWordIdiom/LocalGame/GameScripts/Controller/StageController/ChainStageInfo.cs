@@ -50,12 +50,27 @@ public class ColumnData
 /// </summary>
 public class ChainStageInfo
 {
-    private const string StageDirectory = "stage_2026_1";
+    // private const string StageDirectory = "stage_2026_1";
     #region 私有字段
 
     private TextAsset _StageFile;       // 关卡文本资源 safsadfs
     private readonly int _StageNumber;  // 关卡编号
     private readonly int _StageInfoId;  // 关卡配置ID
+    private string StageDirectory 
+    {
+        get 
+        {
+            string lang = ToolUtil.GetLanguageBundle();
+            if (lang.Equals("english", StringComparison.OrdinalIgnoreCase))
+            {
+                return "stage_20260424_en"; // 英文关卡目录
+            }
+            else
+            {
+                return "stage_2026_1";    // 默认/中文关卡目录
+            }
+        }
+    }
     #endregion
 
     #region 公有属性
@@ -103,10 +118,11 @@ public class ChainStageInfo
             string cleanText = text.Trim(); 
     
             // 有时候 BOM 去不掉，需要强制处理
-            // if (cleanText.StartsWith("\uFEFF")) 
-            // {
-            //     cleanText = cleanText.Substring(1);
-            // }
+            if (cleanText.StartsWith("\uFEFF")) 
+            {
+                cleanText = cleanText.Substring(1);
+            }
+            
             CurrBoardData = JsonConvert.DeserializeObject<LevelData>(cleanText);
         });
         

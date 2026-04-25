@@ -6,8 +6,9 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class SuccessPanel : UIWindow
-{   
-    [Header("UI Elements")]
+{
+    [Header("UI Elements")] 
+    [SerializeField] private Text title;
     [SerializeField] private Button levelBtn;
     [SerializeField] private GameObject coinGo;
     [SerializeField] private Text coinText;
@@ -15,6 +16,10 @@ public class SuccessPanel : UIWindow
     private void Start()
     {
         levelBtn.AddClickAction(LoadNextLevel);
+        string titleStr = MultilingualManager.Instance.GetString("Unstoppable");
+        if(!string.IsNullOrEmpty(titleStr)) {
+            title.text = titleStr;
+        }
     }
 
     protected override void OnEnable()

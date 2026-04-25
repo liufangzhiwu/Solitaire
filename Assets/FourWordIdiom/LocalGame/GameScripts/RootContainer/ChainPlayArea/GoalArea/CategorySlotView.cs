@@ -205,7 +205,7 @@ public class CategorySlotView : MonoBehaviour
         AudioManager.Instance.PlaySoundEffect("ThemeCompleted");
         Debug.Log($"分类 {categoryId} 完成！");
         if (_wordText){
-            _wordText.text = "已完成"; // 如果你想显示文字
+            _wordText.text = MultilingualManager.Instance.GetString("Completed"); // 如果你想显示文字
             _wordText.gameObject.SetActive(true);
         }
    

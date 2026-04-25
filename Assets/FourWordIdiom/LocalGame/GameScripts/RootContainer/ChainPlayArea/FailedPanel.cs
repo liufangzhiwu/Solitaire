@@ -14,6 +14,16 @@ public class FailedPanel : UIWindow
     void Start()
     {
         levelBtn.AddClickAction(ReloadLevel);
+        string btnText = MultilingualManager.Instance.GetString("RestartBtn");
+        if (!string.IsNullOrEmpty(btnText))
+        {
+            levelBtn.GetComponentInChildren<Text>().text = btnText;
+        }
+        string descText = MultilingualManager.Instance.GetString("StepsExhausted");
+        if (!string.IsNullOrEmpty(descText))
+        {
+            desc.text = descText;
+        }
     }
 
     protected override void OnEnable()

@@ -133,6 +133,88 @@ public class HandAreaController : MonoBehaviour
         ChainPlayArea.Instance.ResetIdleTimer();
     }
     private void RecycleWasteToStock()
+{
+    if (wasteCards.Count == 0) return;
+
+    // --- 🎥 配置调整 ---
+    float gatherDuration = 0.2f;
+    float flyDuration = 0.3f; // 缩短飞行，让节奏更紧凑
+    float stagger = 0.03f;
+    
+    Vector2 gatherLocalPos = wasteCards[0].GetComponent<RectTransform>().anchoredPosition;
+    Vector3 targetPos = stockRoot.position;
+
+    // 1. 立即计算逻辑数据，防止动画期间 stockData 为空导致的 UI 消失
+    List<string> tempIds = wasteCards.Select(c => c.cardId).ToList();
+    // 洗牌逻辑移到这里
+    for (int i = 0; i < tempIds.Count; i++) {
+        string temp = tempIds[i];
+        int randomIndex = Random.Range(i, tempIds.Count);
+        tempIds[i] = tempIds[randomIndex];
+        tempIds[randomIndex] = temp;
+    }
+
+    Sequence recycleSeq = DOTween.Sequence();
+    recycleSeq.SetId(this);
+
+    for (int i = 0; i < wasteCards.Count; i++)
+    {
+        CardView card = wasteCards[i];
+        if (card.TryGetComponent<CanvasGroup>(out var cg)) cg.blocksRaycasts = false;
+
+        // 赋予飞行层级
+        Canvas myCanvas = card.GetComponent<Canvas>();
+        if(myCanvas == null) myCanvas = card.gameObject.AddComponent<Canvas>();
+        myCanvas.overrideSorting = true;
+        myCanvas.sortingLayerName = "PopPanel";
+        myCanvas.sortingOrder = 3000 + i;
+
+        RectTransform rt = card.GetComponent<RectTransform>();
+
+        // 阶段 A：收拢
+        recycleSeq.Insert(0, rt.DOAnchorPos(gatherLocalPos, gatherDuration).SetEase(Ease.OutQuad));
+        
+        // 阶段 B：飞回
+        float flyDelay = gatherDuration + (wasteCards.Count - 1 - i) * stagger;
+        recycleSeq.Insert(flyDelay, card.transform.DOMove(targetPos, flyDuration).SetEase(Ease.InQuad));
+        
+        // 空中翻转与缩放
+        recycleSeq.Insert(flyDelay, card.transform.DOScaleX(0, flyDuration * 0.5f).OnComplete(() => card.SetFaceUp(false)));
+        recycleSeq.Insert(flyDelay + flyDuration * 0.5f, card.transform.DOScaleX(1f, flyDuration * 0.5f));
+
+        // 核心修复：一旦到达位置，立即执行回收逻辑，不依赖总序列的 OnComplete
+        recycleSeq.InsertCallback(flyDelay + flyDuration, () => {
+            // card.gameObject.SetActive(false);
+            myCanvas.overrideSorting = false;
+            // 此时可以提前归还一张卡牌到池中，释放压力
+        });
+    }
+
+    // 整个序列结束后的逻辑处理
+    recycleSeq.OnComplete(() =>
+    {
+        // 彻底清理 wasteCards 引用
+        foreach (var card in wasteCards)
+        {
+            if (card != null)
+            {
+                card.transform.localScale = Vector3.one;
+                CardPoolManager.Instance.ReturnCardPrefab(card);
+            }
+        }
+        
+        wasteCards.Clear();
+        stockData.Clear();
+        stockData.AddRange(tempIds);
+        
+        // 刷新视觉：此时 stockData 已有值，数字和厚度会立即显示
+        UpdateStockVisual();
+        RefreshWasteVisual();
+        
+        isDealing = false;
+    });
+}
+    private void RecycleWasteToStock4()
     {
         if (wasteCards.Count == 0) return;
 
@@ -147,9 +229,23 @@ public class HandAreaController : MonoBehaviour
         Vector2 gatherLocalPos = wasteCards[0].GetComponent<RectTransform>().anchoredPosition;
         Vector3 targetPos = stockRoot.position;
 
+        // 1. 立即计算逻辑数据，防止动画期间 stockData 为空导致的 UI 消失
+        List<string> tempIds = wasteCards.Select(c => c.cardId).ToList();
+        // 洗牌逻辑移到这里
+        for (int i = 0; i < tempIds.Count; i++) {
+            string temp = tempIds[i];
+            int randomIndex = Random.Range(i, tempIds.Count);
+            tempIds[i] = tempIds[randomIndex];
+            tempIds[randomIndex] = temp;
+        }
+        
         Sequence recycleSeq = DOTween.Sequence();
         recycleSeq.SetId(this);
         recycleSeq.SetLink(gameObject, LinkBehaviour.KillOnDisable);
+        
+        stockPile.SetActive(true);
+        stockCountText.text = ""; // 飞行时先清空数字，增强代入感
+        
         float flyPhaseStartTime = (wasteCards.Count * gatherStagger) + gatherDuration + pauseBeforeFly;
 
         for (int i = 0; i < wasteCards.Count; i++)
@@ -198,7 +294,7 @@ public class HandAreaController : MonoBehaviour
 
             // 4. 到达终点瞬间隐藏，并卸载特权，防止污染对象池
             recycleSeq.InsertCallback(cardFlyStartTime + flyDuration, () => {
-                 card.gameObject.SetActive(false);
+                 // card.gameObject.SetActive(false);
                  if (card.TryGetComponent<Canvas>(out var canvas)) canvas.overrideSorting = false;
             });
         }
@@ -206,25 +302,25 @@ public class HandAreaController : MonoBehaviour
         // 【阶段 C：清算与重新洗牌】
         recycleSeq.OnComplete(() =>
         {
-            List<string> tempIds = new List<string>();
+            List<string> tempIdss = new List<string>();
             foreach (var card in wasteCards)
             {
-                tempIds.Add(card.cardId);
+                tempIdss.Add(card.cardId);
                 card.transform.localScale = Vector3.one; // 恢复正常大小
-                card.gameObject.SetActive(true);         // 恢复可见性
+                // card.gameObject.SetActive(true);         // 恢复可见性
                 CardPoolManager.Instance.ReturnCardPrefab(card);
             }
             
             // 洗牌算法
-            for (int i = 0; i < tempIds.Count; i++)
+            for (int i = 0; i < tempIdss.Count; i++)
             {
-                string temp = tempIds[i];
-                int randomIndex = Random.Range(i, tempIds.Count);
-                tempIds[i] = tempIds[randomIndex];
-                tempIds[randomIndex] = temp;
+                string temp = tempIdss[i];
+                int randomIndex = Random.Range(i, tempIdss.Count);
+                tempIdss[i] = tempIdss[randomIndex];
+                tempIdss[randomIndex] = temp;
             }
             
-            stockData.AddRange(tempIds);
+            stockData.AddRange(tempIdss);
             wasteCards = new List<CardView>(); 
             
             UpdateStockVisual();

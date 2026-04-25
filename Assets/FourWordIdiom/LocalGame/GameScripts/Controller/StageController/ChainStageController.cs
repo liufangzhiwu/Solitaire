@@ -94,9 +94,17 @@ public class ChainStageController
     /// </summary>
     private void LoadStageManifest()
     {
-        TextAsset levelManifest = AdvancedBundleLoader.SharedInstance.LoadTextFile(ToolUtil.GetLanguageBundle(), "level_manifest");
+        string languageFolder = ToolUtil.GetLanguageBundle();
+        TextAsset levelManifest = AdvancedBundleLoader.SharedInstance.LoadTextFile(languageFolder, "level_manifest");
+        if (levelManifest == null)
+        {
+            Debug.LogError($"[ChainStageController] 未找到语言 {languageFolder} 的关卡清单文件！");
+            _countStage = 1; // 兜底，防止后续计算除零
+            return;
+        }
         string[] levelCount =  JsonConvert.DeserializeObject<string[]>(levelManifest.text);
-        _countStage = levelCount.Length - 1;
+        _countStage = levelCount.Length;
+        Debug.Log($"[ChainStageController] 成功加载 {languageFolder} 关卡清单，总关卡数: {_countStage}");
     }
     #endregion
     
