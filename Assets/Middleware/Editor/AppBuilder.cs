@@ -202,8 +202,8 @@ namespace Middleware
 		{
 			var googles = new List<string>()
 			{
-				"\"com.liufangzhiwu.google-ext\": \"git@github.com:liufangzhiwu/GoogleExt.git\",",
-				 "\"com.liufangzhiwu.google-ext\": \"file:local_packages/com.liufangzhiwu.google-ext\",",
+				// "\"com.liufangzhiwu.google-ext\": \"git@github.com:liufangzhiwu/GoogleExt.git\",",
+				//  "\"com.liufangzhiwu.google-ext\": \"file:local_packages/com.liufangzhiwu.google-ext\",",
 				// "\"com.unity.purchasing\": \"4.13.0\","
 			};
 			var hormanys = new List<string>()
@@ -341,7 +341,7 @@ namespace Middleware
 			SetDefaultIcon(5);
 			PlayerSettings.companyName = "NeoPlay";
 			PlayerSettings.productName = "Solitaire Word Puzzle";
-			PlayerSettings.applicationIdentifier = "word.solitaire.association.puzzle.google";
+			PlayerSettings.applicationIdentifier = "word.solitaire.association.puzzle.android.huawei";
 			PlayerSettings.Android.useCustomKeystore = true;
 			PlayerSettings.Android.keystoreName =
 				Path.GetFullPath($"{Application.dataPath}/../platform/Android/user.keystore");

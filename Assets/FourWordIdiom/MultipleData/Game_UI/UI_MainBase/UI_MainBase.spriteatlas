@@ -140,6 +140,7 @@ SpriteAtlas:
     - 93e09bbbb98eaf2448dd7911c4855a68: 21300000
     - 1171a1fb1187d404793500fe350b8e4e: 21300000
     - 31e2aa0ca1f3b7d4bbee7d4d5ebaa95c: 21300000
+    - 9b345b1c2de15ee41b8bd00876084a10: 21300000
     - 71585ccc74ce7184a85bc6af200f2ea4: 21300000
     - 85a084ec8e370f441ab43a700c48ebf5: 21300000
     - 36fd6d2d92029df419f68ba03c818668: 21300000
@@ -244,6 +245,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 93e09bbbb98eaf2448dd7911c4855a68, type: 3}
   - {fileID: 21300000, guid: 1171a1fb1187d404793500fe350b8e4e, type: 3}
   - {fileID: 21300000, guid: 31e2aa0ca1f3b7d4bbee7d4d5ebaa95c, type: 3}
+  - {fileID: 21300000, guid: 9b345b1c2de15ee41b8bd00876084a10, type: 3}
   - {fileID: 21300000, guid: 71585ccc74ce7184a85bc6af200f2ea4, type: 3}
   - {fileID: 21300000, guid: 85a084ec8e370f441ab43a700c48ebf5, type: 3}
   - {fileID: 21300000, guid: 36fd6d2d92029df419f68ba03c818668, type: 3}
@@ -347,6 +349,7 @@ SpriteAtlas:
   - tip_bg
   - cate_type_bg
   - slot_check
+  - LOGOEN
   - count_di
   - group_bg
   - step_bg

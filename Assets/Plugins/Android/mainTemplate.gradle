@@ -1,10 +1,13 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.huawei.agconnect'
+// apply plugin: 'com.huawei.agconnect'
 
 **APPLY_PLUGINS**
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.huawei.agconnect:agconnect-core:1.9.1.300'
+    implementation 'com.huawei.hms:hwid:6.1.0.303'
+    implementation 'com.huawei.hms:game:6.1.0.301'
 **DEPS**}
 
 // Android Resolver Exclusions Start
@@ -42,7 +45,7 @@ android {
 
     lintOptions {
         abortOnError false
-        checkReleaseBuilds false
+//         checkReleaseBuilds false
     }
 
     aaptOptions {

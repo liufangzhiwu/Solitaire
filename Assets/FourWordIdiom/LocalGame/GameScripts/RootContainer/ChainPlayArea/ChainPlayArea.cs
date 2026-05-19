@@ -981,10 +981,10 @@ public class ChainPlayArea : UIWindow
     private IEnumerator DelayCheckFail()
     {
         // 延迟 0.5 秒（根据你游戏里卡牌飞入槽位动画的时间可以微调）
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(0.6f);
         
         // 🔥 关键拦截：如果在这 0.5 秒内，槽位吸收完毕并触发了胜利，就绝对不要再弹失败了！
-        if (_isGameEnded || completedCategoriesCount >= categoryTotalCounts.Count)
+        if (_isGameEnded || IsGameOver())
         {
             yield break;
         }
@@ -994,7 +994,23 @@ public class ChainPlayArea : UIWindow
         StartCoroutine(CheckCompleted(false));
     }
 
-    public bool IsGameOver() => completedCategoriesCount == categoryTotalCounts.Count;
+    public bool IsGameOver()
+    {
+        // 1. 如果已经明确完成了所有分类，当然赢了
+        if (completedCategoriesCount >= categoryTotalCounts.Count) return true;
+        // 2. 如果还有分类没完成，但其实牌桌和手牌都空了（牌全都在分类槽的动画里了）
+        int cardsOnTable = 0;
+        // 检查所有列里还有没有牌
+        foreach (var col in tableauArea.columns) cardsOnTable += col.cards.Count;
+        // 检查手牌区还有没有牌
+        cardsOnTable += handArea.stockData.Count;
+        cardsOnTable += handArea.wasteCards.Count;
+        
+        // 如果外面一张牌都没有了，说明剩下的全都在分类槽里等着消化呢，这也算赢！
+        if (cardsOnTable == 0) return true;
+        return false; // 确实还没赢
+    }
+
     // 消除通知
     private void OnSingleCategoryFinished(string catId)
     {

@@ -25,7 +25,9 @@ namespace Middleware
             UnityTimer.Delay(delay, () =>
             {
                 _uniqueId = Game.GetUniqueId();
+                #if !UNITY_EDITOR
                 LoadRewardAd(Define.AdKey.RewardAdIdStoreGold, false);
+                #endif
             });
         }
 
@@ -36,6 +38,10 @@ namespace Middleware
 
         public void ShowReward(Define.AdKey key, Action<bool> callback)
         {
+            #if UNITY_EDITOR
+            callback.Invoke(true);
+            return;
+            #endif
             if (_isShowingReward)
             {
                 Debug.Log("[Ads_huawei] ShowReward ignored: Action in progress.");
@@ -84,6 +90,10 @@ namespace Middleware
 
         public void ShowInterstitial(Action<bool> callback)
         {
+            #if UNITY_EDITOR
+            callback?.Invoke(true);
+            return;
+            #endif
             _completeCallback = callback;
             InterstitialAd ad = new InterstitialAd(new Context());
             ad.setAdId(GetAdId(Define.AdKey.InterstitialAdId));

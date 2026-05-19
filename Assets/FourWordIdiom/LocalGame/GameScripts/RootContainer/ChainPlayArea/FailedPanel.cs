@@ -31,10 +31,13 @@ public class FailedPanel : UIWindow
         base.OnEnable();
         
         AudioManager.Instance.PlaySoundEffect("GameOver");
-        Game.Ads.ShowInterstitial((bool result) =>
+        if (ChainStageController.Instance.CurrentStage >= 5)
         {
+            Game.Ads.ShowInterstitial((bool result) =>
+            {
             
-        });
+            });
+        }
     }
     
     private void ReloadLevel()

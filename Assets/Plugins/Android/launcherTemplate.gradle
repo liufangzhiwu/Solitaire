@@ -1,16 +1,24 @@
 apply plugin: 'com.android.application'
 apply plugin: 'com.huawei.agconnect'
-
-repositories {
-    maven { url 'https://maven.aliyun.com/repository/google' }
-    maven { url 'https://maven.aliyun.com/repository/public' }
-    maven { url 'https://developer.huawei.com/repo/' }
+agcp {
+    enableAPMS false
 }
+// repositories {
+//     maven { url 'https://maven.aliyun.com/repository/google' }
+//     maven { url 'https://maven.aliyun.com/repository/public' }
+//     maven { url 'https://developer.huawei.com/repo/' }
+// }
 
 dependencies {
-    implementation project(':unityLibrary')
-      implementation 'com.huawei.hms:ads-lite:13.4.49.301'
-      implementation 'com.huawei.hms:ads-consent:3.4.49.301'
+        implementation project(':unityLibrary')
+     
+          implementation 'com.huawei.hms:ads-lite:13.4.49.301'
+          implementation 'com.huawei.hms:ads-consent:3.4.49.301'
+//           implementation 'com.huawei.hms:location:6.2.0.300'
+//           implementation 'androidx.appcompat:appcompat:1.2.0'
+          implementation 'com.huawei.agconnect:agconnect-core:1.9.1.300'
+          implementation 'com.huawei.hms:hwid:6.1.0.303'
+          implementation 'com.huawei.hms:game:6.1.0.301'
     }
 
 android {
@@ -24,7 +32,10 @@ android {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
     }
-
+    packagingOptions {
+        exclude 'META-INF/INDEX.LIST'
+        exclude 'META-INF/io.netty.versions.properties'
+    }
     defaultConfig {
         minSdkVersion **MINSDKVERSION**
         targetSdkVersion **TARGETSDKVERSION**
@@ -43,7 +54,7 @@ android {
 
     lintOptions {
         abortOnError false
-        checkReleaseBuilds false
+//         checkReleaseBuilds false
     }
 
     buildTypes {
@@ -55,6 +66,7 @@ android {
         release {
             minifyEnabled **MINIFY_RELEASE**
             proguardFiles getDefaultProguardFile('proguard-android.txt')**SIGNCONFIG**
+            signingConfig signingConfigs.release
         }
     }**PACKAGING_OPTIONS****PLAY_ASSET_PACKS****SPLITS**
 **BUILT_APK_LOCATION**

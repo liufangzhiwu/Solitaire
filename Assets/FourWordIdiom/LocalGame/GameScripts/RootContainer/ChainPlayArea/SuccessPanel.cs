@@ -30,10 +30,14 @@ public class SuccessPanel : UIWindow
 
         coinText.text = AppGameSettings.LevelCompleteBonus.ToString();
         StartCoroutine(PlayRewardSequence());
-        Game.Ads.ShowInterstitial((bool result) =>
+        if (ChainStageController.Instance.CurrentStage >= 5)
         {
+            Game.Ads.ShowInterstitial((bool result) =>
+            {
             
-        });
+            });
+        }
+    
         ChainGuideSystem.Instance.CloseGuide();
     }
     

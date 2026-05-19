@@ -46,12 +46,12 @@ namespace Middleware
         public void InitGame()
         {
             CreateAccounts();
-            CreateAd();
         }
-        public void InitManagers()
+        public IEnumerator InitManagers()
         {
-          
+            CreateAd();
             CreateAnalytic();
+            yield return new WaitForSeconds(1.2f);
 	        GameDataManager.Instance.Init();
 	        //AudioManager.Instance.Init();
 	        LimitTimeManager.Instance.Init();
@@ -59,7 +59,7 @@ namespace Middleware
         private void CreateAccounts()
         {
             
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_HUAWEI
             Accounts = new Account_android();
 #elif UNITY_HUAWEI
             Accounts = new Account_huaweiandroid();
@@ -68,7 +68,7 @@ namespace Middleware
 #else
             Accounts = new Account_android();
 #endif
-            Accounts.Init(0.2f);
+            Accounts.Init(0.01f);
         }
         private void CreateAd()
         {

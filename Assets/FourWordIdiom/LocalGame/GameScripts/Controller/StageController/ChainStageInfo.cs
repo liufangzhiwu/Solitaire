@@ -118,10 +118,10 @@ public class ChainStageInfo
             string cleanText = text.Trim(); 
     
             // 有时候 BOM 去不掉，需要强制处理
-            if (cleanText.StartsWith("\uFEFF")) 
-            {
-                cleanText = cleanText.Substring(1);
-            }
+            // if (cleanText.StartsWith("\uFEFF")) 
+            // {
+            //     cleanText = cleanText.Substring(1);
+            // }
             
             CurrBoardData = JsonConvert.DeserializeObject<LevelData>(cleanText);
         });

@@ -33,12 +33,11 @@ namespace Middleware
                         _curBundle = "ChineseSimplified";
 #elif UNITY_ANDROID
                         _curBundle = "English";
+#elif UNITY_HUAWEI
+                        _curBundle = "ChineseSimplified";
 #endif
                         break;
                 }    
-                #if UNITY_ANDROID
-                _curBundle = "English";
-                #endif
             }
             return _curBundle.ToLower();
         }
