@@ -1,14 +1,11 @@
 pluginManagement {
     repositories {
         **ARTIFACTORYREPOSITORY**
-        gradlePluginPortal()
-       
-        maven { url 'https://maven.aliyun.com/repository/google' }
-        maven { url 'https://maven.aliyun.com/repository/public' }
-        maven { url 'https://developer.huawei.com/repo/' }
-        
         google()
+        gradlePluginPortal()
         mavenCentral()
+           
+        maven { url 'https://developer.huawei.com/repo/' }
     }
 }
 
@@ -16,16 +13,12 @@ include ':launcher', ':unityLibrary'
 **INCLUDES**
 
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
     repositories {
-       maven { url 'https://maven.aliyun.com/repository/google' }
-       maven { url 'https://maven.aliyun.com/repository/public' }
-       maven { url 'https://developer.huawei.com/repo/' }
         **ARTIFACTORYREPOSITORY**
         google()
         mavenCentral()
-        
-        // Android Resolver Repos Start
+// Android Resolver Repos Start
         def unityProjectPath = $/file:///**DIR_UNITYPROJECT**/$.replace("\\", "/")
         maven {
             url (unityProjectPath + "/Packages/local_packages/com.liufangzhiwu.google-ext/Firebase/m2repository") // Packages/com.liufangzhiwu.google-ext/Firebase/Editor/AnalyticsDependencies.xml:18, Packages/com.liufangzhiwu.google-ext/Firebase/Editor/AppDependencies.xml:22
@@ -34,8 +27,7 @@ dependencyResolutionManagement {
             url "https://maven.google.com/" // Packages/com.liufangzhiwu.google-ext/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:7, Packages/com.liufangzhiwu.google-ext/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:12, Packages/com.liufangzhiwu.google-ext/GoogleMobileAds/Editor/GoogleUmpDependencies.xml:7
         }
         mavenLocal()
-        // Android Resolver Repos End
-        
+// Android Resolver Repos End
         flatDir {
             dirs "${project(':unityLibrary').projectDir}/libs"
         }
