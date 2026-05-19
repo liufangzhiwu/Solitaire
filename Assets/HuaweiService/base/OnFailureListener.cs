@@ -15,7 +15,7 @@ namespace HuaweiService
             Call("onFailure", arg0);
         }
     
-        public void onFailure(AndroidJavaObject arg0){
+        public void nFailure(AndroidJavaObject arg0){
             onFailure(HmsUtil.GetHmsBase<Exception>(arg0));
         }
     }

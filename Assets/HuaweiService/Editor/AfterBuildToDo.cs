@@ -1,5 +1,4 @@
-﻿#if UNITY_HUAWEI
-using System;
+﻿using System;
 using UnityEngine;
 using UnityEditor;
 using System.IO;
@@ -160,4 +159,3 @@ public class AfterBuildToDO : IPostGenerateGradleAndroidProject
         return pathBuilder.ToString();
     }
 }
-#endif

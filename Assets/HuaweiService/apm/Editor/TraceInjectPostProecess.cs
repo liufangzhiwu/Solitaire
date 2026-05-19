@@ -20,10 +20,7 @@ namespace HuaweiService{
 
         private static void onFinished(string arg1, CompilerMessage[] arg2){
             // TraceInjector.Inject(arg1);
-            if (arg1.Contains("Assembly-CSharp.dll"))
-            {
-                TraceInjector.Inject(arg1);
-            }
+            return;
         }
     }
 
