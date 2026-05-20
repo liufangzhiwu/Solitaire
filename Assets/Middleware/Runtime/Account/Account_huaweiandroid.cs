@@ -8,6 +8,7 @@ using UnityEngine.HuaweiAppGallery;
 using UnityEngine.HuaweiAppGallery.Listener;
 using UnityEngine.HuaweiAppGallery.Model;
 using AccountAuthParamsHelper = HuaweiService.Account.AccountAuthParamsHelper;
+using Exception = HuaweiService.Exception;
 
 #if UNITY_HUAWEI
 namespace Middleware
@@ -213,7 +214,7 @@ namespace Middleware
             CallBack = c;
         }
 
-        public override void onFailure(HuaweiService.Exception arg0)
+        public override void onFailure(Exception arg0)
         {
             CallBack?.Invoke(arg0);
         }
