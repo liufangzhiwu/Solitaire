@@ -209,30 +209,30 @@ public class OptionsView : UIWindow
 
     private void OnprivacyBtn()
     {
-        // if (!Game.IsNetworkActive)
-        // {
-        //     GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
-        //     GameObject pi = Instantiate(pg, transform.parent);
-        //     pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yszc");
-        //     pi.SetActive(true);
-        //     base.Close();
-        // }
-        // else
-            Application.OpenURL("https://neoplaygame.com/privacy-policy");
+        if (!Game.IsNetworkActive)
+        {
+            GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
+            GameObject pi = Instantiate(pg, transform.parent);
+            pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yszc");
+            pi.SetActive(true);
+            base.Close();
+        }
+        else
+            Application.OpenURL("https://mindwordplay.cn/ysxy");
     }
 
     private void OntermsBtn()
     {
-        // if (!Game.IsNetworkActive)
-        // {
-        //     GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
-        //     GameObject pi = Instantiate(pg, transform.parent);
-        //     pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yhxy");
-        //     pi.SetActive(true);
-        //     base.Close();
-        // }
-        // else
-            Application.OpenURL("https://neoplaygame.com/terms-and-conditions");
+        if (!Game.IsNetworkActive)
+        {
+            GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
+            GameObject pi = Instantiate(pg, transform.parent);
+            pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, "yhxy");
+            pi.SetActive(true);
+            base.Close();
+        }
+        else
+            Application.OpenURL("https://mindwordplay.cn/yhxyb");
     }
 
     private void OnHideButton()

@@ -40,7 +40,7 @@ namespace Middleware
         private IEnumerator Start()
         {
             yield return null;
-            // StartCoroutine(CheckNetworkConnection());
+            StartCoroutine(CheckNetworkConnection());
         }
 
         public void InitGame()

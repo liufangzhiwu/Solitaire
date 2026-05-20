@@ -33,15 +33,15 @@ public class PrivacyReject : MonoBehaviour
     
     void OnClickText(string url)
     {
-        // if (!Game.IsNetworkActive)
-        // {
-        //     GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
-        //     GameObject pi = Instantiate(pg, transform.parent);
-        //     pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, url);
-        //     pi.SetActive(true);
-        //     Destroy(gameObject);
-        // }
-        // else
+        if (!Game.IsNetworkActive)
+        {
+            GameObject pg = Resources.Load<GameObject>("Privacy/PrivacyInfomation");
+            GameObject pi = Instantiate(pg, transform.parent);
+            pi.GetComponent<PrivacyInfomation>().SetOpenData(this.name, url);
+            pi.SetActive(true);
+            Destroy(gameObject);
+        }
+        else
             Application.OpenURL(url);
     }
 }
