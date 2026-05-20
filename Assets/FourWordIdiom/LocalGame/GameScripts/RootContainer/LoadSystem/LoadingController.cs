@@ -100,7 +100,7 @@ public class LoadingController : MonoBehaviour
             ps.SetActive(true);
         }
         yield return new WaitUntil(()=>GameDataManager.Instance.UserData.IsAgreePrivacy);
-        yield return new WaitUntil(() => flowStatus == GameFlowStatus.LoginReady);
+        yield return InitializeGameService();
         HuaweiGameService.ShowFloatWindow();
         #endif
         Game.Instance.InitGame();
